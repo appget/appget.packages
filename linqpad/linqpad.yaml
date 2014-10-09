@@ -1,0 +1,10 @@
+id: linqpad
+version: 4.51.03
+applicationUrl: http://www.linqpad.net/
+exe:
+- LINQPad.exe
+installer: Zip
+packages:
+- source: http://www.linqpad.net/GetFile.aspx?LINQPad4-AnyCPU.zip
+  sha256: 
+  architecture: Any
