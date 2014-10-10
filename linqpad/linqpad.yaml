@@ -6,5 +6,5 @@ exe:
 installer: Zip
 packages:
 - source: http://www.linqpad.net/GetFile.aspx?LINQPad4-AnyCPU.zip
-  sha256: 
+  fileName: LINQPad4-AnyCPU.zip
   architecture: Any
