@@ -6,4 +6,5 @@ exe:
 installer: Zip
 packages:
 - source: http://download.tuxfamily.org/notepadplus/6.6.9/npp.6.6.9.bin.7z
+  name: npp.6.6.9.bin.7z
   architecture: x86
