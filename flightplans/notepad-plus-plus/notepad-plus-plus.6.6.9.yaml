@@ -1,10 +1,10 @@
 id: noteplad-plus-plus
 version: 6.6.9
-applicationUrl: http://notepad-plus-plus.org/
+productUrl: http://notepad-plus-plus.org/
 exe:
 - notepad++.exe
-installer: Zip
-packages:
-- source: http://download.tuxfamily.org/notepadplus/6.6.9/npp.6.6.9.bin.zip
+installeMethod: Zip
+installers:
+- location: http://download.tuxfamily.org/notepadplus/6.6.9/npp.6.6.9.bin.zip
   fileName: npp.6.6.9.bin.zip
   architecture: x86
