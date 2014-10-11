@@ -1,10 +1,8 @@
 id: linqpad
 version: 4.51.03
-applicationUrl: http://www.linqpad.net/
-exe:
-- LINQPad.exe
-installer: Zip
-packages:
-- source: http://www.linqpad.net/GetFile.aspx?LINQPad4-AnyCPU.zip
+productUrl: http://www.linqpad.net/
+installeMethod: Zip
+installer:
+- location: http://www.linqpad.net/GetFile.aspx?LINQPad4-AnyCPU.zip
   fileName: LINQPad4-AnyCPU.zip
   architecture: Any
