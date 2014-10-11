@@ -5,6 +5,6 @@ exe:
 - notepad++.exe
 installer: Zip
 packages:
-- source: http://download.tuxfamily.org/notepadplus/6.6.9/npp.6.6.9.bin.7z
-  fileName: npp.6.6.9.bin.7z
+- source: http://download.tuxfamily.org/notepadplus/6.6.9/npp.6.6.9.bin.zip
+  fileName: npp.6.6.9.bin.zip
   architecture: x86
