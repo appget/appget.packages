@@ -1,7 +1,7 @@
 id: seven-zip
 version: 9.20
 productUrl: http://www.7-zip.org/
-installMethod: Msi
+installMethod: MSI
 installers:
 - location: http://iweb.dl.sourceforge.net/project/sevenzip/7-Zip/9.20/7z920.msi
   fileName: 7z920.msi
