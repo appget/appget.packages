@@ -1,4 +1,5 @@
 id: linqpad
+name: LINQPad
 version: 4.51.03
 productUrl: http://www.linqpad.net/
 installMethod: Zip
