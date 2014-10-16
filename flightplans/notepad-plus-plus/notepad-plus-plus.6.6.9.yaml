@@ -1,4 +1,5 @@
-id: noteplad-plus-plus
+id: notepad-plus-plus
+name: notepad++
 version: 6.6.9
 productUrl: http://notepad-plus-plus.org/
 exe:
