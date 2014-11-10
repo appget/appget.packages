@@ -7,5 +7,4 @@ exe:
 installMethod: Zip
 installers:
 - location: http://download.tuxfamily.org/notepadplus/6.6.9/npp.6.6.9.bin.zip
-  fileName: npp.6.6.9.bin.zip
   architecture: x86

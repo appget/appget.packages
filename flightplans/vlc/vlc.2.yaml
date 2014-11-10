@@ -5,10 +5,8 @@ productUrl: http://www.videolan.org/
 installMethod: NSIS
 installers:
 - location: http://download.videolan.org/pub/videolan/vlc/last/win32/vlc-2.1.5-win32.exe
-  fileName: vlc-2.1.5-win32.exe
   sha256: 6c166362ad87722a31eda088e41be5af15e55da0699cec09dd456762517b9b84
   architecture: x86
 - location: http://download.videolan.org/pub/videolan/vlc/last/win64/vlc-2.1.5-win64.exe
-  fileName: vlc-2.1.5-win64.exe
   sha256: df50cf0daa56791e6d7a76ad4a8c579c4ef3e530b876779ca7c5eb2954dc09ff
   architecture: x64
