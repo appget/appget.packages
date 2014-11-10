@@ -4,9 +4,9 @@ version: 9.20
 productUrl: http://www.7-zip.org/
 installMethod: MSI
 installers:
-- location: http://iweb.dl.sourceforge.net/project/sevenzip/7-Zip/9.20/7z920.msi
+- location: http://sourceforge.net/projects/sevenzip/files/7-Zip/9.22/7z922.msi
   fileName: 7z920.msi
   architecture: x86
-- location: http://iweb.dl.sourceforge.net/project/sevenzip/7-Zip/9.20/7z920-x64.msi
+- location: http://sourceforge.net/projects/sevenzip/files/7-Zip/9.22/7z922-x64.msi
   fileName: 7z920-x64.msi
   architecture: x64
