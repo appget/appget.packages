@@ -1,0 +1,17 @@
+id: mongodb
+name: MongoDB
+version: 2.6.5
+productUrl: http://www.mongodb.org/
+installMethod: zip
+installers:
+- location: https://fastdl.mongodb.org/win32/mongodb-win32-i386-2.6.5.zip
+  zipSubFolder: mongodb-win32-i386-2.6.5\bin\
+  architecture: x32
+- location: https://fastdl.mongodb.org/win32/mongodb-win32-x86_64-2008plus-2.6.5.zip
+  zipSubFolder: mongodb-win32-x86_64-2008plus-2.6.5\bin\
+  architecture: x64
+  MinWindowsVersion: Seven
+- location: https://fastdl.mongodb.org/win32/mongodb-win32-x86_64-2.6.5.zip
+  zipSubFolder: mongodb-win32-x86_64-2.6.5\bin\
+  architecture: x64
+  MaxWindowsVersion: VistaSp2
