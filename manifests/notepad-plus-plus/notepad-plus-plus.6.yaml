@@ -4,7 +4,7 @@ version: 6.6.9
 productUrl: http://notepad-plus-plus.org/
 exe:
 - notepad++.exe
-installMethod: Nsis
+installMethod: NSIS
 installers:
 - location: http://download.tuxfamily.org/notepadplus/6.6.9/npp.6.6.9.Installer.exe
   sha1: c7335928994f75a1c956b3848199caf8316c19d7
