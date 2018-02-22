@@ -1,0 +1,8 @@
+id: transmission-remote-gui
+name: Transmission Remote GUI
+version: 5.14.0
+productUrl: https://github.com/transmission-remote-gui/transgui
+installMethod: Inno
+installers:
+- location: https://github.com/transmission-remote-gui/transgui/releases/download/v5.14.0/transgui-5.14-setup.exe
+  sha256: 007f1d25388f9867b066f11296bee7cf90a1653b9e39987becdd7c5bf8d03025

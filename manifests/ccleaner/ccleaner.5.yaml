@@ -1,7 +1,0 @@
-id: ccleaner
-name: CCleaner
-version: 5.00.5050
-productUrl: https://www.piriform.com/ccleaner
-installMethod: NSIS
-installers:
-- location: http://download.piriform.com/ccsetup500.exe

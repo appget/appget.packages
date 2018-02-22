@@ -1,7 +1,7 @@
 id: sonarr
 name: Sonarr
-productUrl: https://nzbdrone.com/
+version: 2.0
+productUrl: https://sonarr.tv
 installMethod: Inno
 installers:
 - location: https://download.sonarr.tv/v2/master/latest/NzbDrone.master.exe
-  architecture: x86

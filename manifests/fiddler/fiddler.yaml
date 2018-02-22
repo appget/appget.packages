@@ -1,0 +1,7 @@
+id: fiddler
+name: Fiddler
+version: 5.0.20173.50948
+productUrl: https://www.telerik.com/fiddler
+installMethod: NSIS
+installers:
+- location: https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe

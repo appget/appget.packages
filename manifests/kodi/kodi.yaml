@@ -1,0 +1,9 @@
+id: kodi
+name: Kodi
+licence: GNU GPL (GPLv2)
+version: 17.6
+productUrl: https://kodi.tv
+installMethod: NSIS
+installers:
+- location: https://mirrors.kodi.tv/releases/windows/win32/kodi-17.6-Krypton-x86.exe
+  sha256: d50aa59064f440618dc29d6cd65b47f783bbd7c75caea5359a96f4f00f31475f

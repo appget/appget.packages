@@ -1,0 +1,10 @@
+id: postman
+name: Postman
+version: 5.5.3
+productUrl: https://www.getpostman.com/
+installMethod: Squirrel
+installers:
+- location: https://dl.pstmn.io/download/latest/win32
+
+- location: https://dl.pstmn.io/download/latest/win64
+  architecture: x64

@@ -1,0 +1,12 @@
+id: 7-zip
+name: 7-Zip
+licence: GNU LGPLv2.1+ with unRAR restriction
+version: 18.01
+productUrl: http://www.7-zip.org
+installMethod: MSI
+installers:
+- location: http://www.7-zip.org/a/7z1801.msi
+  sha256: bad4ad66869fe95b887a1563d17d538b7fdcddb94b31b3f19ab4825b25d41999
+- location: http://www.7-zip.org/a/7z1801-x64.msi
+  sha256: b23f97c230a921f834550d2bf467d313952861f641f49ca93ccddd9d2e0300e2
+  architecture: x64

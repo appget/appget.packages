@@ -1,0 +1,11 @@
+id: sublime-text
+name: Sublime Text 3
+version: 3143
+productUrl: https://sublimetext.com/3
+installMethod: Inno
+installers:
+- location: https://download.sublimetext.com/Sublime Text Build 3143 Setup.exe
+  sha256: 4fe8289436783cab17336e2c166ce52e6b827dcbd6e421d607d83aa0f474d4b6
+- location: https://download.sublimetext.com/Sublime Text Build 3143 x64 Setup.exe
+  sha256: 929ecfd4f4d409438957f5a588094989ee692f9b4633ac63e001667f02189a43
+  architecture: x64

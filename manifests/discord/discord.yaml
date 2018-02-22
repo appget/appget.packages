@@ -1,0 +1,9 @@
+id: discord
+name: Discord
+version: 0.0.300
+productUrl: https://discordapp.net
+installMethod: Squirrel
+installers:
+- location: https://dl.discordapp.net/apps/win/0.0.300/DiscordSetup.exe
+  sha256: 29362d101c2470d880c2a43433004e2de12b3590361f88e30f573d0d0f3878e0
+  minWindowsVersion: 6.1

@@ -1,0 +1,11 @@
+id: sublime-text
+name: Sublime Text 2
+version: 2.0.2
+productUrl: https://sublimetext.com/2
+installMethod: Inno
+installers:
+- location: https://download.sublimetext.com/Sublime Text 2.0.2a Setup.exe
+  sha256: 73334a65b7ea12992dbfc014a62db18814ad1f0bcf3e9282f175cb8478ad2850
+- location: https://download.sublimetext.com/Sublime Text 2.0.2a x64 Setup.exe
+  sha256: 5f13edc7dce7d3fc6bc42d7545abac89d7ef4d4f3884c479f64cc28d95e353d2
+  architecture: x64
