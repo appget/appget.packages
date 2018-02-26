@@ -1,0 +1,11 @@
+id: cdburnerxp
+name: CDBurnerXP
+version: 4.5.8.6795
+productUrl: https://cdburnerxp.se
+installMethod: Inno
+installers:
+- location: https://download.cdburnerxp.se/minimal/f340252d6335551bbc1dc6bd92a0dfa4/5a93687d/cdbxp_setup_4.5.8.6795_x64_minimal.exe
+  sha256: 8fe94e2e64d3cf7dbbeead25fd5c29da543d3fdb68aacc8f83171d069836a692
+  architecture: x64
+- location: https://download.cdburnerxp.se/minimal/c22bd2b143f55df8e66caccf85fe712b/5a93687d/cdbxp_setup_4.5.8.6795_minimal.exe
+  sha256: d616b5a59118862133b726248058b3aa18c135353a7b4e32e7370a6c7d6add92

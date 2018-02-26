@@ -1,0 +1,11 @@
+id: nitro-pdf-reader
+name: Nitro PDF Reader
+version: 5
+productUrl: https://www.gonitro.com/pdf-reader/
+installMethod: MSI
+installers:
+- location: http://install.nitropdf.com/reader5/en/nitro_reader5.exe
+  sha256: ee1e777d7d46b09c5dccb16ef91b5f181581156b575283251336ddb0ea0b569d
+- location: http://install.nitropdf.com/reader5/en/nitro_reader5_64.exe
+  sha256: 77720c4a6e1dde7b0790a3375e0120821a2147307f62e0584b066f54e5200ce8
+  architecture: x64
