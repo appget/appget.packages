@@ -1,0 +1,9 @@
+id: mitmproxy
+name: mitmproxy
+licence: MIT
+version: 3.0.3
+productUrl: https://mitmproxy.org/
+installMethod: InstallBuilder
+installers:
+- location: https://github.com/mitmproxy/mitmproxy/releases/download/v3.0.3/mitmproxy-3.0.3-windows-installer.exe
+  sha256: 3bd675f0bb7715cd5480059a4fde153ae5369808d0f4de0f35fffaa8ce2251d6

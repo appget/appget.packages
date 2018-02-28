@@ -1,0 +1,8 @@
+id: sourcetree
+name: Sourcetree
+version: 2.4.8.0
+productUrl: https://www.sourcetreeapp.com/
+installMethod: Squirrel
+installers:
+- location: https://downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-2.4.8.0.exe
+  sha256: 7b48d591124b5fb28ffabc7f3a0d89e7dfa6d78e4ab30b158a64b976dbf82b50
