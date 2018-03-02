@@ -1,7 +1,7 @@
 id: webstorm
 name: WebStorm
 version: 2017.3.4
-productUrl: https://www.jetbrains.com/webstorm/
+home: https://www.jetbrains.com/webstorm/
 installMethod: NSIS
 installers:
 - location: https://download.jetbrains.com/webstorm/WebStorm-2017.3.4.exe

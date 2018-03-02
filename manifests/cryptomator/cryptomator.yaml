@@ -1,0 +1,11 @@
+id: cryptomator
+name: Cryptomator
+version: 1.3.3
+home: https://bintray.com
+installMethod: Inno
+installers:
+- location: https://bintray.com/cryptomator/cryptomator/download_file?file_path=Cryptomator-1.3.3-x86.exe
+  sha256: 3e6e7f147556eb2399837f7903e2c50d859995b2f386c37265b8b1c5088ee18e
+- location: https://bintray.com/cryptomator/cryptomator/download_file?file_path=Cryptomator-1.3.3-x64.exe
+  sha256: d2505fcc071ae220494312939000c682a3db263f216cd33a273e78e85407ee38
+  architecture: x64

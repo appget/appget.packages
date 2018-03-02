@@ -1,0 +1,6 @@
+id: anydesk
+name: AnyDesk
+home: http://anydesk.com
+installMethod: MSI
+installers:
+- location: http://download.anydesk.com/AnyDesk.msi

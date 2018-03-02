@@ -1,7 +1,7 @@
 id: node
 name: Node.js
 version: 8.9.4
-productUrl: https://nodejs.org/
+home: https://nodejs.org/
 installMethod: MSI
 installers:
 - location: https://nodejs.org/dist/v8.9.4/node-v8.9.4-x86.msi

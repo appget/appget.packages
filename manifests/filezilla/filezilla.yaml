@@ -2,7 +2,7 @@ id: filezilla
 name: FileZilla
 licence: GNU General Public License
 version: 3.31.0
-productUrl: https://filezilla-project.org
+home: https://filezilla-project.org
 installMethod: NSIS
 installers:
 - location: https://downloads.sourceforge.net/project/filezilla/FileZilla_Client/3.31.0/FileZilla_3.31.0_win32-setup.exe

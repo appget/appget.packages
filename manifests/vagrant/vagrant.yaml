@@ -1,0 +1,11 @@
+id: vagrant
+name: Vagrant
+version: 2.0.2
+home: https://hashicorp.com
+installMethod: MSI
+installers:
+- location: https://releases.hashicorp.com/vagrant/2.0.2/vagrant_2.0.2_i686.msi
+  sha256: 1e0de3a5907d38df4ad554cffb22b046649e29629302b9d09ff58f0e39982d4b
+- location: https://releases.hashicorp.com/vagrant/2.0.2/vagrant_2.0.2_x86_64.msi
+  sha256: 2ae003443732c8e2000c2c7088cead9e97411a84fe0a92f7ce8c8d2f9277e8a5
+  architecture: x64

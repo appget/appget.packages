@@ -1,7 +1,7 @@
 id: dashlane
 name: Dashlane
 version: 5.7.0.16178
-productUrl: https://www.dashlane.com/
+home: https://www.dashlane.com/
 installMethod: NSIS
 installers:
 - location: https://d3qm0vl2sdkrc.cloudfront.net/releases/5.7.0/5.7.0.16178/release/DashlaneInst.exe

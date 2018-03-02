@@ -1,0 +1,10 @@
+id: visual-studio-code
+name: Visual Studio Code
+version: 1.20.1
+home: https://microsoft.com
+installMethod: Inno
+installers:
+- location: https://go.microsoft.com/fwlink/?LinkID=623230
+  sha256: 6357cd2db735617b4f10f402d6878073c3f4a729f38b9e3f7d376084e25eeb0b
+- location: https://go.microsoft.com/fwlink/?Linkid=852157
+  sha256: ccd5515e1905f39883bd5135eca598620555320ef16e8639603242675c768a2b

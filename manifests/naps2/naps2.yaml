@@ -1,0 +1,9 @@
+id: naps2
+name: Naps2
+version: 5.7.0
+repo: https://github.com/cyanfish/naps2
+licence: GNU General Public License v2.0
+installMethod: MSI
+installers:
+- location: https://github.com/cyanfish/naps2/releases/download/v5.7.0/naps2-5.7.0-setup.msi
+  sha256: 654e3f4b9d31046218b90b9aa00e1191327f8cf9fec429bb393d23009e26a021

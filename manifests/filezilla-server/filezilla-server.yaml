@@ -1,0 +1,8 @@
+id: filezilla-server
+name: FileZilla Server
+version: 0.9.60.2
+repo: https://sourceforge.net/projects/filezilla/
+installMethod: NSIS
+installers:
+- location: https://downloads.sourceforge.net/project/filezilla/FileZilla Server/0.9.60.2/FileZilla_Server-0_9_60_2.exe
+  sha256: 036322d9c9ad01047171b8d13ea2cfc65b1d882e122e2f4d11a9b3fb32e9c932

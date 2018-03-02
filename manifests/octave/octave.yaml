@@ -1,0 +1,11 @@
+id: octave
+name: GNU Octave
+version: 4.2.1
+home: https://gnu.org
+installMethod: NSIS
+installers:
+- location: https://ftp.gnu.org/gnu/octave/windows/octave-4.2.1-w32-installer.exe
+  sha256: 2d9adeac50eabe61c1e6c3901520e14f21a4b69381d3dbed36a2549437fd651d
+- location: https://ftp.gnu.org/gnu/octave/windows/octave-4.2.1-w64-installer.exe
+  sha256: 8f5dba94cf31132394de45d84e8fae624aefa5d50a67ff5306786f4b0fd6f86b
+  architecture: x64

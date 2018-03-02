@@ -1,0 +1,8 @@
+id: winscp
+name: WinSCP
+version: 5.13
+repo: https://sourceforge.net/projects/winscp/
+installMethod: Inno
+installers:
+- location: https://downloads.sourceforge.net/project/winscp/WinSCP/5.13/WinSCP-5.13-Setup.exe
+  sha256: 2978f9a26d43b799e03c423d164bfd6bd1c23b15ecb6196d39a99a2e6623c579

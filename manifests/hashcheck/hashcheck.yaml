@@ -1,0 +1,8 @@
+id: hashcheck
+name: HashCheck Shell Extension
+version: 2.4.0
+repo: https://github.com/gurnec/HashCheck
+installMethod: NSIS
+installers:
+- location: https://github.com/gurnec/HashCheck/releases/download/v2.4.0/HashCheckSetup-v2.4.0.exe
+  sha256: 2d6067f00bbb93526d146d2228a46dc4851f0fa866e69250279c6b2f00b8f1b7

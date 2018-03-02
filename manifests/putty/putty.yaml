@@ -2,7 +2,7 @@ id: putty
 name: PuTTY
 licence: MIT
 version: 0.70
-productUrl: https://www.putty.org/
+home: https://www.putty.org/
 installMethod: MSI
 installers:
 - location: https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.70-installer.msi

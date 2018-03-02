@@ -1,0 +1,7 @@
+id: enpass
+name: Enpass
+version: 5.6.5
+home: https://sinew.in
+installMethod: NSIS
+installers:
+- location: https://dl.sinew.in/windows/setup/5-6-5/Enpass_Setup.exe

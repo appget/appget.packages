@@ -1,0 +1,8 @@
+id: tomahawk
+name: Tomahawk
+version: 0.8.4
+home: http://tomahawk-player.org
+installMethod: NSIS
+installers:
+- location: http://download.tomahawk-player.org/tomahawk-0.8.4.exe
+  sha256: 4333a0e501d630933f14b61bc5892befc3e025ee62986a1110d47e3f502f88db

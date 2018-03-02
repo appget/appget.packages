@@ -1,0 +1,11 @@
+id: teamspeak
+name: TeamSpeak 3 Client
+version: 3.1.8
+home: http://4players.de
+installMethod: NSIS
+installers:
+- location: http://dl.4players.de/ts/releases/3.1.8/TeamSpeak3-Client-win32-3.1.8.exe
+  sha256: 955c2d792b17beb363e9bf5fe63dcb07b2cbc43c49e1f34d825155d0496e50e3
+- location: http://dl.4players.de/ts/releases/3.1.8/TeamSpeak3-Client-win64-3.1.8.exe
+  sha256: 058be0115fff04cd42c08dd522484e361ea2c0d8ac9bec093f5a94f28238e889
+  architecture: x64

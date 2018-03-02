@@ -1,7 +1,7 @@
 id: sublime-text
 name: Sublime Text 2
 version: 2.0.2
-productUrl: https://sublimetext.com/2
+home: https://sublimetext.com/2
 installMethod: Inno
 installers:
 - location: https://download.sublimetext.com/Sublime Text 2.0.2a Setup.exe

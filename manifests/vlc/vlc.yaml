@@ -2,7 +2,7 @@ id: vlc
 name: VLC media player
 licence: GNU Lesser General Public License v2.1+
 version: 3.0.0
-productUrl: https://videolan.org
+home: https://videolan.org
 installMethod: NSIS
 installers:
 - location: https://download.videolan.org/pub/videolan/vlc/3.0.0/win32/vlc-3.0.0-win32.exe

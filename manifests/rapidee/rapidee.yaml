@@ -1,0 +1,7 @@
+id: rapidee
+name: Rapid Environment Editor
+version: 9.1.0.936
+home: http://www.rapidee.com
+installMethod: Inno
+installers:
+- location: http://www.rapidee.com/download/RapidEE_setup.exe

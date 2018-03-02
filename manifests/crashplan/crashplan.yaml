@@ -1,0 +1,10 @@
+id: crashplan
+name: CrashPlan
+version: 4.8.4
+installMethod: MSI
+installers:
+- location: https://download.code42.com/installs/win/install/CrashPlan/jre/CrashPlan_4.8.4_Win.msi
+  sha256: 5426bdb9cc01a495341c0113111193447900d9695538f18070e0cd14b8b72a59
+- location: https://download.code42.com/installs/win/install/CrashPlan/jre/CrashPlan_4.8.4_Win64.msi
+  sha256: 885a01cb153581e36464122e4d6537329a8219ffbc2e15e403976b7c20292a86
+  architecture: x64

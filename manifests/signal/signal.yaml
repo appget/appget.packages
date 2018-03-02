@@ -1,0 +1,8 @@
+id: signal
+name: Signal
+version: 1.5.2
+home: https://signal.org
+installMethod: NSIS
+installers:
+- location: https://updates.signal.org/desktop/signal-desktop-win-1.5.2.exe
+  sha256: e0755c1acd4dd874e5a387e74ca03df9ff7d22543d8ebe74b92eb6ddc6a889d8

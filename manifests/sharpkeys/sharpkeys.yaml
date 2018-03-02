@@ -1,0 +1,10 @@
+id: sharpkeys
+name: Sharpkeys
+version: 3.6
+home: http://www.randyrants.com/
+repo: https://github.com/randyrants/sharpkeys
+licence: Microsoft Public License
+installMethod: MSI
+installers:
+- location: https://github.com/randyrants/sharpkeys/releases/download/v3.6/sharpkeys36.msi
+  sha256: 96ee4387f2a0327460362ab92abdf704aa50526ae420febc714d4f83c825b938

@@ -1,0 +1,6 @@
+id: autohotkey
+name: Autohotkey
+home: http://ahkscript.org
+installMethod: NSIS
+installers:
+- location: http://ahkscript.org/download/ahk-install.exe

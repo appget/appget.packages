@@ -1,0 +1,10 @@
+id: brackets
+name: Brackets
+version: 1.12
+home: http://brackets.io
+repo: https://github.com/adobe/brackets
+licence: MIT License
+installMethod: MSI
+installers:
+- location: https://github.com/adobe/brackets/releases/download/release-1.12/Brackets.Release.1.12.msi
+  sha256: 7e31aa95f8a2ff95a832654853f97030ac8f12993bcc7b8e3e56ad9e655b2ba7

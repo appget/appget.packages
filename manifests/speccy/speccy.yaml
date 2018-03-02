@@ -1,7 +1,7 @@
 id: speccy
 name: Speccy
 version: 1.31.732
-productUrl: https://www.ccleaner.com/speccy
+home: https://www.ccleaner.com/speccy
 installMethod: NSIS
 installers:
 - location: https://download.ccleaner.com/spsetup131.exe

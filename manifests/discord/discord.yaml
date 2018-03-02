@@ -1,7 +1,7 @@
 id: discord
 name: Discord
 version: 0.0.300
-productUrl: https://discordapp.net
+home: https://discordapp.com
 installMethod: Squirrel
 installers:
 - location: https://dl.discordapp.net/apps/win/0.0.300/DiscordSetup.exe

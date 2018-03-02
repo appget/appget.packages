@@ -1,0 +1,8 @@
+id: eac
+name: Exact Audio Copy
+version: 1.3
+home: http://www.exactaudiocopy.de
+installMethod: NSIS
+installers:
+- location: http://www.exactaudiocopy.de/eac-1.3.exe
+  sha256: bf52c025f5436feae324798661b0780c58a89d50e2733b906a7be221fbb82771

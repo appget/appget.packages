@@ -1,7 +1,7 @@
 id: recuva
 name: Recuva
-version: 1.53.1087
-productUrl: https://www.ccleaner.com/recuva
+home: https://www.ccleaner.com/recuva
+version: 1.53
 installMethod: NSIS
 installers:
 - location: https://download.ccleaner.com/rcsetup153.exe

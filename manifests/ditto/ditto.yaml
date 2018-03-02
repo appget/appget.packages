@@ -1,0 +1,11 @@
+id: ditto
+name: Ditto
+version: 3.21.223.0
+repo: https://sourceforge.net/projects/ditto-cp/
+installMethod: Inno
+installers:
+- location: https://downloads.sourceforge.net/project/ditto-cp/Ditto/3.21.223.0/DittoSetup_3_21_223_0.exe
+  sha256: 7a07d3f7cca5c0b38ca811984ef8da536da32932d68c1a6cce33ec2462b930bf
+- location: https://downloads.sourceforge.net/project/ditto-cp/Ditto/3.21.223.0/DittoSetup_64bit_3_21_223_0.exe
+  sha256: d43c57e2145d84539510bcb6467acc8c8b9e105402a24527bfc812bd2c3cb1fc
+  architecture: x64

@@ -1,0 +1,8 @@
+id: gvim
+name: Gvim
+version: 8.0.586
+home: https://nluug.nl
+installMethod: NSIS
+installers:
+- location: https://ftp.nluug.nl/pub/vim/pc/gvim80-586.exe
+  sha256: ce2aced36a2df7039941225dc492aebe6f7c77fc9d876c5d26c472f16fbc275e

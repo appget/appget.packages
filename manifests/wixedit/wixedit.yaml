@@ -1,0 +1,8 @@
+id: wixedit
+name: WixEdit
+version: 0.7.5
+repo: https://github.com/WixEdit/WixEdit
+installMethod: MSI
+installers:
+- location: https://github.com/WixEdit/WixEdit/releases/download/v0.7.5.0/wixedit-0.7.5.msi
+  sha256: 390fcb7ac4fc01559d946d05069724898d48a2ba75fb2496479c674eac77ce78

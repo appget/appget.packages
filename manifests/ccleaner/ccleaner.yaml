@@ -1,7 +1,8 @@
 id: ccleaner
 name: CCleaner
-version: 5.39
-productUrl: https://www.ccleaner.com/
+version: 5.40
+home: https://ccleaner.com
 installMethod: NSIS
 installers:
-- location: https://download.piriform.com/ccsetup500.exe
+- location: https://download.ccleaner.com/ccsetup540.exe
+  sha256: 72c650f8b4cb5d411375bbc965ba29c81aebc6d40991a3cda5ff5a333051e66b

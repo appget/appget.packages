@@ -1,0 +1,11 @@
+id: sumatrapdf
+name: SumatraPDF
+version: 3.1.2
+home: https://www.sumatrapdfreader.org
+installMethod: NSIS
+installers:
+- location: https://www.sumatrapdfreader.org/dl/SumatraPDF-3.1.2-install.exe
+  sha256: 81a27d50abe66f52ec4f1a948827b0654ef86be9f5f1da1b16bbfc1454e040c9
+- location: https://www.sumatrapdfreader.org/dl/SumatraPDF-3.1.2-64-install.exe
+  sha256: 6081686cacf010bccc0617a848f2963be7ec44f98dd1daf62dc8eae448195b93
+  architecture: x64

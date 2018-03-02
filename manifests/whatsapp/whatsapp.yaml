@@ -1,0 +1,9 @@
+id: whatsapp
+name: WhatsApp
+version: 0.2.8361
+home: https://whatsapp.com
+installMethod: Squirrel
+installers:
+- location: https://web.whatsapp.com/desktop/windows/release/ia32/WhatsAppSetup.exe
+- location: https://web.whatsapp.com/desktop/windows/release/x64/WhatsAppSetup.exe
+  architecture: x64
