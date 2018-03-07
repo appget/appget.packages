@@ -1,0 +1,7 @@
+id: viber
+name: Viber
+version: 8.3.0.3
+home: https://viber.com
+installMethod: Wix
+installers:
+- location: https://download.cdn.viber.com/desktop/windows/ViberSetup.exe
