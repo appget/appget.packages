@@ -1,0 +1,7 @@
+id: audacity
+name: Audacity
+version: 2.2.2
+installMethod: Inno
+installers:
+- location: http://app.oldfoss.com:81/download/Audacity/audacity-win-2.2.2.exe
+  sha256: ca19471e10660765dec12c980ebd3eeb9b82826ea4f25bc490936f312b14caff

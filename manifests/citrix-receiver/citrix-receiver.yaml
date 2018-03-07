@@ -1,0 +1,9 @@
+id: citrix-receiver
+name: Citrix Receiver
+version: 14.11.0.17061
+home: https://www.citrix.com/products/receiver/
+installMethod: Custom
+args:
+  silent: /silent /noreboot
+installers:
+- location: https://downloadplugins.citrix.com/Windows/CitrixReceiver.exe
