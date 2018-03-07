@@ -1,0 +1,11 @@
+id: tightvnc
+name: TightVNC
+version: 2.8.8
+home: https://www.tightvnc.com
+installMethod: MSI
+installers:
+- location: https://www.tightvnc.com/download/2.8.8/tightvnc-2.8.8-gpl-setup-32bit.msi
+  sha256: 1e2088ec30823ada6ca27225424209a24d796301c4e57a32db2dcb6161aa1ddd
+- location: https://www.tightvnc.com/download/2.8.8/tightvnc-2.8.8-gpl-setup-64bit.msi
+  sha256: 47bc1e8cce620e996da4b67aa886ae9ea854ec13e94d05928b6bf4af8ce17ef1
+  architecture: x64

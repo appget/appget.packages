@@ -1,0 +1,10 @@
+id: pia
+name: Private Internet Access
+version: 77
+home: https://privateinternetaccess.com
+installMethod: Inno
+installers:
+- location: https://installers.privateinternetaccess.com/download/pia-v77-installer-win.exe
+  sha256: 741259f754d140a6ef65237aaf9c51c7fc0f774dcec217a39209d5677f62713d
+- location: https://installers.privateinternetaccess.com/download/pia-v77-installer-win.exe
+  sha256: 741259f754d140a6ef65237aaf9c51c7fc0f774dcec217a39209d5677f62713d

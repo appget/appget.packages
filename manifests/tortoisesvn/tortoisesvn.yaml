@@ -1,0 +1,11 @@
+id: tortoisesvn
+name: TortoiseSVN
+version: 1.9.7
+repo: https://sourceforge.net/projects/tortoisesvn/
+installMethod: MSI
+installers:
+- location: https://sourceforge.net/projects/tortoisesvn/files/1.9.7/Application/TortoiseSVN-1.9.7.27907-win32-svn-1.9.7.msi/download
+  sha256: 325f8a4d4ed4794338b6d15ad08d7a8e3d60df9a5c30ef2c109549c2fcf3b703
+- location: https://sourceforge.net/projects/tortoisesvn/files/1.9.7/Application/TortoiseSVN-1.9.7.27907-x64-svn-1.9.7.msi/download
+  sha256: a0616034862a0deb79b0601cb724c6e8e5859f9ee5e3a057d42bf3c723241396
+  architecture: x64
