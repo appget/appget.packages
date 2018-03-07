@@ -1,0 +1,12 @@
+id: opera
+name: Opera
+version: 51.0.2830.40
+home: https://www.opera.com/
+licence: Freeware
+installMethod: Custom
+args:
+  passive: /runimmediately launchbrowser=0
+  silent: /silent launchbrowser=0
+installers:
+- location: https://download1.operacdn.com/pub/opera/desktop/51.0.2830.40/win/Opera_51.0.2830.40_Setup.exe
+  sha256: e1e51cc66f9dbfb2efce962d18bc4f837ccc143367ecc051d529e372d47df39f
