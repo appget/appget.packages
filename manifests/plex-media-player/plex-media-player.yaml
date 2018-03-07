@@ -1,0 +1,11 @@
+id: plex-media-player
+name: Plex Media Player
+version: 2.6.0
+home: https://plex.tv
+licence: GNU General Public License v2.0
+installMethod: Wix
+installers:
+- location: https://downloads.plex.tv/plexmediaplayer/2.6.0.803-edcf527b/PlexMediaPlayer-2.6.0.803-edcf527b-windows-x64.exe
+  sha256: 6d50c53812ef22e0d39af4d23a34309b91d6558f2d5c02d902402c43375733a7
+  architecture: x64
+  minWindowsVersion: 6.1
