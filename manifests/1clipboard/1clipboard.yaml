@@ -1,0 +1,9 @@
+id: 1clipboard
+name: 1Clipboard
+version: 0.1.8
+home: http://1clipboard.io
+licence: MIT
+installMethod: Squirrel
+installers:
+- location: http://1clipboard.io/download/windows/1ClipboardSetup.exe
+  minWindowsVersion: 6.1

@@ -1,0 +1,7 @@
+id: teamsql
+name: TeamSQL
+version: 3.0.167
+home: https://teamsql.io
+installMethod: Squirrel
+installers:
+- location: https://teamsql.io/latest/win
