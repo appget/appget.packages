@@ -1,0 +1,11 @@
+id: everything-search
+name: Everything
+version: 1.4.1.895
+home: https://www.voidtools.com
+installMethod: NSIS
+installers:
+- location: https://www.voidtools.com/Everything-1.4.1.895.x86-Setup.exe
+  sha256: 6e2eb80112343d0f93989e0cb985055792c6402649aa0d11145726ccf896bb32
+- location: https://www.voidtools.com/Everything-1.4.1.895.x64-Setup.exe
+  sha256: 8b2ce3f3a0fde214641d526d5a341f46a05ff8fd79dcb6e75d8cebd75317398a
+  architecture: x64

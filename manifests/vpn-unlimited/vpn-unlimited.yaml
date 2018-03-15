@@ -1,0 +1,8 @@
+id: vpn-unlimited
+name: VPN Unlimited
+version: 4.17
+home: https://www.vpnunlimitedapp.com/
+installMethod: Inno
+installers:
+- location: https://c945a368a5487bece4a3-a5a4fb8b39b86d00a1eb7d52603ae1d2.ssl.cf1.rackcdn.com/VPN_Unlimited_v4.17.exe
+  sha256: 7cee7aa5901b325de411ad41fa9b235141298ff21fb71fe313d22e35aed5cba8

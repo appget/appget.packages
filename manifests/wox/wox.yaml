@@ -1,0 +1,10 @@
+id: wox
+name: Wox
+version: 1.3.524
+home: http://wox.one
+repo: https://github.com/Wox-launcher/Wox
+licence: MIT License
+installMethod: Squirrel
+installers:
+- location: https://github.com/Wox-launcher/Wox/releases/download/v1.3.524/Wox-1.3.524.exe
+  sha256: 1c9f0850aa6b471f39822cc5c35d8d260c97339a482f2b235d54800568694071

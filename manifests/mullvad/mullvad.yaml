@@ -1,0 +1,6 @@
+id: mullvad
+name: Mullvad
+home: https://mullvad.net
+installMethod: NSIS
+installers:
+- location: https://mullvad.net/en/download/latest/windows/

@@ -1,6 +1,6 @@
 id: git-lfs
 name: Git LFS
-version: 2.3.4
+version: 2.3.4.0
 home: https://git-lfs.github.com
 repo: https://github.com/git-lfs/git-lfs
 licence: MIT License

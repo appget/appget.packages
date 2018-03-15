@@ -1,0 +1,8 @@
+id: deskpins
+name: DeskPins
+version: 1.32
+home: https://efotinis.neocities.org/deskpins/
+installMethod: NSIS
+installers:
+- location: https://bitbucket.org/efotinis/deskpins/downloads/DeskPins-1.32-setup.exe
+  sha256: 70bfd44e774837e52bc83f2c128de7d164251e513f6ebea4a70e2073e28ecd2a

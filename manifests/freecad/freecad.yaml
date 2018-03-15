@@ -1,6 +1,6 @@
 id: freecad
 name: FreeCAD
-version: 0.16
+version: 0.16.6706
 home: http://www.freecadweb.org
 repo: https://github.com/FreeCAD/FreeCAD
 installMethod: NSIS

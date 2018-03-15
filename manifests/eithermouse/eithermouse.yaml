@@ -1,0 +1,7 @@
+id: eithermouse
+name: EitherMouse
+version: 0.7
+home: http://www.eithermouse.com
+installMethod: Custom
+installers:
+- location: https://www.eithermouse.com/EitherMouse Setup.exe

@@ -4,4 +4,5 @@ version: 5.6.5
 home: https://sinew.in
 installMethod: NSIS
 installers:
-- location: https://dl.sinew.in/windows/setup/5-6-5/Enpass_Setup.exe
+- location: https://dl.sinew.in/windows/setup/5-6-5-1/Enpass_5.6.5_Setup.exe
+  sha256: 5d85da4551a830f0146d106d73e37514d5fd67f2ee599a696ac75bd9f8904646

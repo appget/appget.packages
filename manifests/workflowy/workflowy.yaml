@@ -1,6 +1,7 @@
 id: workflowy
 name: WorkFlowy
-version: v1.0.12
+version: 1.0.12
+home: https://workflowy.com/
 repo: https://github.com/workflowy/desktop
 installMethod: NSIS
 installers:

@@ -1,11 +1,11 @@
 id: mercurial
 name: Mercurial
-version: 4.5.0
+version: 4.5.2
 home: https://www.mercurial-scm.org
 installMethod: MSI
 installers:
-- location: https://www.mercurial-scm.org/release/windows/mercurial-4.5.0-x86.msi
-  sha256: bab8738b04d4a745d9a9c338f0035b4208add56cb8df059d81828ff0c9075c53
-- location: https://www.mercurial-scm.org/release/windows/mercurial-4.5.0-x64.msi
-  sha256: 526cbe52c60f31418c0d7977e35862c941f085d34014ea41f5a0f075ef77a7a8
+- location: https://www.mercurial-scm.org/release/windows/mercurial-4.5.2-x86.msi
+  sha256: e2c1fcadd71b615dabd8c1ccb40f0594c0dae1def8d65bf553c5158cbc428ae7
+- location: https://www.mercurial-scm.org/release/windows/mercurial-4.5.2-x64.msi
+  sha256: 00ae65d01c6420322d5abc040d180ef77ab4d7ff4d4f32a9d489979223b28792
   architecture: x64

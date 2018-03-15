@@ -1,10 +1,9 @@
 id: postman
-name: Postman
-version: 5.5.3
+name: Postman-win32-6.0.9
+version: 6.0.9
 home: https://www.getpostman.com/
 installMethod: Squirrel
 installers:
 - location: https://dl.pstmn.io/download/latest/win32
-
 - location: https://dl.pstmn.io/download/latest/win64
   architecture: x64
