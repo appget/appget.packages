@@ -1,0 +1,10 @@
+id: dotcover
+name: dotCover
+version: 11.0.20180302.74220
+home: https://jetbrains.com/dotcover/
+installMethod: Custom
+args:
+  silent: /SpecificProductNames=dotCover /Silent=True /VsVersion=10.0;11.0;12.0;14.0;15.0
+installers:
+- location: https://download.jetbrains.com/resharper/JetBrains.ReSharperUltimate.2017.3.3.exe
+  sha256: 9b9a982a039df3f726671a2abeadd0dc6316912afb16a715d321ad919f396bb1

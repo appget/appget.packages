@@ -1,0 +1,8 @@
+id: visual-studio-community
+name: Microsoft Visual Studio 2017 Community Edition
+version: 15.6.27428.2005
+home: https://www.visualstudio.com/vs/
+installMethod: Custom
+installers:
+- location: https://download.visualstudio.microsoft.com/download/pr/11835057/045b56eb413191d03850ecc425172a7d/vs_Community.exe
+  sha256: daab30072e17de3bf196faba563c417aa0a38cd74ada008f5c16c7b2b88a60fa

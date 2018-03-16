@@ -1,0 +1,10 @@
+id: gitextensions
+name: Git Extensions
+version: 2.51
+home: http://gitextensions.github.io/
+repo: https://github.com/gitextensions/gitextensions
+licence: GNU General Public License v3.0
+installMethod: MSI
+installers:
+- location: https://github.com/gitextensions/gitextensions/releases/download/v2.51/GitExtensions-2.51-Setup.msi
+  sha256: b1da44018b721a7b48bf3c689e20defaef096a3021a148b9f3d6ae0beb829ee6

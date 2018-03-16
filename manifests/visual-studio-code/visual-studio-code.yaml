@@ -9,3 +9,4 @@ args:
 installers:
 - location: https://go.microsoft.com/fwlink/?LinkID=623230
 - location: https://go.microsoft.com/fwlink/?Linkid=852157
+  architecture: x64
