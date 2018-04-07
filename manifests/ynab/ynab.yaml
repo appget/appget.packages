@@ -1,7 +1,7 @@
 id: ynab
 name: YNAB
-home: https://www.youneedabudget.com/
 version: 4.3.857
+home: https://www.youneedabudget.com/
 installMethod: Inno
 installers:
 - location: https://downloadpull-youneedabudgetco.netdna-ssl.com/ynab4/liveCaptive/Win/YNAB 4_4.3.857_Setup.exe
