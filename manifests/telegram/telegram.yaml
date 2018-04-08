@@ -1,9 +1,8 @@
 id: telegram
 name: Telegram Desktop
-licence: GPL v3
-version: 1.2.6
+version: 1.2.16.0
 home: https://telegram.org/
+licence: GPL v3
 installMethod: Inno
 installers:
-- location: https://updates.tdesktop.com/tsetup/tsetup.1.2.6.exe
-  sha256: 54207d1c061d50f03bfbbc3a1e6abd642322adc26972edb21243f0b1821e1703
+- location: https://telegram.org/dl/desktop/win
