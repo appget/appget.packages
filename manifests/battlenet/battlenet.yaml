@@ -1,0 +1,7 @@
+id: battlenet
+name: Battlenet
+version: 1.14.2.2882
+home: https://www.battle.net/
+installMethod: Custom
+installers:
+- location: https://www.battle.net/download/getInstallerForGame?os=win&locale=enUS&version=LIVE&gameProgram=BATTLENET_APP
