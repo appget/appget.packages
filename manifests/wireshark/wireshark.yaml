@@ -1,0 +1,11 @@
+id: wireshark
+name: Wireshark
+version: 2.4.6
+home: https://wireshark.org/
+installMethod: MSI
+installers:
+- location: https://1.na.dl.wireshark.org/win32/Wireshark-win32-2.4.6.msi
+  sha256: 6efc9545528c76166e00942a2e7ef334c06ff7de15c450d9d685c9a0ffe8936d
+- location: https://1.na.dl.wireshark.org/win64/Wireshark-win64-2.4.6.msi
+  sha256: c4b6cac3c8a8814fc9bb6e19a28a467b26067bc0a661150e7018f8923e43d535
+  architecture: x64
