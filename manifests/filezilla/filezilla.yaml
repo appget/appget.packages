@@ -1,12 +1,10 @@
 id: filezilla
 name: FileZilla
-licence: GNU General Public License
-version: 3.31.0
+version: 3.32.0
 home: https://filezilla-project.org
+licence: GNU General Public License
 installMethod: NSIS
 installers:
-- location: https://downloads.sourceforge.net/project/filezilla/FileZilla_Client/3.31.0/FileZilla_3.31.0_win32-setup.exe
-  sha256: a807c42d86a65d50c779ddafe926dae6393e89834ea1d6d3a9347f986d5ca22a
-- location: https://downloads.sourceforge.net/project/filezilla/FileZilla_Client/3.31.0/FileZilla_3.31.0_win64-setup.exe
-  sha256: e486b026baa0cb92e42d9ae52ab4ceba10a64d6e2508064534a0314ff904be77
+- location: https://download.filezilla-project.org/client/FileZilla_latest_win32-setup.exe
+- location: https://download.filezilla-project.org/client/FileZilla_latest_win64-setup.exe
   architecture: x64
