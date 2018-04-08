@@ -1,6 +1,6 @@
 id: brave
 name: Brave
-version: 0.21.18
+version: 0.22.13
 home: https://brave.com
 installMethod: Squirrel
 installers:
