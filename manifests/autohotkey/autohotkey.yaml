@@ -1,5 +1,6 @@
 id: autohotkey
 name: Autohotkey
+version: 1.1.28.02
 home: http://ahkscript.org
 installMethod: NSIS
 installers:
