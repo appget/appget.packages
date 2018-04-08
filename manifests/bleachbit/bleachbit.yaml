@@ -1,0 +1,8 @@
+id: bleachbit
+name: BleachBit
+version: 2.0
+home: https://bleachbit.org/
+installMethod: NSIS
+installers:
+- location: https://download.bleachbit.org/BleachBit-2.0-setup.exe
+  sha256: 58b4a67accdcb38ac938353d11a41f5e73f566ecdd3f2e0b5d3770dbcefddcd0
