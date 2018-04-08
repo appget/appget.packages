@@ -1,5 +1,5 @@
 id: anaconda
-name: Anaconda3
+name: Anaconda
 version: 5.1.0
 home: https://continuum.io
 installMethod: NSIS
