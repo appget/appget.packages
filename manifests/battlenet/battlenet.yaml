@@ -1,5 +1,5 @@
 id: battlenet
-name: Battlenet
+name: Battle.net
 version: 1.14.2.2882
 home: https://www.battle.net/
 installMethod: Custom
