@@ -1,6 +1,6 @@
 id: flux
 name: Flux
-home: https://justgetflux.com
+home: https://justgetflux.com/
 installMethod: NSIS
 installers:
 - location: https://justgetflux.com/flux-setup.exe
