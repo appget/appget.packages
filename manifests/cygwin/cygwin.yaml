@@ -3,7 +3,7 @@ name: Cygwin
 home: https://cygwin.com/
 installMethod: Custom
 args:
-  silent: -q -s http://ftp.gwdg.de/pub/cygwin -C Base -P binutils -P curl -P make -P wget
+  silent: -q -C Base -P binutils -P curl -P make -P wget
 installers:
 - location: https://cygwin.com/setup-x86.exe
 - location: https://cygwin.com/setup-x86_64.exe
