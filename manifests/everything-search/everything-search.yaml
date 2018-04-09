@@ -1,7 +1,7 @@
 id: everything-search
 name: Everything
 version: 1.4.1.895
-home: https://www.voidtools.com
+home: https://www.voidtools.com/
 installMethod: NSIS
 installers:
 - location: https://www.voidtools.com/Everything-1.4.1.895.x86-Setup.exe
