@@ -1,7 +1,7 @@
 id: filezilla
 name: FileZilla
-version: 3.32.0
-home: https://filezilla-project.org
+version: 3.32
+home: https://filezilla-project.org/
 licence: GNU General Public License
 installMethod: NSIS
 installers:
