@@ -1,0 +1,11 @@
+id: erlang
+name: Erlang
+version: 20.3
+home: http://erlang.org/
+installMethod: NSIS
+installers:
+- location: http://erlang.org/download/otp_win32_20.3.exe
+  sha256: 56ceda9e81d213d93402f0cdddc84cdc304e6dd263a6f479fa93e2f06fe0c454
+- location: http://erlang.org/download/otp_win64_20.3.exe
+  sha256: bfab28501e4d518470fa43b0b7add509dd36de55aa94f50b945ede61c3495188
+  architecture: x64
