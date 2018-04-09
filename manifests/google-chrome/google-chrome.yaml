@@ -1,5 +1,6 @@
 id: google-chrome
 name: Google Chrome
+home: https://www.google.com/chrome/
 installMethod: MSI
 installers:
 - location: https://dl.google.com/tag/s/dl/chrome/install/googlechromestandaloneenterprise.msi
