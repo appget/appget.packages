@@ -1,0 +1,8 @@
+id: flash-player
+name: Flash Player
+version: 29.0.0.113
+home: https://macromedia.com/
+installMethod: MSI
+installers:
+- location: https://fpdownload.macromedia.com/get/flashplayer/pdc/29.0.0.113/install_flash_player_29_plugin.msi
+  sha256: 932a1f339bacbd09c821572df9ef27a29c22ae6577596b4a50cbe0fc8e3d0bdb
