@@ -1,7 +1,7 @@
 id: go
 name: Go
 version: 1.10.1
-home: https://google.com
+home: https://google.com/
 installMethod: MSI
 installers:
 - location: https://dl.google.com/go/go1.10.1.windows-386.msi
