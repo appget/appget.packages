@@ -1,6 +1,6 @@
 id: teamviewer
 name: TeamViewer
-home: https://teamviewer.com
+home: https://teamviewer.com/
 installMethod: NSIS
 installers:
 - location: https://download.teamviewer.com/download/TeamViewer_Setup.exe

@@ -1,7 +1,7 @@
 id: gitkraken
 name: GitKraken
 version: 3.5.1
-home: https://gitkraken.com
+home: https://gitkraken.com/
 installMethod: Squirrel
 installers:
 - location: https://release.gitkraken.com/win32/GitKrakenSetup.exe

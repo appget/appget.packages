@@ -1,7 +1,7 @@
 id: openvpn
 name: OpenVPN
 version: 2.4.5
-home: https://openvpn.org
+home: https://openvpn.org/
 installMethod: NSIS
 installers:
 - location: https://swupdate.openvpn.org/community/releases/openvpn-install-2.4.5-I601.exe

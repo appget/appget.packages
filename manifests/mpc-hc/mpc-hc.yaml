@@ -1,7 +1,7 @@
 id: mpc-hc
 name: MPC-HC
 version: 1.7.13
-home: https://mpc-hc.org
+home: https://mpc-hc.org/
 installMethod: Inno
 installers:
 - location: https://binaries.mpc-hc.org/MPC HomeCinema - Win32/MPC-HC_v1.7.13_x86/MPC-HC.1.7.13.x86.exe

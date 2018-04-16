@@ -1,8 +1,8 @@
 id: pia
 name: Private Internet Access
-version: 78
-home: https://privateinternetaccess.com
+version: 79
+home: https://privateinternetaccess.com/
 installMethod: Inno
 installers:
-- location: https://installers.privateinternetaccess.com/download/pia-v78-installer-win.exe
-  sha256: 66e147355ec534c67875fd6cda457ee9214e15f91f28a567f48b237be3911555
+- location: https://installers.privateinternetaccess.com/download/pia-v79-installer-win.exe
+  sha256: ea50acfab0d8be8cc118886c0ab5b07c5142eb906ea1b08cfe4afa8689670bda

@@ -1,7 +1,7 @@
 id: mono
 name: Mono
 version: 5.10.0.160
-home: https://mono-project.com
+home: https://mono-project.com/
 installMethod: MSI
 installers:
 - location: https://download.mono-project.com/archive/5.10.0/windows-installer/mono-5.10.0.160-gtksharp-2.12.45-win32-0.msi

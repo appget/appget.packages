@@ -1,7 +1,7 @@
 id: nextcloud
 name: Nextcloud
 version: 2.3.3.1
-home: https://nextcloud.com
+home: https://nextcloud.com/
 installMethod: NSIS
 installers:
 - location: https://download.nextcloud.com/desktop/releases/Windows/Nextcloud-2.3.3.1-setup.exe

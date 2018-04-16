@@ -1,7 +1,7 @@
 id: vagrant
 name: Vagrant
 version: 2.0.3
-home: https://hashicorp.com
+home: https://hashicorp.com/
 installMethod: MSI
 installers:
 - location: https://releases.hashicorp.com/vagrant/2.0.3/vagrant_2.0.3_i686.msi

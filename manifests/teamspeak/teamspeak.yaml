@@ -1,7 +1,7 @@
 id: teamspeak
 name: TeamSpeak 3 Client
 version: 3.1.8
-home: http://4players.de
+home: https://www.teamspeak.com/
 installMethod: NSIS
 installers:
 - location: http://dl.4players.de/ts/releases/3.1.8/TeamSpeak3-Client-win32-3.1.8.exe

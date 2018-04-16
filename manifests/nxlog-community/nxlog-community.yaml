@@ -1,0 +1,8 @@
+id: nxlog-community
+name: NXlog Community Edition
+version: 2.9.1716
+home: https://nxlog.co/products/nxlog-community-edition/
+installMethod: MSI
+installers:
+- location: https://nxlog.co/system/files/products/files/348/nxlog-ce-2.9.1716.msi
+  sha256: 8786f751d71791b1f22165dda4c1cd6d6492b38adbc75784928249b5f0a48017

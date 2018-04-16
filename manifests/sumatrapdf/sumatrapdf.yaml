@@ -1,7 +1,7 @@
 id: sumatrapdf
 name: SumatraPDF
 version: 3.1.2
-home: https://www.sumatrapdfreader.org
+home: https://www.sumatrapdfreader.org/
 installMethod: NSIS
 installers:
 - location: https://www.sumatrapdfreader.org/dl/SumatraPDF-3.1.2-install.exe

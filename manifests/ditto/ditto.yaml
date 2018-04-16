@@ -1,6 +1,6 @@
 id: ditto
 name: Ditto
-version: 3.21.223.0
+version: 3.21.223
 repo: https://sourceforge.net/projects/ditto-cp/
 installMethod: Inno
 installers:

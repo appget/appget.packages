@@ -1,7 +1,7 @@
 id: perl
 name: Perl
 version: 5.26.1.1
-home: http://strawberryperl.com
+home: http://strawberryperl.com/
 installMethod: MSI
 installers:
 - location: http://strawberryperl.com/download/5.26.1.1/strawberry-perl-5.26.1.1-32bit.msi

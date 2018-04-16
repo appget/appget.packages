@@ -1,7 +1,7 @@
 id: mumble
 name: Mumble
 version: 1.2.19
-home: https://www.mumble.info
+home: https://www.mumble.info/
 repo: https://github.com/mumble-voip/mumble
 installMethod: MSI
 installers:

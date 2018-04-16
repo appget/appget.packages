@@ -1,6 +1,6 @@
 id: audacity
 name: Audacity
-version: 2.2
+version: 2.2.2
 installMethod: Inno
 installers:
 - location: http://app.oldfoss.com:81/download/Audacity/audacity-win-2.2.2.exe
