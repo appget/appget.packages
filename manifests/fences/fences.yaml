@@ -1,0 +1,8 @@
+id: fences
+name: Fences
+version: 9.5.1
+home: https://www.stardock.com/products/fences/
+installMethod: NSIS
+installers:
+- location: https://store.stardock.com/download/3875
+  sha256: 135ae92a7312de0847c1c2f8d72f00b62d632cf1e9ecf40574d05f8f83133373

@@ -1,0 +1,8 @@
+id: cpu-z
+name: CPU-Z
+version: 1.84
+home: https://www.cpuid.com/softwares/cpu-z.html
+installMethod: Inno
+installers:
+- location: http://download.cpuid.com/cpu-z/cpu-z_1.84-en.exe
+  sha256: 86625d6788cab41b913f81a4347463a18e009a12b020a6b58de727b5abed510c

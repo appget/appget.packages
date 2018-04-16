@@ -1,7 +1,7 @@
 id: 7zip
 name: 7Zip
 version: 18.01
-home: http://www.7-zip.org
+home: https://www.7-zip.org/
 installMethod: MSI
 installers:
 - location: https://www.7-zip.org/a/7z1801.msi

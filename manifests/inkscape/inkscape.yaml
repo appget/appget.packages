@@ -1,7 +1,7 @@
 id: inkscape
 name: Inkscape
 version: 0.92.3
-home: https://inkscape.org
+home: https://inkscape.org/
 installMethod: MSI
 installers:
 - location: https://media.inkscape.org/dl/resources/file/inkscape-0.92.3-x86.msi

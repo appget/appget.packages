@@ -1,7 +1,7 @@
 id: git-lfs
 name: Git LFS
-version: 2.4.0
-home: https://git-lfs.github.com
+version: 2.4
+home: https://git-lfs.github.com/
 repo: https://github.com/git-lfs/git-lfs
 licence: MIT License
 installMethod: Inno

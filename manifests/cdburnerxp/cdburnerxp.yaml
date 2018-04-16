@@ -2,7 +2,7 @@ id: cdburnerxp
 name: CDBurnerXP
 version: 4.5.8.6795
 installMethod: Inno
-home: https://cdburnerxp.se
+home: https://cdburnerxp.se/
 installers:
 - location: https://download.cdburnerxp.se/minimal/f340252d6335551bbc1dc6bd92a0dfa4/5a93687d/cdbxp_setup_4.5.8.6795_x64_minimal.exe
   sha256: 8fe94e2e64d3cf7dbbeead25fd5c29da543d3fdb68aacc8f83171d069836a692

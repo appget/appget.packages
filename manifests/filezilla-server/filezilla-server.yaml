@@ -1,6 +1,7 @@
 id: filezilla-server
 name: FileZilla Server
-version: 0.9.60.2
+version: 0.9.60
+home: https://filezilla-project.org/
 repo: https://sourceforge.net/projects/filezilla/
 installMethod: NSIS
 installers:
