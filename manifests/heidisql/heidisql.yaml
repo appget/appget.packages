@@ -1,0 +1,8 @@
+id: heidisql
+name: HeidiSQL
+version: 9.5.0.5196
+home: https://www.heidisql.com/
+installMethod: Inno
+installers:
+- location: https://www.heidisql.com/installers/HeidiSQL_9.5.0.5196_Setup.exe
+  sha256: d783dc4a47d14f969971c192ee94a8b0d5b068541fccc0939f03bc7572b40833

@@ -1,8 +1,8 @@
 id: enpass
 name: Enpass
-version: 5.6.5
+version: 5.6.8
 home: https://sinew.in/
 installMethod: NSIS
 installers:
-- location: https://dl.sinew.in/windows/setup/5-6-5-1/Enpass_5.6.5_Setup.exe
-  sha256: 5d85da4551a830f0146d106d73e37514d5fd67f2ee599a696ac75bd9f8904646
+- location: https://dl.sinew.in/windows/setup/5-6-8/Enpass_5.6.8_Setup.exe
+  sha256: 7d7fc9aa37bc37765d2ed7dcd75c9787d74317941a59aca84ddbcd2126492b4d

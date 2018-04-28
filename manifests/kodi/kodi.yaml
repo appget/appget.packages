@@ -1,7 +1,7 @@
 id: kodi
 name: Kodi
 version: 17.6
-home: https://kodi.tv
+home: https://kodi.tv/
 licence: GNU GPL (GPLv2)
 installMethod: NSIS
 installers:

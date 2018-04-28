@@ -1,0 +1,6 @@
+id: em-client
+name: eM Client
+home: https://www.emclient.com/
+installMethod: MSI
+installers:
+- location: https://www.emclient.com/dist/latest/setup.msi

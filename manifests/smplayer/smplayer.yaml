@@ -1,11 +1,11 @@
 id: smplayer
 name: SMPlayer
-version: 18.3
+version: 18.4
 repo: https://sourceforge.net/projects/smplayer/
 installMethod: NSIS
 installers:
-- location: https://downloads.sourceforge.net/project/smplayer/SMPlayer/18.3.0/smplayer-18.3.0-win32.exe
-  sha256: 1499155c6214b010112263e918a56929ccfd8de0a37b62321025949c62d1e47e
-- location: https://downloads.sourceforge.net/project/smplayer/SMPlayer/18.3.0/smplayer-18.3.0-x64.exe
-  sha256: 540f2f55e933b75a7c04f84d0be1d74ac9117b5eb0f1afff60546ede254d38ff
+- location: https://downloads.sourceforge.net/project/smplayer/SMPlayer/18.4.0/smplayer-18.4.0-win32.exe
+  sha256: 765e6bb8b13417f959814281ffb31c7b028de98b81d3359617119c469baf9bb3
+- location: https://downloads.sourceforge.net/project/smplayer/SMPlayer/18.4.0/smplayer-18.4.0-x64.exe
+  sha256: 1d8f81cbf29d9c836cd5c45631d155efc2676ca60ddaa568b282c8cf2900dff2
   architecture: x64

@@ -1,10 +1,10 @@
 id: conemu
 name: ConEmu
 installMethod: MSI
-version: 18.04.15
+version: 18.04.22
 home: https://conemu.github.io/
 repo: https://github.com/Maximus5/ConEmu
 licence: BSD 3-Clause "New" or "Revised" License
 installers:
-- location: https://github.com/Maximus5/ConEmu/releases/download/v18.04.15/ConEmuSetup.180415.exe
-  sha256: 9cec32ef9d45d4feccd46efc5ab525cdf98360c010084460bb8e5d6027187fe8
+- location: https://github.com/Maximus5/ConEmu/releases/download/v18.04.22/ConEmuSetup.180422.exe
+  sha256: 6c071226e71bd7c898c00e35dccf59a03d2caef7ed0ba3fb0ee398a28ebb8434
