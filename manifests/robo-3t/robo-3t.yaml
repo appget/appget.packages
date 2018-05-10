@@ -1,0 +1,8 @@
+id: robo-3t
+name: Robo 3T
+version: 1.2.1
+home: https://robomongo.org/
+installMethod: NSIS
+installers:
+- location: https://download.robomongo.org/1.2.1/windows/robo3t-1.2.1-windows-x86_64-3e50a65.exe
+  sha256: e9c1583cfcc46996d863ae9c8127ec042a49f1e141d2951162df0c01dfed32f9
