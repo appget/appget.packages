@@ -3,7 +3,7 @@ name: Bulk Crap Uninstaller
 version: 4.3.4
 home: https://klocmansoftware.weebly.com/
 repo: https://github.com/Klocman/Bulk-Crap-Uninstaller
-licence: Apache License 2.0
+license: Apache License 2.0
 installMethod: Inno
 installers:
 - location: https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v4.3.4/BCUninstaller_4.3.4_setup.exe

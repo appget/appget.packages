@@ -3,7 +3,7 @@ name: Etcher
 version: 1.4.4
 home: https://etcher.io/
 repo: https://github.com/resin-io/etcher
-licence: Apache License 2.0
+license: Apache License 2.0
 installMethod: NSIS
 installers:
 - location: https://github.com/resin-io/etcher/releases/download/v1.4.4/Etcher-Setup-1.4.4-x86.exe

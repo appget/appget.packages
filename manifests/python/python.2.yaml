@@ -2,7 +2,7 @@ id: python
 name: Python 2
 version: 2.7.14
 home: https://www.python.org
-licence: Python Software Foundation License
+license: Python Software Foundation License
 installMethod: MSI
 args:
   passive: PrependPath=1

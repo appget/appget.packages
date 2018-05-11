@@ -3,7 +3,7 @@ name: ImageGlass
 version: 4.5.11.27
 home: http://www.imageglass.org/
 repo: https://github.com/d2phap/ImageGlass
-licence: GNU General Public License v3.0
+license: GNU General Public License v3.0
 installMethod: Inno
 installers:
 - location: https://github.com/d2phap/ImageGlass/releases/download/4.5.11.27/ImageGlass_4.5.11.27.exe

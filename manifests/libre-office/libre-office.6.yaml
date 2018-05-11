@@ -1,6 +1,6 @@
 id: libre-office
 name: LibreOffice
-licence: Mozilla Public License v2.0
+license: Mozilla Public License v2.0
 version: 6.0.1
 home: https://www.libreoffice.org
 installMethod: MSI

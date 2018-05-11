@@ -4,7 +4,7 @@ installMethod: MSI
 version: 18.04.22
 home: https://conemu.github.io/
 repo: https://github.com/Maximus5/ConEmu
-licence: BSD 3-Clause "New" or "Revised" License
+license: BSD 3-Clause "New" or "Revised" License
 installers:
 - location: https://github.com/Maximus5/ConEmu/releases/download/v18.04.22/ConEmuSetup.180422.exe
   sha256: 6c071226e71bd7c898c00e35dccf59a03d2caef7ed0ba3fb0ee398a28ebb8434

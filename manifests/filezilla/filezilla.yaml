@@ -2,7 +2,7 @@ id: filezilla
 name: FileZilla
 version: 3.32
 home: https://filezilla-project.org/
-licence: GNU General Public License
+license: GNU General Public License
 installMethod: NSIS
 installers:
 - location: https://download.filezilla-project.org/client/FileZilla_latest_win32-setup.exe

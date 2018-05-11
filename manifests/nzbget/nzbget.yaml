@@ -3,7 +3,7 @@ name: NZBGet
 version: 19.1
 home: https://nzbget.net/
 repo: https://github.com/nzbget/nzbget
-licence: GNU General Public License v2.0
+license: GNU General Public License v2.0
 installMethod: NSIS
 installers:
 - location: https://github.com/nzbget/nzbget/releases/download/v19.1/nzbget-19.1-bin-win32-setup.exe

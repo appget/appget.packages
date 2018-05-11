@@ -3,7 +3,7 @@ name: Atom
 version: 1.25.0
 home: https://atom.io
 repo: https://github.com/atom/atom
-licence: MIT License
+license: MIT License
 installMethod: Squirrel
 installers:
 - location: https://github.com/atom/atom/releases/download/v1.25.0/AtomSetup.exe

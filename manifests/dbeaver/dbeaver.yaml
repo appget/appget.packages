@@ -3,7 +3,7 @@ name: DBeaver Community
 version: 5.0.3
 home: https://dbeaver.jkiss.org/
 repo: https://github.com/dbeaver/dbeaver
-licence: Apache License 2.0
+license: Apache License 2.0
 installMethod: NSIS
 installers:
 - location: https://github.com/dbeaver/dbeaver/releases/download/5.0.3/dbeaver-ce-5.0.3-x86-setup.exe

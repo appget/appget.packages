@@ -3,7 +3,7 @@ name: WebTorrent
 version: 0.20.0
 home: https://webtorrent.io/desktop
 repo: https://github.com/webtorrent/webtorrent-desktop
-licence: MIT License
+license: MIT License
 installMethod: Squirrel
 installers:
 - location: https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.20.0/WebTorrentSetup-v0.20.0-ia32.exe

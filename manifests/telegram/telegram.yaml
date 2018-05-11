@@ -2,7 +2,7 @@ id: telegram
 name: Telegram Desktop
 version: 1.2.17
 home: https://telegram.org/
-licence: GPL v3
+license: GPL v3
 installMethod: Inno
 installers:
 - location: https://telegram.org/dl/desktop/win

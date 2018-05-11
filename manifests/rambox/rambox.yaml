@@ -3,7 +3,7 @@ name: Rambox
 version: 0.5.17
 home: http://rambox.pro/
 repo: https://github.com/saenzramiro/rambox
-licence: GNU General Public License v3.0
+license: GNU General Public License v3.0
 installMethod: Squirrel
 installers:
 - location: https://getrambox.herokuapp.com/download/win32_ia32

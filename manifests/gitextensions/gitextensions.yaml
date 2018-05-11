@@ -3,7 +3,7 @@ name: Git Extensions
 version: 2.51.01
 home: https://gitextensions.github.io/
 repo: https://github.com/gitextensions/gitextensions
-licence: GNU General Public License v3.0
+license: GNU General Public License v3.0
 installMethod: MSI
 installers:
 - location: https://github.com/gitextensions/gitextensions/releases/download/v2.51.01/GitExtensions-2.51.01-Setup.msi

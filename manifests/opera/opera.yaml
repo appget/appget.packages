@@ -2,7 +2,7 @@ id: opera
 name: Opera
 version: 51.0.2830.40
 home: https://www.opera.com/
-licence: Freeware
+license: Freeware
 installMethod: Custom
 args:
   passive: /runimmediately launchbrowser=0

@@ -2,7 +2,7 @@ id: sonarr
 name: Sonarr
 version: 2.0.0.5163
 home: https://sonarr.tv/
-licence: GNU GPL v3
+license: GNU GPL v3
 installMethod: Inno
 installers:
 - location: https://download.sonarr.tv/v2/master/latest/NzbDrone.master.exe

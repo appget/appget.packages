@@ -3,7 +3,7 @@ name: Ruby
 version: 2.5.1
 home: https://rubyinstaller.org/
 repo: https://github.com/oneclick/rubyinstaller2
-licence: BSD 3-Clause "New" or "Revised" License
+license: BSD 3-Clause "New" or "Revised" License
 installMethod: Inno
 installers:
 - location: https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.5.1-1/rubyinstaller-2.5.1-1-x86.exe
