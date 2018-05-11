@@ -1,8 +1,8 @@
 id: clink
 name: Clink
 version: 0.4.9
-home: mridgers.github.io/clink
-repo: https://github.com/mridgers/clink
+home: https://mridgers.github.io/clink/
+repo: https://github.com/mridgers/clink/
 licence: GNU General Public License v3.0
 installMethod: NSIS
 installers:
