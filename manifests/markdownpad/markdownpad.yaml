@@ -1,0 +1,7 @@
+id: markdownpad
+name: MarkdownPad
+version: 2.5.0.27920
+home: https://markdownpad.com/
+installMethod: Custom
+installers:
+- location: https://markdownpad.com/download/markdownpad2-setup.exe
