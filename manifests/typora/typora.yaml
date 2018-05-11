@@ -1,0 +1,9 @@
+id: typora
+name: Typora
+version: 0.9.50
+home: https://typora.io/
+installMethod: Inno
+installers:
+- location: https://typora.io/windows/typora-setup-ia32.exe
+- location: https://typora.io/windows/typora-setup-x64.exe
+  architecture: x64
