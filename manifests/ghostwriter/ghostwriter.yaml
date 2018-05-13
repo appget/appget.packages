@@ -1,0 +1,10 @@
+id: ghostwriter
+name: ghostwriter
+version: 1.6.2
+home: https://wereturtle.github.io/ghostwriter/
+repo: https://github.com/wereturtle/ghostwriter
+license: GNU General Public License v3.0
+installMethod: Inno
+installers:
+- location: https://github.com/wereturtle/ghostwriter/releases/download/v1.6.2/ghostwriter-v1.6.2-setup.exe
+  sha256: 9a8e9400dea05c1ae8fa2fe5d3eb89a20dfa58ef74727cf25995b7f4b7f10ce9
