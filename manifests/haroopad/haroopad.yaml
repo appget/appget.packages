@@ -1,0 +1,11 @@
+id: haroopad
+name: Haroopad
+version: 0.13.1
+home: http://pad.haroopress.com/
+installMethod: MSI
+installers:
+- location: https://bitbucket.org/rhiokim/haroopad-download/downloads/Haroopad-v0.13.1-win-ia32.msi
+  sha256: 1d757da57703e8ca0d59940d47e2579260ab2c25fcd35b3579530bd743e0e94c
+- location: https://bitbucket.org/rhiokim/haroopad-download/downloads/Haroopad-v0.13.1-win-x64.msi
+  sha256: e7d58b36ecad0af0d030dbab7473f8846414de938f2dda537083330f3eb1dac1
+  architecture: x64
