@@ -1,0 +1,8 @@
+id: texts
+name: Texts
+version: 1.5
+home: http://www.texts.io/
+installMethod: MSI
+installers:
+- location: http://www.texts.io/Texts-1.5.msi
+  sha256: f696fbf90d00315c179de2e070c3bc6131488de5d4e06f8de150d952ba0a1c79
