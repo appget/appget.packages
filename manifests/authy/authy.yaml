@@ -1,0 +1,11 @@
+id: authy
+name: Authy Desktop
+version: 1.5
+home: https://authy.com/
+installMethod: Squirrel
+installers:
+- location: https://s3.amazonaws.com/authy-electron-repository-production/authy/stable/1.5.0/win32/x32/Authy Desktop Setup 1.5.0.exe
+  sha256: dd860ed175c247a25d30aee502190274a789b910fa414cf772ae4a4b2657ceb1
+- location: https://s3.amazonaws.com/authy-electron-repository-production/authy/stable/1.5.0/win32/x64/Authy Desktop Setup 1.5.0.exe
+  sha256: 13d22e63d90460d8be40d807b96204549e0311f6a72702932f85708714c7f00c
+  architecture: x64
