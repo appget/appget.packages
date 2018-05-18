@@ -1,8 +1,9 @@
 id: azure-storage-explorer
 name: Microsoft Azure Storage Explorer
-version: 0.9.6
+version: 1.1
 home: https://azure.microsoft.com/en-us/features/storage-explorer/
 installMethod: Inno
 installers:
 - location: https://download.microsoft.com/download/A/E/3/AE32C485-B62B-4437-92F7-8B6B2C48CB40/StorageExplorer.exe
-  sha256: ca09027685303a2ecf9b7a30cfbd25a6b737f7473043e8a064cf90d55b8b50d1
+  sha256: e067ea8e562c218c03490a780c67f5f16340fbbee5dc89a3e24fa55c154d4142
+  minWindowsVersion: 6.1
