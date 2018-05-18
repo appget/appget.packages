@@ -1,0 +1,9 @@
+id: shoes-rb
+name: Shoes
+version: 3.3.6
+home: http://shoesrb.com/
+installMethod: NSIS
+installers:
+- location: https://shoes.mvmanila.com/public/shoes/shoes-3.3.6-gtk3-32.exe
+  sha256: e447d0547662593aec4a01a5c16b7dd722e86dc42601990cd0491af972a53a63
+  minWindowsVersion: 6.1
