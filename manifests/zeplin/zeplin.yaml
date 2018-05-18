@@ -1,0 +1,9 @@
+id: zeplin
+name: Zeplin
+version: 1.4.0
+home: https://zeplin.io/
+installMethod: Squirrel
+installers:
+- location: https://zpl.io/download-windows-64
+  architecture: x64
+  minWindowsVersion: 6.1
