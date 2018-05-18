@@ -1,0 +1,11 @@
+id: sqlectron
+name: Sqlectron
+version: 1.29.0.646
+home: https://sqlectron.github.io/
+repo: https://github.com/sqlectron/sqlectron-gui
+license: MIT License
+installMethod: NSIS
+installers:
+- location: https://github.com/sqlectron/sqlectron-gui/releases/download/v1.29.0/Sqlectron-Setup-1.29.0.exe
+  sha256: c7a30419fe8d56fe3f0f6459630ded89233cb49329349e27e42e202580e8607c
+  minWindowsVersion: 6.1

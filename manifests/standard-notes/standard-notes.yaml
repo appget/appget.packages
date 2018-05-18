@@ -1,0 +1,9 @@
+id: standard-notes
+name: Standard Notes
+version: 2.1.32
+repo: https://github.com/standardnotes/desktop
+installMethod: NSIS
+installers:
+- location: https://github.com/standardnotes/desktop/releases/download/v2.1.32/standard-notes-setup-2.1.32.exe
+  sha256: 05b49043d1bffe60ab74f00aac4f359788d91064ee91dfe7d5998b26a59a1099
+  minWindowsVersion: 6.1

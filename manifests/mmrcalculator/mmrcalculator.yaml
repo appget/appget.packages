@@ -1,0 +1,11 @@
+id: mmrcalculator
+name: MMRCalculator
+version: 0.2.1
+home: https://www.r6rc.com/mmrcalculator.html
+repo: https://github.com/AustinLeath/mmrcalculator
+license: MIT License
+installMethod: NSIS
+installers:
+- location: https://github.com/AustinLeath/mmrcalculator/releases/download/v0.2.1/MMRCalculator-Setup-0.2.1.exe
+  sha256: 459a8a38b6b178fb1ed09f1b042bbb570e0a237a175bfbc1755948a245a7a8fb
+  minWindowsVersion: 6.1

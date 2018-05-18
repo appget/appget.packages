@@ -1,0 +1,11 @@
+id: now
+name: Now
+version: 3.8.28.964
+home: https://zeit.co/download
+repo: https://github.com/zeit/now-desktop
+license: MIT License
+installMethod: Squirrel
+installers:
+- location: https://github.com/zeit/now-desktop/releases/download/3.8.28/now-desktop-Setup-3.8.28.exe
+  sha256: 725282bb1e1843d3b58ecd4021c9e901e17f9362859866f82bfa7e7e951e646d
+  minWindowsVersion: 6.1

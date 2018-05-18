@@ -1,0 +1,11 @@
+id: insomnia
+name: Insomnia
+version: 5.16.1.1876
+home: https://insomnia.rest/
+repo: https://github.com/getinsomnia/insomnia
+license: MIT License
+installMethod: Squirrel
+installers:
+- location: https://github.com/getinsomnia/insomnia/releases/download/v5.16.1/Insomnia.Setup.5.16.1.exe
+  sha256: 2f90a2a885d744dbb846738edde07f88266850d8b3dfdb173f4f30837622ddb8
+  minWindowsVersion: 6.1

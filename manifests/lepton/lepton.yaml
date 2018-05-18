@@ -1,0 +1,10 @@
+id: lepton
+name: Lepton
+version: 1.6.2
+home: http://hackjutsu.com/lepton
+repo: https://github.com/hackjutsu/Lepton
+installMethod: NSIS
+installers:
+- location: https://github.com/hackjutsu/Lepton/releases/download/v1.6.2/Lepton-Setup-1.6.2.exe
+  sha256: fd6702dab02083a0b2576d490b3c22c08318f89c4b5d7752fb28cdb24f26e141
+  minWindowsVersion: 6.1

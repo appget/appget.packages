@@ -7,3 +7,4 @@ installMethod: Squirrel
 installers:
 - location: https://github.com/Foundry376/Mailspring/releases/download/1.2.1/MailspringSetup.exe
   sha256: cda3f32ffe986dc5b5e99ee364eaad9bde0f066a608bdef42fa44c49f49f73bf
+  minWindowsVersion: 6.1

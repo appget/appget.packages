@@ -1,0 +1,10 @@
+id: ramme
+name: Ramme
+version: 3.2.3.137
+repo: https://github.com/terkelg/ramme
+license: MIT License
+installMethod: NSIS
+installers:
+- location: https://github.com/terkelg/ramme/releases/download/v3.2.3/Ramme-Setup-3.2.3.exe
+  sha256: 707dd10d9d2c825ff353ec76418c18eeeb51c9d0776bd601c97f7772f8aca8e7
+  minWindowsVersion: 6.1
