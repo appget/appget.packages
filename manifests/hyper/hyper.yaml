@@ -2,7 +2,7 @@ id: hyper
 name: Hyper
 version: 2.0.0.1008
 home: https://hyper.is/
-repo: https://github.com/zeit/hyper
+repo: https://github.com/zeit/hyper/
 license: MIT License
 installMethod: Squirrel
 installers:

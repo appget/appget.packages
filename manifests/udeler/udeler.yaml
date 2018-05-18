@@ -1,7 +1,7 @@
 id: udeler
 name: Udeler
 version: 1.5.0
-repo: https://github.com/FaisalUmair/udemy-downloader-gui
+repo: https://github.com/FaisalUmair/udemy-downloader-gui/
 license: MIT License
 installMethod: NSIS
 installers:

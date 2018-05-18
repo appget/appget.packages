@@ -2,7 +2,7 @@ id: mark-text
 name: Mark Text
 version: 0.10.21.427
 home: https://marktext.github.io/website/
-repo: https://github.com/marktext/marktext
+repo: https://github.com/marktext/marktext/
 license: MIT License
 installMethod: NSIS
 installers:

@@ -1,7 +1,7 @@
 id: wavebox
 name: wavebox
 version: 3.14.6
-repo: https://github.com/wavebox/waveboxapp
+repo: https://github.com/wavebox/waveboxapp/
 license: Mozilla Public License 2.0
 installMethod: Squirrel
 installers:

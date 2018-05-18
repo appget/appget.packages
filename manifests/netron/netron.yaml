@@ -2,7 +2,7 @@ id: netron
 name: Netron
 version: 1.7.8
 home: https://www.lutzroeder.com/ai
-repo: https://github.com/lutzroeder/Netron
+repo: https://github.com/lutzroeder/Netron/
 license: MIT License
 installMethod: NSIS
 installers:
