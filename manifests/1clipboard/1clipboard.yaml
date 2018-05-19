@@ -1,7 +1,7 @@
 id: 1clipboard
 name: 1Clipboard
 version: 0.1.8
-home: http://1clipboard.io
+home: http://1clipboard.io/
 license: MIT
 installMethod: Squirrel
 installers:

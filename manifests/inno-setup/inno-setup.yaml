@@ -1,7 +1,7 @@
 id: inno-setup
 name: Inno Setup
 version: 5.5.9
-home: http://jrsoftware.org
+home: http://jrsoftware.org/
 installMethod: Inno
 installers:
 - location: http://files.jrsoftware.org/is/5/innosetup-5.5.9-unicode.exe

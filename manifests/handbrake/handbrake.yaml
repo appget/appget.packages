@@ -1,7 +1,7 @@
 id: handbrake
 name: HandBrake
 version: 1.0.7
-home: https://handbrake.fr
+home: https://handbrake.fr/
 installMethod: NSIS
 installers:
 - location: https://download.handbrake.fr/releases/1.0.7/HandBrake-1.0.7-i686-Win_GUI.exe

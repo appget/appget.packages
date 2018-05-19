@@ -5,4 +5,4 @@ home: https://www.freefilesync.org/
 installMethod: Inno
 installers:
 - location: https://www.freefilesync.org/download/FreeFileSync_10.0_Windows_Setup.exe
-  sha256: 8aa554eefc37f30315dd327ee6f99a9d07ce0b3c996f45cb8f933162159b5515
+  sha256: e1bb810352495373225c9bf004360fee5695ec50eb0a92fa241d3d2b8ba9f10f

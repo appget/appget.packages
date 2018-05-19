@@ -1,7 +1,7 @@
 id: kicad
 name: KiCad
 version: 4.0.7
-home: http://kicad-pcb.org
+home: http://kicad-pcb.org/
 installMethod: NSIS
 installers:
 - location: http://downloads.kicad-pcb.org/windows/stable/kicad-4.0.7-i686.exe
