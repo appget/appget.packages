@@ -5,4 +5,3 @@ home: https://www.linqpad.net/
 installMethod: Inno
 installers:
 - location: https://www.linqpad.net/GetFile.aspx?LINQPad4Setup.exe
-  sha256: 244811fd6a1c3eba338b883e315cc6774bd1b0c3a44f4412b4fca06e03f56571
