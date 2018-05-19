@@ -1,6 +1,6 @@
 id: direct-folders
 name: Direct Folders
-version: 3.8
+version: 3.8.0
 home: https://www.codesector.com/directfolders/
 installMethod: Inno
 installers:

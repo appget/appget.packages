@@ -1,10 +1,10 @@
 id: bitpay
 name: BitPay
-version: 3.15.2
+version: 4.3.5
 home: https://copay.io/
-repo: https://github.com/bitpay/copay
+repo: https://github.com/bitpay/copay/
 license: MIT License
 installMethod: Inno
 installers:
-- location: https://github.com/bitpay/copay/releases/download/v3.15.2/BitPay.exe
-  sha256: d7e5aaa81e08468039aa8531aa33de3b87a094f3aba36fec9d1cd6c7ebb8bd67
+- location: https://github.com/bitpay/copay/releases/download/v4.3.5/BitPay.exe
+  sha256: e5c97d765cc3eb1c99c3bf281cf846e41286c6002eee3403b9c09d4719ff026d

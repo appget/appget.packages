@@ -1,8 +1,8 @@
 id: keepass
 name: KeePass Password Safe
-version: 2.38
+version: 2.39.1
 repo: https://sourceforge.net/projects/keepass/
 installMethod: MSI
 installers:
-- location: https://downloads.sourceforge.net/project/keepass/KeePass 2.x/2.38/KeePass-2.38.msi
-  sha256: 0e3db38afc395d59afbc422b9f1dcee750d5b00f880825fdfa79c2f095afe252
+- location: https://downloads.sourceforge.net/project/keepass/KeePass 2.x/2.39.1/KeePass-2.39.1.msi
+  sha256: 19b37bf4b52a8e34f44499c1b726de71e659f8008367fc2638613865a9ba082e

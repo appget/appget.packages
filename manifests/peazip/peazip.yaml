@@ -1,6 +1,6 @@
 id: peazip
 name: PeaZip
-version: 6.6
+version: 6.6.0
 home: http://www.peazip.org/
 installMethod: Inno
 installers:

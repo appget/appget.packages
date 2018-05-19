@@ -1,6 +1,6 @@
 id: smplayer
 name: SMPlayer
-version: 18.4
+version: 18.4.0
 repo: https://sourceforge.net/projects/smplayer/
 installMethod: NSIS
 installers:

@@ -2,7 +2,7 @@ id: ruby
 name: Ruby
 version: 2.5.1
 home: https://rubyinstaller.org/
-repo: https://github.com/oneclick/rubyinstaller2
+repo: https://github.com/oneclick/rubyinstaller2/
 license: BSD 3-Clause "New" or "Revised" License
 installMethod: Inno
 installers:

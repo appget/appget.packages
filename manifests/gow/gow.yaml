@@ -1,8 +1,8 @@
 id: gow
 name: Gow
-version: 0.8
+version: 0.8.0
 home: https://wiki.github.com/bmatzelle/gow/
-repo: https://github.com/bmatzelle/gow
+repo: https://github.com/bmatzelle/gow/
 installMethod: NSIS
 installers:
 - location: https://github.com/bmatzelle/gow/releases/download/v0.8.0/Gow-0.8.0.exe
