@@ -1,8 +1,8 @@
 id: git
 name: Git
-version: 2.17
+version: 2.17.0
 home: https://git-scm.com/
-repo: https://github.com/git-for-windows/git
+repo: https://github.com/git-for-windows/git/
 license: GNU General Public License version 2
 installMethod: Inno
 installers:

@@ -1,12 +1,12 @@
 id: keepassxc
 name: KeePassXC
-version: 2.3.1
+version: 2.3.3
 home: https://keepassxc.org/
-repo: https://github.com/keepassxreboot/keepassxc
-installMethod: NSIS
+repo: https://github.com/keepassxreboot/keepassxc/
+installMethod: MSI
 installers:
-- location: https://github.com/keepassxreboot/keepassxc/releases/download/2.3.1/KeePassXC-2.3.1-Win32.exe
-  sha256: 35fe271fee3a0393cd99212534b319f490ca7bf9ca98647c15f555c34d257d7a
-- location: https://github.com/keepassxreboot/keepassxc/releases/download/2.3.1/KeePassXC-2.3.1-Win64.exe
-  sha256: 2992c184c614a2e6b28fd17b682e1785504846101b34f478e4da411055296269
+- location: https://github.com/keepassxreboot/keepassxc/releases/download/2.3.3/KeePassXC-2.3.3-Win32.msi
+  sha256: f7587a8a41c49f8bd565bb6ea72b97fcea9b695bd8258d57170b28799384e7ec
+- location: https://github.com/keepassxreboot/keepassxc/releases/download/2.3.3/KeePassXC-2.3.3-Win64.msi
+  sha256: cbafa14a8fb8f54ae2372946458935ab27900224aa714598bb5fdeb201027505
   architecture: x64
