@@ -1,0 +1,11 @@
+id: silk-svn
+name: SilkSVN
+version: 1.9.7
+home: https://sliksvn.com/
+installMethod: MSI
+installers:
+- location: https://sliksvn.com/pub/Slik-Subversion-1.9.7-win32.msi
+  sha256: d56ccbf6af8124a1193790451219dd2c6e608c5cea27fec2edd797aeb54eead4
+- location: https://sliksvn.com/pub/Slik-Subversion-1.9.7-x64.msi
+  sha256: 71f7209db593a499b5926acc67554142645b8ed3716f2f3637b1492f19d6a01a
+  architecture: x64

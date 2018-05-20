@@ -1,7 +1,7 @@
 id: brave
 name: Brave
-version: 0.22.13
-home: https://brave.com
+version: 0.22.714
+home: https://brave.com/
 installMethod: Squirrel
 installers:
 - location: https://laptop-updates.brave.com/latest/winia32
