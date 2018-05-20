@@ -1,0 +1,8 @@
+id: winja
+name: Winja
+version: 4.1.2
+home: https://www.phrozen.io/freeware/winja/
+installMethod: Inno
+installers:
+- location: https://www.phrozen.io/media/2018-05/winja-4-1-2-setup.exe
+  sha256: 79f848e6df61a6d43a8f76192e5050180da6dbe38d267f7ed56aaa591a7bae11
