@@ -4,5 +4,4 @@ version: 5.5.9
 home: http://jrsoftware.org/
 installMethod: Inno
 installers:
-- location: http://files.jrsoftware.org/is/5/innosetup-5.5.9-unicode.exe
-  sha256: 5b51ae6977bebba937ac18e0e80c1899e37dfaa12f51ccd817978ef07ae19cb3
+- location: http://www.jrsoftware.org/download.php/is-unicode.exe

@@ -1,0 +1,6 @@
+id: yarn
+name: Yarn
+home: https://yarnpkg.com/
+installMethod: MSI
+installers:
+- location: https://yarnpkg.com/latest.msi

@@ -1,0 +1,6 @@
+id: resource-hacker
+name: Resource Hacker
+home: http://angusj.com/
+installMethod: Inno
+installers:
+- location: http://angusj.com/resourcehacker/reshacker_setup.exe

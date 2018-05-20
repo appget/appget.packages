@@ -1,0 +1,8 @@
+id: pdf24
+name: PDF24
+version: 24
+home: https://www.pdf24.org/
+installMethod: MSI
+installers:
+- location: https://www.pdf24.org/products/pdf-creator/download/pdf24-creator.msi
+  sha256: 56b46fd0bd23d6373652609ca03448afb564cbcbcd5e5a3c3ac4e83a975788e2

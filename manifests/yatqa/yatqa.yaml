@@ -1,0 +1,6 @@
+id: yatqa
+name: YaTQA
+home: https://yat.qa/
+installMethod: NSIS
+installers:
+- location: https://dl.yat.qa/stable/

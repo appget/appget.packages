@@ -1,0 +1,6 @@
+id: torguard
+name: Torguard
+home: https://torguard.biz/
+installMethod: NSIS
+installers:
+- location: https://updates.torguard.biz/Software/Windows/torguard-setup-latest.exe
