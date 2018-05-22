@@ -1,5 +1,5 @@
-id: docker-community-edition
-name: Docker CE for Windows
+id: docker-community
+name: Docker Community Edition for Windows
 version: 18.03.1.17513
 home: https://www.docker.com/docker-windows/
 installMethod: Custom

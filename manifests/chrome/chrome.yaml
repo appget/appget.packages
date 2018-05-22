@@ -1,4 +1,4 @@
-id: google-chrome
+id: chrome
 name: Google Chrome
 home: https://www.google.com/chrome/
 installMethod: MSI
