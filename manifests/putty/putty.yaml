@@ -1,6 +1,6 @@
 id: putty
 name: PuTTY
-version: 0.70
+version: 0.70.0
 home: https://www.putty.org/
 license: MIT
 installMethod: MSI

@@ -1,5 +1,5 @@
 id: go
-name: Go
+name: Go Programming Language
 version: 1.10.2
 home: https://golang.org/
 installMethod: MSI

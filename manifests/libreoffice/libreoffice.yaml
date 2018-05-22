@@ -1,6 +1,6 @@
 id: libreoffice
 name: LibreOffice
-version: 6.0.4
+version: 6.0.4.2
 home: https://www.libreoffice.org/
 installMethod: MSI
 installers:

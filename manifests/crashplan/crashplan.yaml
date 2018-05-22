@@ -1,6 +1,7 @@
 id: crashplan
 name: CrashPlan
-version: 4.8.4
+version: 4.8.4.15
+home: https://www.code42.com/crashplan/
 installMethod: MSI
 installers:
 - location: https://download.code42.com/installs/win/install/CrashPlan/jre/CrashPlan_4.8.4_Win.msi

@@ -1,5 +1,5 @@
 id: perl
-name: Perl
+name: Strawberry Perl
 version: 5.26.2.1
 home: http://strawberryperl.com/
 installMethod: MSI

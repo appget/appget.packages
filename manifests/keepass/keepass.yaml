@@ -1,6 +1,7 @@
 id: keepass
 name: KeePass Password Safe
 version: 2.39.1
+home: https://keepass.info/
 repo: https://sourceforge.net/projects/keepass/
 installMethod: MSI
 installers:

@@ -1,6 +1,6 @@
 id: pdf24
-name: PDF24
-version: 24
+name: PDF24 Creator
+version: 8.4.1
 home: https://www.pdf24.org/
 installMethod: MSI
 installers:

@@ -1,6 +1,6 @@
 id: texts
 name: Texts
-version: 1.5
+version: 1.5.0
 home: http://www.texts.io/
 installMethod: MSI
 installers:

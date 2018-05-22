@@ -1,5 +1,6 @@
 id: yarn
 name: Yarn
+version: 1.6.0
 home: https://yarnpkg.com/
 installMethod: MSI
 installers:
