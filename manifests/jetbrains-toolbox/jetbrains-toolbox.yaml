@@ -1,0 +1,8 @@
+id: jetbrains-toolbox
+name: JetBrains Toolbox
+version: 1.8.3678
+home: https://www.jetbrains.com/toolbox/app/
+installMethod: NSIS
+installers:
+- location: https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.8.3678.exe
+  sha256: 6f3623db5cfe0352076e8fe23aa77679e2baf7e1c0df3bd2d3f430f5a8b2bc82
