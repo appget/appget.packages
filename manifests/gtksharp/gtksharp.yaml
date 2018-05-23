@@ -1,0 +1,8 @@
+id: gtksharp
+name: Gtk# for .Net
+version: 2.12.45
+home: https://www.mono-project.com/
+installMethod: MSI
+installers:
+- location: https://dl.xamarin.com/GTKforWindows/Windows/gtk-sharp-2.12.45.msi
+  sha256: c944a52ca16d4c10f4619d4d7c9a46b358ffa798fa35641fc05030e59983e03d
