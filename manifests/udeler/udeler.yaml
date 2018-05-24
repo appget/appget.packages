@@ -1,14 +1,14 @@
 id: udeler
 name: Udeler
-version: 1.5.0
+version: 1.5.2
 repo: https://github.com/FaisalUmair/udemy-downloader-gui/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/FaisalUmair/udemy-downloader-gui/releases/download/v1.5.0/Udeler-Setup-1.5.0-windows-x86.exe
-  sha256: 241d848e04476ac79d91bc10eb00779eb66383ca6e06b968b089a0c1c576610f
+- location: https://github.com/FaisalUmair/udemy-downloader-gui/releases/download/v1.5.2/Udeler-Setup-1.5.2-windows-x86.exe
+  sha256: 02e49f9c38a13d6b5334923d19e446cd32e91bf0e2728cec1f613ae87129a7b9
   minWindowsVersion: 6.1
-- location: https://github.com/FaisalUmair/udemy-downloader-gui/releases/download/v1.5.0/Udeler-Setup-1.5.0-windows-x64.exe
-  sha256: 043daeb37ff368e7101a453e280436440ca9d4d20bd9e1380237c40315a0e9eb
+- location: https://github.com/FaisalUmair/udemy-downloader-gui/releases/download/v1.5.2/Udeler-Setup-1.5.2-windows-x64.exe
+  sha256: fb5ee36268206beb7cd1324765d44e1f80d4b00d08b64fac6127186fd5dbbadc
   architecture: x64
   minWindowsVersion: 6.1
