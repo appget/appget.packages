@@ -1,13 +1,13 @@
 id: ruby
 name: Ruby
-version: 2.5.1
+version: 2.4.4
 home: https://rubyinstaller.org/
 repo: https://github.com/oneclick/rubyinstaller2/
 license: BSD 3-Clause "New" or "Revised" License
 installMethod: Inno
 installers:
-- location: https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.5.1-1/rubyinstaller-2.5.1-1-x86.exe
-  sha256: 49d113ef99894810a65559226b3423be67ea016debf6533c43b46069c03b00d0
-- location: https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.5.1-1/rubyinstaller-2.5.1-1-x64.exe
-  sha256: b6fc06f165870473e78373f5981c536c1189b16a594d951f7d94a08a3f0270bf
+- location: https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.4.4-1/rubyinstaller-2.4.4-1-x86.exe
+  sha256: ffd5f7397c5a55fa5558f68f197405447a88c6979cb97ed2a0a3d30c4d7d9146
+- location: https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.4.4-1/rubyinstaller-2.4.4-1-x64.exe
+  sha256: 0334c210024d0e7eae6fd1fe016cbd73d3d90628f7146f9491f712806069f3a6
   architecture: x64
