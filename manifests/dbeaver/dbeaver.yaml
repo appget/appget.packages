@@ -10,4 +10,3 @@ installers:
   sha256: 17bdbe29d00e151d1e77f80cbcb0b6bba0d3a8471dbdf4d6ba6cd6c69a174155
 - location: https://github.com/dbeaver/dbeaver/releases/download/5.0.6/dbeaver-ce-5.0.6-x86_64-setup.exe
   sha256: ab4c18159cee181a90155a5ef92962df9e49775ae4c12154f492e321d3ccec03
-  architecture: x64
