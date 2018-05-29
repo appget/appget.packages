@@ -1,0 +1,11 @@
+id: node
+name: Node.js
+version: 8.11.2
+home: https://nodejs.org/
+installMethod: MSI
+installers:
+- location: https://nodejs.org/dist/v8.11.2/node-v8.11.2-x86.msi
+  sha256: 334d5ed17811b22fafd2c359f5f5dc7e803b13ec1099a9426dbcb2ca9871add0
+- location: https://nodejs.org/dist/v8.11.2/node-v8.11.2-x64.msi
+  sha256: 108dd9ccd131931e42b57dc1243dc28aacfebe207de48c420a576fe453d33ed7
+  architecture: x64
