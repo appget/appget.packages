@@ -1,0 +1,7 @@
+id: treesize-free
+name: TreeSize Free
+version: 4.1.2.407
+home: https://www.jam-software.com/treesize_free/
+installMethod: Inno
+installers:
+- location: https://www.jam-software.com/treesize_free/TreeSizeFreeSetup.exe
