@@ -1,0 +1,7 @@
+id: advanced-installer
+name: Advanced Installer
+version: 14.9
+home: https://www.advancedinstaller.com/
+installMethod: MSI
+installers:
+- location: https://www.advancedinstaller.com/downloads/advinst.msi
