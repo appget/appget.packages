@@ -1,0 +1,8 @@
+id: virtualbox
+name: Oracle VM VirtualBox
+version: 5.2.12.122591
+home: https://virtualbox.org/
+installMethod: Custom
+installers:
+- location: https://download.virtualbox.org/virtualbox/5.2.12/VirtualBox-5.2.12-122591-Win.exe
+  sha256: d039d27bd27937db7489dfefc854975573828ee066e37fec908579db37b6c2a0
