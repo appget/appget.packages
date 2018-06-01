@@ -4,5 +4,5 @@ version: 29.0.0.171
 home: https://www.adobe.com/ca/products/flashplayer.html
 installMethod: MSI
 installers:
-- location: https://fpdownload.macromedia.com/get/flashplayer/pdc/29.0.0.171/install_flash_player_29_plugin.msi
-  sha256: ebcdcd38e566bb5078d6facee2e6ab2e752082075ffe2847e8e56a960b308817
+- location: https://fpdownload.macromedia.com/get/flashplayer/pdc/29.0.0.171/install_flash_player_29_active_x.msi
+  sha256: 920155fcb4ac42f36b2df08ffa847ef2c976375d29d4feafe4d8bd20228be474
