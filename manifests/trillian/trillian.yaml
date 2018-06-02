@@ -1,0 +1,9 @@
+id: trillian
+name: Trillian
+version: 6.1
+home: https://trillian.im/
+installMethod: Custom
+installers:
+- location: https://trillian.im/get/windows/6.1/
+  sha256: cd4c0a5f39b8e8be8fabea143e58bb3afa93701843951231e65c35fd082945c8
+  minWindowsVersion: 6.1
