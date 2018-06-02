@@ -1,0 +1,8 @@
+id: jabra-direct
+name: Jabra Direct
+version: 3.12.1955
+home: https://www.jabra.com/software-and-services/jabra-direct
+installMethod: Wix
+installers:
+- location: https://www.jabra.com/jabradirect/JabraDirect3.12Setup.exe
+  sha256: 7551f415086126ee085d045088d7181f472a3f9eb09758d3ff74109f5000559c
