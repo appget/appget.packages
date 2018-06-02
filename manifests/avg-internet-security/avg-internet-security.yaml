@@ -1,0 +1,7 @@
+id: avg-internet-security
+name: AVG Internet Security System
+version: 18.4.3895
+home: https://www.avg.com/en-ww/internet-security
+installMethod: Custom
+installers:
+- location: https://install.avcdn.net/avg/iavs9x/avg_antivirus_free_setup.exe
