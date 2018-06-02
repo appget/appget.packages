@@ -1,0 +1,9 @@
+id: openpht
+name: OpenPHT (Plex Home Theater)
+version: 1.8.0.148
+repo: https://github.com/RasPlex/OpenPHT/
+license: GNU General Public License v2.0
+installMethod: NSIS
+installers:
+- location: https://github.com/RasPlex/OpenPHT/releases/download/v1.8.0.148-573b6d73/OpenPHT-1.8.0.148-573b6d73-windows-x86.exe
+  sha256: 3a8c4e7e03dc1657cbdef56c19de13135c43599b8f628e9d08c98d3443fb492d
