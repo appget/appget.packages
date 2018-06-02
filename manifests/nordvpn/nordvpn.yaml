@@ -1,0 +1,8 @@
+id: nordvpn
+name: NordVPN
+version: 6.13.13
+home: https://nordvpn.com/
+installMethod: AdvancedInstaller
+installers:
+- location: https://downloads.nordcdn.com/apps/windows/10/NordVPN/latest/NordVPNSetup.exe
+  sha256: 76d97ef64a86e0cffc0f0980e50aaf605a9e32125a3fba2d756930f6a85cb741
