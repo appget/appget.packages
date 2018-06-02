@@ -1,0 +1,8 @@
+id: evernote
+name: Evernote
+version: 6.11.2.7027
+home: https://evernote.com/
+installMethod: Custom
+installers:
+- location: https://cdn1.evernote.com/win6/public/Evernote_6.11.2.7027.exe
+  sha256: a0146f555433a21abfa536e3d99b0889d62838ad3cc0213428d910f974166571
