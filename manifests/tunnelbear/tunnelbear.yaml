@@ -1,0 +1,8 @@
+id: tunnelbear
+name: TunnelBear
+version: 3.3.2.1
+home: https://www.tunnelbear.com/
+installMethod: Wix
+installers:
+- location: https://tunnelbear.s3.amazonaws.com/downloads/pc/public/TunnelBear-Installer.exe
+  minWindowsVersion: 6.1
