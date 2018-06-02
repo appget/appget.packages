@@ -1,0 +1,11 @@
+id: winrar
+name: WinRAR
+version: 550
+home: https://www.win-rar.com/
+installMethod: Custom
+installers:
+- location: https://www.win-rar.com/fileadmin/winrar-versions/winrar/wrar550.exe
+  sha256: d6434e29ce31bf97059a21c2c932cf83fe8b428665a2e8cb34f67efaaef13784
+- location: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-550.exe
+  sha256: 702163785d2504d2b91d22151696f9481f887d22958c8102077edccd291f50e5
+  architecture: x64
