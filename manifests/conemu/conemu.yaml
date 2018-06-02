@@ -4,7 +4,7 @@ version: 18.05.06
 home: https://conemu.github.io/
 repo: https://github.com/Maximus5/ConEmu/
 license: BSD 3-Clause "New" or "Revised" License
-installMethod: MSI
+installMethod: Custom
 installers:
 - location: https://github.com/Maximus5/ConEmu/releases/download/v18.05.06/ConEmuSetup.180506.exe
   sha256: 4557380f8fb42cadfa40fba46e731c234a53ddef436dc1c0172b9f5b3ad47073
