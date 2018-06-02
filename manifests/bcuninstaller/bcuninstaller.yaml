@@ -1,10 +1,10 @@
 id: bcuninstaller
 name: BCUninstaller
-version: 4.3.4
+version: 4.4.0
 home: https://klocmansoftware.weebly.com/
 repo: https://github.com/Klocman/Bulk-Crap-Uninstaller/
 license: Apache License 2.0
 installMethod: Inno
 installers:
-- location: https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v4.3.4/BCUninstaller_4.3.4_setup.exe
-  sha256: 304490964aa5cd7242af63ef45da1235a4effe3c881c9d7d2c4f672b60ebd1cc
+- location: https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v4.4/BCUninstaller_4.4_setup.exe
+  sha256: 44bed22faca35b0437c774eb94ea96e12f1be9ff1cc1f7f05ec95e6b62d8d705
