@@ -1,0 +1,8 @@
+id: sugarsync
+name: SugarSync
+version: 3.9.6.10
+home: https://www.sugarsync.com/
+installMethod: NSIS
+installers:
+- location: https://www.sugarsync.com/downloads/p/SugarSyncSetup.exe
+  minWindowsVersion: 6.1
