@@ -1,6 +1,6 @@
 id: teamsql
 name: TeamSQL
-version: 3.3.203
+version: 3.4.207
 home: https://teamsql.io/
 installMethod: Squirrel
 installers:
