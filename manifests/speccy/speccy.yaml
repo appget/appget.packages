@@ -1,8 +1,8 @@
 id: speccy
 name: Speccy
-version: 1.31.732
+version: 1.32.26.740
 home: https://www.ccleaner.com/speccy
 installMethod: NSIS
 installers:
-- location: https://download.ccleaner.com/spsetup131.exe
-  sha256: f52ec93f4ea0b4d7cce5c4b495b8b2da2657ff2073a1745993d972ae8d8389f2
+- location: https://download.ccleaner.com/spsetup132.exe
+  sha256: 64a5ba6d65e0b73ae6987c561c86b1e2338a1f337ab5bd5a87c9eeba4963cc3f
