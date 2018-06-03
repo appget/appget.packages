@@ -4,4 +4,5 @@ version: 3.1.1.27844
 home: https://gpg4win.org/
 installMethod: NSIS
 installers:
-- location: https://files.gpg4win.org/gpg4win-latest.exe
+- location: https://files.gpg4win.org/gpg4win-3.1.1.exe
+  sha256: b2144904f103dad48328fe125eb182c4dcfbe8093d48b74691613e0d2ed26033
