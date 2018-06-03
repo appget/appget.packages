@@ -6,8 +6,8 @@ repo: https://github.com/git-for-windows/git/
 license: GNU General Public License version 2
 installMethod: Inno
 installers:
-- location: https://github.com/git-for-windows/git/releases/download/v2.17.1.windows.2/Git-2.17.1.2-32-bit.exe
-  sha256: 5dca054b53a2b38fbfc35f7b2390462d81f9ee62fa38b6f47d2d77365ab7f84a
-- location: https://github.com/git-for-windows/git/releases/download/v2.17.1.windows.2/Git-2.17.1.2-64-bit.exe
-  sha256: 64a44bf936dfb1af0ca8b84d5e9accb138452f1fa40030706964c3bbd9e1c69b
+- location: https://github.com/git-for-windows/git/releases/download/v2.17.1.windows.2/PortableGit-2.17.1.2-32-bit.7z.exe
+  sha256: 74ef9dce2a185535dc5cbe7d53076df8558d739f29721be33b894d21b653f194
+- location: https://github.com/git-for-windows/git/releases/download/v2.17.1.windows.2/PortableGit-2.17.1.2-64-bit.7z.exe
+  sha256: 5664ee470caf44743be1514c71f77cb8ac360dd69a667e6dd668cc6531acb8ba
   architecture: x64
