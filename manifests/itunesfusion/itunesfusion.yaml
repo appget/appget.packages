@@ -1,0 +1,8 @@
+id: itunesfusion
+name: iTunesFusion
+version: 3.1.0
+home: https://www.itunesfusion.com/
+installMethod: Inno
+installers:
+- location: https://binaryfortressdownloads.com/Download/BFSFiles/102/iTunesFusionSetup-3.1.exe
+  sha256: 66cc4d7ad2d8e23c41013f20e0ca5109d452df7a04eb027a6cd1312764875ab9

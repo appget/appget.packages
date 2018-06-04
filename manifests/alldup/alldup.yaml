@@ -1,0 +1,7 @@
+id: alldup
+name: AllDup
+version: 4.1.0.5
+home: http://www.alldup.info/
+installMethod: Inno
+installers:
+- location: http://www.alldup.info/download/AllDupSetup.exe

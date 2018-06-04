@@ -1,0 +1,12 @@
+id: ghostscript
+name: Ghostscript
+version: 9.23.0
+home: https://www.ghostscript.com/
+repo: https://github.com/ArtifexSoftware/ghostpdl-downloads/
+installMethod: NSIS
+installers:
+- location: https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs923/gs923w32.exe
+  sha256: 5879b9970007490e62f1c1d9d6688bb633a069cdd5fc466dadb9ea8114c8c75a
+- location: https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs923/gs923w64.exe
+  sha256: 9e614cbac9f674710de965d9847ace29127d71dc1875e48517f4abce0e324400
+  architecture: x64

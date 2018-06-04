@@ -1,0 +1,11 @@
+id: jubler
+name: Jubler
+version: 5.1.0
+repo: https://sourceforge.net/projects/jubler/
+installMethod: NSIS
+installers:
+- location: https://downloads.sourceforge.net/project/jubler/Jubler Binary Releases/5.1/Jubler-5.1_32.exe
+  sha256: 22e3c1ea77c44ac86065a8d79c18052b0c7bfcae9d0121c22d53f2b4827e378e
+- location: https://downloads.sourceforge.net/project/jubler/Jubler Binary Releases/5.1/Jubler-5.1_64.exe
+  sha256: ce1875c4e992bfcc260544c133a2abf600815707bb5ce1338d62576b021d9539
+  architecture: x64

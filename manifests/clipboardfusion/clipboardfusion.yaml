@@ -1,0 +1,8 @@
+id: clipboardfusion
+name: ClipboardFusion
+version: 5.3.0
+home: https://www.clipboardfusion.com/
+installMethod: Inno
+installers:
+- location: https://binaryfortressdownloads.com/Download/BFSFiles/104/ClipboardFusionSetup-5.3.exe
+  sha256: f07a3c5a68987410feb764ff8bc30b81b88db3726c8f94ec91a119211d124423

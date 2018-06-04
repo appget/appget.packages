@@ -1,0 +1,7 @@
+id: ant-renamer
+name: Ant Renamer
+version: 2.12.0
+home: https://antp.be/software/renamer
+installMethod: Inno
+installers:
+- location: https://update.antp.be/renamer/antrenamer2_install.exe

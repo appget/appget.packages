@@ -1,0 +1,7 @@
+id: keyfinder
+name: KeyFinder
+version: 2.0.10.13
+home: https://www.magicaljellybean.com/
+installMethod: Inno
+installers:
+- location: https://www.magicaljellybean.com/downloads/KeyFinderInstaller.exe

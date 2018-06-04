@@ -1,0 +1,8 @@
+id: ext2fsd
+name: Ext2Fsd (Ext2 File System Driver for Windows)
+version: 1.40.11.1
+repo: https://sourceforge.net/projects/ext2fsd/
+installMethod: Inno
+installers:
+- location: https://downloads.sourceforge.net/project/ext2fsd/Ext2fsd/0.69/Ext2Fsd-0.69.exe
+  sha256: 04461a580e5d259ef7aca9e0c0d715d3baf342ad940354b6545d7ff3ed85af1c
