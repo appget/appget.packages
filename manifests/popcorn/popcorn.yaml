@@ -1,0 +1,9 @@
+id: popcorn
+name: Popcorn
+version: 5.0.1
+repo: https://github.com/bbougot/Popcorn/
+license: GNU General Public License v3.0
+installMethod: Squirrel
+installers:
+- location: https://github.com/bbougot/Popcorn/releases/download/v5.0.1/PopcornInstaller.exe
+  sha256: 890cebacba874fe94336757a32087d4d5f5b1d4418f1ad9402ec86e84891b554
