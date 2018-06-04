@@ -1,6 +1,6 @@
 id: tortoisegit
 name: TortoiseGit
-version: 2.6.0
+version: 2.6.0.0
 home: https://tortoisegit.org/
 installMethod: MSI
 installers:
