@@ -1,0 +1,8 @@
+id: 360-total-security
+name: 360 Total Security
+version: 10.0.0.1069
+home: https://www.360totalsecurity.com/
+installMethod: Custom
+installers:
+- location: https://free.360totalsecurity.com/totalsecurity/360TS_Setup_10.0.0.1069.exe
+  sha256: 322a412e6b092a793ced7c078663d79482cc790c68f1e834e57307860b067201
