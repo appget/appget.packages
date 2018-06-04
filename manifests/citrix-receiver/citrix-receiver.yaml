@@ -1,6 +1,6 @@
 id: citrix-receiver
 name: Citrix Receiver
-version: 14.11.0.17061
+version: 14.12.0.18020
 home: https://www.citrix.com/products/receiver/
 installMethod: Custom
 args:
