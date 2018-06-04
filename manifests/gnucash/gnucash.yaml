@@ -1,0 +1,8 @@
+id: gnucash
+name: GnuCash
+version: 3.1.0
+repo: https://sourceforge.net/projects/gnucash/
+installMethod: Inno
+installers:
+- location: https://downloads.sourceforge.net/project/gnucash/gnucash (stable)/3.1/gnucash-3.1-2.setup.exe
+  sha256: 426e9a8d0f6542486052733171aa33700da061b0af23101b2b42dac141e6fafe

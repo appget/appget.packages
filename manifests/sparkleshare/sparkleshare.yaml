@@ -1,0 +1,8 @@
+id: sparkleshare
+name: SparkleShare
+version: 1.5.0
+home: http://www.sparkleshare.org/
+installMethod: MSI
+installers:
+- location: https://bitbucket.org/hbons/sparkleshare/downloads/sparkleshare-windows-1.5.msi
+  sha256: 7c82078c4ed912d4ac5a0d93c9a638f15b9da5332f34d5088ec27ae14ccd085c

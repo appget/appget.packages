@@ -1,0 +1,11 @@
+id: lightworks
+name: Lightworks
+version: 14.0.0
+home: https://www.lwks.com/
+installMethod: NSIS
+installers:
+- location: https://s3.amazonaws.com/lightworks/lightworks_v14.0.0_full_32bit_setup.exe
+  sha256: 4b7a1dd5033bf8501eda63e877d3e498dbbb9c4cd86031690b386da6370c658a
+- location: https://s3.amazonaws.com/lightworks/lightworks_v14.0.0_full_64bit_setup.exe
+  sha256: 86c7f33d569e2fa1f3151c9856706008a40806501bb13a335aaea751c45ecae6
+  architecture: x64

@@ -1,5 +1,5 @@
 id: gpg4win
-name: Gpg4win
+name: GPG4Win
 version: 3.1.1.27844
 home: https://gpg4win.org/
 installMethod: NSIS
