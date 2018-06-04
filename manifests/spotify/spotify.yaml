@@ -1,6 +1,7 @@
 id: spotify
 name: Spotify
-version: 1.0.75.483
+version: 1.0.80.474
 home: https://spotify.com/
+installMethod: Custom
 installers:
 - location: https://download.spotify.com/SpotifyFullSetup.exe
