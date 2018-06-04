@@ -1,0 +1,9 @@
+id: juju
+name: Juju
+version: 2.3.8
+home: https://jujucharms.com/
+license: ISC License
+installMethod: Inno
+installers:
+- location: https://launchpad.net/juju/2.3/2.3.8/+download/juju-setup-2.3.8.exe
+  sha256: 39d726c4800973bdc50edb62b29967184901a3c127bb11e20de96638efb2ab89
