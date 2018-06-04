@@ -1,0 +1,7 @@
+id: popcorn-time
+name: Popcorn Time
+version: 6.1.0
+home: https://popcorn-time.to/
+installMethod: Inno
+installers:
+- location: https://dl.popcorn-time.to/PopcornTime-latest.exe
