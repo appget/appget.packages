@@ -1,0 +1,9 @@
+id: aimp
+name: AIMP
+version: 4.51.2077
+home: http://aimp.su/
+license: LGPLv2.1
+installMethod: Custom
+installers:
+- location: http://aimp.su/storage/324f237c5283604327fdd41f5b696064/aimp_4.51.2077.exe
+  sha256: 88105be27433431a9fd30e0018e2c3f5e070db6bd2c43a898cd9d04e5a09e61c
