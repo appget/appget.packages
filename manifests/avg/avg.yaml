@@ -1,0 +1,7 @@
+id: avg
+name: AVG AntiVirus
+version: 18.4.3895
+home: https://www.avg.com/en-ww/free-antivirus-download
+installMethod: Custom
+installers:
+- location: https://install.avcdn.net/avg/iavs9x/avg_antivirus_free_setup.exe
