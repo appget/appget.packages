@@ -2,7 +2,7 @@ id: transmission
 name: Transmission
 version: 2.94.0
 home: https://www.transmissionbt.com/
-repo: https://github.com/transmission/transmission-releases/
+repo: https://github.com/transmission/transmission/
 installMethod: MSI
 installers:
 - location: https://github.com/transmission/transmission-releases/raw/master/transmission-2.94-x86.msi
