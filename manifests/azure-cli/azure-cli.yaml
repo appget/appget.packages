@@ -1,0 +1,7 @@
+id: azure-cli
+name: Microsoft CLI for Azure
+version: 2.0.33
+home: https://docs.microsoft.com/en-us/cli/azure/overview
+installMethod: MSI
+installers:
+- location: https://aka.ms/installazurecliwindows
