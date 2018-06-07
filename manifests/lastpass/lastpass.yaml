@@ -1,0 +1,8 @@
+id: lastpass
+name: LastPass
+version: 4.1.56
+home: https://lastpass.com/
+installMethod: Custom
+installers:
+- location: https://download.cloud.lastpass.com/windows_installer/lastpass_x64.exe
+  architecture: x64
