@@ -1,8 +1,8 @@
 id: flash-player
 name: Adobe Flash Player
-version: 29.0.0.171
+version: 30.0.0.113
 home: https://www.adobe.com/ca/products/flashplayer.html
 installMethod: MSI
 installers:
-- location: https://fpdownload.macromedia.com/get/flashplayer/pdc/29.0.0.171/install_flash_player_29_plugin.msi
-  sha256: ebcdcd38e566bb5078d6facee2e6ab2e752082075ffe2847e8e56a960b308817
+- location: https://fpdownload.macromedia.com/get/flashplayer/pdc/30.0.0.113/install_flash_player_30_active_x.msi
+  sha256: 79c5275d80620e88cd984af27dd0ba1752ef464966f01ba4e8c90a6cc972fc95
