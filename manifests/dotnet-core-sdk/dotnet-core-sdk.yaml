@@ -1,0 +1,13 @@
+id: dotnet-core-sdk
+name: Microsoft .NET Core SDK
+version: 2.1.300
+home: https://www.microsoft.com/net/
+installMethod: Wix
+installers:
+- location: https://download.microsoft.com/download/8/8/5/88544F33-836A-49A5-8B67-451C24709A8F/dotnet-sdk-2.1.300-win-x86.exe
+  sha256: 2df2cccd61823ada3b0ddebbc437edb6bdd6938638da09853bd82d57a04c9c62
+  minWindowsVersion: 6.1
+- location: https://download.microsoft.com/download/8/8/5/88544F33-836A-49A5-8B67-451C24709A8F/dotnet-sdk-2.1.300-win-x64.exe
+  sha256: 51c9f2e8ebcd9be03d27e1e6a26ae4b4d59de09de7f2d65122e9a8405ed77231
+  architecture: x64
+  minWindowsVersion: 6.1
