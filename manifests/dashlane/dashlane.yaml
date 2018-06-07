@@ -1,8 +1,8 @@
 id: dashlane
 name: Dashlane
-version: 5.7.0.16178
+version: 5.14.0.21388
 home: https://www.dashlane.com/
 installMethod: NSIS
 installers:
-- location: https://d3qm0vl2sdkrc.cloudfront.net/releases/5.7.0/5.7.0.16178/release/DashlaneInst.exe
-  sha256: b822bffbd46de8e78588aab54c20cb92db79ff86b9d079a6d786c65130afc4a9
+- location: https://d3qm0vl2sdkrc.cloudfront.net/releases/5.14.0/5.14.0.21388/release/DashlaneInst.exe
+  sha256: b20cce8cf928c1eb7be35908d0375cd352290ecc1c86db785323a426d07ff2bc
