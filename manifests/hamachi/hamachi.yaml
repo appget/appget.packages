@@ -1,0 +1,7 @@
+id: hamachi
+name: LogMeIn Hamachi
+version: 2.2.0.607
+home: https://www.vpn.net/
+installMethod: MSI
+installers:
+- location: https://secure.logmein.com/hamachi.msi
