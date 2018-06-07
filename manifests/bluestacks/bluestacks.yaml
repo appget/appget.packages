@@ -1,0 +1,8 @@
+id: bluestacks
+name: BlueStacks
+version: 4.1.17.2008
+home: https://bluestacks.com/
+installMethod: Custom
+installers:
+- location: https://cdn3.bluestacks.com/downloads/4.1.17.2008/BlueStacks-Installer_BS3_native.exe
+  sha256: 9174313b23f639442eb4bec4ea16f43365fd771c4f7d43afa746e4fc90897b7a
