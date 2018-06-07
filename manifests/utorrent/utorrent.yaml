@@ -1,0 +1,7 @@
+id: utorrent
+name: uTorrent
+version: 3.5.3.44428
+home: https://utorrent.com/
+installMethod: Custom
+installers:
+- location: https://download-hr.utorrent.com/track/stable/endpoint/utorrent/os/windows
