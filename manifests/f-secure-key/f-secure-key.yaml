@@ -1,0 +1,7 @@
+id: f-secure-key
+name: F-Secure KEY
+version: 4.9.56
+home: https://www.f-secure.com/en/web/home_global/key/
+installMethod: MSI
+installers:
+- location: https://download.sp.f-secure.com/key/f-secure_key_win.msi
