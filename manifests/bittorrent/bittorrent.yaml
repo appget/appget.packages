@@ -1,0 +1,7 @@
+id: bittorrent
+name: BitTorrent
+version: 7.10.3.44429
+home: https://www.bittorrent.com/
+installMethod: Custom
+installers:
+- location: https://download-new.utorrent.com/endpoint/bittorrent/os/windows/track/stable/
