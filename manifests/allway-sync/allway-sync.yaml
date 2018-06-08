@@ -1,0 +1,9 @@
+id: allway-sync
+name: Allway Sync
+version: 18.4.8
+home: https://allwaysync.com/
+installMethod: Inno
+installers:
+- location: https://allwaysync.com/content/download/allwaysync.exe
+- location: https://allwaysync.com/content/download/allwaysync-x64.exe
+  architecture: x64

@@ -1,0 +1,8 @@
+id: tableau-reader
+name: Tableau Reader
+version: 10.5.1268
+home: https://www.tableau.com/products/reader
+installMethod: Wix
+installers:
+- location: https://www.tableau.com/downloads/reader/pc64
+  architecture: x64

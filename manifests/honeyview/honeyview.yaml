@@ -1,0 +1,7 @@
+id: honeyview
+name: Honeyview
+version: 5.26.0.0
+home: https://www.bandisoft.com/honeyview/
+installMethod: NSIS
+installers:
+- location: https://dl.bandisoft.com/honeyview/HONEYVIEW-SETUP.EXE

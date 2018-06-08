@@ -1,0 +1,7 @@
+id: bandicam
+name: Bandicam
+version: 4.1.4.1413
+home: https://www.bandicam.com/
+installMethod: NSIS
+installers:
+- location: https://dl.bandicam.com/bdcamsetup.exe
