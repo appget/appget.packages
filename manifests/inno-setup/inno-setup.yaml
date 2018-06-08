@@ -1,6 +1,6 @@
 id: inno-setup
 name: Inno Setup
-version: 5.5.9
+version: 5.6.0
 home: http://jrsoftware.org/
 installMethod: Inno
 installers:
