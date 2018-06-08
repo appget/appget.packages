@@ -1,7 +1,7 @@
 id: origin
 name: Origin
 version: 10.5.19.61985
-home: https://www.origin.com
+home: https://www.origin.com/
 installMethod: Inno
 installers:
 - location: https://www.dm.origin.com/download
