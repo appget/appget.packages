@@ -1,0 +1,7 @@
+id: box-tools
+name: Box Tools
+version: 4.0.10.415
+home: https://www.box.com
+installMethod: AdvancedInstaller
+installers:
+- location: https://e3.boxcdn.net/box-installers/boxedit/win/currentrelease/BoxToolsInstaller.exe
