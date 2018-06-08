@@ -4,5 +4,6 @@ version: 1.13.83
 home: https://www.box.com/
 installMethod: MSI
 installers:
+- location: https://e3.boxcdn.net/box-installers/desktop/releases/win32/Box-x86.msi
 - location: https://e3.boxcdn.net/box-installers/desktop/releases/win/Box-x64.msi
   architecture: x64
