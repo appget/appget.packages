@@ -1,6 +1,6 @@
 id: origin
 name: Origin
-version: 10.5.19.61985
+version: 10.5.20.63112
 home: https://www.origin.com/
 installMethod: Inno
 installers:
