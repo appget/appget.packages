@@ -1,0 +1,7 @@
+id: box-notes
+name: Box Notes
+version: 1.4.0
+home: https://www.box.com/notes/
+installMethod: Squirrel
+installers:
+- location: https://e3.boxcdn.net/box-installers/boxnotes/win/latest/BoxNotesSetup.exe
