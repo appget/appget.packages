@@ -1,0 +1,7 @@
+id: 5kplayer
+name: 5KPlayer
+version: 4.9.0
+home: https://www.5kplayer.com/
+installMethod: NSIS
+installers:
+- location: https://www.5kplayer.com/download/5kplayer.exe
