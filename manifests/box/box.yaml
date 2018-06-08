@@ -1,0 +1,8 @@
+id: box
+name: Box
+version: 1.13.83
+home: https://www.box.com/
+installMethod: MSI
+installers:
+- location: https://e3.boxcdn.net/box-installers/desktop/releases/win/Box-x64.msi
+  architecture: x64
