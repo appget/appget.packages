@@ -1,6 +1,7 @@
 id: origin
 name: Origin
 version: 10.5.19.61985
+home: https://www.origin.com
 installMethod: Inno
 installers:
-- location: https://eaassets-a.akamaihd.net/Origin-Client-Download/origin/live/OriginThinSetup.exe
+- location: https://www.dm.origin.com/download
