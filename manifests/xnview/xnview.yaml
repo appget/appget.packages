@@ -1,1 +1,7 @@
+id: xnview
 name: XnView
+version: 2.45
+home: https://xnview.com/
+installMethod: Inno
+installers:
+- location: https://download.xnview.com/XnView-win-small.exe
