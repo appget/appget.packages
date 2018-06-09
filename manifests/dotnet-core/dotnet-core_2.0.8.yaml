@@ -1,0 +1,15 @@
+id: dotnet-core
+name: .NET Core Runtime
+version: 2.0.7.26407
+home: https://www.microsoft.com/net/
+repo: https://github.com/dotnet/core/
+license: MIT License
+installMethod: Wix
+installers:
+- location: https://download.microsoft.com/download/E/F/7/EF7302FE-4F84-4529-9E3A-893450F76501/dotnet-runtime-2.0.7-win-x86.exe
+  sha256: da3ed3db37a440eeca921a7cabc6c6f53a11678f75cba5d0230ab591e1fd010e
+  minWindowsVersion: 6.1
+- location: https://download.microsoft.com/download/E/F/7/EF7302FE-4F84-4529-9E3A-893450F76501/dotnet-runtime-2.0.7-win-x64.exe
+  sha256: c9f5a4059ef8a0e188f9df193a323bb9561ac033162351778d08498ca63960e8
+  architecture: x64
+  minWindowsVersion: 6.1

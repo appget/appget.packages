@@ -1,0 +1,12 @@
+id: dotnet-core
+name: .NET Core Runtime
+version: 1.1.7.1667
+home: https://www.microsoft.com/net/
+repo: https://github.com/dotnet/core/
+license: MIT License
+installMethod: Wix
+installers:
+- location: https://download.microsoft.com/download/1/4/1/1416E22E-A1C5-48E3-81EF-AFE86CDA9C78/dotnet-win-x64.1.1.7.exe
+  sha256: 1b47eca8de239feaadbc8d1ae5f6a9c6217a3a222df11c4b68248f2b37eaf7ef
+  architecture: x64
+  minWindowsVersion: 6.1
