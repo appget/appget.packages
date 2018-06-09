@@ -1,6 +1,6 @@
 id: honeyview
 name: Honeyview
-version: 5.26.0.0
+version: 5.27.0
 home: https://www.bandisoft.com/honeyview/
 installMethod: NSIS
 installers:
