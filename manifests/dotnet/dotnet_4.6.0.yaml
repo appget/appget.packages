@@ -1,0 +1,14 @@
+id: dotnet
+name: .NET Framework Runtime
+version: 4.6.00081
+home: https://blogs.msdn.com/dotnet
+repo: https://github.com/Microsoft/dotnet/
+license: MIT License
+installMethod: Custom
+args:
+  passive: /passive /norestart
+  silent: /q /norestart
+  log: /log {path}
+installers:
+- location: https://download.microsoft.com/download/1/4/A/14A6C422-0D3C-4811-A31F-5EF91A83C368/NDP46-KB3045560-Web.exe
+  sha256: e5ced0f95e6aefc4e4ee0884ca7ce317fff7d91edbda32243a436123e46d9439

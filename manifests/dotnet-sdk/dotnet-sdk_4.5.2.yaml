@@ -1,0 +1,14 @@
+id: dotnet-sdk
+name: .NET Framework SDK
+version: 4.5.51209.34209
+home: https://blogs.msdn.com/dotnet
+repo: https://github.com/Microsoft/dotnet/
+license: MIT License
+installMethod: Custom
+args:
+  passive: /passive /norestart
+  silent: /q /norestart
+  log: /log {path}
+installers:
+- location: https://download.microsoft.com/download/4/3/B/43B61315-B2CE-4F5B-9E32-34CCA07B2F0E/NDP452-KB2901951-x86-x64-DevPack.exe
+  sha256: 127725b8e955e764ba08e87706d0b0df6b52cfff45bba7d2b7da09df55d16166

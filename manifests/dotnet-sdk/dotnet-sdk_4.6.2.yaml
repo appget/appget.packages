@@ -1,0 +1,10 @@
+id: dotnet-sdk
+name: .NET Framework SDK
+version: 4.6.1590
+home: https://blogs.msdn.com/dotnet
+repo: https://github.com/Microsoft/dotnet/
+license: MIT License
+installMethod: Wix
+installers:
+- location: https://download.microsoft.com/download/E/F/D/EFD52638-B804-4865-BB57-47F4B9C80269/NDP462-DevPack-KB3151934-ENU.exe
+  sha256: e21d111fca26c1b39cc09a619127a962137c242ce086ad25b8b5e097a0c8e199

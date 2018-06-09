@@ -1,0 +1,14 @@
+id: dotnet
+name: .NET Framework Runtime
+version: 3.5.30729.01
+home: https://blogs.msdn.com/dotnet
+repo: https://github.com/Microsoft/dotnet/
+license: MIT License
+installMethod: Custom
+args:
+  passive: /passive /norestart
+  silent: /q /norestart
+  log: /log {path}
+installers:
+- location: https://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe
+  sha256: 0582515bde321e072f8673e829e175ed2e7a53e803127c50253af76528e66bc1

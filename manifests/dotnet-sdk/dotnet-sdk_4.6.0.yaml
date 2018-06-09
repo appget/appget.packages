@@ -1,0 +1,10 @@
+id: dotnet-sdk
+name: .NET Framework SDK
+version: 4.6.81
+home: https://blogs.msdn.com/dotnet
+repo: https://github.com/Microsoft/dotnet/
+license: MIT License
+installMethod: Wix
+installers:
+- location: https://download.microsoft.com/download/8/2/F/82FF2034-83E6-4F93-900D-F88C7AD9F3EE/NDP46-TargetingPack-KB3045566.exe
+  sha256: ad3fdd5c3ab72e24821cb2475e30c677aec2ba538b16dee1e5cb4391a4cc0ea8
