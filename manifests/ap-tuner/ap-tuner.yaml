@@ -1,0 +1,8 @@
+id: ap-tuner
+name: AP Tuner
+version: 3.8.0
+home: http://www.aptuner.com/
+installMethod: NSIS
+installers:
+- location: http://www.aptuner.com/ftp/apmain/APTunerInstall308.exe
+  sha256: fac9e21196031275913a20c8604167f6b030e2693686538dc69c5c4261215f0d

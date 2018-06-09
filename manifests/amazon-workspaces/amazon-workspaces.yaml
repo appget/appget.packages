@@ -1,0 +1,7 @@
+id: amazon-workspaces
+name: Amazon WorkSpaces
+version: 2.4.6
+home: https://aws.amazon.com/workspaces/
+installMethod: MSI
+installers:
+- location: https://d2td7dqidlhjx7.cloudfront.net/prod/global/windows/Amazon WorkSpaces.msi

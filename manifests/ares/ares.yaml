@@ -1,0 +1,7 @@
+id: ares
+name: Ares
+version: 3.1.0.3057
+home: https://www.ares.com/
+installMethod: Inno
+installers:
+- location: https://www.ares.com/downloads/Ares_Installer.exe

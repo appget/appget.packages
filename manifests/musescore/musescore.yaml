@@ -1,0 +1,7 @@
+id: musescore
+name: MuseScore
+version: 2.2.1
+home: https://musescore.org/
+installMethod: MSI
+installers:
+- location: https://musescore.org/en/download/musescore.msi

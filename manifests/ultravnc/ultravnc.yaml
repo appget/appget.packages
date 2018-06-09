@@ -1,0 +1,11 @@
+id: ultravnc
+name: UltraVNC
+version: 1.2.1.6
+home: https://www.uvnc.eu/
+installMethod: Inno
+installers:
+- location: https://www.uvnc.eu/download/1216/UltraVNC_1_2_16_X86_Setup.exe
+  sha256: 5ad26a430af1cf97bb453325d455d8b066a69d195d58a3aa65b09cda1193445f
+- location: https://www.uvnc.eu/download/1216/UltraVNC_1_2_16_X64_Setup.exe
+  sha256: dec4be08cd42fea127e4de95de86a531359bafdad9ccdd8e3ebd20d1adb7fa1a
+  architecture: x64

@@ -1,0 +1,8 @@
+id: articulate-360
+name: Articulate 360
+version: 1.4.10330.0
+home: https://articulate.com/
+installMethod: Wix
+installers:
+- location: https://cdn.articulate.com/products/uploads/gGXHdPr7geNj0896/articulate-360.exe
+  sha256: 1898167fa184daba442f5522da5e0658068bbd1ddb79f0cd534389900a25c6b8

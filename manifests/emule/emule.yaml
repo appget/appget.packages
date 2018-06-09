@@ -1,0 +1,8 @@
+id: emule
+name: eMule
+version: 0.50
+repo: https://sourceforge.net/projects/emule/
+installMethod: NSIS
+installers:
+- location: https://downloads.sourceforge.net/project/emule/eMule/0.50a/eMule0.50a-Installer.exe
+  sha256: 28411261cb3f27081f910190d1c7742fb805185430af10131d5b39fd2e39c832

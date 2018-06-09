@@ -1,0 +1,8 @@
+id: tugzip
+name: Tugzip
+version: 3.5.0
+home: http://tugzip.com/
+installMethod: Inno
+installers:
+- location: https://www.koeln-krimis.de/pmwiki/uploads/Verweise/tugzip35.exe
+  sha256: 38287977c89d179dade5e875cbb601753128ebacd56279e9529697c70080a32c

@@ -1,0 +1,8 @@
+id: pdfedit
+name: PDFedit
+version: 4.5.0.0
+repo: https://sourceforge.net/projects/pdfedit/
+installMethod: MSI
+installers:
+- location: https://downloads.sourceforge.net/project/pdfedit/pdfedit-win32/pdfedit-20140526_1531.msi
+  sha256: cae99518b976af718a645073d9eadd085d9b8f3c884ba7cfa6c52ed69acad46b

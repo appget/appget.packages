@@ -1,0 +1,8 @@
+id: bluej
+name: BlueJ
+version: 3.1.7
+home: https://www.bluej.org/
+installMethod: MSI
+installers:
+- location: https://www.bluej.org/download/files/bluej-bundled-317.msi
+  sha256: c40b7c68c73c8886f9af9095e921f356c85da9d8ca1c1bf91b3aa008b7305d1c

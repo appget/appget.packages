@@ -1,0 +1,7 @@
+id: anyburn
+name: AnyBurn
+version: 4.1.0
+home: http://www.anyburn.com/
+installMethod: NSIS
+installers:
+- location: http://www.anyburn.com/anyburn_setup.exe

@@ -1,0 +1,11 @@
+id: airparrot
+name: AirParrot
+version: 2.7.3.0
+home: http://www.airsquirrels.com/airparrot/
+installMethod: MSI
+installers:
+- location: https://download.airsquirrels.com/AirParrot2/Windows/AirParrot2.7.3-32.msi
+  sha256: 7b37ce7335b5c80899c255058ccf06eb043e406bd3cf7301c7ae726cf645428e
+- location: https://download.airsquirrels.com/AirParrot2/Windows/AirParrot2.7.3-64.msi
+  sha256: 2cfe58704761feb88be6dcc83a75e1ffbc5ada05a3dd3851596c9afb9ad94151
+  architecture: x64

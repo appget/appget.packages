@@ -1,0 +1,7 @@
+id: netsetman
+name: NetSetMan
+version: 4.6.1
+home: https://www.netsetman.com/
+installMethod: Inno
+installers:
+- location: https://www.netsetman.com/download.php

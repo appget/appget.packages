@@ -1,0 +1,7 @@
+id: du-meter
+name: DU Meter
+version: 7.30
+home: https://www.hageltech.com/dumeter/about
+installMethod: Inno
+installers:
+- location: http://dl2.hageltech.com/DUMeter-Install.exe
