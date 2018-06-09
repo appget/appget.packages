@@ -1,0 +1,15 @@
+id: dotnet-core-sdk
+name: .NET Core SDK
+version: 2.1.104
+home: https://www.microsoft.com/net/
+repo: https://github.com/dotnet/core/
+license: MIT License
+installMethod: Wix
+installers:
+- location: https://download.microsoft.com/download/D/8/1/D8131218-F121-4E13-8C5F-39B09A36E406/dotnet-sdk-2.1.104-win-x86.exe
+  sha256: 07d46ad0eadb4c8b92abc049866d6f71a95d9a2bb81aa98ba938f23f386d7f25
+  minWindowsVersion: 6.1
+- location: https://download.microsoft.com/download/D/8/1/D8131218-F121-4E13-8C5F-39B09A36E406/dotnet-sdk-2.1.104-win-x64.exe
+  sha256: be12095fd228306402f204684df09bfddbc83f37445d34c20baf7af8fab817de
+  architecture: x64
+  minWindowsVersion: 6.1
