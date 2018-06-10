@@ -1,0 +1,9 @@
+id: microsoft-visual-studio-2017-enterprise
+name: Microsoft Visual Studio 2017 Enterprise
+version: 15.7.27703.2026
+home: https://www.visualstudio.com/vs/
+installMethod: Custom
+installers:
+- location: https://download.visualstudio.microsoft.com/download/pr/12390476/52257ee3e96d6e07313e41ad155b155a/vs_Enterprise.exe
+  sha256: 6aafa70b7e4caf11c5e0a2ee8b49b188020d5647ba503c48d92b6f1b64c0d063
+  minWindowsVersion: 6.1
