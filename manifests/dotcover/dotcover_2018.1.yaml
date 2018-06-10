@@ -1,0 +1,10 @@
+id: dotcover
+name: dotCover
+version: 12.0.20180530.122721
+home: https://jetbrains.com/dotcover/
+installMethod: Custom
+args:
+  silent: /SpecificProductNames=dotCover /Silent=True /VsVersion=10.0;11.0;12.0;14.0;15.0
+installers:
+- location: https://download.jetbrains.com/resharper/JetBrains.dotCover.2018.1.2.web.exe
+  sha256: b0102174268e4703364a0cd4009bd55e0c591a9cf6e9e3b959b56632b569c1b1
