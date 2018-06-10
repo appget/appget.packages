@@ -1,0 +1,8 @@
+id: clion
+name: CLion
+version: 2018.1.3
+home: https://www.jetbrains.com/clion/
+installMethod: NSIS
+installers:
+- location: https://download.jetbrains.com/cpp/CLion-2018.1.3.exe
+  sha256: 54b2e2d0fe915f286ccb71b659f320fa2ccc09ad41154040c3e1507aa8d5eaea
