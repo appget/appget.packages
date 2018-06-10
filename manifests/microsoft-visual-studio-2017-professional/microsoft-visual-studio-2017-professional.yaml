@@ -1,0 +1,9 @@
+id: microsoft-visual-studio-2017-professional
+name: Microsoft Visual Studio 2017 Professional
+version: 15.7.27703.2026
+home: https://www.visualstudio.com/vs/
+installMethod: Custom
+installers:
+- location: https://download.visualstudio.microsoft.com/download/pr/12390457/14dd70405e8244481b35017b9a562edd/vs_Professional.exe
+  sha256: 1f5114b09f385235c45c033da857be44709fdac56263f74835facaa02b93de14
+  minWindowsVersion: 6.1
