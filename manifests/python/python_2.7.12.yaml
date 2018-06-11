@@ -1,0 +1,13 @@
+id: python
+name: Python
+version: 2.7.12150
+home: https://www.python.org/
+repo: https://github.com/python/cpython/
+license: Python Software Foundation License
+installMethod: MSI
+installers:
+- location: https://www.python.org/ftp/python/2.7.12/python-2.7.12.msi
+  sha256: 3ac291535bcf15fd5a15bcd29b066570e8d2a0cab4f3b92a2372f41aa09a4f48
+- location: https://www.python.org/ftp/python/2.7.12/python-2.7.12.amd64.msi
+  sha256: 909fded3cca65feaf9e1db943e886586eb27f0f4396c977868ad6489063a3912
+  architecture: x64

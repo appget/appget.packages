@@ -1,12 +1,10 @@
 id: python
-name: Python 2
-version: 2.7.14
-home: https://www.python.org
+name: Python
+version: 2.7.14150
+home: https://www.python.org/
+repo: https://github.com/python/cpython/
 license: Python Software Foundation License
 installMethod: MSI
-args:
-  passive: PrependPath=1
-  silent: PrependPath=1
 installers:
 - location: https://www.python.org/ftp/python/2.7.14/python-2.7.14.msi
   sha256: 450bde0540341d4f7a6ad2bb66639fd3fac1c53087e9844dc34ddf88057a17ca
