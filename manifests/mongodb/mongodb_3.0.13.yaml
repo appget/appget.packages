@@ -1,0 +1,11 @@
+id: mongodb
+name: MongoDB
+version: 3.0.13
+home: https://www.mongodb.com/
+repo: https://github.com/mongodb/mongo/
+license: AGPL v3
+installMethod: MSI
+installers:
+- location: https://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.0.13-signed.msi
+  sha256: 80cd03e75083ab15f94749e9ee3d9b7afb9d9c6d73198305c438c6743a60d7b5
+  architecture: x64
