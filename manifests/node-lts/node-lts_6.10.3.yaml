@@ -1,0 +1,13 @@
+id: node-lts
+name: Node.js LTS
+version: 6.10.3.0
+home: https://nodejs.org/
+repo: https://github.com/nodejs/node/
+license: MIT
+installMethod: MSI
+installers:
+- location: https://nodejs.org/download/release/v6.10.3/node-v6.10.3-x86.msi
+  sha256: d4000be1329737bd2f4c2e54abc939ca249c11cbcc8898240fece37cb74cf09f
+- location: https://nodejs.org/download/release/v6.10.3/node-v6.10.3-x64.msi
+  sha256: 3ab1286e8fdadc60f57a97f2222ad6b3d7a48847a52ef812cc8d5f354bf500ff
+  architecture: x64

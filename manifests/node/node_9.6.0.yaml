@@ -1,0 +1,13 @@
+id: node
+name: Node.js
+version: 9.6.0.0
+home: https://nodejs.org/
+repo: https://github.com/nodejs/node/
+license: MIT
+installMethod: MSI
+installers:
+- location: https://nodejs.org/download/release/v9.6.0/node-v9.6.0-x86.msi
+  sha256: eadc16162a06de6feacb3bb69a6fcdc67f01f4d18102a268ac237faf9cf32fb7
+- location: https://nodejs.org/download/release/v9.6.0/node-v9.6.0-x64.msi
+  sha256: 140e40ee7066da362ea9f4e3b066e69ea098e2d67334b41233b0e1f1615d6588
+  architecture: x64

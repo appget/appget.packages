@@ -1,0 +1,13 @@
+id: node-lts
+name: Node.js LTS
+version: 8.9.2.0
+home: https://nodejs.org/
+repo: https://github.com/nodejs/node/
+license: MIT
+installMethod: MSI
+installers:
+- location: https://nodejs.org/download/release/v8.9.2/node-v8.9.2-x86.msi
+  sha256: a4c70a98755d011e2e3922786f7c6df553a19a32196f1ebf3ccae48e078f2c09
+- location: https://nodejs.org/download/release/v8.9.2/node-v8.9.2-x64.msi
+  sha256: 3d7a60a5268f4c3d3fc8b37e3e3ec9f52012e048d0f1598eb1d6c5d7717e6a86
+  architecture: x64
