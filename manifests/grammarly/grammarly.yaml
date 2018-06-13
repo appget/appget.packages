@@ -1,0 +1,7 @@
+id: grammarly
+name: Grammarly
+version: 1.5.39
+home: https://www.grammarly.com/
+installMethod: Squirrel
+installers:
+- location: https://download-editor.grammarly.com/windows/GrammarlySetup.exe
