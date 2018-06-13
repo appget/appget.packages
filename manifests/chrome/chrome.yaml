@@ -1,9 +1,9 @@
 id: chrome
 name: Google Chrome
-version: 67.81.87
+version: 67.92.25
 home: https://www.google.com/chrome/
 installMethod: MSI
 installers:
-- location: https://dl.google.com/tag/s/dl/chrome/install/googlechromestandaloneenterprise.msi
-- location: https://dl.google.com/tag/s/dl/chrome/install/googlechromestandaloneenterprise64.msi
+- location: https://dl.google.com/tag/s/dl/chrome/install/beta/googlechromebetastandaloneenterprise.msi
+- location: https://dl.google.com/tag/s/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi
   architecture: x64
