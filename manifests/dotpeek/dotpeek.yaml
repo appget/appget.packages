@@ -1,0 +1,8 @@
+id: dotpeek
+name: dotPeek
+version: 32.2018.1.2
+home: https://www.jetbrains.com/decompiler/
+installMethod: Custom
+installers:
+- location: https://download.jetbrains.com/resharper/dotPeek32.2018.1.2.exe
+  sha256: a96f2d44fbceeac2d258eefad1e7cdfe48b1226c1ff43b7cb66877169b415103
