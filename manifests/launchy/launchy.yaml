@@ -1,0 +1,8 @@
+id: launchy
+name: Launchy
+version: 2.5
+home: https://www.launchy.net/
+installMethod: Inno
+installers:
+- location: https://www.launchy.net/downloads/win/Launchy2.5.exe
+  sha256: 4271e8f3969dc11259bc2791ce89b6eb73cb36eb663872792c0c4dfa87fa1916
