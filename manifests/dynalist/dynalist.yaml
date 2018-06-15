@@ -5,4 +5,3 @@ home: https://dynalist.io/
 installMethod: NSIS
 installers:
 - location: https://dynalist.io/standalone/download?file=Dynalist Setup.exe
-  sha256: 6fce32e66195be2866969b306ff89eec9013d81c2a5b4fd54b0e7f2d8aaba295
