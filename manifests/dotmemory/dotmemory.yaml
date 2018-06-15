@@ -1,0 +1,8 @@
+id: dotmemory
+name: dotMemory
+version: 32.2018.1.2
+home: https://www.jetbrains.com/dotmemory/
+installMethod: Custom
+installers:
+- location: https://download.jetbrains.com/resharper/dotMemory.UI.32.2018.1.2.exe
+  sha256: 95d95ca7a1d9c56ad9eb9730b6b998cf0aeb9360bd1e4db0d675d95992f8e315
