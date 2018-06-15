@@ -1,0 +1,8 @@
+id: dottrace
+name: dotTrace
+version: 32.2018.1.2
+home: https://www.jetbrains.com/profiler/
+installMethod: Custom
+installers:
+- location: https://download.jetbrains.com/resharper/dotTrace32.2018.1.2.exe
+  sha256: c42811375e771a3dc1eba2138a6137288dc0637f27c0b0aa5a1df09fb4e3dc9d
