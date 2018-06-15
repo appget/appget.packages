@@ -1,0 +1,7 @@
+id: ace-stream
+name: Ace Stream
+version: 3.1
+home: http://acestream.org/
+installMethod: NSIS
+installers:
+- location: http://dl.acestream.org/products/acestream-full/win/latest
