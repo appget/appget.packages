@@ -1,7 +1,7 @@
 id: cutepdf-writer
 name: CutePDF Writer
 version: 3.2.0.1
-home: http://www.cutepdf.com/Products/CutePDF/writer.asp
+home: http://www.cutepdf.com/products/cutepdf/writer.asp
 installMethod: Inno
 installers:
 - location: http://www.cutepdf.com/download/CuteWriter.exe
