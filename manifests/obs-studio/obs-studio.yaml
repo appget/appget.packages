@@ -1,7 +1,7 @@
 id: obs-studio
 name: OBS Studio
 version: 21.1.2
-home: https://obsproject.com/mantis/
+home: https://obsproject.com/
 repo: https://github.com/jp9000/obs-studio/
 license: GNU General Public License v2.0
 installMethod: NSIS
