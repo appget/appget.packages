@@ -1,8 +1,9 @@
 id: gobby
 name: Gobby
 version: 0.5.0
-home: https://gobby.github.io/
+home: https://github.com/gobby/gobby/wiki
 repo: https://github.com/gobby/gobby/
+license: ISC License
 installMethod: Inno
 installers:
 - location: http://releases.0x539.de/gobby/gobby-stable.exe
