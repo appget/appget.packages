@@ -1,0 +1,9 @@
+id: docker-community-edition
+name: Docker CE for Windows
+version: 18.03.1.17513
+home: https://www.docker.com/docker-windows/
+installMethod: Custom
+installers:
+- location: https://download.docker.com/win/stable/Docker for Windows Installer.exe
+  architecture: x64
+  minWindowsVersion: 10.0
