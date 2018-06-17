@@ -1,0 +1,9 @@
+id: sourcetree-enterprise
+name: Sourcetree Enterprise
+version: 2.5.5
+home: https://www.sourcetreeapp.com/enterprise/
+installMethod: MSI
+installers:
+- location: https://downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_2.5.5.msi
+  sha256: 2fb9c8676259f8d74acd50e6069bc93c2ca7c3e9305341fa6e0571df0d7d74e9
+  architecture: x64
