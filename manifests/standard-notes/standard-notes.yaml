@@ -1,9 +1,9 @@
 id: standard-notes
 name: Standard Notes
-version: 2.1.33
+version: 2.2.0
 repo: https://github.com/standardnotes/desktop/
 installMethod: NSIS
 installers:
-- location: https://github.com/standardnotes/desktop/releases/download/v2.1.33/standard-notes-setup-2.1.33.exe
-  sha256: 0146b69f49c254d7490d0a603223f37973b8abdf028ee83c9fd1d77fd190b0af
+- location: https://github.com/standardnotes/desktop/releases/download/v2.2.0/standard-notes-setup-2.2.0.exe
+  sha256: 192ab577cda4226c1c9086bec3ac3bbe7470340971b66942575e946880fcc49a
   minWindowsVersion: 6.1
