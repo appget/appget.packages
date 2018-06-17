@@ -1,0 +1,8 @@
+id: quiterss
+name: QuiteRSS
+version: 0.18.11
+home: https://quiterss.org/
+installMethod: Inno
+installers:
+- location: https://quiterss.org/files/0.18.11/QuiteRSS-0.18.11-Setup.exe
+  sha256: aba43382eb633e983d35b8ac17f5834a0c7796385da1d3f3b8b99dd7ec43d86d

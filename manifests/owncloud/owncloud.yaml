@@ -1,0 +1,8 @@
+id: owncloud
+name: ownCloud
+version: 2.4.1.9270
+home: https://owncloud.com/
+installMethod: NSIS
+installers:
+- location: https://download.owncloud.com/desktop/stable/ownCloud-2.4.1.9270-setup.exe
+  sha256: 6424c6f2c462b1d48f9fdd28f097654b36b2c995bc6ad75a320900e845df8bca

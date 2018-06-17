@@ -2,10 +2,11 @@ id: peazip
 name: PeaZip
 version: 6.6.0
 home: http://www.peazip.org/
+repo: https://github.com/giorgiotani/PeaZip/
 installMethod: Inno
 installers:
-- location: http://www.peazip.org/downloads/peazip-6.6.0.WINDOWS.exe
+- location: https://github.com/giorgiotani/PeaZip/releases/download/6.6.0/peazip-6.6.0.WINDOWS.exe
   sha256: 75641813aba53c70907b68864f5a0042cb270d9b3fb44a628593195fcfadc4b5
-- location: http://www.peazip.org/downloads/peazip-6.6.0.WIN64.exe
+- location: https://github.com/giorgiotani/PeaZip/releases/download/6.6.0/peazip-6.6.0.WIN64.exe
   sha256: e77b588526af6524c68dd6ffce471b424368e9bceb5067211d31dbd7427495de
   architecture: x64

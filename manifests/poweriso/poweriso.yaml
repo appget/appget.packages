@@ -1,0 +1,9 @@
+id: poweriso
+name: PowerISO
+version: 7.1.0
+home: https://www.poweriso.com/
+installMethod: NSIS
+installers:
+- location: https://www.poweriso.com/PowerISO6.exe
+- location: https://www.poweriso.com/PowerISO6-x64.exe
+  architecture: x64

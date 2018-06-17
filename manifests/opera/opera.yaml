@@ -1,6 +1,6 @@
 id: opera
 name: Opera
-version: 51.0.2830.40
+version: 53.0.2907.99
 home: https://www.opera.com/
 license: Freeware
 installMethod: Custom
@@ -8,5 +8,8 @@ args:
   passive: /runimmediately launchbrowser=0
   silent: /silent launchbrowser=0
 installers:
-- location: https://download1.operacdn.com/pub/opera/desktop/51.0.2830.40/win/Opera_51.0.2830.40_Setup.exe
-  sha256: e1e51cc66f9dbfb2efce962d18bc4f837ccc143367ecc051d529e372d47df39f
+- location: https://get.geo.opera.com/pub/opera/desktop/53.0.2907.99/win/Opera_53.0.2907.99_Setup.exe
+  sha256: 22fb3a8d2135c02efe1e5f0c517cc476935ae48106a61c5b15ed9ef16ef10ad1
+- location: https://get.geo.opera.com/pub/opera/desktop/53.0.2907.99/win/Opera_53.0.2907.99_Setup_x64.exe
+  sha256: 77dec38f1cc2cc8b413dc27fbc627af5766c3cb78801074cb966e938c93fd13d
+  architecture: x64

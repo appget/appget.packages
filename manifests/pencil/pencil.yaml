@@ -1,0 +1,8 @@
+id: pencil
+name: Pencil
+version: 3.0.4.14
+home: https://evolus.vn/
+installMethod: NSIS
+installers:
+- location: https://pencil.evolus.vn/dl/V3.0.4/Pencil-Setup-3.0.4.exe
+  sha256: 324167ceaa1214ab84e73654e6a1539f787f9772b5a1d6ba0bbddc7f4c77d186

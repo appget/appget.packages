@@ -1,0 +1,8 @@
+id: bluegriffon
+name: BlueGriffon
+version: 3.0.1
+home: http://bluegriffon.org/
+installMethod: Inno
+installers:
+- location: http://bluegriffon.org/freshmeat/3.0.1/bluegriffon-3.0.1.win-i686.exe
+  sha256: b355af85b454b4de9dae48b066b2fd80d20de75d96be92714eb95702b8edc7e9
