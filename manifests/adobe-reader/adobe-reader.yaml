@@ -1,0 +1,8 @@
+id: adobe-reader
+name: Adobe Reader DC
+version: 18.11.20040.281318
+home: https://acrobat.adobe.com/ca/en/acrobat/pdf-reader.html
+installMethod: Custom
+installers:
+- location: http://ardownload.adobe.com/pub/adobe/reader/win/AcrobatDC/1801120040/AcroRdrDC1801120040_en_US.exe
+  sha256: 0a24e18146acd79df7ba98a3ec6a3a95a5c156b182916381bccb2e0f1d54777a
