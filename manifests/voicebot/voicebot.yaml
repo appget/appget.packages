@@ -1,0 +1,7 @@
+id: voicebot
+name: VoiceBot
+version: 3.3.0
+home: https://www.voicebot.net/
+installMethod: Inno
+installers:
+- location: https://www.binaryfortress.com/Data/Download/?package=voicebot
