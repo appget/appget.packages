@@ -1,10 +1,10 @@
 id: lidarr
 name: Lidarr
-version: 0.2.0.371
-home: http://lidarr.audio/
+version: 0.3.0.430
+home: https://lidarr.audio/
 repo: https://github.com/lidarr/Lidarr/
 license: GNU General Public License v3.0
 installMethod: Inno
 installers:
-- location: https://github.com/lidarr/Lidarr/releases/download/v0.2.0.371/Lidarr.develop.0.2.0.371.installer.exe
-  sha256: 30330e24c629fc1ee04341857cc4057f4df7864a2439e87e34295940555738e7
+- location: https://github.com/lidarr/Lidarr/releases/download/v0.3.0.430/Lidarr.develop.0.3.0.430.windows-installer.exe
+  sha256: fa99eacb0ccb3e76548ee3d6b305b6d12fad1c3ab7b51043256e141b985c7264
