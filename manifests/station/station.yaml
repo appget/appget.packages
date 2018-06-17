@@ -1,0 +1,7 @@
+id: station
+name: Station
+version: 1.13.1.211
+home: https://getstation.com/
+installMethod: Squirrel
+installers:
+- location: https://dl.getstation.com/download/windows
