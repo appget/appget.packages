@@ -1,0 +1,8 @@
+id: seafile-client
+name: Seafile Desktop Syncing Client
+version: 6.1.8
+home: https://seadrive.org/
+installMethod: MSI
+installers:
+- location: https://download.seadrive.org/seafile-6.1.8-en.msi
+  sha256: 6d87044e22364d79de31a2daeda7275b74aeeba9a1f7ac40f0a64c15a20e8b7b
