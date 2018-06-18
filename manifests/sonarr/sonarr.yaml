@@ -1,6 +1,6 @@
 id: sonarr
 name: Sonarr
-version: 2.0.0.5163
+version: 2.0.0.5225
 home: https://sonarr.tv/
 license: GNU GPL v3
 installMethod: Inno
