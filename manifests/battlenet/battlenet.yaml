@@ -1,6 +1,6 @@
 id: battlenet
 name: Battle.net
-version: 1.15.0.2916
+version: 1.16.0.2931
 home: https://www.battle.net/
 installMethod: Custom
 installers:
