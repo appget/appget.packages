@@ -1,6 +1,6 @@
 id: tableau-reader
 name: Tableau Reader
-version: 10.5.1268
+version: 18.1.1413
 home: https://www.tableau.com/products/reader
 installMethod: Wix
 installers:
