@@ -1,8 +1,8 @@
 id: signal
 name: Signal
-version: 1.12.0
+version: 1.12.1
 home: https://signal.org/
 installMethod: NSIS
 installers:
-- location: https://updates.signal.org/desktop/signal-desktop-win-1.12.0.exe
-  sha256: 01b1096bb9f4e30fe973b86d43e06e18a541947d252ea4a35d0660601455e7d4
+- location: https://updates.signal.org/desktop/signal-desktop-win-1.12.1.exe
+  sha256: ac436b2f06ef0f5a11d1421aacd3dd090ed784a16e19d461c22494893c3ec3b7
