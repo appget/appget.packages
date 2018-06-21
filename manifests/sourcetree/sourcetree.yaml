@@ -1,8 +1,8 @@
 id: sourcetree
 name: SourceTree
-version: 2.5.5
+version: 2.6.9
 home: https://www.sourcetreeapp.com/
 installMethod: Squirrel
 installers:
-- location: https://downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-2.5.5.exe
-  sha256: b4309a4581a515d3498a75e9c810ae2b16adf239107486f481d9a0236240ee5f
+- location: https://downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-2.6.9.exe
+  sha256: c088beb4bfb1a80ed135037ba76516db983c1c863dad9dcdd227fdb97de28bf2
