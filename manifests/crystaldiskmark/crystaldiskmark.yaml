@@ -1,6 +1,7 @@
 id: crystaldiskmark
 name: CrystalDiskMark
-version: 6.0
+version: 7.6.1
 installMethod: Inno
 installers:
-- location: https://osdn.dl.osdn.jp/crystaldiskmark/68624/CrystalDiskMark6_0_0.exe
+- location: https://osdn.dl.osdn.jp/crystaldiskinfo/69241/CrystalDiskInfo7_6_1.exe
+  sha256: d3a197e4ff8f8aa070d5e2f7b52381a05ea0888e5b73104251212693fa9a8174
