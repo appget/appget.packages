@@ -4,4 +4,5 @@ version: 3.1.2.2814
 home: https://gpg4win.org/
 installMethod: NSIS
 installers:
-- location: https://files.gpg4win.org/gpg4win-latest.exe
+- location: https://files.gpg4win.org/gpg4win-3.1.2.exe
+  sha256: 6c7bbb36c89c83b2432edc9a7fe64c73b26711ca0d3d6a0d55c71aef66ec70f1
