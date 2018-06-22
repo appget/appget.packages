@@ -1,13 +1,13 @@
 id: git
 name: Git
-version: 2.17.1.2
+version: 2.18.0
 home: https://git-scm.com/
 repo: https://github.com/git-for-windows/git/
 license: GNU General Public License version 2
 installMethod: Inno
 installers:
-- location: https://github.com/git-for-windows/git/releases/download/v2.17.1.windows.2/Git-2.17.1.2-32-bit.exe
-  sha256: 5dca054b53a2b38fbfc35f7b2390462d81f9ee62fa38b6f47d2d77365ab7f84a
-- location: https://github.com/git-for-windows/git/releases/download/v2.17.1.windows.2/Git-2.17.1.2-64-bit.exe
-  sha256: 64a44bf936dfb1af0ca8b84d5e9accb138452f1fa40030706964c3bbd9e1c69b
+- location: https://github.com/git-for-windows/git/releases/download/v2.18.0.windows.1/Git-2.18.0-32-bit.exe
+  sha256: f4e910eb5182aefada20226a5a0a64b5b528ad1439c28a47c25252ee27f71af0
+- location: https://github.com/git-for-windows/git/releases/download/v2.18.0.windows.1/Git-2.18.0-64-bit.exe
+  sha256: aa81c9f2a81fd07ba0582095474365821880fd787b1cbe03abaf71d9aa69d359
   architecture: x64
