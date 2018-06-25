@@ -1,0 +1,9 @@
+id: nod32
+name: ESET NOD32 Antivirus
+version: 10.3.403
+home: https://eset.com/
+installMethod: Custom
+installers:
+- location: https://download.eset.com/com/eset/apps/home/eav/windows/latest/eav_nt32.exe
+- location: https://download.eset.com/com/eset/apps/home/eav/windows/latest/eav_nt64.exe
+  architecture: x64
