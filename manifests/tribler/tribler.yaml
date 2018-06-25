@@ -1,7 +1,7 @@
 id: tribler
 name: Tribler
 version: 7.0.2
-home: https://www.tribler.org/
+home: http://www.tribler.org/
 repo: https://github.com/Tribler/tribler/
 license: GNU Lesser General Public License v3.0
 installMethod: NSIS
