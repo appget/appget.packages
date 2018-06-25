@@ -1,0 +1,7 @@
+id: nod32
+name: ESET NOD32 Antivirus
+version: 10.2.185
+home: https://www.eset.com/int/home/antivirus/
+installMethod: Custom
+installers:
+- location: https://download.eset.com/com/eset/tools/installers/live_eav/latest/eset_nod32_antivirus_live_installer.exe
