@@ -1,10 +1,10 @@
 id: conemu
 name: ConEmu
-version: 18.06.17
+version: 18.06.26
 home: https://conemu.github.io/
 repo: https://github.com/Maximus5/ConEmu/
 license: BSD 3-Clause "New" or "Revised" License
 installMethod: Custom
 installers:
-- location: https://github.com/Maximus5/ConEmu/releases/download/v18.06.17/ConEmuSetup.180617.exe
-  sha256: 6edb1a13c8cf977b28b9832dfea894b56f7b6e0bea4ed56d5c689a6743286e76
+- location: https://github.com/Maximus5/ConEmu/releases/download/v18.06.26/ConEmuSetup.180626.exe
+  sha256: ae2723e95ab1fa7a17bbb54e25ee813b5e6313af6c0b68b36fca46b1c0370a41
