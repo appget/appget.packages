@@ -1,0 +1,11 @@
+id: firefox-developer
+name: Mozilla Firefox (Developer Edition)
+home: https://www.mozilla.org/firefox/
+installMethod: Custom
+args: {
+  silent: -ms
+}
+installers:
+- location: https://download.mozilla.org/?product=firefox-devedition-stub&os=win&lang=en-US
+- location: https://download.mozilla.org/?product=firefox-devedition-stub&os=win64&lang=en-US
+  architecture: x64
