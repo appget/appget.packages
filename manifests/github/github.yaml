@@ -1,6 +1,9 @@
 id: github
-name: GitHub
-version: 12.0.40629
-installMethod: NSIS
+name: GitHub Desktop
+version: 1.2.6
+home: https://desktop.github.com/
+installMethod: Squirrel
 installers:
-- location: https://github-windows.s3.amazonaws.com/GitHubSetup.exe
+- location: https://central.github.com/deployments/desktop/desktop/latest/win32
+  architecture: x64
+  minWindowsVersion: 6.1
