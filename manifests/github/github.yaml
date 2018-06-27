@@ -3,6 +3,7 @@ name: GitHub Desktop
 version: 1.2.6
 home: https://desktop.github.com/
 repo: https://github.com/desktop/desktop/
+license: MIT License
 installMethod: Squirrel
 installers:
 - location: https://central.github.com/deployments/desktop/desktop/latest/win32
