@@ -5,4 +5,3 @@ home: https://nordvpn.com/
 installMethod: AdvancedInstaller
 installers:
 - location: https://downloads.nordcdn.com/apps/windows/10/NordVPN/latest/NordVPNSetup.exe
-  sha256: db6713fe6614f8d04d33df798b8e8dd768bc739ea9d3f91467021c7c4f071692
