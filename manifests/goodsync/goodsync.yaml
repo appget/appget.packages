@@ -5,4 +5,3 @@ home: https://www.goodsync.com/
 installMethod: NSIS
 installers:
 - location: https://www.goodsync.com/download/GoodSync-v10-Setup.exe
-  sha256: 446802f7c83aebd492763205c3f5d4b51a576d6d4f18e33ce370ae12e06d1108
