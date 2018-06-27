@@ -1,6 +1,7 @@
 id: winscp
 name: WinSCP
 version: 5.13.3
+home: https://winscp.net/
 repo: https://sourceforge.net/projects/winscp/
 installMethod: Inno
 installers:
