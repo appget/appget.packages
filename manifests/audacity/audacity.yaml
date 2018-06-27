@@ -1,5 +1,7 @@
 id: audacity
 name: Audacity
+home: https://www.audacityteam.org/
+repo: https://sourceforge.net/projects/audacity/
 version: 2.2.2
 installMethod: Inno
 installers:
