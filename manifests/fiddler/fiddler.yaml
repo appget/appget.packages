@@ -1,6 +1,6 @@
 id: fiddler
 name: Fiddler
-version: 5.0.20181.14850
+version: 5.0.20182.28034
 home: https://www.telerik.com/fiddler
 installMethod: NSIS
 installers:
