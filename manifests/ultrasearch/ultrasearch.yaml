@@ -1,0 +1,9 @@
+id: ultrasearch
+name: UltraSearch
+version: 2.1.2.380
+home: https://www.jam-software.com/ultrasearch/
+installMethod: Inno
+installers:
+- location: https://www.jam-software.com/ultrasearch/UltraSearch-x86-Setup.exe
+- location: https://www.jam-software.com/ultrasearch/UltraSearch-x64-Setup.exe
+  architecture: x64
