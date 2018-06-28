@@ -1,0 +1,9 @@
+id: web-deploy
+name: Microsoft Web Deploy
+version: 10.0.1973
+home: https://www.iis.net/downloads/microsoft/web-deploy
+installMethod: MSI
+installers:
+- location: https://download.microsoft.com/download/0/1/D/01DC28EA-638C-4A22-A57B-4CEF97755C6C/WebDeploy_x86_en-US.msi
+- location: https://download.microsoft.com/download/0/1/D/01DC28EA-638C-4A22-A57B-4CEF97755C6C/WebDeploy_amd64_en-US.msi
+  architecture: x64
