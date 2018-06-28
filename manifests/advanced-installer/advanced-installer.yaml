@@ -1,6 +1,6 @@
 id: advanced-installer
 name: Advanced Installer
-version: 14.9
+version: 15.0
 home: https://www.advancedinstaller.com/
 installMethod: MSI
 installers:
