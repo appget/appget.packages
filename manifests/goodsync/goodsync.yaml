@@ -1,6 +1,6 @@
 id: goodsync
 name: GoodSync
-version: 10.9.1.5
+version: 10.9.2.2
 home: https://www.goodsync.com/
 installMethod: NSIS
 installers:
