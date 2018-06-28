@@ -1,7 +1,7 @@
 id: retroarch
 name: RetroArch
 version: 1.7.3
-home: https://libretro.com/
+home: https://www.libretro.com/
 installMethod: NSIS
 installers:
 - location: https://buildbot.libretro.com/stable/1.7.3/windows/x86/RetroArch-1.7.3-x86-setup.exe
