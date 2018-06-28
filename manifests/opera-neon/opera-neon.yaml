@@ -1,0 +1,7 @@
+id: opera-neon
+name: Opera Neon
+version: 1.0.2531
+home: https://www.opera.com/computer/neon
+installMethod: Custom
+installers:
+- location: https://get.geo.opera.com/.private/OperaNeonSetup.exe
