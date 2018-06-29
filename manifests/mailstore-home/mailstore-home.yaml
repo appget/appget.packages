@@ -1,0 +1,7 @@
+id: mailstore-home
+name: 7-Zip
+version: 11.0.2.13363
+home: https://mailstore.com/
+installMethod: Custom
+installers:
+- location: https://my.mailstore.com/Downloads/Home
