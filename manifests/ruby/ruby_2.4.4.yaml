@@ -6,8 +6,8 @@ repo: https://github.com/ruby/ruby/
 license: Ruby License
 installMethod: Inno
 installers:
-- location: https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.4.4-1/rubyinstaller-devkit-2.4.4-1-x86.exe
-  sha256: 73348889a9d36a6bcbfb1739d8bf64094b2db121640a222898e40cd638a86d76
-- location: https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.4.4-1/rubyinstaller-devkit-2.4.4-1-x64.exe
-  sha256: 1f2a74db8369dc783669652a83cf8b456581e7e1e5acbc2cc3eff3a9f7a9d5b2
+- location: https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.4.4-2/rubyinstaller-devkit-2.4.4-2-x86.exe
+  sha256: 0aadfd48a907d99c107da0254457be2ea20ca7a682ca5fc4cac516f77d32b570
+- location: https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.4.4-2/rubyinstaller-devkit-2.4.4-2-x64.exe
+  sha256: 154e9199b16c0added004c0a3e0c1688b0fed3fef418ccf17f8a2f6ce633cc6d
   architecture: x64
