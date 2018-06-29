@@ -1,0 +1,12 @@
+id: npackd
+name: Npackd
+version: 1.23.2
+home: https://www.npackd.org/
+repo: https://github.com/tim-lebedkov/npackd-cpp/
+installMethod: MSI
+installers:
+- location: https://github.com/tim-lebedkov/npackd-cpp/releases/download/version_1.23.2/Npackd32-1.23.2.msi
+  sha256: 2213b3fa3bf30c52779f4f2153d7314836aecbec739270269ef85cb7386e01fc
+- location: https://github.com/tim-lebedkov/npackd-cpp/releases/download/version_1.23.2/Npackd64-1.23.2.msi
+  sha256: 1b743d05a88b02e8b54f1d12d5cd663b45df0b1d7c8f44c5168343a01b973fcb
+  architecture: x64
