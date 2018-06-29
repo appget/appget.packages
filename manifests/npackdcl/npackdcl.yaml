@@ -1,0 +1,9 @@
+id: npackdcl
+name: NpackdCL
+version: 1.23.2
+home: https://www.npackd.org/
+repo: https://github.com/tim-lebedkov/npackd-cpp/
+installMethod: MSI
+installers:
+- location: https://github.com/tim-lebedkov/npackd-cpp/releases/download/version_1.23.2/NpackdCL-1.23.2.msi
+  sha256: 5633deb0c42c4908256f8123c0b394fa5bea88c6a0daaacd5a4f454bde576e28
