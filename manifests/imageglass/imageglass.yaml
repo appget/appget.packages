@@ -1,7 +1,7 @@
 id: imageglass
 name: ImageGlass
 version: 5.1.5.20
-home: https://www.imageglass.org/
+home: http://www.imageglass.org/
 repo: https://github.com/d2phap/ImageGlass/
 license: GNU General Public License v3.0
 installMethod: Inno
