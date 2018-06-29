@@ -1,6 +1,6 @@
 id: ghostscript
 name: Ghostscript
-version: 923
+version: 9.23.0
 license: GNU Affero GPL license
 home: https://www.ghostscript.com/
 repo: http://git.ghostscript.com/
