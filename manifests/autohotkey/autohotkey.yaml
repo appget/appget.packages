@@ -4,7 +4,7 @@ version: 1.1.29.01
 home: https://autohotkey.com/
 repo: https://github.com/Lexikos/AutoHotkey_L/
 license: GNU General Public License v2.0
-installMethod: NSIS
+installMethod: Custom
 installers:
 - location: https://github.com/Lexikos/AutoHotkey_L/releases/download/v1.1.29.01/AutoHotkey_1.1.29.01_setup.exe
   sha256: 0e0006f9b4544dc71054debc678baf120bdbd3c96c791b84b911a97368835ca6
