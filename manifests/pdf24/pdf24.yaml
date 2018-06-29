@@ -1,8 +1,8 @@
 id: pdf24
 name: PDF24 Creator
-version: 8.4.1
+version: 8.4.2
 home: https://www.pdf24.org/
 installMethod: MSI
 installers:
 - location: https://www.pdf24.org/products/pdf-creator/download/pdf24-creator.msi
-  sha256: 56b46fd0bd23d6373652609ca03448afb564cbcbcd5e5a3c3ac4e83a975788e2
+  sha256: acd488242459caf5f9f354e5d60a3f6095d470de7bdd911edeca7de752a2be0a
