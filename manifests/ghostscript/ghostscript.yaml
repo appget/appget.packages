@@ -1,6 +1,6 @@
 id: ghostscript
 name: Ghostscript
-version: 9.23.0
+version: 923
 home: https://www.ghostscript.com/
 repo: https://github.com/ArtifexSoftware/ghostpdl-downloads/
 installMethod: NSIS
