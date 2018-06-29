@@ -1,7 +1,7 @@
 id: sohodox
 name: SOHODOX
 version: 10.26.01.03
-home: http://www.sohodox.com/
+home: https://www.sohodox.com/
 installMethod: Inno
 installers:
 - location: http://downloads.sohodox.com/desktop/latest/sdxsetup.exe
