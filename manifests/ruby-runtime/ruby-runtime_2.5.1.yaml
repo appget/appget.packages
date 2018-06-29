@@ -6,8 +6,8 @@ repo: https://github.com/ruby/ruby/
 license: Ruby License
 installMethod: Inno
 installers:
-- location: https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.5.1-1/rubyinstaller-2.5.1-1-x86.exe
-  sha256: 49d113ef99894810a65559226b3423be67ea016debf6533c43b46069c03b00d0
-- location: https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.5.1-1/rubyinstaller-2.5.1-1-x64.exe
-  sha256: b6fc06f165870473e78373f5981c536c1189b16a594d951f7d94a08a3f0270bf
+- location: https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.5.1-2/rubyinstaller-2.5.1-2-x86.exe
+  sha256: 208f765e2c19ca487930e9b0ddf94fab26a8446a1e2ba1da781c09fdf4678ed8
+- location: https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.5.1-2/rubyinstaller-2.5.1-2-x64.exe
+  sha256: 8d64b4e0fef35634b93ea2f2131347f2571959d4ad4fbdcfe34777cad347f84d
   architecture: x64
