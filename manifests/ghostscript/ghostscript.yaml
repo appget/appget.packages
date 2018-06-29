@@ -1,8 +1,9 @@
 id: ghostscript
 name: Ghostscript
 version: 923
+license: GNU Affero GPL license
 home: https://www.ghostscript.com/
-repo: https://github.com/ArtifexSoftware/ghostpdl-downloads/
+repo: http://git.ghostscript.com/
 installMethod: NSIS
 installers:
 - location: https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs923/gs923w32.exe
