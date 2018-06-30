@@ -1,6 +1,6 @@
 id: teamcity
 name: TeamCity
-version: 2018.1
+version: 2018.1.58245
 home: https://www.jetbrains.com/teamcity/
 installMethod: NSIS
 installers:
