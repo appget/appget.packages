@@ -1,7 +1,7 @@
 id: tunlookup
 name: Tunlookup
 version: 3.0.1
-home: https://tunlookup.com/
+home: https://bit.ly/tunlookup
 repo: https://github.com/tun-application/Tunlookup/
 installMethod: NSIS
 installers:
