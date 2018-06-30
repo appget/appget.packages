@@ -1,0 +1,8 @@
+id: bluefish
+name: Bluefish
+version: 2.2.10
+home: http://bluefish.openoffice.nl/index.html
+installMethod: NSIS
+installers:
+- location: https://www.bennewitz.com/bluefish/stable/binaries/win32/Bluefish-2.2.10-setup.exe
+  sha256: 65e70a80882dfd289661ed718fad16054b89d95848885008e443ed81b2a76623

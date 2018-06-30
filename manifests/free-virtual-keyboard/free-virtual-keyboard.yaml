@@ -1,0 +1,7 @@
+id: free-virtual-keyboard
+name: Free Virtual Keyboard
+version: 4.1.0
+home: http://freevirtualkeyboard.com/
+installMethod: Inno
+installers:
+- location: http://freevirtualkeyboard.com/FreeVKSetup.exe
