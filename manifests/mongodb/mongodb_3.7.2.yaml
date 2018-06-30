@@ -6,6 +6,6 @@ repo: https://github.com/mongodb/mongo/
 license: AGPL v3
 installMethod: MSI
 installers:
-- location: https://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.7.2-signed.msi
+- location: http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.7.2-signed.msi
   sha256: c564ff2441f61807f2bbd0f503fd2ad1e633b00cbea381d6ed9ea9e8a050906c
   architecture: x64
