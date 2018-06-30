@@ -1,5 +1,6 @@
 id: torguard
 name: Torguard
+version: 864
 home: https://torguard.net/
 installMethod: NSIS
 installers:
