@@ -1,6 +1,6 @@
 id: deskpins
 name: DeskPins
-version: 1.32
+version: 1.32.0
 home: https://efotinis.neocities.org/deskpins/
 installMethod: NSIS
 installers:
