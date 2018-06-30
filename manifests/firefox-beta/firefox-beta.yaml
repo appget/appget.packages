@@ -1,10 +1,10 @@
 id: firefox-beta
 name: Mozilla Firefox (Beta)
+version: 18.1.0
 home: https://www.mozilla.org/firefox/
 installMethod: Custom
-args: {
+args:
   silent: -ms
-}
 installers:
 - location: https://download.mozilla.org/?product=firefox-beta-stub&os=win&lang=en-US
 - location: https://download.mozilla.org/?product=firefox-beta-stub&os=win64&lang=en-US
