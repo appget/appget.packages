@@ -1,10 +1,10 @@
 id: firefox-nightly
 name: Mozilla Firefox (Nightly)
+version: 18.01
 home: https://www.mozilla.org/firefox/
 installMethod: Custom
-args: {
+args:
   silent: -ms
-}
 installers:
 - location: https://download.mozilla.org/?product=firefox-nightly-stub&os=win&lang=en-US
 - location: https://download.mozilla.org/?product=firefox-nightly-stub&os=win64&lang=en-US
