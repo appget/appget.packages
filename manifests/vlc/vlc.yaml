@@ -5,8 +5,8 @@ home: https://videolan.org/
 license: GNU Lesser General Public License v2.1+
 installMethod: NSIS
 installers:
-- location: https://get.videolan.org/vlc/3.0.3/win32/vlc-3.0.3-win32.exe
+- location: http://get.videolan.org/vlc/3.0.3/win32/vlc-3.0.3-win32.exe
   sha256: 65bf42b15a05b13197e4dd6cdf181e39f30d47feb2cb6cc929db21cd634cd36f
-- location: https://get.videolan.org/vlc/3.0.3/win64/vlc-3.0.3-win64.exe
+- location: http://get.videolan.org/vlc/3.0.3/win64/vlc-3.0.3-win64.exe
   sha256: 59940804b6a89f0c83b576247dd90f2c5a22b8c7f040ebf82813c59968828035
   architecture: x64
