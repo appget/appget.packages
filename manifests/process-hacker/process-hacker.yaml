@@ -1,6 +1,6 @@
 id: process-hacker
 name: Process Hacker
-version: 2.39
+version: 2.39.0
 home: https://processhacker.sourceforge.io/
 repo: https://github.com/processhacker/processhacker/
 installMethod: Inno
