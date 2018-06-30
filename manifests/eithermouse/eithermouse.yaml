@@ -1,6 +1,6 @@
 id: eithermouse
 name: EitherMouse
-version: 0.8
+version: 0.8.0
 home: https://www.eithermouse.com/
 installMethod: Custom
 installers:
