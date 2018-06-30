@@ -1,8 +1,9 @@
 id: qtox
 name: qTox
 version: 1.14.1
-home: https://tox.chat/
+home: https://qtox.github.io/
 repo: https://github.com/qTox/qTox/
+license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
 - location: https://build.tox.chat/view/qtox/job/qTox_pkg_windows_x86_stable_release/lastSuccessfulBuild/artifact/setup-qtox32-.1.14.1.exe
