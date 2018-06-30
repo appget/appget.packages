@@ -1,5 +1,6 @@
 id: cygwin
 name: Cygwin
+version: 2.10.0
 home: https://cygwin.com/
 installMethod: Custom
 args:
