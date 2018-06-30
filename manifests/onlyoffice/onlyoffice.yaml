@@ -1,0 +1,9 @@
+id: onlyoffice
+name: ONLYOFFICE Desktop Editors
+version: 5.1.29.348
+home: https://www.onlyoffice.com/
+installMethod: Inno
+installers:
+- location: https://download.onlyoffice.com/install/desktop/editors/windows/distrib/onlyoffice/DesktopEditors_x86.exe
+- location: https://download.onlyoffice.com/install/desktop/editors/windows/distrib/onlyoffice/DesktopEditors_x64.exe
+  architecture: x64

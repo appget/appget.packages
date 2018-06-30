@@ -1,0 +1,12 @@
+id: qtox
+name: qTox
+version: 1.14.1
+home: https://tox.chat/
+repo: https://github.com/qTox/qTox/
+installMethod: NSIS
+installers:
+- location: https://build.tox.chat/view/qtox/job/qTox_pkg_windows_x86_stable_release/lastSuccessfulBuild/artifact/setup-qtox32-.1.14.1.exe
+  sha256: adb381b50295d3a2595e1d1c9b2d33b8ac355ccfa8ebc404d0f0fbe2937549af
+- location: https://build.tox.chat/view/qtox/job/qTox_pkg_windows_x86-64_stable_release/lastSuccessfulBuild/artifact/setup-qtox64-.1.14.1.exe
+  sha256: 7f951529fcd4ea2545a6ee46de6bf52b1c56434b6b6d3a0e78d261c649f8fe6f
+  architecture: x64

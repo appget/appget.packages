@@ -1,0 +1,11 @@
+id: zettlr
+name: Zettlr
+version: 0.17.0
+repo: https://github.com/Zettlr/Zettlr/
+license: GNU General Public License v3.0
+installMethod: NSIS
+installers:
+- location: https://github.com/Zettlr/Zettlr/releases/download/v0.17.0/Zettlr-win32-x64-0.17.0.exe
+  sha256: be3d13756763aab183b5fe89d81e8728b925e0c1b283ae364bfa5dda3119ba0a
+  architecture: x64
+  minWindowsVersion: 6.1

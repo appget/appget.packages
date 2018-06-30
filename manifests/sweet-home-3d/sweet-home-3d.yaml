@@ -1,0 +1,9 @@
+id: sweet-home-3d
+name: Sweet Home 3D
+version: 5.7.0
+home: http://www.sweethome3d.com/
+repo: https://sourceforge.net/projects/sweethome3d/
+installMethod: Inno
+installers:
+- location: https://downloads.sourceforge.net/project/sweethome3d/SweetHome3D/SweetHome3D-5.7/SweetHome3D-5.7-windows.exe
+  sha256: ad5244bb2343850af312d0f1254d3397316530251aae8184eea299731a545996

@@ -1,0 +1,12 @@
+id: supertuxkart
+name: Supertuxkart
+version: 0.9.3
+home: https://supertuxkart.net/Main_Page
+repo: https://sourceforge.net/projects/supertuxkart/
+installMethod: NSIS
+installers:
+- location: https://downloads.sourceforge.net/project/supertuxkart/SuperTuxKart/0.9.3/supertuxkart-0.9.3-win32.exe
+  sha256: e560b3e62d0b4e8fab7639be72f058383c80adcd8ed0a11e9516f0c888876f6e
+- location: https://downloads.sourceforge.net/project/supertuxkart/SuperTuxKart/0.9.3/supertuxkart-0.9.3-win64.exe
+  sha256: 73978600ee03042eaaecae126f1ecd2239588340f0ce4325564364b4342e9dcf
+  architecture: x64
