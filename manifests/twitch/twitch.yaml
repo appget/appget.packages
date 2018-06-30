@@ -1,5 +1,6 @@
 id: twitch
 name: Twitch
+version: 6036
 home: https://app.twitch.tv/
 installMethod: Custom
 installers:
