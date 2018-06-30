@@ -1,6 +1,6 @@
 id: eac
 name: Exact Audio Copy
-version: 1.3
+version: 1.3.0
 home: http://www.exactaudiocopy.de/
 installMethod: NSIS
 installers:
