@@ -1,0 +1,9 @@
+id: make
+name: Make
+version: 3.81.0
+home: https://www.gnu.org/software/make/
+repo: https://sourceforge.net/projects/gnuwin32/
+installMethod: Inno
+installers:
+- location: https://downloads.sourceforge.net/project/gnuwin32/make/3.81/make-3.81.exe
+  sha256: cc55115c78a16386587c6eb90dd35e6de820191b83a6b3058460e5661f457e3f
