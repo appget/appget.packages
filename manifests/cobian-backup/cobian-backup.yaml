@@ -1,0 +1,7 @@
+id: cobian-backup
+name: Cobian Backup Gravity
+version: 11.2.0.149
+home: http://www.cobiansoft.com/cobianbackup.htm
+installMethod: Custom
+installers:
+- location: http://files.cobiansoft.com/programz/cbSetup.exe
