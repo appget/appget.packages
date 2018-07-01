@@ -1,5 +1,6 @@
 id: mullvad
 name: Mullvad
+version: 67
 home: https://mullvad.net/
 installMethod: NSIS
 installers:
