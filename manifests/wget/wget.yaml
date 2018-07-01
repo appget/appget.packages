@@ -1,0 +1,9 @@
+id: wget
+name: Wget
+version: 1.11.4
+home: https://www.gnu.org/software/wget/
+repo: https://sourceforge.net/projects/gnuwin32/
+installMethod: Inno
+installers:
+- location: https://downloads.sourceforge.net/project/gnuwin32/wget/1.11.4-1/wget-1.11.4-1-setup.exe
+  sha256: 2f03cdcb576414f670885e716145316f3dae1f141e3a150f9767e4f07d4f8b5b
