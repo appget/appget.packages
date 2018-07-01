@@ -2,6 +2,7 @@ id: juju
 name: Juju
 version: 2.3.8
 home: https://jujucharms.com/
+repo: https://github.com/juju/juju
 license: ISC License
 installMethod: Inno
 installers:

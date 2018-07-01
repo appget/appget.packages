@@ -2,6 +2,7 @@ id: keybase
 name: Keybase
 version: 2.1.0.6
 home: https://keybase.io/
+repo: https://github.com/keybase/client/
 installMethod: Wix
 installers:
 - location: https://prerelease.keybase.io/keybase_setup_386.exe

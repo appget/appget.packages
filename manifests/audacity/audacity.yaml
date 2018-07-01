@@ -2,7 +2,7 @@ id: audacity
 name: Audacity
 version: 2.2.2
 home: https://www.audacityteam.org/
-repo: https://sourceforge.net/projects/audacity/
+repo: https://github.com/audacity/audacity
 installMethod: Inno
 installers:
 - location: http://app.oldfoss.com:81/download/Audacity/audacity-win-2.2.2.exe

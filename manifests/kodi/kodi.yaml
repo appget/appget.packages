@@ -2,6 +2,7 @@ id: kodi
 name: Kodi
 version: 17.6.0
 home: https://kodi.tv/
+repo: https://github.com/xbmc/xbmc/
 license: GNU GPL (GPLv2)
 installMethod: NSIS
 installers:

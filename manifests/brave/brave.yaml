@@ -2,6 +2,7 @@ id: brave
 name: Brave
 version: 0.23.19
 home: https://brave.com/
+repo: https://github.com/brave/browser-laptop/
 installMethod: Squirrel
 installers:
 - location: https://laptop-updates.brave.com/latest/winia32

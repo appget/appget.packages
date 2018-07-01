@@ -2,6 +2,7 @@ id: mullvad
 name: Mullvad
 version: 67
 home: https://mullvad.net/
+repo: https://github.com/mullvad/mullvadvpn-app
 installMethod: NSIS
 installers:
 - location: https://mullvad.net/en/download/latest/windows/

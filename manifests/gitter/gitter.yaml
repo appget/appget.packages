@@ -2,6 +2,7 @@ id: gitter
 name: Gitter
 version: 4.1.0
 home: https://gitter.im/
+repo: https://gitlab.com/gitlab-org/gitter/desktop/
 installMethod: Inno
 installers:
 - location: https://update.gitter.im/win/GitterSetup-4.1.0.exe

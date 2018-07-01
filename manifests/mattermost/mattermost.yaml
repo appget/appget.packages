@@ -2,6 +2,7 @@ id: mattermost
 name: Mattermost
 version: 4.1.2.46
 home: https://mattermost.com/
+repo: https://github.com/mattermost/desktop/
 installMethod: Squirrel
 installers:
 - location: https://releases.mattermost.com/desktop/4.1.2/mattermost-setup-4.1.2-win32.exe
