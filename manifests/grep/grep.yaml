@@ -1,0 +1,9 @@
+id: grep
+name: Grep
+version: 2.5.4
+home: https://www.gnu.org/software/grep/
+repo: https://sourceforge.net/projects/gnuwin32/
+installMethod: Inno
+installers:
+- location: https://downloads.sourceforge.net/project/gnuwin32/grep/2.5.4/grep-2.5.4-setup.exe
+  sha256: 5265da018b2213ab5446616f0837f82ada4196ffc16434c4319c6679e2942d06
