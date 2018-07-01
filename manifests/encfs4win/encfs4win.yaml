@@ -1,0 +1,9 @@
+id: encfs4win
+name: EncFS4win
+version: 1.10.1
+home: https://encfs.win/
+repo: https://github.com/jetwhiz/encfs4win/
+installMethod: NSIS
+installers:
+- location: https://github.com/jetwhiz/encfs4win/releases/download/v1.10.1-RC13/encfs-installer.exe
+  sha256: 40919d186017e6c522e192365e3572e6b7f4509f203cfc64efeb7696cb459403
