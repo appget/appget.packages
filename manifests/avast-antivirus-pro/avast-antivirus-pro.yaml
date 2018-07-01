@@ -1,0 +1,7 @@
+id: avast-antivirus-pro
+name: Avast Pro Antivirus
+version: 18.5.3931
+home: https://avast.com/
+installMethod: Custom
+installers:
+- location: https://files.avast.com/iavs9x/avast_pro_antivirus_setup_offline.exe
