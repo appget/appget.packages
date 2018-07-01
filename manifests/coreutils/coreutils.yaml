@@ -1,0 +1,9 @@
+id: coreutils
+name: GNU Core Utilities
+version: 5.3.0.1936
+home: https://www.gnu.org/software/coreutils/coreutils.html
+repo: https://sourceforge.net/projects/gnuwin32/
+installMethod: Inno
+installers:
+- location: https://downloads.sourceforge.net/project/gnuwin32/coreutils/5.3.0/coreutils-5.3.0.exe
+  sha256: d08670e116c5ef9444f85fef273a28ce71d30b7da0ba8817a1a0e21f159425c8
