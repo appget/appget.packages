@@ -6,6 +6,6 @@ args: {
   silent: -ms
 }
 installers:
-- location: https://download.mozilla.org/?product=firefox-nightly-stub&os=win&lang=en-US
-- location: https://download.mozilla.org/?product=firefox-nightly-stub&os=win64&lang=en-US
+- location: https://download.mozilla.org/?product=firefox-nightly-latest-ssl&os=win&lang=en-US
+- location: https://download.mozilla.org/?product=firefox-nightly-latest-ssl&os=win64&lang=en-US
   architecture: x64
