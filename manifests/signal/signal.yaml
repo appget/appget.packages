@@ -1,8 +1,9 @@
 id: signal
 name: Signal
 version: 1.13.0
-home: https://signal.org/
+home: https://signal.org/download
 repo: https://github.com/signalapp/Signal-Desktop/
+license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
 - location: https://updates.signal.org/desktop/signal-desktop-win-1.13.0.exe
