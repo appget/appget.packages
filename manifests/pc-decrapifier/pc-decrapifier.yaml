@@ -1,0 +1,8 @@
+id: pc-decrapifier
+name: PC Decrapifier
+version: 3.0.1
+home: https://www.pcdecrapifier.com/
+installMethod: NSIS
+installers:
+- location: https://s3.amazonaws.com/dl.pcdecrapifier.com/pc-decrapifier-3.0.1.exe
+  sha256: feb352471748f445cba237fd4188c6e8d996d9318358d1fcea4eaf90018253d1
