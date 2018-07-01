@@ -1,0 +1,9 @@
+id: thurnderbird
+name: Thunderbird
+version: 52.8.0
+home: https://www.thunderbird.net/
+license: MPL 2.0
+installMethod: Custom
+installers:
+- location: https://download.mozilla.org/?product=thunderbird-52.8.0-SSL
+  sha256: cf7a589bcd1b5d1778690d6af93d877024071143c75c7773a8b7d8bbbe6147e9
