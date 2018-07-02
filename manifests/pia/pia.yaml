@@ -1,7 +1,7 @@
 id: pia
 name: Private Internet Access
 version: 81
-home: https://privateinternetaccess.com/
+home: https://www.privateinternetaccess.com/
 installMethod: Inno
 installers:
 - location: https://installers.privateinternetaccess.com/download/pia-v81-installer-win.exe
