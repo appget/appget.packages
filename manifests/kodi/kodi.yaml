@@ -3,7 +3,7 @@ name: Kodi
 version: 17.6.0
 home: https://kodi.tv/
 repo: https://github.com/xbmc/xbmc/
-license: GNU GPL (GPLv2)
+license: GNU General Public License v2.0
 installMethod: NSIS
 installers:
 - location: https://mirrors.kodi.tv/releases/windows/win32/kodi-17.6-Krypton-x86.exe
