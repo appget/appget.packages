@@ -1,7 +1,7 @@
 id: double-commander
 name: Double Commander
 version: 0.8.3.64
-home: http://doublecmd.sourceforge.net/
+home: https://doublecmd.sourceforge.io/
 repo: https://sourceforge.net/projects/doublecmd/
 installMethod: MSI
 installers:
