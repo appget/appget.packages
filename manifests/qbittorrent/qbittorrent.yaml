@@ -1,6 +1,7 @@
 id: qbittorrent
 name: qBittorrent
 version: 4.1.1
+home: https://www.qbittorrent.org/
 repo: https://sourceforge.net/projects/qbittorrent/
 installMethod: NSIS
 installers:
