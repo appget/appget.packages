@@ -1,7 +1,7 @@
 id: gog-galaxy
 name: GOG Galaxy
 version: 1.2.44.30
-home: https://gog.com/
+home: https://www.gog.com/
 installMethod: Inno
 installers:
 - location: https://content-system.gog.com/open_link/download?path=/open/galaxy/client/setup_galaxy_1.2.44.30.exe
