@@ -1,7 +1,7 @@
 id: gimp
 name: GIMP
 version: 2.10.2
-home: https://gimp.org/
+home: https://www.gimp.org/
 installMethod: Inno
 installers:
 - location: https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.2-setup.exe
