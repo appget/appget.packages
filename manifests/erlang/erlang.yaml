@@ -1,8 +1,9 @@
 id: erlang
 name: Erlang
 version: 21.0
-home: http://erlang.org/
-repo: https://github.com/erlanglab/erlangpl
+home: https://www.erlang.pl/
+repo: https://github.com/erlanglab/erlangpl/
+license: Apache License 2.0
 installMethod: NSIS
 installers:
 - location: http://erlang.org/download/otp_win32_21.0.exe
