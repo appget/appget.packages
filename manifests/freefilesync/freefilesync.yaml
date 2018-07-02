@@ -1,7 +1,7 @@
 id: freefilesync
 name: FreeFileSync
 version: 10.1
-home: https://www.freefilesync.org/
+home: https://freefilesync.org/
 installMethod: Inno
 installers:
 - location: https://www.freefilesync.org/download/FreeFileSync_10.1_Windows_Setup.exe
