@@ -1,6 +1,7 @@
 id: smplayer
 name: SMPlayer
 version: 18.6.0
+home: http://www.smplayer.info/
 repo: https://sourceforge.net/projects/smplayer/
 installMethod: NSIS
 installers:
