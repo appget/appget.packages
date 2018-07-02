@@ -1,7 +1,7 @@
 id: aptana-studio
 name: Aptana Studio
 version: 3.6.1
-home: http://aptana.com/products/studio3
+home: http://www.aptana.com/products/studio3
 repo: https://github.com/aptana/studio3/
 installMethod: AdvancedInstaller
 installers:
