@@ -1,7 +1,7 @@
 id: dotcover
 name: dotCover
 version: 11.0.20180302.74220
-home: https://jetbrains.com/dotcover/
+home: https://www.jetbrains.com/dotcover/
 installMethod: Custom
 args:
   silent: /SpecificProductNames=dotCover /Silent=True /VsVersion=10.0;11.0;12.0;14.0;15.0
