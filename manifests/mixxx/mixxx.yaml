@@ -2,7 +2,7 @@ id: mixxx
 name: Mixxx
 version: 2.1.1.6743
 home: https://mixxx.org/
-repo: https://github.com/mixxxdj/mixxx
+repo: https://github.com/mixxxdj/mixxx/
 installMethod: Wix
 installers:
 - location: https://downloads.mixxx.org/mixxx-2.1.1/mixxx-2.1.1-win32.exe
