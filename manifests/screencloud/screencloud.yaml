@@ -1,6 +1,7 @@
 id: screencloud
 name: ScreenCloud
 version: 1.3.0
+home: http://screencloud.net/
 repo: https://sourceforge.net/projects/screencloud/
 installMethod: MSI
 installers:
