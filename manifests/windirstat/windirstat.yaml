@@ -1,7 +1,7 @@
 id: windirstat
 name: WinDirStat
 version: 1.1.2
-home: https://windirstat.info/
+home: https://windirstat.net/
 repo: https://sourceforge.net/projects/windirstat/
 installMethod: NSIS
 installers:
