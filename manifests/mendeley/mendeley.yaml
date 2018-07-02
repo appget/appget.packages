@@ -1,7 +1,7 @@
 id: mendeley
 name: Mendeley
 version: 1.19.1
-home: https://mendeley.com/
+home: https://www.mendeley.com/
 installMethod: NSIS
 installers:
 - location: https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.1-win32.exe
