@@ -1,8 +1,9 @@
 id: freeciv
 name: Freeciv
 version: 2.5.11
-home: http://freeciv.org/
+home: http://www.freeciv.org/
 repo: https://github.com/freeciv/freeciv/
+license: GNU General Public License v2.0
 installMethod: NSIS
 installers:
 - location: http://files.freeciv.org/packages/windows/Freeciv-2.5.11-win32-gtk2-setup.exe
