@@ -2,7 +2,7 @@ id: sumatrapdf
 name: SumatraPDF
 version: 3.1.2
 home: https://www.sumatrapdfreader.org/
-repo: https://github.com/sumatrapdfreader/sumatrapdf
+repo: https://github.com/sumatrapdfreader/sumatrapdf/
 installMethod: Custom
 args:
   passive: /autoupdate
