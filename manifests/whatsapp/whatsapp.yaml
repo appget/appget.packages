@@ -1,7 +1,7 @@
 id: whatsapp
 name: WhatsApp
 version: 0.2.9928
-home: https://whatsapp.com/
+home: https://www.whatsapp.com/
 installMethod: Squirrel
 installers:
 - location: https://web.whatsapp.com/desktop/windows/release/ia32/WhatsAppSetup.exe
