@@ -1,11 +1,8 @@
 id: visual-studio-code
 name: Visual Studio Code
-version: 1.24.0
+version: 1.24.1
 home: https://code.visualstudio.com/
 installMethod: Inno
-args:
-  passive: /mergetasks=!runcode
-  silent: /mergetasks=!runcode
 installers:
 - location: https://go.microsoft.com/fwlink/?LinkID=623230
 - location: https://go.microsoft.com/fwlink/?Linkid=852157
