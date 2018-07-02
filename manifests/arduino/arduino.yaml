@@ -1,7 +1,7 @@
 id: arduino
 name: Arduino
 version: 1.8.5
-home: https://arduino.cc/
+home: https://www.arduino.cc/
 repo: https://github.com/arduino/Arduino/
 installMethod: NSIS
 installers:
