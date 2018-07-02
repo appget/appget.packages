@@ -1,7 +1,7 @@
 id: ccleaner
 name: CCleaner
 version: 5.44.162.6575
-home: https://ccleaner.com/
+home: https://www.ccleaner.com/
 installMethod: NSIS
 installers:
 - location: https://download.ccleaner.com/ccsetup544.exe
