@@ -1,11 +1,8 @@
 id: axcrypt
 name: AxCrypt
-version: 2.1.1481.0
-home: http://www.axcrypt.net/
-installMethod: MSI
+version: 2.1.1560
+home: https://www.axcrypt.net/
+installMethod: Wix
 installers:
-- location: https://account.axcrypt.net/Download/AxCrypt-2.1.1481.0-x86.msi
-  sha256: b82b006ebda990645b3b3a2c9d7c37022d11f8afb9262b3dc9de2fdc65437d46
-- location: https://account.axcrypt.net/Download/AxCrypt-2.1.1481.0-x64.msi
-  sha256: f97f11d756d8125e78ab331ceecea78980d9b6e9c10b6a140284d0e7126f3810
-  architecture: x64
+- location: https://www.axcrypt.net/downloads/4519/
+  sha256: 280a92fb1e84d67fd2d3b8bea1f06113b91af6e398072f7fa6a944333946c754
