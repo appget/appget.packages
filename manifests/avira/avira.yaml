@@ -1,7 +1,7 @@
 id: avira
 name: Avira
 version: 1.2.115.14232
-home: https://avira.com/
+home: https://www.avira.com/
 installMethod: Wix
 installers:
 - location: https://package.avira.com/package/oeavira/win/int/avira_en_av_5b1312a44b5eb__ws.exe
