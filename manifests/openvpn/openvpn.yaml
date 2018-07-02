@@ -1,6 +1,6 @@
 id: openvpn
 name: OpenVPN
-home: https://openvpn.org/
+home: https://openvpn.net/
 installMethod: NSIS
 installers:
 - location: https://build.openvpn.net/downloads/releases/latest/openvpn-install-latest-stable.exe
