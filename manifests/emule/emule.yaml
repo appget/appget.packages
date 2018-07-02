@@ -1,6 +1,7 @@
 id: emule
 name: eMule
 version: 0.50
+home: https://www.emule-project.net/
 repo: https://sourceforge.net/projects/emule/
 installMethod: NSIS
 installers:
