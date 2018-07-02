@@ -1,7 +1,7 @@
 id: cyberduck
 name: Cyberduck
-home: https://cyberduck.io/
 version: 5.4.0.23761
+home: https://cyberduck.io/
 installMethod: Wix
 installers:
 - location: https://a48823c7ec3cf4539564-60c534a1284a12ce74ef84032e9b4e46.ssl.cf1.rackcdn.com/Cyberduck-Installer-5.4.0.23761.exe
