@@ -1,13 +1,13 @@
 id: qtox
 name: qTox
-version: 1.15.0
+version: 1.16.0
 home: https://qtox.github.io/
 repo: https://github.com/qTox/qTox/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/qTox/qTox/releases/download/v1.15.0/setup-qtox-i686-release.exe
-  sha256: 2ef8a56e77527619a054b9439af0055849c4594302a6ea02f1564f575b596443
-- location: https://github.com/qTox/qTox/releases/download/v1.15.0/setup-qtox-x86_64-release.exe
-  sha256: ffaa8092f744acee3ff7246c8e9547f669cd133dc25bbc5895d350bf233ed674
+- location: https://github.com/qTox/qTox/releases/download/v1.16.0/setup-qtox-i686-release.exe
+  sha256: e2f0acbb9cc42b2654deb6dbb1b25e52e7842f76a2b3555c2134227c7457ff7b
+- location: https://github.com/qTox/qTox/releases/download/v1.16.0/setup-qtox-x86_64-release.exe
+  sha256: 7c69afc7ebeafcdff183d142b8b4f714bed5ca189d737329d51fe00ea4fcf860
   architecture: x64
