@@ -1,8 +1,8 @@
 id: youtrack
 name: YouTrack
-version: 18.2.42881
+version: 18.2.43142
 home: https://www.jetbrains.com/youtrack/
 installMethod: MSI
 installers:
-- location: https://download.jetbrains.com/charisma/youtrack-2018.2.42881.msi
-  sha256: e615d475295bccbbd4be4968f4b839901aabfffdd573e7f9eb382c83dc6e7dd0
+- location: https://download.jetbrains.com/charisma/youtrack-2018.2.43142.msi
+  sha256: d2e98b7c76f82ed6a2bfc3b2f7100739fd5fc1645a81602639565ffd081d0a14
