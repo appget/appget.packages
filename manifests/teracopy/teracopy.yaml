@@ -1,6 +1,5 @@
 id: teracopy
 name: TeraCopy
-version: 3.2.6
 home: https://www.codesector.com/teracopy/
 installMethod: Inno
 installers:
