@@ -1,0 +1,9 @@
+id: sharepod
+name: SharePod
+version: 1.5.3
+repo: https://github.com/kimyearho/SharePod/
+installMethod: NSIS
+installers:
+- location: https://github.com/kimyearho/SharePod/releases/download/1.5.3/SharePod.Setup.1.5.3.exe
+  sha256: 4c3f1a500242d1cfa4b549cf530366f7303294212c16415a2044dba05d18cd8f
+  minWindowsVersion: 6.1
