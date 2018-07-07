@@ -1,0 +1,7 @@
+id: mingw
+name: MinGW - Minimalist GNU for Windows
+version: 0.602.22340
+home: http://www.mingw.org/
+installMethod: Custom
+installers:
+- location: https://downloads.sourceforge.net/project/mingw/Installer/mingw-get-setup.exe
