@@ -2,6 +2,8 @@ id: visual-studio-code
 name: Visual Studio Code
 version: 1.24.0
 home: https://code.visualstudio.com/
+repo: https://github.com/Microsoft/vscode
+license: MIT
 installMethod: Inno
 args:
   passive: /mergetasks=!runcode
