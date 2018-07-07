@@ -1,0 +1,8 @@
+id: midnight-commander
+name: Midnight Commander
+version: 4.8.19
+home: https://sourceforge.net/projects/mcwin32
+installMethod: Inno
+installers:
+- location: https://downloads.sourceforge.net/project/mcwin32/mcwin32-build204-setup.exe
+  sha256: fdf8d0f567e27d18a3b52dd4cdf1523255af748025268afee69bb7394e16475b
