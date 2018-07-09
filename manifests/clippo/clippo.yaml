@@ -1,0 +1,9 @@
+id: clippo
+name: clippo
+version: 1.35.0
+repo: https://github.com/monsterkodi/clippo/
+installMethod: Inno
+installers:
+- location: https://github.com/monsterkodi/clippo/releases/download/v1.35.0/clippo-1.35.0-setup.exe
+  sha256: 08299ca0aaf567c5b1d7bdb5960b07ce67b4949949cc306124469afcf05ca1e9
+  architecture: x64

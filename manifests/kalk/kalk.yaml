@@ -1,0 +1,9 @@
+id: kalk
+name: kalk
+version: 0.15.0
+repo: https://github.com/monsterkodi/kalk/
+installMethod: Inno
+installers:
+- location: https://github.com/monsterkodi/kalk/releases/download/v0.15.0/kalk-0.15.0-setup.exe
+  sha256: dc0824b4a77291dbcee2f8f61173e6dca5caed51ccc6054ad4ce8a63ae1ce92f
+  architecture: x64
