@@ -1,9 +1,7 @@
 id: kalk
 name: kalk
 version: 0.15.0
-home: https://github.com/monsterkodi/kalk
 repo: https://github.com/monsterkodi/kalk/
-license: Unlicense
 installMethod: Inno
 installers:
 - location: https://github.com/monsterkodi/kalk/releases/download/v0.15.0/kalk-0.15.0-setup.exe
