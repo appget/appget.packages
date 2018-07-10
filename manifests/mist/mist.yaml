@@ -1,0 +1,14 @@
+id: mist
+name: Mist
+version: 0.11.0
+home: https://ethereum.org/
+repo: https://github.com/ethereum/mist/
+license: GNU General Public License v3.0
+installMethod: NSIS
+installers:
+- location: https://github.com/ethereum/mist/releases/download/v0.11.0/Ethereum-Wallet-installer-0-11-0.exe
+  sha256: 4cafa7b7bb645e4d0afb5915638eb0ef187b97556bfe335294cd4696abe4fae2
+  minWindowsVersion: 6.1
+- location: https://github.com/ethereum/mist/releases/download/v0.11.0/Mist-installer-0-11-0.exe
+  sha256: 6e843e66b507a6e0f4fd8efac408e09fbe8f02fb4ee1ba867492bbfe020e27df
+  minWindowsVersion: 6.1
