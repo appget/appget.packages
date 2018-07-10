@@ -1,7 +1,7 @@
 id: vlc
 name: VLC media player
 version: 3.0.3
-home: https://www.videolan.org/
+home: https://www.videolan.org/vlc
 repo: https://github.com/videolan/vlc/
 license: GNU Lesser General Public License v2.1+
 installMethod: NSIS
