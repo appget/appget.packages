@@ -1,6 +1,6 @@
 id: nitro-pdf-reader
 name: Nitro PDF Reader
-version: 5
+version: 2.1.1009
 home: https://www.gonitro.com/pdf-reader/
 installMethod: MSI
 installers:
