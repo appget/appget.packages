@@ -1,13 +1,8 @@
 id: visual-studio-code
 name: Visual Studio Code
-version: 1.24.0
+version: 1.25.0
 home: https://code.visualstudio.com/
-repo: https://github.com/Microsoft/vscode
-license: MIT
 installMethod: Inno
-args:
-  passive: /mergetasks=!runcode
-  silent: /mergetasks=!runcode
 installers:
 - location: https://go.microsoft.com/fwlink/?LinkID=623230
 - location: https://go.microsoft.com/fwlink/?Linkid=852157
