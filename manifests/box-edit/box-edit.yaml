@@ -2,6 +2,6 @@ id: box-edit
 name: Box Edit
 version: 4.2.0.453
 home: https://www.box.com/
-installMethod: AdvancedInstaller
+installMethod: Custom
 installers:
 - location: https://e3.boxcdn.net/box-installers/boxedit/win/currentrelease/BoxToolsInstaller.exe
