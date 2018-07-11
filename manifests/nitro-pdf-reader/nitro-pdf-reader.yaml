@@ -1,6 +1,6 @@
 id: nitro-pdf-reader
 name: Nitro PDF Reader
-version: 2.1.1009
+version: 5
 home: https://www.gonitro.com/pdf-reader/
 installMethod: Custom
 installers:
