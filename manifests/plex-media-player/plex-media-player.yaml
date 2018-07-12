@@ -1,12 +1,12 @@
 id: plex-media-player
 name: Plex Media Player
-version: 2.14.1.880
+version: 2.13.0.877
 home: https://www.plex.tv/
 repo: https://github.com/plexinc/plex-media-player/
 license: GNU General Public License v2.0
 installMethod: Wix
 installers:
-- location: https://downloads.plex.tv/plexmediaplayer/2.14.1.880-301a4b6c/PlexMediaPlayer-2.14.1.880-301a4b6c-windows-x64.exe
-  sha256: 9b58758d161843cdfda6e5fa823d08cb55492b670e92d0e940a20ec59ed4ab77
+- location: https://downloads.plex.tv/plexmediaplayer/2.13.0.877-6e1ea2cb/PlexMediaPlayer-2.13.0.877-6e1ea2cb-windows-x64.exe
+  sha256: 586549fc272b93bd400c061c6c0f18f321f3f83da291124a8687f5a4816d4067
   architecture: x64
   minWindowsVersion: 6.1
