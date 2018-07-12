@@ -1,6 +1,7 @@
 id: ueli
 name: ueli
 version: 4.7.0.187
+home: https://ueli.oliverschwendener.ch/
 repo: https://github.com/oliverschwendener/ueli/
 license: MIT License
 installMethod: NSIS
