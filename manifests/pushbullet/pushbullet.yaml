@@ -1,0 +1,7 @@
+id: pushbullet
+name: Pushbullet
+version: 338
+home: https://www.pushbullet.com/
+installMethod: Inno
+installers:
+- location: https://update.pushbullet.com/pushbullet_installer.exe
