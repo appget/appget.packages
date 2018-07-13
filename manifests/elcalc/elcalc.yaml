@@ -1,0 +1,10 @@
+id: elcalc
+name: elcalc
+version: 4.0.4
+repo: https://github.com/elcalc/elcalc/
+license: MIT License
+installMethod: NSIS
+installers:
+- location: https://github.com/elcalc/elcalc/releases/download/4.4/elcalc.4.0.4.exe
+  sha256: 0a37462a9b79d12040baf0d296f7312faff4047dec04bb4cd249a6d70b6efabd
+  minWindowsVersion: 6.1
