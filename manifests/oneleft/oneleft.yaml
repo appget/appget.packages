@@ -1,10 +1,10 @@
 id: oneleft
 name: OneLeft
-version: 1.2.0
+version: 1.3.0
 repo: https://github.com/drscaon/electron-react-one-left-game/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/drscaon/electron-react-one-left-game/releases/download/v1.2.0/OneLeft.Setup.1.2.0.exe
-  sha256: e6333f06026d736d87e0a4bc4168a97172f6c88134fd825478ef31f5400f0726
+- location: https://github.com/drscaon/electron-react-one-left-game/releases/download/v1.3.0/OneLeft.Setup.1.3.0.exe
+  sha256: 6919681b3671502d480d0f6f344faf941d9a23e317c6a938fc8cca8df76f90c2
   minWindowsVersion: 6.1
