@@ -1,11 +1,11 @@
 id: google-play-music-desktop-player
 name: Google Play Music Desktop Player
-version: 4.6.0
+version: 4.6.1
 home: https://www.googleplaymusicdesktopplayer.com/
 repo: https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-/
 license: MIT License
 installMethod: Squirrel
 installers:
-- location: https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-/releases/download/v4.6.0/Google.Play.Music.Desktop.Player.Setup.exe
-  sha256: b13c1fa8cfbfcf1777550838f8e47474d529bbedeaf0d08f0a2bcac4d969099f
+- location: https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-/releases/download/v4.6.1/Google.Play.Music.Desktop.Player.Setup.exe
+  sha256: 4d026c4248832a04981107abc6eb0fefce7facabed9d0fb279fc1c6b72586fd1
   minWindowsVersion: 6.1
