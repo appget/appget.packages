@@ -1,9 +1,9 @@
 id: plex-media-server
 name: Plex Media Server
-version: 1.13.2.5154
+version: 1.13.4.5251
 home: https://www.plex.tv/
 installMethod: Wix
 installers:
-- location: https://downloads.plex.tv/plex-media-server/1.13.2.5154-fd05be322/Plex-Media-Server-1.13.2.5154-fd05be322.exe
-  sha256: 8a11f4dedee9adc17ee90a459b38141fa4a90b3843fe700c04b155ccbf74c110
+- location: https://downloads.plex.tv/plex-media-server/1.13.4.5251-2e6e8f841/Plex-Media-Server-1.13.4.5251-2e6e8f841.exe
+  sha256: f43192df3eb3382824d062802ba3147b824dcb8eef063c102133bdc5269ad9b3
   minWindowsVersion: 6.1
