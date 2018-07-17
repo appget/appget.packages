@@ -1,11 +1,11 @@
 id: ride-receipts
 name: Ride Receipts
-version: 1.5.2
+version: 1.5.4
 home: https://ridereceipts.io/
 repo: https://github.com/ridereceipts/ridereceipts/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/ridereceipts/ridereceipts/releases/download/v1.5.2/ridereceipts-setup-1.5.2.exe
-  sha256: 24112ae9622a498e1659f30827ca0d1bb40dd9a44007decd3998b7b6f29b4b3e
+- location: https://github.com/ridereceipts/ridereceipts/releases/download/v1.5.4/ridereceipts-setup-1.5.4.exe
+  sha256: 63045473376c53978a8a543618eef72bb71c4ae19ca1c5735970b068b6b744e9
   minWindowsVersion: 6.1
