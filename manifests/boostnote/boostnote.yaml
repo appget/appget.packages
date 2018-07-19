@@ -1,9 +1,9 @@
 id: boostnote
 name: Boostnote
-version: 0.11.7
+version: 0.11.8
 home: https://boostnote.io/
 repo: https://github.com/BoostIO/boost-releases/
 installMethod: Squirrel
 installers:
-- location: https://github.com/BoostIO/boost-releases/releases/download/v0.11.7/BoostnoteSetup.exe
-  sha256: d4df317aabca17cdc62c56deaf934ddc223735f777d5d3db6d1b68f55fd5b6f0
+- location: https://github.com/BoostIO/boost-releases/releases/download/v0.11.8/BoostnoteSetup.exe
+  sha256: 71e9b9e540e8c37fc0b0ead1208b58fa9459ba05f9d259cabd05be110def2991
