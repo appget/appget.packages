@@ -1,7 +1,8 @@
 id: musescore
 name: MuseScore
-version: 2.2.1
+version: 2.3.1
 home: https://musescore.org/
 installMethod: MSI
 installers:
-- location: https://musescore.org/en/download/musescore.msi
+- location: https://ftp.osuosl.org/pub/musescore/releases/MuseScore-2.3.1/MuseScore-2.3.1.msi
+  sha256: ebb8175d07c01a1bca7fac0aa5d7d884d46aebe80ec160b07d0b897d197eba42
