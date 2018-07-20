@@ -9,3 +9,6 @@ installers:
 - location: https://github.com/laurent22/joplin/releases/download/v1.0.104/Joplin-Setup-1.0.104.exe
   sha256: 194c7b439c5f8d258fae50082b0129fc54576f479ee1287c4db1ab2dc2ab2dba
   minWindowsVersion: 6.1
+- location: https://github.com/laurent22/joplin/releases/download/v1.0.104/JoplinPortable.exe
+  sha256: c5be1b9300616ae6b6e4b32fe9753f7d5e2671f8339d75c20bf52ddc27200c0c
+  minWindowsVersion: 6.1
