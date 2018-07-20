@@ -1,7 +1,7 @@
 id: android-studio
 name: Android Studio
-home: https://developer.android.com/studio/
 version: 3.1.3
+home: https://developer.android.com/studio/
 installMethod: NSIS
 installers:
 - location: https://dl.google.com/dl/android/studio/install/3.1.3.0/android-studio-ide-173.4819257-windows.exe
