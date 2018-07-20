@@ -1,8 +1,8 @@
 id: tor-browser
 name: Tor Browser
-version: 7.5.4
+version: 7.5.6
 home: https://www.torproject.org/
 installMethod: NSIS
 installers:
-- location: https://www.torproject.org/dist/torbrowser/7.5.4/torbrowser-install-7.5.4_en-US.exe
-  sha256: 4931380d7f5afdfe1ad6e7e98779d72b549595b8cbf5b24693c2d178c9dfa2c6
+- location: https://www.torproject.org/dist/torbrowser/7.5.6/torbrowser-install-7.5.6_en-US.exe
+  sha256: 475b2207314ddbf28ee79651b5d1154d59699e7b76a3b5081dce3caf97ab941e
