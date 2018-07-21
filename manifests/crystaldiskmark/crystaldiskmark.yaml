@@ -4,3 +4,4 @@ version: 6.0.1
 installMethod: Inno
 installers:
 - location: https://osdn.dl.osdn.jp/crystaldiskmark/68624/CrystalDiskMark6_0_1.exe
+  sha256: bf41c1d312ff20c55fe57d1e58613f8111d07555be0770882e5717f645950003
