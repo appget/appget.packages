@@ -1,13 +1,13 @@
 id: vivaldi
 name: Vivaldi
-version: 1.15.1147.52
+version: 1.15.1147.55
 home: https://vivaldi.com/
 installMethod: Custom
 args:
   silent: --vivaldi-silent --do-not-launch-chrome --vivaldi-update
 installers:
-- location: https://downloads.vivaldi.com/stable/Vivaldi.1.15.1147.52.exe
-  sha256: 7af0506a3002fa2245bc6a5e5ca039fc3b954d6a321060a769574a31fc40c708
-- location: https://downloads.vivaldi.com/stable/Vivaldi.1.15.1147.52.x64.exe
-  sha256: ce8dba2f47a67fb6002804ddeee7a22dab47db0053464afad7a83b34d0b3b0db
+- location: https://downloads.vivaldi.com/stable/Vivaldi.1.15.1147.55.exe
+  sha256: cb8a8fa0ed7b15bc0a4c6d294ffe0b02b3d143c10a0af5d003659c11b06ee390
+- location: https://downloads.vivaldi.com/stable/Vivaldi.1.15.1147.55.x64.exe
+  sha256: fcae5cf1d0f2d85ddfe809d7463d1f9285b4367408422968fa5e7c473165ebd9
   architecture: x64
