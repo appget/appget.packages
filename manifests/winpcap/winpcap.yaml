@@ -5,3 +5,4 @@ home: https://www.winpcap.org/
 installMethod: NSIS
 installers:
 - location: https://www.winpcap.org/install/bin/WinPcap_4_1_3.exe
+- sha256: fc4623b113a1f603c0d9ad5f83130bd6de1c62b973be9892305132389c8588de
