@@ -1,6 +1,7 @@
 id: phonegap
-name: PhoneGap
+name: PhoneGap Desktop
 version: 0.4.5
+home: https://phonegap.com/
 repo: https://github.com/phonegap/phonegap-app-desktop/
 installMethod: Inno
 installers:
