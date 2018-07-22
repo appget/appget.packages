@@ -1,6 +1,7 @@
 id: transmission-remote-gui
 name: Transmission Remote GUI
 version: 5.15.4
+home: https://github.com/transmission-remote-gui/transgui
 repo: https://github.com/transmission-remote-gui/transgui/
 installMethod: Inno
 installers:
