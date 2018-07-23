@@ -1,6 +1,6 @@
 id: logfusion
 name: LogFusion
-version: 6.2.1
+version: 6.2.1.0
 home: https://www.logfusion.ca/
 installMethod: Inno
 installers:
