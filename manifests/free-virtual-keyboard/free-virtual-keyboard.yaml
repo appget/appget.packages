@@ -1,6 +1,6 @@
 id: free-virtual-keyboard
 name: Free Virtual Keyboard
-version: 4.1.0
+version: 4.1.0.0
 home: http://freevirtualkeyboard.com/
 installMethod: Inno
 installers:
