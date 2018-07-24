@@ -1,8 +1,8 @@
 id: poedit
 name: Poedit
-version: 2.0.9
+version: 2.1.5407
 home: https://poedit.net/
 installMethod: Inno
 installers:
-- location: https://download.poedit.net/Poedit-2.0.9-setup.exe
-  sha256: 94b0cc7c0c9a87db3c649b2f9216729b52698dccd452685d714a05680265a055
+- location: https://download.poedit.net/Poedit-2.1-setup.exe
+  sha256: 879b29785d1245cae202ef30a0f193105f0e1707ddf1bb6cb9388d08f77ef3cf
