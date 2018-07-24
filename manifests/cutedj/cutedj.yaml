@@ -1,6 +1,6 @@
 id: cutedj
-name: CuteDJ
-version: 4.3.5
+name: '{cm:MyAppName}'
+version: 4.3.5.0
 home: http://www.cutedjpro.com/
 installMethod: Inno
 installers:
