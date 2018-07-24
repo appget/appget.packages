@@ -1,7 +1,6 @@
 id: maxima
 name: Maxima
 version: 5.41.0
-home: http://maxima.sourceforge.net/
 repo: https://sourceforge.net/projects/maxima/
 installMethod: NSIS
 installers:
