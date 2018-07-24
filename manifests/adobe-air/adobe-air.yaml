@@ -1,0 +1,8 @@
+id: adobe-air
+name: Adobe AIR
+version: 30.0.0.107
+home: https://www.adobe.com/products/air.html
+installMethod: Custom
+installers:
+- location: https://airdownload.adobe.com/air/win/download/30.0/AdobeAIRInstaller.exe
+  sha256: bcc36174f6f70baba27e5ed1c0df67e55c306ac7bc86b1d280eff4db8c314985
