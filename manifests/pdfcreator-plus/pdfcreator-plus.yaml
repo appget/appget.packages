@@ -1,0 +1,7 @@
+id: pdfcreator-plus
+name: PDFCreator Plus
+version: 3.2.2.13515
+home: https://www.pdfforge.org/pdfcreator/plus
+installMethod: Inno
+installers:
+- location: https://download.pdfforge.org/download/pdfcreator-plus/PDFCreatorPlus-stable?download
