@@ -1,8 +1,7 @@
 id: pdfcreator
 name: PDFCreator
-version: 3.2.1
-home: https://pdfforge.org/
+version: 3.2.2.13517
+home: https://www.pdfforge.org/pdfcreator
 installMethod: Inno
 installers:
-- location: http://purple.download.pdfforge.org/pdfcreator/3.2.1/PDFCreator-3_2_1-Setup.exe
-  sha256: 2099eaab1415f35dbc0ffb4d0f375c185c03ebb13d37f1ab7430932067031554
+- location: https://download.pdfforge.org/download/pdfcreator/PDFCreator-stable?download

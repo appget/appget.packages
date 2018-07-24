@@ -1,0 +1,7 @@
+id: pdf-architect
+name: PDF Architect
+version: 6.0.36.580
+home: https://www.pdfforge.org/pdfarchitect
+installMethod: Custom
+installers:
+- location: https://download.pdfforge.org/download/pdfarchitect6/PDFArchitect-stable?download
