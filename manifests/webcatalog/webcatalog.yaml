@@ -6,6 +6,6 @@ repo: https://github.com/webcatalog/webcatalog/
 license: Mozilla Public License 2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/webcatalog/webcatalog/releases/download/v12.5.1/webcatalog-setup-12.5.1.exe
+- location: https://github.com/quanglam2807/webcatalog/releases/download/v12.5.1/webcatalog-setup-12.5.1.exe
   sha256: 1ed8e538a0c78cb68f69949c93ec11a998c7fb86c9294bc48158e3ab58db0257
   minWindowsVersion: 6.1
