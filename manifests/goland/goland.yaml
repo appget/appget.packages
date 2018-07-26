@@ -1,8 +1,8 @@
 id: goland
 name: GoLand
-version: 2018.1.5
+version: 2018.2
 home: https://www.jetbrains.com/go/
 installMethod: NSIS
 installers:
-- location: https://download.jetbrains.com/go/goland-2018.1.5.exe
-  sha256: fd99730997a4dc894b5328aa85d53f318e4aeb42d6c6822024196d4ee97be73d
+- location: https://download.jetbrains.com/go/goland-2018.2.exe
+  sha256: c08cf7df80a23efada93582b147aa070b177a6bdc7b100545045277073e37776
