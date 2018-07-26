@@ -1,10 +1,10 @@
 id: wewechat
 name: wewechat
-version: 1.1.5
+version: 1.1.7
 repo: https://github.com/trazyn/weweChat/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/trazyn/weweChat/releases/download/v1.1.5/wewechat-1.1.5-win-setup.exe
-  sha256: 1bde386d128b8632cc5e837604f8758d7d936939429323320ad7662024f4a53b
+- location: https://github.com/trazyn/weweChat/releases/download/v1.1.7/wewechat-1.1.7-win-setup.exe
+  sha256: 95a5a4fe860ff625785392e8af9d3029221ffbfa13c96ea8b16286ccfc2afe5d
   minWindowsVersion: 6.1
