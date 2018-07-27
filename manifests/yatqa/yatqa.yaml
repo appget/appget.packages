@@ -1,6 +1,7 @@
 id: yatqa
 name: YaTQA
 version: 3.9.2
+home: https://yat.qa/
 installMethod: NSIS
 installers:
 - location: https://dl.yat.qa/stable/
