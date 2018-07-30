@@ -1,7 +1,7 @@
 id: frostwire
 name: FrostWire
 version: 6.7.1.268
-home: http://www.frostwire.com/
+home: https://www.frostwire.com/
 repo: https://github.com/frostwire/frostwire/
 installMethod: NSIS
 installers:
