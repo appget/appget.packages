@@ -1,6 +1,6 @@
 id: lightworks
 name: Lightworks
-version: 14.0.0
+version: 14.0
 home: https://www.lwks.com/
 installMethod: NSIS
 installers:
