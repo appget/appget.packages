@@ -1,6 +1,6 @@
 id: graphviz
 name: Graphviz
-version: 2.38.0
+version: 2.38
 home: https://graphviz.gitlab.io/
 repo: https://gitlab.com/graphviz/graphviz/
 installMethod: MSI
