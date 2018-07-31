@@ -1,6 +1,7 @@
 id: code-blocks
 name: Code::Blocks
-version: 17.12.0
+version: 17.12
+home: http://www.codeblocks.org/
 repo: https://sourceforge.net/projects/codeblocks/
 installMethod: NSIS
 installers:
