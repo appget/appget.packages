@@ -7,7 +7,7 @@ license: MIT License
 installMethod: MSI
 installers:
 - location: https://releases.hashicorp.com/vagrant/2.1.2/vagrant_2.1.2_i686.msi
-  sha256: d82fc463a2bd12e68fcc5cae8023ab8f5f8048864f2cffa39e152e9842e01125
+  sha256: 7e058165f0e2246a6dd098fa36e24c2623b28515d4e31f961ff3df0de1b44ed2
 - location: https://releases.hashicorp.com/vagrant/2.1.2/vagrant_2.1.2_x86_64.msi
   sha256: 492e01d5ef25bf97a5ba157d6ae2101e54f1b6965f41f05c5299dc701dc73182
   architecture: x64
