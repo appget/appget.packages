@@ -6,5 +6,5 @@ repo: https://github.com/git-lfs/git-lfs/
 license: MIT License
 installMethod: Inno
 installers:
-- location: https://github.com/git-lfs/git-lfs/releases/download/v2.5.0/git-lfs-windows-2.5.0.exe
+- location: https://github.com/git-lfs/git-lfs/releases/download/v2.5.0/git-lfs-windows-v2.5.0.exe
   sha256: f4974208ade2097f9ce2c2d30ab18924d135fbb8275635a5aabab9c03bb8f493
