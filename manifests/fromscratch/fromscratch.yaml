@@ -1,11 +1,11 @@
 id: fromscratch
 name: FromScratch
-version: 1.4.0
+version: 1.4.1
 home: https://fromscratch.rocks/
 repo: https://github.com/Kilian/fromscratch/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/Kilian/fromscratch/releases/download/v1.4.0/FromScratch.Setup.1.4.0.exe
-  sha256: 157892128212a43727299405d5702e2f4c0da195d7e5c37fbddbb9bf0dbae5a9
+- location: https://github.com/Kilian/fromscratch/releases/download/v1.4.1/FromScratch.Setup.1.4.1.exe
+  sha256: d9f0ae59eb85414d72e00a792e98d8419ad920835817f8669dd6fcd2db1406cb
   minWindowsVersion: 6.1
