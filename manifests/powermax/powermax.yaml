@@ -1,0 +1,8 @@
+id: powermax
+name: CPUID powerMAX
+version: 1.00.1
+home: https://www.cpuid.com/softwares/powermax.html
+installMethod: Inno
+installers:
+- location: http://download.cpuid.com/powermax/powermax_1.00_setup.exe
+  sha256: 26207cac657aacf1edd1e6e326b10ba380a402dbb7f4f1065081a7f584b11cd3
