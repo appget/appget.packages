@@ -1,6 +1,6 @@
 id: python
 name: Python
-version: 3.6.5
+version: 3.6.5150.0
 home: https://www.python.org/
 repo: https://github.com/python/cpython/
 license: Python Software Foundation License
