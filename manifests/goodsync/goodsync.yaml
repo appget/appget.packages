@@ -1,7 +1,7 @@
 id: goodsync
 name: GoodSync
-version: 10.9.2.2
+version: 10.9.5.5
 home: https://www.goodsync.com/
-installMethod: NSIS
+installMethod: MSI
 installers:
-- location: https://www.goodsync.com/download/GoodSync-v10-Setup.exe
+- location: https://www.goodsync.com/download/GoodSync-v10-Setup.msi
