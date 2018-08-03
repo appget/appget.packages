@@ -1,6 +1,7 @@
 id: imdisk
 name: ImDisk Toolkit
 version: 2017.7.6
+home: https://imdisk-toolkit.sourceforge.io/
 installMethod: Custom
 installers:
 - location: https://downloads.sourceforge.net/project/imdisk-toolkit/20170706/ImDiskTk-x64.exe
