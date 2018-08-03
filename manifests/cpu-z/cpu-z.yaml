@@ -1,5 +1,5 @@
 id: cpu-z
-name: CPU-Z
+name: CPUID CPU-Z
 version: 1.85
 home: https://www.cpuid.com/softwares/cpu-z.html
 installMethod: Inno
