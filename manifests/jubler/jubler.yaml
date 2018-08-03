@@ -1,6 +1,7 @@
 id: jubler
 name: Jubler
-version: 5.1.0
+version: 5.1
+home: http://www.jubler.org/
 repo: https://sourceforge.net/projects/jubler/
 installMethod: NSIS
 installers:
