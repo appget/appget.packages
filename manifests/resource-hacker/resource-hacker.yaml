@@ -1,6 +1,5 @@
 id: resource-hacker
 name: Resource Hacker
-version: 5.0.42
 home: http://angusj.com/
 installMethod: Inno
 installers:
