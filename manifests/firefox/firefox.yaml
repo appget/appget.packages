@@ -6,6 +6,6 @@ installMethod: Custom
 args:
   silent: -ms
 installers:
-- location: https://download.mozilla.org/?product=firefox-latest-ssl&os=win&lang=en-US
-- location: https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US
+- location: https://download.mozilla.org/?product=firefox-latest&os=win&lang=en-US
+- location: https://download.mozilla.org/?product=firefox-latest&os=win64&lang=en-US
   architecture: x64
