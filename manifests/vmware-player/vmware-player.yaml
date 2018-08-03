@@ -6,3 +6,4 @@ installMethod: Custom
 installers:
 - location: https://download3.vmware.com/software/player/file/VMware-player-14.1.2-8497320.exe
   sha256: a378902f56be7308680c909fe60af9ee56a514115a18391ab945fcde52547fce
+  architecture: x64
