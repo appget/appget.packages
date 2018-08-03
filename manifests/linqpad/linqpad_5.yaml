@@ -1,6 +1,5 @@
 id: linqpad
-name: LINQPad
-version: 5
+name: LINQPad 5
 home: https://www.linqpad.net/
 installMethod: Inno
 installers:
