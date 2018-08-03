@@ -1,0 +1,10 @@
+id: winds
+name: Winds
+version: 2.1.90
+home: https://getstream.io/winds/
+repo: https://github.com/getstream/winds
+installMethod: NSIS
+installers:
+- location: https://s3.amazonaws.com/winds-2.0-releases/releases/Winds Setup 2.1.90.exe
+  sha256: 33db1ae813b38d6a4b361eefdfcb4be4d3ff815ffd16fdede9196b05772110cd
+  minWindowsVersion: 6.1
