@@ -1,7 +1,8 @@
 id: jubler
 name: Jubler
-version: 5.1.0
-repo: https://sourceforge.net/projects/jubler/
+version: 5.1
+home: http://www.jubler.org/
+repo: https://github.com/teras/Jubler/
 installMethod: NSIS
 installers:
 - location: https://downloads.sourceforge.net/project/jubler/Jubler Binary Releases/5.1/Jubler-5.1_32.exe
