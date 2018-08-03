@@ -1,12 +1,11 @@
 id: jubler
 name: Jubler
-version: 5.1
+version: 6.0.2.32
 home: http://www.jubler.org/
 repo: https://github.com/teras/Jubler/
 installMethod: NSIS
 installers:
-- location: https://downloads.sourceforge.net/project/jubler/Jubler Binary Releases/5.1/Jubler-5.1_32.exe
-  sha256: 22e3c1ea77c44ac86065a8d79c18052b0c7bfcae9d0121c22d53f2b4827e378e
-- location: https://downloads.sourceforge.net/project/jubler/Jubler Binary Releases/5.1/Jubler-5.1_64.exe
-  sha256: ce1875c4e992bfcc260544c133a2abf600815707bb5ce1338d62576b021d9539
-  architecture: x64
+- location: https://github.com/teras/Jubler/releases/download/6.0.2/Jubler-6.0.2.32.exe
+  sha256: 320acb5d165b2ebc81a3665d8ab7b9c67840f6c5573b5d88490dbec4a58bb9ba
+- location: https://github.com/teras/Jubler/releases/download/6.0.2/Jubler-6.0.2.64.exe
+  sha256: ac25dd45978097b97224d2537c06090e1a7bda1daa3f5f0acd09e2b6a795fb21
