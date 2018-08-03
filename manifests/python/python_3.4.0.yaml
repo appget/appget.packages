@@ -1,0 +1,16 @@
+id: python
+name: Python
+version: 3.4.150
+home: https://www.python.org/
+repo: https://github.com/python/cpython/
+license: Python Software Foundation License
+installMethod: MSI
+args:
+  passive: PrependPath=1
+  silent: PrependPath=1
+installers:
+- location: https://www.python.org/ftp/python/3.4.0/python-3.4.0.msi
+  sha256: df19234353182fb321eee8c9fe2020ae47173adecefc667ed2a52555c1b49862
+- location: https://www.python.org/ftp/python/3.4.0/python-3.4.0.amd64.msi
+  sha256: 6982e5e628f64dd2b16e44b9f9e35ba7ef507f9c0578804f4692a700d3c4e94e
+  architecture: x64
