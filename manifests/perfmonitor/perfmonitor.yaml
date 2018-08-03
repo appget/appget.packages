@@ -1,5 +1,5 @@
 id: perfmonitor
-name: CPUID PerfMonitor 2
+name: CPUID PerfMonitor
 version: 2.04
 home: https://www.cpuid.com/softwares/perfmonitor-2.html
 installMethod: Inno
