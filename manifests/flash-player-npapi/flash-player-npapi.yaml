@@ -1,0 +1,8 @@
+id: flash-player-npapi
+name: Adobe Flash Player (Firefox)
+version: 30.0.0.134
+home: https://www.adobe.com/
+installMethod: MSI
+installers:
+- location: https://download.macromedia.com/get/flashplayer/pdc/30.0.0.134/install_flash_player_30_plugin.msi
+  sha256: 27ea3785ccdd012d48c5bfc29b701dbb421e4748ad59c875b7982b065bee4d4e
