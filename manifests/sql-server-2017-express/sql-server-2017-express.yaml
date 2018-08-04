@@ -1,0 +1,7 @@
+id: sql-server-2017-express
+name: SQL Server 2017 Express Edition
+version: 14.1805.4072.1
+home: https://www.microsoft.com/en-ca/sql-server/sql-server-editions-express
+installMethod: Custom
+installers:
+- location: https://go.microsoft.com/fwlink/?linkid=853016
