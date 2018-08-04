@@ -1,10 +1,11 @@
 id: dotcover
 name: dotCover
-version: 11.0.20180302.74220
+version: 12.0.20180731.150810
 home: https://www.jetbrains.com/dotcover/
 installMethod: Custom
 args:
-  silent: /SpecificProductNames=dotCover /Silent=True /VsVersion=10.0;11.0;12.0;14.0;15.0
+  silent: /SpecificProductNames=dotCover /Silent=True /VsVersion=15.0;14.0;12.0;11.0;10.0
+  log: /LogFile={path}
 installers:
-- location: https://download.jetbrains.com/resharper/JetBrains.ReSharperUltimate.2017.3.3.exe
-  sha256: 9b9a982a039df3f726671a2abeadd0dc6316912afb16a715d321ad919f396bb1
+- location: https://download.jetbrains.com/resharper/JetBrains.ReSharper.2018.1.4.web.exe
+  sha256: dcb6ff228fb19dd7f4e2bf02f0878326768f7e9dd42f1ac875f7f1dd39655e25
