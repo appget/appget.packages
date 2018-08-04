@@ -1,0 +1,8 @@
+id: flash-player-ppapi
+name: Adobe Flash Player PPAPI
+version: 30.0.0.134
+home: https://www.adobe.com/
+installMethod: MSI
+installers:
+- location: https://download.macromedia.com/pub/flashplayer/pdc/30.0.0.134/install_flash_player_30_ppapi.msi
+  sha256: faf9b3d3ae777ca2b5e1e72ec3131a3edd47cbe0a46231dd8151b7a5d4359d0f
