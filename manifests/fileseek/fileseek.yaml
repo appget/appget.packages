@@ -1,0 +1,7 @@
+id: fileseek
+name: FileSeek
+version: 6.1.1.0
+home: https://www.fileseek.ca/
+installMethod: Inno
+installers:
+- location: https://www.binaryfortress.com/Data/Download/?package=fileseek
