@@ -3,6 +3,9 @@ name: Adobe Acrobat Reader DC
 version: 18.11.20055.290043
 home: https://www.adobe.com/
 installMethod: Custom
+args:
+  passive: /sPB /rs /msi /qb /norestart EULA_ACCEPT=YES
+  silent: /sAll /rs /msi /qn /norestart EULA_ACCEPT=YES
 installers:
 - location: http://ardownload.adobe.com/pub/adobe/reader/win/AcrobatDC/1801120055/AcroRdrDC1801120055_en_US.exe
   sha256: 6158adf0ae9ff02c54d73e210a0bf64096674fc62ee8210465434da490854907
