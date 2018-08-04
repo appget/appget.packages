@@ -1,6 +1,6 @@
 id: youtrack
 name: YouTrack
-version: 18.2.44329
+version: 2018.2
 home: https://www.jetbrains.com/youtrack/
 installMethod: MSI
 installers:
