@@ -1,0 +1,9 @@
+id: sql-server-2017-express
+name: Microsoft SQL Server 2017 Express Edition
+version: 14.0.1000.169
+home: https://www.microsoft.com/en-ca/sql-server/sql-server-editions-express
+installMethod: Custom
+installers:
+- location: https://download.microsoft.com/download/E/F/2/EF23C21D-7860-4F05-88CE-39AA114B014B/SQLEXPR_x64_ENU.exe
+  architecture: x64
+  minWindowsVersion: 6.2
