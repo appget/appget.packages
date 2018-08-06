@@ -1,0 +1,11 @@
+id: teams
+name: Microsoft Teams
+version: 1.1.00.19257
+home: https://products.office.com/en-us/microsoft-teams/group-chat-software
+installMethod: Squirrel
+installers:
+- location: https://go.microsoft.com/fwlink/p/?linkid=869427
+  minWindowsVersion: 6.1
+- location: https://go.microsoft.com/fwlink/p/?linkid=869426
+  architecture: x64
+  minWindowsVersion: 6.1
