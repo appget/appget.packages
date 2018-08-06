@@ -1,7 +1,6 @@
 id: esteem-surfer
 name: eSteem Surfer
 version: 1.0.11
-home: https://esteem.app/
 repo: https://github.com/esteemapp/esteem-surfer/
 license: MIT License
 installMethod: NSIS
