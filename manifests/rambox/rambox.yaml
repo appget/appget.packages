@@ -2,14 +2,14 @@ id: rambox
 name: Rambox
 version: 0.5.17
 home: https://rambox.pro/
-repo: https://github.com/saenzramiro/rambox/
+repo: https://github.com/ramboxapp/community-edition/
 license: GNU General Public License v3.0
 installMethod: Squirrel
 installers:
-- location: https://github.com/saenzramiro/rambox/releases/download/0.5.17/Rambox.Setup.0.5.17-ia32.exe
+- location: https://github.com/ramboxapp/community-edition/releases/download/0.5.17/Rambox.Setup.0.5.17-ia32.exe
   sha256: 448f6982bb7f77d244c7220165140a664f7bd7d5aed027a28b3dbe90357642b4
   minWindowsVersion: 6.1
-- location: https://github.com/saenzramiro/rambox/releases/download/0.5.17/Rambox.Setup.0.5.17-x64.exe
+- location: https://github.com/ramboxapp/community-edition/releases/download/0.5.17/Rambox.Setup.0.5.17-x64.exe
   sha256: e368ffe6766dbf6008157f9a773801665bcf6a1f14fb775f81456f5ec9766f9c
-  architecture: x64
   minWindowsVersion: 6.1
+  architecture: x64
