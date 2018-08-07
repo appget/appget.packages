@@ -11,5 +11,5 @@ installers:
   minWindowsVersion: 6.1
 - location: https://github.com/ramboxapp/community-edition/releases/download/0.5.17/Rambox.Setup.0.5.17-x64.exe
   sha256: e368ffe6766dbf6008157f9a773801665bcf6a1f14fb775f81456f5ec9766f9c
-  minWindowsVersion: 6.1
   architecture: x64
+  minWindowsVersion: 6.1
