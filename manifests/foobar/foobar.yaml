@@ -1,0 +1,8 @@
+id: foobar
+name: foobar
+version: 1.4
+home: https://www.foobar2000.org/
+installMethod: NSIS
+installers:
+- location: https://www.foobar2000.org/files/03fd5f5f46d126cec593bfa27841197e/foobar2000_v1.4.exe
+  sha256: 7c048faecfec79f9ec2b332b2c68b25e0d0219b47a7c679fe56f2ec05686a96a
