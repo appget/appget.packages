@@ -1,7 +1,6 @@
 id: nordvpn
 name: NordVPN
 version: 6.16.9
-home: https://nordvpn.com/
 installMethod: AdvancedInstaller
 installers:
 - location: https://downloads.nordcdn.com/apps/windows/10/NordVPN/latest/NordVPNSetup.exe
