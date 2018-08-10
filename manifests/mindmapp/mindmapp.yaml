@@ -1,11 +1,11 @@
 id: mindmapp
 name: Mindmapp
-version: 0.7.9.39
+version: 0.7.10.40
 home: https://mindmapp.org/
 repo: https://github.com/Mindmapp/mindmapp/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/Mindmapp/mindmapp/releases/download/v0.7.9/Mindmapp-0.7.9.exe
-  sha256: 948182b8096aa9b56259791db7b9201af2b77af0db1be2bd9318283ed55a40cf
+- location: https://github.com/Mindmapp/mindmapp/releases/download/v0.7.10/Mindmapp-0.7.10.exe
+  sha256: 1d7941493a1a999268fd985204625821a5c0b6f4b577fb7dbf3488cbd83a1702
   minWindowsVersion: 6.1
