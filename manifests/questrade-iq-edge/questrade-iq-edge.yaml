@@ -1,0 +1,7 @@
+id: questrade-iq-edge
+name: Questrade IQ Edge
+version: 5.7.9.151
+home: https://www.questrade.com/
+installMethod: Inno
+installers:
+- location: http://media.questrade.com/iq_downloads/QuestradeIQEdge.exe
