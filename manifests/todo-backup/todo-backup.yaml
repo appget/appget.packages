@@ -1,0 +1,7 @@
+id: todo-backup
+name: EaseUS Todo Backup
+version: 4.6.2.5
+home: https://www.easeus.com/backup-software/personal.html
+installMethod: Inno
+installers:
+- location: http://down.easeus.com/product/tb
