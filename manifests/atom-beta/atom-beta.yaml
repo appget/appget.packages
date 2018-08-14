@@ -1,0 +1,9 @@
+id: atom-beta
+name: Atom Beta
+version: 1.30.0-beta1
+home: https://atom.io/
+repo: https://github.com/atom/atom/
+installMethod: Squirrel
+installers:
+- location: https://atom.io/download/windows_x64?channel=beta
+  architecture: x64
