@@ -1,6 +1,6 @@
 id: teamviewer
 name: TeamViewer
-version: 13.2.5287
+version: 13.2.14327
 home: https://teamviewer.com/
 installMethod: NSIS
 installers:
