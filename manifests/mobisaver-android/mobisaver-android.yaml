@@ -1,0 +1,7 @@
+id: mobisaver-android
+name: EaseUS MobiSaver for Android
+version: 5.0
+home: https://www.easeus.com/android-data-recovery-software/free-android-data-recovery.html
+installMethod: Inno
+installers:
+- location: http://down.easeus.com/product/emsa_free
