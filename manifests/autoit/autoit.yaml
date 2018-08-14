@@ -1,0 +1,7 @@
+id: autoit
+name: AutoIt
+version: 3.3.14.5
+home: https://www.autoitscript.com/
+installMethod: NSIS
+installers:
+- location: https://www.autoitscript.com/cgi-bin/getfile.pl?autoit3/autoit-v3-setup.exe
