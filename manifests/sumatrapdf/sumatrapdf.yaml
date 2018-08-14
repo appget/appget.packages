@@ -1,6 +1,6 @@
 id: sumatrapdf
 name: SumatraPDF
-version: 3.1.2
+version: 3.1.2.64
 home: https://www.sumatrapdfreader.org/
 repo: https://github.com/sumatrapdfreader/sumatrapdf/
 installMethod: Custom
