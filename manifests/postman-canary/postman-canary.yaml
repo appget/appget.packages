@@ -1,0 +1,9 @@
+id: postman-canary
+name: Postman Canary
+version: 6.2.4
+home: https://www.getpostman.com/
+installMethod: Squirrel
+installers:
+- location: https://dl.pstmn.io/download/channel/canary/windows_32
+- location: https://dl.pstmn.io/download/channel/canary/windows_64
+  architecture: x64
