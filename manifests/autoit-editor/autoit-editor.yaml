@@ -1,0 +1,7 @@
+id: autoit-editor
+name: AutoIt Script Editor
+version: 18.708.1148
+home: https://www.autoitscript.com/site/autoit-script-editor/
+installMethod: NSIS
+installers:
+- location: https://www.autoitscript.com/autoit3/scite/download/SciTE4AutoIt3.exe
