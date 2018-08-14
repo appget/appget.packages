@@ -3,5 +3,7 @@ name: Spotify
 version: 1.0.87.491
 home: https://www.spotify.com/
 installMethod: Custom
+args:
+  silent: /Silent
 installers:
-- location: https://download.scdn.co/SpotifySetup.exe
+- location: https://download.scdn.co/SpotifyFullSetup.exe
