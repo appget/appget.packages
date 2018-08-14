@@ -1,0 +1,8 @@
+id: veracrypt
+name: VeraCrypt
+version: 1.22.9
+home: https://www.veracrypt.fr/
+installMethod: Custom
+installers:
+- location: https://launchpad.net/veracrypt/trunk/1.22/+download/VeraCrypt Setup 1.22.exe
+  sha256: 5fb3d3ee3b76b05e2fbe9ec92bf160642f999cdba6890bbd476d72d9414cc981
