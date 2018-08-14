@@ -1,0 +1,9 @@
+id: visual-studio-code-insiders
+name: Visual Studio Code - Insiders
+version: 1.26.0
+home: https://code.visualstudio.com/
+installMethod: Inno
+installers:
+- location: https://aka.ms/win32-user-insider
+- location: https://aka.ms/win32-x64-user-insider
+  architecture: x64
