@@ -9,6 +9,6 @@ args:
   passive: /mergetasks=!runcode
   silent: /mergetasks=!runcode
 installers:
-- location: https://go.microsoft.com/fwlink/?LinkID=623230
-- location: https://go.microsoft.com/fwlink/?Linkid=852157
+- location: https://aka.ms/win32-user-stable
+- location: https://aka.ms/win32-x64-user-stable
   architecture: x64
