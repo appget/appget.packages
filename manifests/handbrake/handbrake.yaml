@@ -1,6 +1,6 @@
 id: handbrake
 name: HandBrake
-version: 1.0.7
+version: 1.0.7.64
 home: https://handbrake.fr/
 installMethod: NSIS
 installers:
