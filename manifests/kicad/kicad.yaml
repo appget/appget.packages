@@ -1,6 +1,6 @@
 id: kicad
 name: KiCad
-version: 5.0
+version: 5.0.0.64
 home: http://kicad-pcb.org/
 installMethod: NSIS
 installers:
