@@ -1,0 +1,8 @@
+id: nettime
+name: NetTime
+version: 314
+home: http://www.timesynctool.com/
+installMethod: Inno
+installers:
+- location: http://www.timesynctool.com/NetTimeSetup-314.exe
+  sha256: 7b489cbbc654fe26f39300387ae28a2a538cf76e68335f573a762ec18222a808

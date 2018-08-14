@@ -1,0 +1,10 @@
+id: physx
+name: PhysX System Software
+version: 9.16.0318
+home: https://nvidia.com/
+installMethod: Custom
+args:
+  silent: -s -noreboot
+installers:
+- location: https://us.download.nvidia.com/Windows/9.17.0524/PhysX-9.17.0524-SystemSoftware.exe
+  sha256: 7dfedc01439826f367feadd76ee00615dc855b035e57a07bfd75b7566d90585d
