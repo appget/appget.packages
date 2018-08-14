@@ -1,0 +1,8 @@
+id: sidesync
+name: SideSync
+version: 4.7.5.203
+home: https://www.samsung.com/us/sidesync/
+installMethod: NSIS
+installers:
+- location: http://downloadcenter.samsung.com/content/SW/201710/20171031152920648/SideSync_4.7.5.203.exe
+  sha256: 3156e01f5dfc26d6f9d795000305acac8c3368d687cbdfa144d9bd74968de2f1
