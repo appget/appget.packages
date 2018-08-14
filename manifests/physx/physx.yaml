@@ -6,5 +6,5 @@ installMethod: Custom
 args:
   silent: -s -noreboot
 installers:
-- location: https://us.download.nvidia.com/Windows/9.17.0524/PhysX-9.17.0524-SystemSoftware.exe
-  sha256: 7dfedc01439826f367feadd76ee00615dc855b035e57a07bfd75b7566d90585d
+- location: https://us.download.nvidia.com/Windows/9.16.0318/PhysX-9.16.0318-SystemSoftware.exe
+  sha256: 900dd9b88443bdcaf246a57b80d327f78c47166561e9750c7820b7e22a248411
