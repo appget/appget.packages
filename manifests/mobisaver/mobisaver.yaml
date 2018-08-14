@@ -1,0 +1,7 @@
+id: mobisaver
+name: EaseUS MobiSaver
+version: 7.5
+home: https://www.easeus.com/mobile-tool/free-iphone-data-recovery.html
+installMethod: Inno
+installers:
+- location: http://down.easeus.com/product/ems_free
