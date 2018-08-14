@@ -1,6 +1,6 @@
 id: airparrot
 name: AirParrot
-version: 2.7.5
+version: 2.7.5.32
 home: https://www.airsquirrels.com/airparrot/
 installMethod: MSI
 installers:
