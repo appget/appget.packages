@@ -1,6 +1,6 @@
 id: physx
 name: PhysX System Software
-version: 9.16.0318
+version: 9.17.0524
 home: https://nvidia.com/
 installMethod: Custom
 args:
