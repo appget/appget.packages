@@ -1,6 +1,6 @@
 id: git
 name: Git
-version: 2.18.0
+version: 2.18.0.32
 home: https://git-scm.com/
 repo: https://github.com/git-for-windows/git/
 license: GNU General Public License version 2
