@@ -1,6 +1,6 @@
 id: vmware-player
 name: VMware Workstation Player
-version: 14.1.2
+version: 14.1.2.8497320
 home: https://www.vmware.com/ca/products/workstation-player.html
 installMethod: Custom
 installers:
