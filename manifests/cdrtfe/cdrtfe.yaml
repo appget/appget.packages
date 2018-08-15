@@ -1,0 +1,8 @@
+id: cdrtfe
+name: cdrtools Frontend
+version: 1.5.8
+home: https://cdrtfe.sourceforge.io/
+installMethod: Inno
+installers:
+- location: https://downloads.sourceforge.net/project/cdrtfe/cdrtfe/cdrtfe 1.5.8/cdrtfe-1.5.8.exe
+  sha256: 531c8ddfeba23150229de16175a6510ff5e3531e2338af152a3b9f44e7ba889e
