@@ -1,0 +1,7 @@
+id: displayfusion
+name: DisplayFusion
+version: 9.3.0.0
+home: https://www.displayfusion.com/
+installMethod: Inno
+installers:
+- location: https://www.binaryfortress.com/Data/Download/?package=displayfusion
