@@ -1,8 +1,8 @@
 id: cpu-z
 name: CPUID CPU-Z
-version: 1.85
+version: 1.86
 home: https://www.cpuid.com/softwares/cpu-z.html
 installMethod: Inno
 installers:
-- location: http://download.cpuid.com/cpu-z/cpu-z_1.85-en.exe
-  sha256: 8b2188e6c9c87ff32f99df33005c2f1d2f0faf766615efc69de9c0f9dddb2f3d
+- location: http://download.cpuid.com/cpu-z/cpu-z_1.86-en.exe
+  sha256: 5ee78d4a8d7ec79584ad313e203ad27b5004ededa5fb110ea396475b87afcb62
