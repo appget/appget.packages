@@ -1,6 +1,6 @@
 id: azcopy
 name: AzCopy
-version: 7.3.0
+version: 8.1.0
 home: https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy
 installMethod: MSI
 installers:
