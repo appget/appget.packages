@@ -1,0 +1,6 @@
+id: any-video-converter-free
+name: Any Video Converter Free
+home: https://www.any-video-converter.com/
+installMethod: NSIS
+installers:
+- location: https://www.any-video-converter.com/avc-free.exe
