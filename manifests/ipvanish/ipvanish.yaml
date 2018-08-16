@@ -1,0 +1,7 @@
+id: ipvanish
+name: IPVanish
+version: 3.1.3
+home: https://www.ipvanish.com/
+installMethod: AdvancedInstaller
+installers:
+- location: https://www.ipvanish.com/software/setup-prod-v2/ipvanish-setup.exe
