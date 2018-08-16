@@ -1,0 +1,7 @@
+id: kmplayer
+name: KMPlayer
+version: 1.0.0.1
+home: http://www.kmplayer.com/
+installMethod: NSIS
+installers:
+- location: http://update.kmpmedia.net/kmp64player/update
