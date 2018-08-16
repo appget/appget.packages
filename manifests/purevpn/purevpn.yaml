@@ -1,0 +1,7 @@
+id: purevpn
+name: PureVPN
+version: 6.1.2.0
+home: https://www.purevpn.com/
+installMethod: Wix
+installers:
+- location: https://s3.amazonaws.com/purevpn-dialer-assets/windows/app/purevpn_setup.exe
