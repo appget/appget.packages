@@ -1,0 +1,7 @@
+id: focuswriter
+name: FocusWriter
+version: 1.6.15
+home: https://gottcode.org/focuswriter/
+installMethod: NSIS
+installers:
+- location: https://gottcode.org/focuswriter/download/?os=windows
