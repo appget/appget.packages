@@ -1,0 +1,8 @@
+id: protonvpn
+name: ProtonVPN
+version: 1.5.1
+home: https://protonvpn.com/
+installMethod: AdvancedInstaller
+installers:
+- location: https://protonvpn.com/download/ProtonVPN_win_v1.5.1.exe
+  sha256: 814308649002aa371073ac92a91b0d9a8da30b3003f6d4ec7d9d4eec020c3182
