@@ -1,0 +1,7 @@
+id: cyberghost-vpn
+name: CyberGhost VPN
+version: 2.0.2.6
+home: https://www.cyberghostvpn.com/
+installMethod: Custom
+installers:
+- location: https://www.cyberghostvpn.com/download/cgsetup_en_CgEeX8WFkLb7Gcg9jhaH.exe
