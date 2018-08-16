@@ -1,0 +1,9 @@
+id: gsync-enterprise
+name: Google Backup and Sync Enterprise
+version: 3.42.9858.3671
+home: https://www.google.com/drive/download/backup-and-sync/
+installMethod: MSI
+installers:
+- location: https://dl.google.com/drive/gsync_enterprise.msi
+- location: https://dl.google.com/drive/gsync_enterprise64.msi
+  architecture: x64
