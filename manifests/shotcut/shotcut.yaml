@@ -1,0 +1,13 @@
+id: shotcut
+name: Shotcut
+version: 18.08.14
+home: https://www.shotcut.org/
+repo: https://github.com/mltframework/shotcut/
+license: GNU General Public License v3.0
+installMethod: NSIS
+installers:
+- location: https://github.com/mltframework/shotcut/releases/download/v18.08.14/shotcut-win32-180814.exe
+  sha256: d9ad3847909488d11da6ed6f5e20699f7864d66400eec52851e05d15eb5684a5
+- location: https://github.com/mltframework/shotcut/releases/download/v18.08.14/shotcut-win64-180814.exe
+  sha256: acc32130234a0cff7539223517719cfbd5834fe13fb6a56fac1cad60c16f5006
+  architecture: x64
