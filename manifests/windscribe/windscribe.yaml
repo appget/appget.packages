@@ -1,0 +1,7 @@
+id: windscribe
+name: Windscribe
+version: 1.82 Build 17
+home: https://windscribe.com/
+installMethod: Inno
+installers:
+- location: https://windscribe.com/install/desktop/windows
