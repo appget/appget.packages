@@ -1,0 +1,7 @@
+id: passmark-burnintest
+name: PassMark BurnInTest
+version: 9.0.1010.0
+home: https://www.passmark.com/products/bit.htm
+installMethod: Inno
+installers:
+- location: https://www.passmark.com/ftp/bitstd.exe
