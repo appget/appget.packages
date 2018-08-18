@@ -1,0 +1,7 @@
+id: passmark-monitortest
+name: PassMark MonitorTest
+version: 3.2
+home: https://www.passmark.com/products/monitortest.htm
+installMethod: Inno
+installers:
+- location: https://www.passmark.com/ftp/montest.exe
