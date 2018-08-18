@@ -1,0 +1,8 @@
+id: passmark-batterymon
+name: PassMark BatteryMon
+version: 2.1.1010
+home: https://www.passmark.com/products/batmon.htm
+installMethod: Inno
+installers:
+- location: https://www.passmark.com/ftp/batmon.exe
+  architecture: x64
