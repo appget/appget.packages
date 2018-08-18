@@ -1,0 +1,8 @@
+id: remote-desktop-manager
+name: Remote Desktop Manager Free
+version: 4.6.0
+home: https://remotedesktopmanager.com/
+installMethod: MSI
+installers:
+- location: https://cdn.devolutions.net/download/Setup.RemoteDesktopManagerFree.4.6.0.0.msi
+  sha256: ca5f3f1cb27f0099d3fc0e5bd0008ff17f867493fefa8cdefb4296f8b3fc269c
