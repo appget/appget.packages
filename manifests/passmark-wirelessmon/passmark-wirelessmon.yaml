@@ -1,0 +1,7 @@
+id: passmark-wirelessmon
+name: PassMark WirelessMon
+version: 4.0.0.1009
+home: https://www.passmark.com/products/wirelessmonitor.htm
+installMethod: Inno
+installers:
+- location: https://www.passmark.com/ftp/wirelessmon.exe
