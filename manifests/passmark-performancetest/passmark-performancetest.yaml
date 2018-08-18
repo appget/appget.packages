@@ -1,0 +1,7 @@
+id: passmark-performancetest
+name: PassMark PerformanceTest
+version: 9.0.1026.0
+home: https://www.passmark.com/
+installMethod: Inno
+installers:
+- location: https://www.passmark.com/ftp/petst.exe
