@@ -1,0 +1,7 @@
+id: rd-tabs
+name: RD Tabs
+version: 3.0.12.657
+home: https://www.avianwaves.com/tools/rdtabs
+installMethod: Wix
+installers:
+- location: https://www.avianwaves.com/g/latestrdtabs
