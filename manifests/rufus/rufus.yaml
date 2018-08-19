@@ -1,0 +1,8 @@
+id: rufus
+name: Rufus
+version: 3.1.1320
+home: https://rufus.akeo.ie/
+installMethod: Custom
+installers:
+- location: https://rufus.akeo.ie/downloads/rufus-3.1.exe
+  sha256: a81cba62d55ee42f41303c138a439d5dc420753a8af12cb4753cf3df67dcd067
