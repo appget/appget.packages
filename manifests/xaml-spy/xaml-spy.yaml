@@ -1,0 +1,8 @@
+id: xaml-spy
+name: XAML Spy
+version: 3.0.1442
+home: http://xamlspy.com/
+installMethod: MSI
+installers:
+- location: http://xamlspy.com/Downloads/XamlSpy.3.0.2.msi
+  sha256: 30a4b5438474822ae8cebc8d28fb56ef4f51bc755cebc7bc59436649383ad261
