@@ -1,0 +1,7 @@
+id: windows-usb-dvd-download-tool
+name: Windows USB/DVD Download Tool
+version: 8.00.7600.16385
+home: https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool
+installMethod: Custom
+installers:
+- location: https://download.microsoft.com/download/C/4/8/C48F6E20-FE20-41C6-8C1C-408FE7B49A3A/Windows7-USB-DVD-Download-Tool-Installer-en-US.exe
