@@ -1,11 +1,11 @@
 id: esteem-surfer
 name: eSteem Surfer
-version: 1.1.11
+version: 1.1.12
 home: https://esteem.app/
 repo: https://github.com/esteemapp/esteem-surfer/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/esteemapp/esteem-surfer/releases/download/1.1.11/esteem-surfer-setup-1.1.11.exe
-  sha256: 16d5232c99088c559798822c6f7f2375f836742679f3ee2a909ed419207d2cb4
+- location: https://github.com/esteemapp/esteem-surfer/releases/download/1.1.12/esteem-surfer-setup-1.1.12.exe
+  sha256: 84e3332b9a3b57ef85c3516351937347986b6037416e49699352948bb3000884
   minWindowsVersion: 6.1
