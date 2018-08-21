@@ -1,7 +1,6 @@
 id: spybot
 name: Spybot - Search & Destroy
 version: 2.7.64.0
-home: https://www.safer-networking.org/
 installMethod: Inno
 installers:
 - location: https://updates2.safer-networking.org/spybot1/spybotsd-2.7.64.0.exe
