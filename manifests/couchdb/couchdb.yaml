@@ -1,0 +1,9 @@
+id: couchdb
+name: CouchDB
+version: 2.2.0
+home: https://couchdb.apache.org/
+installMethod: MSI
+installers:
+- location: https://dl.bintray.com/apache/couchdb/win/2.2.0/couchdb-2.2.0.msi
+  sha256: b6932b9087f39549550bacb32f7aca94b0c572b97a35329dddc047d5865a1ea1
+  architecture: x64
