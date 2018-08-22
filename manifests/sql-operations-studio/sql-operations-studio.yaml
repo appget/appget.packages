@@ -1,0 +1,7 @@
+id: sql-operations-studio
+name: SQL Operations Studio
+version: 0.31.4
+home: https://go.microsoft.com/fwlink/?linkid=2005949
+installMethod: Inno
+installers:
+- location: https://go.microsoft.com/fwlink/?linkid=2005949
