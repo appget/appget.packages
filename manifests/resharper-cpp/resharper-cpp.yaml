@@ -1,0 +1,8 @@
+id: resharper-cpp
+name: ReSharper C++
+version: 2018.2
+home: https://www.jetbrains.com/resharper-cpp/
+installMethod: Custom
+installers:
+- location: https://download.jetbrains.com/resharper/ReSharperUltimate.2018.2/JetBrains.ReSharperCpp.2018.2.web.exe
+  sha256: 2da2089ffa7f50f641962dc59a3e17918ed6c57f800b254682886c3c998c1e2b
