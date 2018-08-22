@@ -1,7 +1,7 @@
 id: cutedj
 name: CuteDJ
 version: 4.3.5.0
-home: http://www.cutedjpro.com/
+home: https://www.cutedjpro.com/
 installMethod: Inno
 installers:
-- location: http://www.cutedjpro.com/CuteDJ.exe
+- location: https://www.cutedjpro.com/CuteDJ.exe
