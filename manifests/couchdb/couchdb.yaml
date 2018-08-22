@@ -2,6 +2,7 @@ id: couchdb
 name: CouchDB
 version: 2.2.0
 home: https://couchdb.apache.org/
+repo: https://github.com/apache/couchdb
 installMethod: MSI
 installers:
 - location: https://dl.bintray.com/apache/couchdb/win/2.2.0/couchdb-2.2.0.msi
