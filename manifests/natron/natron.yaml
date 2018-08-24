@@ -1,0 +1,12 @@
+id: natron
+name: Natron
+version: 2.3.14
+home: https://natrongithub.github.io/
+repo: https://github.com/NatronGitHub/Natron/
+installMethod: Custom
+installers:
+- location: https://github.com/NatronGitHub/Natron/releases/download/2.3.14/Natron-2.3.14-Windows-x86_32bit-setup.exe
+  sha256: a87339879e8b59dd6d0f3d32b349ec3b42c989ca55e108f95e70b03adfa04a57
+- location: https://github.com/NatronGitHub/Natron/releases/download/2.3.14/Natron-2.3.14-Windows-x86_64bit-setup.exe
+  sha256: 7e5365b3964fa2f662719b9eb4748e11f88be37734659badab03e32fc5e01834
+  architecture: x64
