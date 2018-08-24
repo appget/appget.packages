@@ -1,0 +1,7 @@
+id: kindle
+name: Amazon Kindle
+version: 1.23.1.50133
+home: https://www.amazon.com/kindle-dbs/fd/kcp
+installMethod: NSIS
+installers:
+- location: https://www.amazon.com/kindlepcdownload/
