@@ -1,12 +1,12 @@
 id: go
 name: Go Programming Language
-version: 1.10.3
+version: 1.10.4
 home: https://golang.org/
 repo: https://github.com/golang/go/
 installMethod: MSI
 installers:
-- location: https://dl.google.com/go/go1.10.3.windows-386.msi
-  sha256: 2a395c4a26a9d682c0db8842d9fc64226ab398f087401b574d688f4dfdc3f270
-- location: https://dl.google.com/go/go1.10.3.windows-amd64.msi
-  sha256: cb8975b55340cd9c9cd120c49bb18f353e76558a1d2785e0fdbfb5e8df16608e
+- location: https://dl.google.com/go/go1.10.4.windows-386.msi
+  sha256: 2686fdeee3ddc8321f50fe0740728092f98732fdc2db6521b13816adcc8dff8a
+- location: https://dl.google.com/go/go1.10.4.windows-amd64.msi
+  sha256: d58581d48a9eccdb4f8931efd6c7037d34598625a6ecdedf2012da1435dc5770
   architecture: x64
