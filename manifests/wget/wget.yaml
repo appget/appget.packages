@@ -1,6 +1,6 @@
 id: wget
 name: Wget
-version: 1.11.4
+version: 1.11.4.1
 home: https://www.gnu.org/software/wget/
 repo: https://sourceforge.net/projects/gnuwin32/
 installMethod: Inno
