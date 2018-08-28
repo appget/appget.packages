@@ -8,3 +8,4 @@ installMethod: NSIS
 installers:
 - location: https://github.com/denysdovhan/inboxer/releases/download/v1.1.4/inboxer-setup-1.1.4.exe
   sha256: 34c94c86f06fa82630b262a4b015138ae2cb47b0d1f7865f80a88c7d1fd764cf
+  minWindowsVersion: 6.1
