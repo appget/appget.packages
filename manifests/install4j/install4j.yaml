@@ -1,0 +1,11 @@
+id: install4j
+name: install4j
+version: 7.0.7
+home: https://www.ej-technologies.com/products/install4j/overview.html
+installMethod: Custom
+installers:
+- location: https://download-keycdn.ej-technologies.com/install4j/install4j_windows_7_0_7.exe
+  sha256: 1ddac5fd337ce5415d4b51c30c445e4c1cf0e6920f3f9a07fabe8c5955c80279
+- location: https://download-keycdn.ej-technologies.com/install4j/install4j_windows-x64_7_0_7.exe
+  sha256: 24ae618bf447da8125c45b9c5316feb92e3967e5e03216b997be81d695a256fb
+  architecture: x64
