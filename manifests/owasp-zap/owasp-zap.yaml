@@ -1,0 +1,13 @@
+id: owasp-zap
+name: OWASP Zed Attack Proxy
+version: 2.7.0
+home: https://www.owasp.org/index.php/ZAP
+repo: https://github.com/zaproxy/zaproxy/
+license: Apache License 2.0
+installMethod: Custom
+installers:
+- location: https://github.com/zaproxy/zaproxy/releases/download/2.7.0/ZAP_2_7_0_windows.exe
+  sha256: e3243792525306731ae9eba0cc4697d289e54a58ac529da0c021f2c1ca109246
+- location: https://github.com/zaproxy/zaproxy/releases/download/2.7.0/ZAP_2_7_0_windows-x32.exe
+  sha256: eea63e94c84b08c2fffc49c8b6645b38c2c9a0a49e45b2480e6fa85cf5b391d2
+  architecture: x64
