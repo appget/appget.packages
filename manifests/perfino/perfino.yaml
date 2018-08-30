@@ -1,0 +1,11 @@
+id: perfino
+name: perfino
+version: 3.2.1
+home: https://www.ej-technologies.com/products/perfino/overview.html
+installMethod: Custom
+installers:
+- location: https://download-keycdn.ej-technologies.com/perfino/perfino_windows-32bit_3_2_1.exe
+  sha256: da9f543da5f207cc534c1689029c403842bd662738df0f690993866dd206a174
+- location: https://download-keycdn.ej-technologies.com/perfino/perfino_windows_3_2_1.exe
+  sha256: f2f9e12a416987519d739dd07c7efd417dfca439f6d87669e1fa0e0192279c18
+  architecture: x64
