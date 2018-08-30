@@ -1,0 +1,7 @@
+id: certify-the-web
+name: Certify The Web
+version: 4.0.8
+home: https://certifytheweb.com/
+installMethod: Inno
+installers:
+- location: https://certifytheweb.s3.amazonaws.com/downloads/CertifyTheWebSetup.exe
