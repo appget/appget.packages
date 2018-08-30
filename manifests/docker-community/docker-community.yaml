@@ -1,6 +1,6 @@
 id: docker-community
 name: Docker Community Edition for Windows
-version: 18.06.0.19098
+version: 18.06.1.19507
 home: https://www.docker.com/docker-windows/
 installMethod: Custom
 installers:
