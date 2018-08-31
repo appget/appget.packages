@@ -1,11 +1,11 @@
 id: dotmemory
 name: dotMemory
-version: 2018.2
+version: 2018.2.1
 home: https://www.jetbrains.com/dotmemory/
 installMethod: Custom
 args:
   silent: /SpecificProductNames=dotMemory /Silent=True /VsVersion=15.0;14.0;12.0;11.0;10.0
   log: /LogFile={path}
 installers:
-- location: https://download.jetbrains.com/resharper/ReSharperUltimate.2018.2/JetBrains.ReSharperUltimate.2018.2.exe
-  sha256: 8948cf485b1e5fe483fb2951aaa35732e876bfd48b86c0c2a4a7ff7f32f43cc2
+- location: https://download.jetbrains.com/resharper/ReSharperUltimate.2018.2.1/JetBrains.ReSharperUltimate.2018.2.1.exe
+  sha256: 8ab4813bb42cbec27ec3ac9a067b4f0f62502a915ef57e9b74990fd73216bd08
