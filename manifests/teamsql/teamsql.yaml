@@ -1,7 +1,7 @@
 id: teamsql
 name: TeamSQL
-version: 3.4.230
+version: 4.0.341.341
 home: https://teamsql.io/
-installMethod: Squirrel
+installMethod: NSIS
 installers:
 - location: https://teamsql.io/latest/win
