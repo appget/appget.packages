@@ -1,0 +1,9 @@
+id: onenote
+name: OneNote
+version: 16.0.10325.20118
+home: https://www.onenote.com/
+installMethod: Custom
+installers:
+- location: https://www.onenote.com/download/win32/x86/en-US
+- location: https://www.onenote.com/download/win32/x64/en-US
+  architecture: x64
