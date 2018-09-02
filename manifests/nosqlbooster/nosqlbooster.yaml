@@ -1,0 +1,8 @@
+id: nosqlbooster
+name: NoSQLBooster for MongoDB
+version: 4.7.1
+home: https://nosqlbooster.com/
+installMethod: NSIS
+installers:
+- location: https://nosqlbooster.com/s3/download/releasesv4/nosqlbooster4mongo-4.7.1.exe
+  sha256: 926a5642a03bd588e3cdee7f20e691fed9c95c3b4826739171f2757a30687d73
