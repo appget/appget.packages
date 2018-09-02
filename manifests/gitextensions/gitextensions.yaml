@@ -7,4 +7,4 @@ license: GNU General Public License v3.0
 installMethod: MSI
 installers:
 - location: https://github.com/gitextensions/gitextensions/releases/download/v2.51.05/GitExtensions-2.51.05.msi
-  sha256: 65f3d08ee658b4662470f44a3a14bcdb082a29ea91040ed7273a40a78b6d4957
+  sha256: 76f5ff29a4b59e13446f9920d96c9ce3939de90b0b60096eb4227b0dd2177daa
