@@ -1,11 +1,11 @@
 id: retroarch
 name: RetroArch
-version: 1.7.3
+version: 1.7.4
 home: https://www.libretro.com/
 installMethod: NSIS
 installers:
-- location: https://buildbot.libretro.com/stable/1.7.3/windows/x86/RetroArch-1.7.3-x86-setup.exe
-  sha256: 4088e1e8d9ac9faa1a4ce22908e2d5d4adbdaabe141019f735fefba4c58c594c
-- location: https://buildbot.libretro.com/stable/1.7.3/windows/x86_64/RetroArch-1.7.3-x64-setup.exe
-  sha256: a2b84e2c55605be0bc80ee61d8d6a8652e45bcc8bcf3a2eb4ec2b3951f01d442
+- location: https://buildbot.libretro.com/stable/1.7.4/windows/x86/RetroArch-1.7.4-x86-setup.exe
+  sha256: e2a3b586268e7256563e74cc77a6d44cfe98938a58812d8d16a4e46797aad9ae
+- location: https://buildbot.libretro.com/stable/1.7.4/windows/x86_64/RetroArch-1.7.4-x64-setup.exe
+  sha256: ac561be5a2ac39eab310b1684b37d8101d678a61d94e0db2a729af06e9b6340b
   architecture: x64
