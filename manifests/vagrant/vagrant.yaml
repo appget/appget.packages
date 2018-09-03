@@ -1,13 +1,13 @@
 id: vagrant
 name: Vagrant
-version: 2.1.2
+version: 2.1.4
 home: https://www.vagrantup.com/
 repo: https://github.com/hashicorp/vagrant/
 license: MIT License
 installMethod: MSI
 installers:
-- location: https://releases.hashicorp.com/vagrant/2.1.2/vagrant_2.1.2_i686.msi
-  sha256: 7e058165f0e2246a6dd098fa36e24c2623b28515d4e31f961ff3df0de1b44ed2
-- location: https://releases.hashicorp.com/vagrant/2.1.2/vagrant_2.1.2_x86_64.msi
-  sha256: 492e01d5ef25bf97a5ba157d6ae2101e54f1b6965f41f05c5299dc701dc73182
+- location: https://releases.hashicorp.com/vagrant/2.1.4/vagrant_2.1.4_i686.msi
+  sha256: 07e7624ebe27499fd944c08bfa00fdc10f3406bde2b5f5bab61507e4abbdd94d
+- location: https://releases.hashicorp.com/vagrant/2.1.4/vagrant_2.1.4_x86_64.msi
+  sha256: e2a25aa4834033a6e77f95edccd0d04679d75dc9cf67f5819e73f446f68058d5
   architecture: x64
