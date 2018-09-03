@@ -6,6 +6,6 @@ repo: https://github.com/BunqCommunity/BunqDesktop/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/BunqCommunity/bunqDesktop/releases/download/0.8.11/bunqDesktop.Setup.0.8.11.exe
+- location: https://github.com/bunqCommunity/bunqDesktop/releases/download/0.8.11/bunqDesktop.Setup.0.8.11.exe
   sha256: 0c1b582f8173d50000dd96726f00246a9f19f85b1193da48d19ebad34ff72f64
   minWindowsVersion: 6.1
