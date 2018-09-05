@@ -1,7 +1,7 @@
 id: speedtest
 name: Speedtest
 version: 1.1.23.001
-home: http://www.speedtest.net/
+home: https://www.speedtest.net/
 installMethod: MSI
 installers:
 - location: https://install.speedtest.net/app/windows/latest/speedtestbyookla_x86.msi
