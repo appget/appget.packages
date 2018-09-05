@@ -1,0 +1,8 @@
+id: upwork
+name: Upwork
+version: 5.1.0.562
+home: https://www.upwork.com/
+installMethod: Inno
+installers:
+- location: https://updates-desktopapp.upwork.com/binaries/v5_1_0_562_f3wgs5ljinabm69t/UpworkSetup.exe
+  sha256: 6f8eff7195f99c38df6b4cb212b9319e1b406f5a29dfd091e4c432b3c1eba056
