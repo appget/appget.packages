@@ -4,5 +4,5 @@ version: 2018.2
 home: https://www.jetbrains.com/hub/
 installMethod: MSI
 installers:
-- location: https://download.jetbrains.com/hub/hub-2018.2.10479.msi
-  sha256: ff0a8ae9fe64153b63b37a98fbfcc5d87b47cfff91424ebdbbad5c79d3cd515f
+- location: https://download.jetbrains.com/hub/hub-2018.2.10527.msi
+  sha256: c87285d9589ab0fdcf7c207ad6e1677a07d101e3cabf200bed5525414480af0e
