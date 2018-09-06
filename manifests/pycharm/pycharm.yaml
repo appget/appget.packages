@@ -1,8 +1,8 @@
 id: pycharm
 name: PyCharm
-version: 2018.2.2
+version: 2018.2.3
 home: https://www.jetbrains.com/pycharm/
 installMethod: NSIS
 installers:
-- location: https://download.jetbrains.com/python/pycharm-professional-2018.2.2.exe
-  sha256: b80e4229582ccdadbd221165cc4d1dbdd663439bbb0714b64518d4c284a8c2a1
+- location: https://download.jetbrains.com/python/pycharm-professional-2018.2.3.exe
+  sha256: 2886351088ff1de3beb92cd9749f7a1160d7933e425ec1eca264bac411961411
