@@ -1,0 +1,8 @@
+id: pixelzoomer
+name: PixelZoomer
+version: 1.0
+home: http://pixelzoomer.com/
+installMethod: Inno
+installers:
+- location: http://pixelzoomer.com/download/pixelzoomer-1.0-win32.exe
+  sha256: 3ee82e3693585044a47bf8b0bb3f6148bc6d9d8f4142193c3c4340a3a3b70d58
