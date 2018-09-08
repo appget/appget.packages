@@ -4,7 +4,7 @@ version: 4.0.1
 home: https://mitmproxy.org/
 repo: https://github.com/mitmproxy/mitmproxy/
 license: MIT License
-installMethod: InstallBuilder
+installMethod: Custom
 installers:
 - location: https://github.com/mitmproxy/mitmproxy/releases/download/v4.0.1/mitmproxy-4.0.1-windows-installer.exe
   sha256: 5a8e8482e44db47982a05162434e476b2dee9c755ff0ac919f01b94e563aa7ba
