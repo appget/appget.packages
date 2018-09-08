@@ -1,0 +1,8 @@
+id: avocode
+name: Avocode
+version: 3.4.1
+home: https://avocode.com/
+installMethod: Squirrel
+installers:
+- location: https://media.avocode.com/download/avocode-app/3.4.1/Avocode Setup 3.4.1.exe
+  sha256: 5f7aae84c64a02fb560ff57b0481075f22b3692cd386e8ea5f501d84452ff03b
