@@ -4,7 +4,7 @@ version: 2.18.0.893
 home: https://www.plex.tv/
 repo: https://github.com/plexinc/plex-media-player/
 license: GNU General Public License v2.0
-installMethod: Wix
+installMethod: Custom
 installers:
 - location: https://downloads.plex.tv/plexmediaplayer/2.18.0.893-48795f25/PlexMediaPlayer-2.18.0.893-48795f25-windows-x64.exe
   sha256: 21f14a2af2d88a59a71069bac5fec1d4d7d27689d4202269c7eb4db258da0b8c
