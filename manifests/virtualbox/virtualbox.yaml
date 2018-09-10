@@ -1,7 +1,7 @@
 id: virtualbox
 name: Oracle VM VirtualBox
 version: 5.2.18.124319
-home: https://www.virtualbox.org/
+home: https://virtualbox.org/
 installMethod: Custom
 args:
   silent: --silent
