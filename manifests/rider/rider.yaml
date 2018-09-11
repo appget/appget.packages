@@ -1,8 +1,8 @@
 id: rider
 name: Rider
-version: 2018.2.1
+version: 2018.2.2
 home: https://www.jetbrains.com/rider/
 installMethod: NSIS
 installers:
-- location: https://download.jetbrains.com/rider/JetBrains.Rider-2018.2.1.exe
-  sha256: a07bfc423e0f818745bc5dcaacef45c8cfe06bce53504e290c2f9d0f5a7db6bd
+- location: https://download.jetbrains.com/rider/JetBrains.Rider-2018.2.2.exe
+  sha256: ad59f70704ec5663db7152ae9eaf2e3ad2b60ca14e00291632f8e7b03bceb57d
