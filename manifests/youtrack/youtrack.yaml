@@ -4,5 +4,5 @@ version: 2018.2
 home: https://www.jetbrains.com/youtrack/
 installMethod: MSI
 installers:
-- location: https://download.jetbrains.com/charisma/youtrack-2018.2.45146.msi
-  sha256: 153627fee58a7e190ea45dddd8dfbf29bb3d3f2ad5973373c0bcf140b22d2b49
+- location: https://download.jetbrains.com/charisma/youtrack-2018.2.45513.msi
+  sha256: a23747ceb3093940d8ae8f24bd790de584dbd176d59e107f2712efd29f8d92be
