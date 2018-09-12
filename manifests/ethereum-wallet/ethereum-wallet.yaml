@@ -8,3 +8,7 @@ installMethod: NSIS
 installers:
 - location: https://github.com/ethereum/mist/releases/download/v0.11.1/Ethereum-Wallet-installer-0-11-1.exe
   sha256: 710df0a526f5a8c5c0eb47b303a629d20641d9d3bf1740520e71907d269b3cf8
+  minWindowsVersion: 6.1
+- location: https://github.com/ethereum/mist/releases/download/v0.11.1/Mist-installer-0-11-1.exe
+  sha256: a2aec395019f2b05b3d0a245845868f425e4bc9d0407f0c415d96edf19b691a2
+  minWindowsVersion: 6.1
