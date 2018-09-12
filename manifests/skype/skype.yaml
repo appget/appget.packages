@@ -1,6 +1,6 @@
 id: skype
 name: Skype
-version: 8.29.0.50
+version: 8.30.0.50
 home: https://skype.com/
 installMethod: Inno
 installers:
