@@ -1,11 +1,11 @@
 id: dottrace
 name: dotTrace
-version: 2018.2.2
+version: 2018.2.3
 home: https://www.jetbrains.com/profiler/
 installMethod: Custom
 args:
   silent: /SpecificProductNames=dotTrace /Silent=True /VsVersion=15.0;14.0;12.0;11.0;10.0
   log: /LogFile={path}
 installers:
-- location: https://download.jetbrains.com/resharper/ReSharperUltimate.2018.2.2/JetBrains.ReSharperUltimate.2018.2.2.exe
-  sha256: e621ceb63a2affba3974cabfee539917a8ad8ecc34d887acaedd56ff3ea4f8c8
+- location: https://download.jetbrains.com/resharper/ReSharperUltimate.2018.2.3/JetBrains.ReSharperUltimate.2018.2.3.exe
+  sha256: bbf113dfff09df15c07609dfa1b1f2885d8e2065fce5107ae7a5e3d8b3214ae9
