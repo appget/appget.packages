@@ -1,6 +1,6 @@
 id: teams
 name: Microsoft Teams
-version: 1.1.00.19257
+version: 1.1.00.24759
 home: https://products.office.com/en-us/microsoft-teams/group-chat-software
 installMethod: Squirrel
 installers:
