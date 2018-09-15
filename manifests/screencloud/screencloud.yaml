@@ -1,9 +1,9 @@
 id: screencloud
 name: ScreenCloud
-version: 1.3.0
+version: 1.4.0
 home: https://screencloud.net/
 repo: https://sourceforge.net/projects/screencloud/
 installMethod: MSI
 installers:
-- location: https://downloads.sourceforge.net/project/screencloud/1.3.0/windows/ScreenCloud-1.3.0-x86.msi
-  sha256: 41b4a0c38dc677820add2a7b2a695e9f9e8e60a14e3e869abe5bfae27e54a2e5
+- location: https://downloads.sourceforge.net/project/screencloud/1.4.0/windows/ScreenCloud-1.4.0-x86.msi
+  sha256: 0d40a9c4e03fae36d07e2c5037bfaa07a011fdfb8176b7154d3ee0557f7aabd9
