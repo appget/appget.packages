@@ -1,12 +1,12 @@
 id: qbittorrent
 name: qBittorrent
-version: 4.1.1
+version: 4.1.2
 home: https://www.qbittorrent.org/
 repo: https://sourceforge.net/projects/qbittorrent/
 installMethod: NSIS
 installers:
-- location: https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.1.1/qbittorrent_4.1.1_setup.exe
-  sha256: b621a8240db0128c9f137d3c1b7ee5a8ff0452f9bcd659cfdaf518f2bd934c29
-- location: https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.1.1/qbittorrent_4.1.1_x64_setup.exe
-  sha256: 13ac1086300739872ccc43952369b6e453b6b85b1efb09a0a16a3248813c07d7
+- location: https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.1.2/qbittorrent_4.1.2_setup.exe
+  sha256: 53de5f9decfc23c3b273e21f97f78ced113262bedfa8e891fafffd7623652fe1
+- location: https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.1.2/qbittorrent_4.1.2_x64_setup.exe
+  sha256: 75984324e325590517fd22ea40758f4fdd719a8b06f3c4010cdc5d669f1ca9cb
   architecture: x64
