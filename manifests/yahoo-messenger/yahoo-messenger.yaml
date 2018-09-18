@@ -1,8 +1,0 @@
-id: yahoo-messenger
-name: Yahoo Messenger
-version: 0.8.288
-home: https://messenger.yahoo.com/download/
-installMethod: Squirrel
-installers:
-- location: https://s.yimg.com/jd/desktop/0.8.288/yahoo-messenger-0.8.288-win32.exe
-  sha256: a9648024d0ae61afdfb03e423fc68510686039595afd6c49bd12ab525356be51
