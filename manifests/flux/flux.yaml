@@ -1,6 +1,9 @@
 id: flux
 name: Flux
+version: 4.76
 home: https://justgetflux.com/
+license: https://justgetflux.com/news/pages/eula
 installMethod: NSIS
 installers:
 - location: https://justgetflux.com/flux-setup.exe
+  architecture: x64
