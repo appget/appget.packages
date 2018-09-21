@@ -1,0 +1,7 @@
+id: bitwarden
+name: Bitwarden
+version: 1.8.0
+home: https://bitwarden.com/
+installMethod: NSIS
+installers:
+- location: https://vault.bitwarden.com/download/?app=desktop&platform=windows&variant=exe
