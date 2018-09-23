@@ -1,7 +1,6 @@
 id: calibre
 name: Calibre
 version: 3.31.0
-home: https://calibre-ebook.com/
 repo: https://github.com/kovidgoyal/calibre/
 installMethod: MSI
 installers:
