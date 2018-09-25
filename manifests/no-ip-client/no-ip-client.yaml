@@ -1,0 +1,8 @@
+id: no-ip-client
+name: No-IP Dynamic DNS Update Client
+version: 4.1.1
+home: https://www.noip.com/
+installMethod: NSIS
+installers:
+- location: https://www.noip.com/client/DUCSetup_v4_1_1.exe
+  sha256: a515d57b7fe9751106fb9ed6cbbc492765b4f470e20b427d6930630f379f0804
