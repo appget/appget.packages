@@ -1,6 +1,6 @@
 id: intellij-ultimate
 name: IntelliJ IDEA Ultimate
-version: 2018.2.4
+version: 182.4505.22
 home: https://www.jetbrains.com/idea/
 installMethod: NSIS
 installers:

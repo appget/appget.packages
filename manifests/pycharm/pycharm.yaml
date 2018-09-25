@@ -1,6 +1,6 @@
 id: pycharm
 name: PyCharm
-version: 2018.2.4
+version: 182.4505.26
 home: https://www.jetbrains.com/pycharm/
 installMethod: NSIS
 installers:

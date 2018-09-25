@@ -1,6 +1,6 @@
 id: pycharm-edu
 name: PyCharm Edu
-version: 2018.2
+version: 182.3684.126
 home: https://www.jetbrains.com/pycharm-edu/
 installMethod: NSIS
 installers:

@@ -1,6 +1,6 @@
 id: mps
 name: MPS
-version: 2018.2.4
+version: 182.1490
 home: https://www.jetbrains.com/mps/
 installMethod: NSIS
 installers:

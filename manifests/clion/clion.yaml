@@ -1,6 +1,6 @@
 id: clion
 name: CLion
-version: 2018.2.4
+version: 182.4505.18
 home: https://www.jetbrains.com/clion/
 installMethod: NSIS
 installers:
