@@ -1,6 +1,6 @@
 id: jetbrains-toolbox
 name: JetBrains Toolbox
-version: 1.11
+version: 1.11.4269
 home: https://www.jetbrains.com/toolbox/app/
 installMethod: NSIS
 installers:
