@@ -1,8 +1,8 @@
 id: clipgrab
 name: ClipGrab
-version: 3.6.9
+version: 3.7.0
 home: https://clipgrab.org/
 installMethod: Inno
 installers:
-- location: https://download.clipgrab.org/clipgrab-3.6.9-cgorg.exe
-  sha256: 69e6e7d210cb311f35422f55a3171601c388db3a3676ad272a6fb7af01127e5d
+- location: https://download.clipgrab.org/clipgrab-3.7.0-cgorg.exe
+  sha256: f5323abb79b6544b1aebea3fee74f94f8f4d1e537dcb3941df5d0ad51183f4a1
