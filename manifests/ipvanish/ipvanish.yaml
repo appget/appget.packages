@@ -1,6 +1,6 @@
 id: ipvanish
 name: IPVanish
-version: 3.2.5.1
+version: 3.2.12
 home: https://www.ipvanish.com/
 installMethod: AdvancedInstaller
 installers:
