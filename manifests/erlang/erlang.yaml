@@ -1,13 +1,13 @@
 id: erlang
 name: Erlang
-version: 21.0.1
+version: 21.1
 home: https://www.erlang.pl/
 repo: https://github.com/erlanglab/erlangpl/
 license: Apache License 2.0
 installMethod: NSIS
 installers:
-- location: http://erlang.org/download/otp_win32_21.0.1.exe
-  sha256: b2dc656040905215b6e412569f55a97d30f6a8e7ad2eff0d9bc106a95c692106
-- location: http://erlang.org/download/otp_win64_21.0.1.exe
-  sha256: 6eea3ab310cec9ec72002d555ce0f9213bc1424a86a221f1c70411dc6b73f28f
+- location: http://erlang.org/download/otp_win32_21.1.exe
+  sha256: 9c8a48f6622325124795563a7d848f9d03bb3b9b011226886326245c05ffd92e
+- location: http://erlang.org/download/otp_win64_21.1.exe
+  sha256: 170c44850a3e4f0a5b510653b500f7a7b99337fbfb38d19a745f38869baa23a5
   architecture: x64
