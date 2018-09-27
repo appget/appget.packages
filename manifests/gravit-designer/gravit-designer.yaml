@@ -1,0 +1,7 @@
+id: gravit-designer
+name: Gravit Designer
+version: 3.4.5.2697
+home: https://gravit.io/
+installMethod: NSIS
+installers:
+- location: https://designer.gravit.io/_downloads/windows/GravitDesignerInstaller.exe
