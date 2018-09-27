@@ -1,14 +1,14 @@
 id: joplin
 name: Joplin
-version: 1.0.107.1276
+version: 1.0.109.1300
 home: https://joplin.cozic.net/
 repo: https://github.com/laurent22/joplin/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/laurent22/joplin/releases/download/v1.0.107/Joplin-Setup-1.0.107.exe
-  sha256: bfa80fbc2f030d269a9398ce94bf9b3905c5e719fa1632702691506e2ed448f1
+- location: https://github.com/laurent22/joplin/releases/download/v1.0.109/Joplin-Setup-1.0.109.exe
+  sha256: f7d1316c496488d590b125ae93720e6c3ce74dbf8ce600bd8aada8ecba6d53aa
   minWindowsVersion: 6.1
-- location: https://github.com/laurent22/joplin/releases/download/v1.0.107/JoplinPortable.exe
-  sha256: 7eb313b405066eec8d89814148319b04fa1a6420e434cf53d040a9018093839b
+- location: https://github.com/laurent22/joplin/releases/download/v1.0.109/JoplinPortable.exe
+  sha256: c178eeed8a360552e5233c25c40019cf54bed8cbdada7c5e2241a4cc6a0b0137
   minWindowsVersion: 6.1
