@@ -1,6 +1,6 @@
 id: teamsql
 name: TeamSQL
-version: 4.0.376.376
+version: 4.0.379.379
 home: https://teamsql.io/
 installMethod: NSIS
 installers:
