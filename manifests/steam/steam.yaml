@@ -1,7 +1,6 @@
 id: steam
 name: Steam
 version: 2.10.91.91
-home: https://store.steampowered.com/
 installMethod: NSIS
 installers:
 - location: https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe
