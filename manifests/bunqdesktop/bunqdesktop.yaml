@@ -8,3 +8,4 @@ installMethod: NSIS
 installers:
 - location: https://github.com/bunqCommunity/bunqDesktop/releases/download/0.9.0/bunqDesktop-0.9.0.exe
   sha256: 27f9435a2e2bb59ae090bbff51cab7831eadb4f7c730af64e41ce99050e72735
+  minWindowsVersion: 6.1
