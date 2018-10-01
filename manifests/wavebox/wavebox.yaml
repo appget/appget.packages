@@ -7,6 +7,8 @@ installMethod: Squirrel
 installers:
 - location: https://github.com/wavebox/waveboxapp/releases/download/v4.3.0/Install_Wavebox_4_3_0_ia32.exe
   sha256: 8db66dd9bf84f090255759f6245fc860561e677549d583c671e6f1cf8775f0cd
+  minWindowsVersion: 6.1
 - location: https://github.com/wavebox/waveboxapp/releases/download/v4.3.0/Install_Wavebox_4_3_0_x64.exe
   sha256: 02d2e534f51b461bb98be2a430ea33d5e1eabf0fa1b8de036d6a874ce0a80685
   architecture: x64
+  minWindowsVersion: 6.1
