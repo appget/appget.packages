@@ -8,3 +8,4 @@ installMethod: NSIS
 installers:
 - location: https://github.com/AustinLeath/r6rc/releases/download/v0.4.1/R6RC-Setup-0.4.1.exe
   sha256: f7548c9c6e1c25344442514ce4253b83744ba80b465d8a8960c774f45417015e
+  minWindowsVersion: 6.1
