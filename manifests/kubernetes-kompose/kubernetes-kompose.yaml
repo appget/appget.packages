@@ -1,7 +1,7 @@
 id: kubernetes-kompose
 name: Kubernetes Kompose
 version: 1.16.0
-home: http://kompose.io/
+home: https://kompose.io/
 repo: https://github.com/kubernetes/kompose/
 license: Apache License 2.0
 installMethod: Custom
