@@ -1,10 +1,10 @@
 id: mmrcalculator
 name: R6RC
-version: 0.4.1
+version: 0.4.2
 home: https://www.r6rc.com/r6rc.html
 repo: https://github.com/AustinLeath/mmrcalculator/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/AustinLeath/r6rc/releases/download/v0.4.1/R6RC-Setup-0.4.1.exe
-  sha256: f7548c9c6e1c25344442514ce4253b83744ba80b465d8a8960c774f45417015e
+- location: https://github.com/AustinLeath/r6rc/releases/download/v0.4.2/R6RC-Setup-0.4.2.exe
+  sha256: 4da88d57d6fc8f738ca66d94a5149ff1183b346d8fcbc781bb953b5dde5e65f0
