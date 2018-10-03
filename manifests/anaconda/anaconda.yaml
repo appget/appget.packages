@@ -1,11 +1,11 @@
 id: anaconda
 name: Anaconda
-version: 5.2.0
+version: 5.3.0
 home: https://www.anaconda.com/
 installMethod: NSIS
 installers:
-- location: https://repo.anaconda.com/archive/Anaconda3-5.2.0-Windows-x86.exe
-  sha256: 64305a4c0041aaf4a3fd0fee4466d7b7f238fddd9e44a4c8c10f5fa059e826c6
-- location: https://repo.anaconda.com/archive/Anaconda3-5.2.0-Windows-x86_64.exe
-  sha256: 2672f6537e2c8a79ae9540cf3c49b18bb9ba35caec649191b5fa1e759f15b4c3
+- location: https://repo.anaconda.com/archive/Anaconda3-5.3.0-Windows-x86.exe
+  sha256: 1dceb687efbf5a609a66d19dc2528ef78a54439a74c98b239041744174c6a461
+- location: https://repo.anaconda.com/archive/Anaconda3-5.3.0-Windows-x86_64.exe
+  sha256: 1083d05eeec45707940a6c7afb375a5f330d7a24a9de1e6f8d86b4f4e49be3fb
   architecture: x64
