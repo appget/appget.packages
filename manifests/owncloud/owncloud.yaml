@@ -1,7 +1,6 @@
 id: owncloud
 name: ownCloud
 version: 2.4.3.10188
-home: https://owncloud.com/
 repo: https://github.com/owncloud/client/
 installMethod: NSIS
 installers:
