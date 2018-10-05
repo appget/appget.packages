@@ -8,3 +8,4 @@ installMethod: NSIS
 installers:
 - location: https://github.com/lbryio/lbry-desktop/releases/download/v0.25.1/LBRY_0.25.1.exe
   sha256: bd0f61129a838713787e572de3acf8e80b479cd05f631efda1e02ab837515650
+  minWindowsVersion: 6.1
