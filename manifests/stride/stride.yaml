@@ -1,0 +1,9 @@
+id: stride
+name: Stride
+version: 1.22.76
+home: https://www.stride.com/
+installMethod: Squirrel
+installers:
+- location: https://desktop-downloads.stride.com/win/exe/32/prod/Stride32.exe
+- location: https://desktop-downloads.stride.com/win/exe/64/prod/Stride64.exe
+  architecture: x64
