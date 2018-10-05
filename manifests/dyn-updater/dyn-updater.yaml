@@ -1,0 +1,7 @@
+id: dyn-updater
+name: Dyn Updater
+version: 5.4.6
+home: https://dyn.com/
+installMethod: MSI
+installers:
+- location: http://cdn.dyn.com/dynupdater/DynUpdater.msi
