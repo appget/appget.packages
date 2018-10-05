@@ -5,4 +5,5 @@ home: https://authy.com/
 installMethod: Squirrel
 installers:
 - location: https://electron.authy.com/download?channel=stable&arch=x64&platform=win32&version=latest&product=authy
+  architecture: x64
 - location: https://electron.authy.com/download?channel=stable&arch=x32&platform=win32&version=latest&product=authy
