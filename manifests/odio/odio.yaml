@@ -1,0 +1,10 @@
+id: odio
+name: odio
+version: 1.0
+home: https://www.odio.io/
+repo: https://github.com/odioapp/odio/
+installMethod: NSIS
+installers:
+- location: https://github.com/odioapp/odio/releases/download/v1.0.0/odio-setup-1.0.0.exe
+  sha256: 85b345302dabc5e7f3669bf29fe1566aa4a093aa4b274035578f7add354813a8
+  minWindowsVersion: 6.1
