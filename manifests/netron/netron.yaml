@@ -1,7 +1,6 @@
 id: netron
 name: Netron
 version: 2.2.1
-home: https://www.lutzroeder.com/ai
 repo: https://github.com/lutzroeder/Netron/
 license: MIT License
 installMethod: NSIS
