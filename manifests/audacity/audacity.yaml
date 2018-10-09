@@ -1,7 +1,6 @@
 id: audacity
 name: Audacity
 version: 2.3.0
-home: https://www.audacityteam.org/
 repo: https://github.com/audacity/audacity/
 installMethod: Inno
 installers:
