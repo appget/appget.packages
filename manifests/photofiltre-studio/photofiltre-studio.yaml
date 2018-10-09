@@ -1,7 +1,7 @@
 id: photofiltre-studio
 name: PhotoFiltre Studio
 version: 10.13.0
-home: http://www.photofiltre-studio.com/
+home: https://infomaniak.ch/
 installMethod: NSIS
 installers:
 - location: https://static.infomaniak.ch/photofiltre/utils/pfsx-setup-en-10.13.0.exe
