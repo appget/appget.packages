@@ -2,6 +2,7 @@ id: standard-notes
 name: Standard Notes
 version: 2.3.6
 repo: https://github.com/standardnotes/desktop/
+license: GNU Affero General Public License v3.0
 installMethod: NSIS
 installers:
 - location: https://github.com/standardnotes/desktop/releases/download/v2.3.6/standard-notes-setup-2.3.6.exe
