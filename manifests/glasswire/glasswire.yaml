@@ -1,0 +1,7 @@
+id: glasswire
+name: GlassWire
+version: 2.0.123
+home: https://www.glasswire.com/
+installMethod: NSIS
+installers:
+- location: https://download.glasswire.com/GlassWireSetup.exe
