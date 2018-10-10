@@ -6,10 +6,10 @@ repo: https://github.com/burtonator/polar-bookshelf/
 license: GNU General Public License v2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/burtonator/polar-bookshelf/releases/download/v1.0.0-beta210/polar-bookshelf-1.0.0-beta210-ia32.exe
-  sha256: 5469c0c062fc5d4572d97ac2fce760c82b2f92fdaed4ddde9bae8b974e8db98d
+- location: https://github.com/burtonator/polar-bookshelf/releases/download/v1.0.0-beta211/polar-bookshelf-1.0.0-beta211-ia32.exe
+  sha256: 99a8dcab5b2c99c0c20740d52c7ba0642bebb33b9ae643c2a85d4a8c781edd7e
   minWindowsVersion: 6.1
-- location: https://github.com/burtonator/polar-bookshelf/releases/download/v1.0.0-beta210/polar-bookshelf-1.0.0-beta210-x64.exe
-  sha256: 54ff42809a4abeb5114f66848b25cdb1bca8569eb3353091faeccb6296620e00
+- location: https://github.com/burtonator/polar-bookshelf/releases/download/v1.0.0-beta211/polar-bookshelf-1.0.0-beta211-x64.exe
+  sha256: 51c1b3ae80b37fbf38aab02d0b76ba8ecdb96951bb602065363b476d0e18bf4e
   architecture: x64
   minWindowsVersion: 6.1
