@@ -1,7 +1,7 @@
 id: snippet-store
 name: Snippet Store
 version: 0.2.8
-home: https://zerox-dg.github.io/SnippetStoreWeb/
+home: https://zerox-dg.github.io/snippetstoreweb/
 repo: https://github.com/ZeroX-DG/SnippetStore/
 installMethod: NSIS
 installers:
