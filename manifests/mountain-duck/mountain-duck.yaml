@@ -1,8 +1,8 @@
 id: mountain-duck
 name: Mountain Duck
-version: 2.6.3.9605
+version: 2.6.4.9632
 home: https://mountainduck.io/
 installMethod: MSI
 installers:
-- location: https://dist.mountainduck.io/Mountain Duck Installer-2.6.3.9605.msi
-  sha256: 7f4d5525302a28f7462d145ee338ad239b25eb00510f23869bb9f56582026b74
+- location: https://dist.mountainduck.io/Mountain Duck Installer-2.6.4.9632.msi
+  sha256: eac3c53413081960d4dd7d12617b44020a881c8f8c9d54c5151429879fd8a588
