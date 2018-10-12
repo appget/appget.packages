@@ -1,13 +1,13 @@
 id: krita
 name: Krita
-version: 4.1.3.100
+version: 4.1.5.100
 home: https://krita.org/
 installMethod: NSIS
 installers:
-- location: https://download.kde.org/stable/krita/4.1.3/krita-x86-4.1.3-setup.exe
-  sha256: fe26ae2cac10906e9f95aaab0db1e59c6375b3e5f2ee32e5f53bbceaae923a40
+- location: https://download.kde.org/stable/krita/4.1.5/krita-x86-4.1.5-setup.exe
+  sha256: 43080b366e97d4a39f0584d517232e971a3aa1e1518cb0fb30877922a5e58873
   minWindowsVersion: 6.1
-- location: https://download.kde.org/stable/krita/4.1.3/krita-x64-4.1.3-setup.exe
-  sha256: a75ff3b01af023a852d45d991b753ee475849ba785903a015e60c89c28022182
+- location: https://download.kde.org/stable/krita/4.1.5/krita-x64-4.1.5-setup.exe
+  sha256: 92bd8a484d59dee6211bf3fe8c01a079025f6a79b6db5578aa0107a4af0fb529
   architecture: x64
   minWindowsVersion: 6.1
