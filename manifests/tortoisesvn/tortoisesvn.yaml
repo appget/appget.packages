@@ -2,7 +2,7 @@ id: tortoisesvn
 name: TortoiseSVN
 version: 1.10.2.28392
 home: https://tortoisesvn.net/
-repo: https://osdn.net/projects/tortoisesvn/
+repo: https://sourceforge.net/projects/tortoisesvn/
 installMethod: MSI
 installers:
 - location: https://osdn.net/projects/tortoisesvn/storage/1.10.2/Application/TortoiseSVN-1.10.2.28392-win32-svn-1.10.3.msi
