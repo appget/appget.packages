@@ -1,6 +1,6 @@
 id: bandicam
 name: Bandicam
-version: 4.2.0.1439
+version: 4.2.1.1454
 home: https://www.bandicam.com/
 installMethod: NSIS
 installers:
