@@ -1,7 +1,7 @@
 id: winamp
 name: Winamp
 version: 5.6.0.3516
-home: http://www.winamp.com/
+home: https://www.winamp.com/
 installMethod: NSIS
 installers:
 - location: http://winamp.meggamusic.co.uk/winamp5666_full_all_redux.exe
