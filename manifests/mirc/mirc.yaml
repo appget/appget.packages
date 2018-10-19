@@ -1,0 +1,7 @@
+id: mirc
+name: mIRC
+version: 7.52
+home: https://www.mirc.com/
+installMethod: NSIS
+installers:
+- location: https://www.mirc.com/get.php
