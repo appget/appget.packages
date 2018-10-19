@@ -1,0 +1,8 @@
+id: workrave
+name: Workrave
+version: 1.10
+home: http://www.workrave.org/
+installMethod: Inno
+installers:
+- location: https://downloads.sourceforge.net/project/workrave/workrave/1.10/workrave-win32-v1.10-installer.exe
+  sha256: 9358ee7e345169c54ae62b0955a619e9e891f2338de230b95f38b33b04c92bed
