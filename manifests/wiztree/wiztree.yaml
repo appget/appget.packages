@@ -1,0 +1,8 @@
+id: wiztree
+name: WizTree
+version: 3.26
+home: https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/
+installMethod: Inno
+installers:
+- location: https://antibody-software.com/files/wiztree_3_26_setup.exe
+  sha256: 72b66e72cf74b172866812cf6df8a4984dda2d21bd45fd67ba9b0bd021079e4a
