@@ -1,7 +1,7 @@
 id: flashtray-pro
 name: FlashTray Pro
 version: 5.0
-home: https://www.blacksunsoftware.com/
+home: http://www.blacksunsoftware.com/flashtray.html
 installMethod: Inno
 installers:
 - location: https://www.blacksunsoftware.com/downloads/FlashTraySetup.exe
