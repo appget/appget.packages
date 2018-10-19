@@ -1,0 +1,7 @@
+id: unified-remote
+name: Unified Remote
+version: 3.6.1.2342
+home: https://www.unifiedremote.com/
+installMethod: Inno
+installers:
+- location: https://www.unifiedremote.com/download/windows
