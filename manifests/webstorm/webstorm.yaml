@@ -1,8 +1,8 @@
 id: webstorm
 name: WebStorm
-version: 182.4505.50
+version: 182.4892.25
 home: https://www.jetbrains.com/webstorm/
 installMethod: NSIS
 installers:
-- location: https://download.jetbrains.com/webstorm/WebStorm-2018.2.4.exe
-  sha256: 687017a93e349d575bfaa80ea4608cecdb391426c9b5973ef3bee790e75723e3
+- location: https://download.jetbrains.com/webstorm/WebStorm-2018.2.5.exe
+  sha256: 4e5f346b9b286f524a19c2bbb6aa342b9d8e18ad2b925a8f9463350377eff999
