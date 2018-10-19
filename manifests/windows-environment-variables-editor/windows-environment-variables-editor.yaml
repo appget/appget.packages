@@ -1,0 +1,8 @@
+id: windows-environment-variables-editor
+name: Windows Environment Variables Editor
+version: 1.5.0
+home: https://eveditor.com/
+installMethod: Inno
+installers:
+- location: https://eveditor.com/downloads/EveditorFree-1.5.0.exe
+  sha256: 108c0f4737762160cb812a05fd8979b9a50cf53c0013e95dcacf5df3360b7037
