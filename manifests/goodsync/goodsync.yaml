@@ -1,6 +1,6 @@
 id: goodsync
 name: GoodSync
-version: 10.9.11.1
+version: 10.9.12.2
 home: https://www.goodsync.com/
 installMethod: MSI
 installers:
