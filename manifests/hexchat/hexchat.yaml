@@ -1,0 +1,11 @@
+id: hexchat
+name: HexChat
+version: 2.14.2
+home: https://hexchat.github.io/
+installMethod: Inno
+installers:
+- location: https://dl.hexchat.net/hexchat/HexChat 2.14.2 x86.exe
+  sha256: bebe618289353573dcb8dff0e90053a0705a08847f054b5837d587263582c99a
+- location: https://dl.hexchat.net/hexchat/HexChat 2.14.2 x64.exe
+  sha256: 7b9cbadb5754dd7fae7805b2d2a842db3eec538cfd23f0b914f3c6747dbabbde
+  architecture: x64
