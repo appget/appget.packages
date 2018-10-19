@@ -1,0 +1,7 @@
+id: megasync
+name: MEGAsync
+version: 3.7.1
+home: https://mega.nz/
+installMethod: NSIS
+installers:
+- location: https://mega.nz/MEGAsyncSetup.exe
