@@ -1,0 +1,7 @@
+id: fastkeys
+name: FastKeys
+version: 4.13
+home: https://www.fastkeysautomation.com/
+installMethod: Inno
+installers:
+- location: https://www.fastkeysautomation.com/download/FastKeys_Setup.exe
