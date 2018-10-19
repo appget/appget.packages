@@ -1,0 +1,9 @@
+id: basilisk
+name: Basilisk
+version: 1.0
+home: https://basilisk-browser.org/
+installMethod: Custom
+installers:
+- location: http://us.basilisk-browser.org/release/basilisk-latest.win32.installer.exe
+- location: http://us.basilisk-browser.org/release/basilisk-latest.win64.installer.exe
+  architecture: x64
