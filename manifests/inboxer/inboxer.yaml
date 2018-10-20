@@ -1,11 +1,11 @@
 id: inboxer
 name: Inboxer
-version: 1.2.0.129
+version: 1.2.1.134
 home: https://denysdovhan.com/inboxer
 repo: https://github.com/denysdovhan/inboxer/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/denysdovhan/inboxer/releases/download/v1.2.0/inboxer-setup-1.2.0.exe
-  sha256: 31471b998d7748afc4bc990a75f160e1783de89b9e5bf6909db71dfa09884f1a
+- location: https://github.com/denysdovhan/inboxer/releases/download/v1.2.1/inboxer-setup-1.2.1.exe
+  sha256: cfe379ffc31fa0d835e42cece18ee65ae88cee9abfd781b21830dc4f0400db96
   minWindowsVersion: 6.1
