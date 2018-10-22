@@ -7,7 +7,7 @@ license: Apache License 2.0
 installMethod: NSIS
 installers:
 - location: https://github.com/dbeaver/dbeaver/releases/download/5.2.3/dbeaver-ce-5.2.3-x86-setup.exe
-  sha256: 2922f8be9b6dd60c2a55da5037878ae6d96658e1f762fc3e8c3a9303c29f5e9a
+  sha256: a40ce2bbdaaa75738d8356c94d157f2de9b605dadffd80f6b33577491e6900ea
 - location: https://github.com/dbeaver/dbeaver/releases/download/5.2.3/dbeaver-ce-5.2.3-x86_64-setup.exe
-  sha256: 9cf3e306153cc8ad4649e58a878fbdde017bd6ace895afca1f3a6583026114da
+  sha256: 00ecebe8256518e9df8794a060e4c925b1a23d44f2155969166ddbc873bc1d52
   architecture: x64
