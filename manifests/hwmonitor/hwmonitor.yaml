@@ -1,8 +1,8 @@
 id: hwmonitor
 name: CPUID HWMonitor
-version: 1.36
+version: 1.37
 home: https://www.cpuid.com/softwares/hwmonitor.html
 installMethod: Inno
 installers:
-- location: http://download.cpuid.com/hwmonitor/hwmonitor_1.36.exe
-  sha256: 9b744667f77c349ff4095850c0d044d306489c8490dba3e4cafbc67146042649
+- location: http://download.cpuid.com/hwmonitor/hwmonitor_1.37.exe
+  sha256: 20ec187bb8c17766d527225934b9a27c669dc8633246cb77d764a41ae4455b43
