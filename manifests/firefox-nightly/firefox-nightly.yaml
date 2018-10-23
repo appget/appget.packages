@@ -1,6 +1,6 @@
 id: firefox-nightly
 name: Mozilla Firefox (Nightly)
-version: 64.0
+version: 65.0
 home: https://www.mozilla.org/firefox/
 installMethod: Custom
 args:
