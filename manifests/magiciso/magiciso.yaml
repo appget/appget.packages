@@ -1,0 +1,7 @@
+id: magiciso
+name: MagicISO
+version: 2.5.0.77
+home: http://www.magiciso.com/
+installMethod: Custom
+installers:
+- location: http://www.magiciso.com/setup_magicdisc.exe
