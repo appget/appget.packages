@@ -1,6 +1,6 @@
 id: firefox-beta
 name: Mozilla Firefox (Beta)
-version: 63.0
+version: 64.0
 home: https://www.mozilla.org/firefox/
 installMethod: Custom
 args:
