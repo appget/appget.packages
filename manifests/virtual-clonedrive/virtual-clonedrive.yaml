@@ -1,0 +1,7 @@
+id: virtual-clonedrive
+name: Virtual CloneDrive
+version: 5.5
+home: https://www.elby.ch/en/products/vcd.html
+installMethod: NSIS
+installers:
+- location: https://www.elby.ch/download/SetupVCD.exe
