@@ -1,0 +1,6 @@
+id: bitdefender
+name: Bitdefender Free
+home: https://www.bitdefender.com/
+installMethod: Custom
+installers:
+- location: https://download.bitdefender.com/windows/bp/agent/en-us/bitdefender_online.exe
