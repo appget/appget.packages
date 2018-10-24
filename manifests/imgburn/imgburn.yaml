@@ -1,8 +1,8 @@
 id: imgburn
 name: ImgBurn
 version: 2.5.8
-home: http://imgburn.com/
+home: https://imgburn.com/
 installMethod: NSIS
 installers:
-- location: http://download.imgburn.com/SetupImgBurn_2.5.8.0.exe
+- location: https://download.imgburn.com/SetupImgBurn_2.5.8.0.exe
   sha256: d7dea2819edc77bc44db637cd324e61942b54930cb3034f8f1a417b7dd27b514
