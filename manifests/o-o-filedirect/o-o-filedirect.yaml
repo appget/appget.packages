@@ -1,0 +1,7 @@
+id: o-o-filedirect
+name: O&O FileDirect
+version: 9.0
+home: https://www.oo-software.com/en/filedirect
+installMethod: Custom
+installers:
+- location: https://dl5.oo-software.com/files/oofiledirect/OOFileDirect1ENU.exe
