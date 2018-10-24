@@ -1,10 +1,10 @@
 id: tunlookup
 name: Tunlookup
-version: 3.0.1
+version: 3.0.2
 home: https://tunlookup.com/
 repo: https://github.com/tun-application/Tunlookup/
 installMethod: NSIS
 installers:
-- location: https://github.com/tun-application/Tunlookup/releases/download/v3.0.1/Tunlookup.Setup.3.0.1.exe
-  sha256: 36be8982ff0de4d854fec70a06d049cc77cf1b1fc70cb21f336b9ab963b715e7
+- location: https://github.com/tun-application/Tunlookup/releases/download/v3.0.2/Tunlookup.Setup.3.0.2.exe
+  sha256: 850ccd0ecbab0940073201f08db555a8bd115879ab6c560b0aff0dc570da7ff3
   minWindowsVersion: 6.1
