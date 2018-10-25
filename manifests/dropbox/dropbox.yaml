@@ -1,6 +1,6 @@
 id: dropbox
 name: Dropbox
-version: 1.3.127.1
+version: 1.3.141.1
 home: https://www.dropbox.com/
 installMethod: Custom
 args:
