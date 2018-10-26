@@ -1,6 +1,6 @@
 id: aws-tools-for-dotnet
 name: AWS Tools for .NET
-version: 3.15.592
+version: 3.15.593
 home: https://aws.amazon.com/sdkfornet/
 repo: https://github.com/aws/aws-sdk-net/
 installMethod: MSI
