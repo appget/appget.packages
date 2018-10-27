@@ -1,10 +1,10 @@
 id: juju
 name: Juju
-version: 2.4.3
+version: 2.4.4
 home: https://jujucharms.com/
 repo: https://github.com/juju/juju/
 license: GNU Affero General Public License v3.0
 installMethod: Inno
 installers:
-- location: https://launchpad.net/juju/2.4/2.4.3/+download/juju-setup-2.4.3-signed.exe
-  sha256: a274cef704eb7b565f9f1f241483628112b7590096f2275c32703ee7e90c2e96
+- location: https://launchpad.net/juju/2.4/2.4.4/+download/juju-setup-2.4.4-signed.exe
+  sha256: f3eb6c8db12b7fbc8ec1323e2eea5047ec23a62b8ba28c85c5a8d77dde6b4d25
