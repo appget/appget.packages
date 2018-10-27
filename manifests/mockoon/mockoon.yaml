@@ -1,11 +1,11 @@
 id: mockoon
 name: Mockoon
-version: 1.1.0
+version: 1.2.0
 home: https://mockoon.com/
 repo: https://github.com/255kb/mockoon/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/255kb/mockoon/releases/download/v1.1.0/mockoon.setup.1.1.0.exe
-  sha256: 4ff1791d263bd4574efc79c09adcf45b3b54299712a636062666875f463b113e
+- location: https://github.com/255kb/mockoon/releases/download/v1.2.0/mockoon.setup.1.2.0.exe
+  sha256: 975c852f0042920130bd4587e6f1d7e8771feafcac9f6508da885301f89d761e
   minWindowsVersion: 6.1
