@@ -1,6 +1,6 @@
 id: yarn
 name: Yarn
-version: 1.10.1
+version: 1.12.1
 home: https://yarnpkg.com/
 repo: https://github.com/yarnpkg/yarn/
 installMethod: MSI
