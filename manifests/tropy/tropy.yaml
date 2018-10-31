@@ -1,11 +1,11 @@
 id: tropy
 name: Tropy
-version: 1.3.0
+version: 1.3.1
 home: https://tropy.org/
 repo: https://github.com/tropy/tropy/
 installMethod: Squirrel
 installers:
-- location: https://github.com/tropy/tropy/releases/download/1.3.0/setup-tropy-1.3.0-x64.exe
-  sha256: b1fc49438bb68809d0db97e6f36c65ad9a74af0a72570f6b0b4d72ca16bd6ff3
+- location: https://github.com/tropy/tropy/releases/download/1.3.1/setup-tropy-1.3.1-x64.exe
+  sha256: f964984f3b3d7e3fb072e1b8d87b1ee4db6d878bd19111d0011294923866b2e3
   architecture: x64
   minWindowsVersion: 6.1
