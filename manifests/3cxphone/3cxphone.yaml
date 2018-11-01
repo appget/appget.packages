@@ -1,0 +1,7 @@
+id: 3cxphone
+name: 3CXPhone for Windows
+version: 15.5.12227.5
+home: https://www.3cx.com/
+installMethod: MSI
+installers:
+- location: https://downloads-global.3cx.com/downloads/3CXPhoneforWindows15.msi
