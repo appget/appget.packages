@@ -1,0 +1,8 @@
+id: freeplane
+name: Freeplane
+version: 1.6.15
+home: https://www.freeplane.org/wiki
+installMethod: Inno
+installers:
+- location: https://downloads.sourceforge.net/project/freeplane/freeplane stable/Freeplane-Setup-1.6.15.exe
+  sha256: de99edd8ef5b5b416c4882f49faeb6471fa993ede7c249a57d769ec579c3a5c3

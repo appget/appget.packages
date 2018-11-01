@@ -1,0 +1,9 @@
+id: vsdc-free-video-editor
+name: VSDC Free Video Editor
+version: 6.1.0.888
+home: http://www.videosoftdev.com/
+installMethod: Inno
+installers:
+- location: http://downloads.videosoftdev.com/video_tools/video_editor_x32.exe
+- location: http://downloads.videosoftdev.com/video_tools/video_editor_x64.exe
+  architecture: x64

@@ -1,0 +1,8 @@
+id: x2go-client-for-windows
+name: X2Go Client for Windows
+version: 4.1.2
+home: https://wiki.x2go.org/doku.php/start
+installMethod: NSIS
+installers:
+- location: https://code.x2go.org/releases/binary-win32/x2goclient/releases/4.1.2.0-2018.06.22/x2goclient-4.1.2.0-2018.06.22-setup.exe
+  sha256: 27030e3bd55c8c9939fc1f0c8153514031c6fca7ace538358bb1fe19303f5383

@@ -1,0 +1,11 @@
+id: pspp4windows
+name: pspp4windows
+version: 2017
+home: https://www.gnu.org/software/pspp/
+installMethod: NSIS
+installers:
+- location: https://downloads.sourceforge.net/project/pspp4windows/2017-09-09/pspp-20170909-daily-32bits-setup.exe
+  sha256: 82a7e9261cc4930e88d40bf695e3ca0788deaf474059d1d25b162db4a23b5b35
+- location: https://downloads.sourceforge.net/project/pspp4windows/2017-09-09/pspp-20170909-daily-64bits-setup.exe
+  sha256: 16c14dd663523bc5369f2975a0eb7fa29391ea56b4cf8c414ca9fea123ce3e00
+  architecture: x64

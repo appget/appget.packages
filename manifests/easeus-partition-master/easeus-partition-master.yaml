@@ -1,0 +1,7 @@
+id: easeus-partition-master
+name: EaseUS Partition Master
+version: 12.10
+home: https://www.easeus.com/
+installMethod: Inno
+installers:
+- location: http://download.easeus.com/free/epm.exe
