@@ -1,10 +1,10 @@
 id: bunqdesktop
 name: BunqDesktop
-version: 0.9.1.1153
+version: 0.9.1.1167
 home: https://bunqdesk.top/
 repo: https://github.com/BunqCommunity/BunqDesktop/
 license: MIT License
 installMethod: NSIS
 installers:
 - location: https://github.com/bunqCommunity/bunqDesktop/releases/download/snapshot/bunqDesktop-0.9.1.exe
-  sha256: d564ed78976a1801476e733eba8a1ec3f673d58dc1e1115fcbf68fbca28b3919
+  sha256: 15c3c93c426ec8822cba21f906dd1adb44bd03d2c73d73a4ba90917741c698b4
