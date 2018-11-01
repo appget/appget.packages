@@ -1,0 +1,13 @@
+id: google-earth-pro
+name: Google Earth Pro
+version: 7.3.2
+home: https://www.google.com/earth/desktop/
+installMethod: Custom
+installers:
+- location: https://dl.google.com/dl/earth/client/advanced/current/googleearthprowin-7.3.2.exe
+  sha256: 9b39ddb68594f1f5013007b04ea05f7f77a11a55ca5e6e7449b744a128ae83bf
+  minWindowsVersion: 6.1
+- location: https://dl.google.com/dl/earth/client/advanced/current/googleearthprowin-7.3.2-x64.exe
+  sha256: 9cbd56064bfe8d81dc14c23f6d09c3a53e4a06cc8c3e4c15abde2a26996c3a7d
+  architecture: x64
+  minWindowsVersion: 6.1
