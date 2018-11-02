@@ -1,8 +1,8 @@
 id: jetbrains-hub
 name: JetBrains Hub
-version: 2018.3.10830
+version: 2018.3.10920
 home: https://www.jetbrains.com/hub/
 installMethod: MSI
 installers:
-- location: https://download.jetbrains.com/hub/hub-2018.3.10830.msi
-  sha256: a4685957bcb51013fd12a2287550c7a641550f56ce33c69a31ba26fa54b44500
+- location: https://download.jetbrains.com/hub/hub-2018.3.10920.msi
+  sha256: 61c0c78b92a9804926aac63b449dc5826e8f29dd355df035a8e2055b9b9c6d40
