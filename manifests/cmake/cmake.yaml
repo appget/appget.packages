@@ -1,11 +1,11 @@
 id: cmake
 name: CMake
-version: 3.12.3
+version: 3.12.4
 home: https://cmake.org/
 installMethod: MSI
 installers:
-- location: https://cmake.org/files/v3.12/cmake-3.12.3-win32-x86.msi
-  sha256: 97f769c67eaca9aa7a66ca2278489ae0b4e202d8222d7836a483e6d1be374f49
-- location: https://cmake.org/files/v3.12/cmake-3.12.3-win64-x64.msi
-  sha256: 09b70f49adb88ea1b77b69d9b54b122b2fb9399010d945581e9d710a4d3d0ca2
+- location: https://cmake.org/files/v3.12/cmake-3.12.4-win32-x86.msi
+  sha256: 4ff6861e995c0ee175c7ccef95f59cb541f3552bca49cb2f93bfde681e14da3f
+- location: https://cmake.org/files/v3.12/cmake-3.12.4-win64-x64.msi
+  sha256: f8413e07fc8bfe5c5efdd6203be04bd15df1e310f04284367e9f7d763216a677
   architecture: x64
