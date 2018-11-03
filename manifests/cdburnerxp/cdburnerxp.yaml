@@ -1,11 +1,11 @@
 id: cdburnerxp
 name: CDBurnerXP
-version: 4.5.8.6795
+version: 4.5.8.7041
 home: https://cdburnerxp.se/
 installMethod: MSI
 installers:
-- location: https://download.cdburnerxp.se/msi/cdbxp_setup_4.5.8.6795.msi
-  sha256: fbf9772ecf2d2829f097d33013f5c3b9a01ba9f7c1345dc494a7d913afdd2810
-- location: https://download.cdburnerxp.se/msi/cdbxp_setup_x64_4.5.8.6795.msi
-  sha256: 49002f2f802dda8b8e86882601c78620fb0740878ada46f5158bc95034fa3738
+- location: https://download.cdburnerxp.se/msi/cdbxp_setup_4.5.8.7041.msi
+  sha256: 04fd2c4c70ec85bb80ac8a5795cd84b484e2cf973134627e7b262ab56052eaac
+- location: https://download.cdburnerxp.se/msi/cdbxp_setup_x64_4.5.8.7041.msi
+  sha256: de5a6a9e4a1d4fc49e82cb7dc498e393864c733c3acebe80b0b3ad22446652f9
   architecture: x64
