@@ -1,12 +1,12 @@
 id: mixxx
 name: Mixxx
-version: 2.1.4.6765
+version: 2.1.5.6783
 home: https://mixxx.org/
 repo: https://github.com/mixxxdj/mixxx/
 installMethod: Wix
 installers:
-- location: https://downloads.mixxx.org/mixxx-2.1.4/mixxx-2.1.4-win32.exe
-  sha256: 0c9d3b3c8773b84ec6bcacd87fde0668b69dd6aa273231bc5a15c4d9b75739af
-- location: https://downloads.mixxx.org/mixxx-2.1.4/mixxx-2.1.4-win64.exe
-  sha256: 90d2fe34f5037aff973eef30a62f3d6eb3c98ee48e62537af80bff3ce710f431
+- location: https://downloads.mixxx.org/mixxx-2.1.5/mixxx-2.1.5-win32.exe
+  sha256: b0b66428323b58d2a046f35c297bce2606c22d17434987d668574cd34b2c18bb
+- location: https://downloads.mixxx.org/mixxx-2.1.5/mixxx-2.1.5-win64.exe
+  sha256: 59591fa240ea81760ca77b935595060df1cfc5dd2cee1de16cc10bb7c5cd3b25
   architecture: x64
