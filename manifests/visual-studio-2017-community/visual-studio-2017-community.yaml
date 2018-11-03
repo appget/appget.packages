@@ -1,10 +1,10 @@
 id: visual-studio-2017-community
 name: Microsoft Visual Studio 2017 Community Edition
-version: 15.8.28010.2048
+version: 15.8.28010.2050
 home: https://visualstudio.microsoft.com/vs/
 installMethod: Custom
 args:
   silent: --quiet --norestart
 installers:
 - location: https://aka.ms/vs/15/release/vs_community.exe
-  sha256: 14f591915c91d4d54d9a9457754e1133abfc550556bf3a072ecd96fc1754bc49
+  sha256: d9f423cf17536a0d462b5cc1197a71f6afcf3b86d48c9db5615b41e628065d5a
