@@ -1,0 +1,7 @@
+id: nucleon-atomic-worker
+name: Nucleon Atomic Worker
+version: 4.0.75.291018
+home: http://nucleonsoftware.com/products/nucleon-atomic
+installMethod: MSI
+installers:
+- location: http://nucleonsoftware.com/download/AtomicWorkerSetup.msi
