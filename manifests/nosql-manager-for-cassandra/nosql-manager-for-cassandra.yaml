@@ -1,0 +1,7 @@
+id: nosql-manager-for-cassandra
+name: NoSQL Manager for Cassandra
+version: 3.7.0.1
+home: https://www.mongodbmanager.com/cassandra
+installMethod: Inno
+installers:
+- location: https://www.mongodbmanager.com/files/cassandramanager_inst.exe
