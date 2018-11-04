@@ -1,0 +1,7 @@
+id: nucleon-linqer
+name: Nucleon Linqer
+version: 2.0.0.4072018
+home: http://nucleonsoftware.com/products/nucleon-linqer
+installMethod: MSI
+installers:
+- location: http://nucleonsoftware.com/download/LinqerSetup.msi
