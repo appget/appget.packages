@@ -1,7 +1,7 @@
 id: pandoc
 name: Pandoc
 version: 2.4
-home: https://johnmacfarlane.net/pandoc
+home: https://pandoc.org/
 repo: https://github.com/jgm/pandoc/
 license: GPL v2
 installMethod: MSI
