@@ -1,0 +1,7 @@
+id: nucleon-cmdrunner
+name: Nucleon CmdRunner
+version: 2.0.0.4072018
+home: http://nucleonsoftware.com/products/nucleon-cmdrunner
+installMethod: MSI
+installers:
+- location: http://nucleonsoftware.com/download/CmdRunnerSetup.msi
