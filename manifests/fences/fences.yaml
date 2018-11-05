@@ -4,5 +4,4 @@ version: 9.5.1
 home: https://www.stardock.com/products/fences/
 installMethod: SetupFactory
 installers:
-- location: https://store.stardock.com/download/3875
-  sha256: 92235da746a26b69a05ed67d9ccf2113996f9ea38db6b39d41665fb52847394b
+- location: https://stardock.cachefly.net/ObjectDesktop/objectdesktop_setup.exe
