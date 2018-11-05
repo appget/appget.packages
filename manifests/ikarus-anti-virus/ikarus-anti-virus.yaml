@@ -1,0 +1,7 @@
+id: ikarus-anti-virus
+name: Ikarus anti.virus
+version: 11.00.9600.16428
+home: https://www.ikarussecurity.com/
+installMethod: Custom
+installers:
+- location: https://www.ikarussecurity.com/fileadmin/user_upload/Produkte/Setup IKARUS anti.virus.exe
