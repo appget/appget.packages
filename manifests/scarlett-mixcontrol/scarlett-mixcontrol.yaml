@@ -1,0 +1,8 @@
+id: scarlett-mixcontrol
+name: Scarlett MixControl
+version: 1.8.128
+home: https://focusrite.com/
+installMethod: Inno
+installers:
+- location: https://customer.focusrite.com/sites/default/files/focusrite/downloads/20453/scarlett-mixcontrol-1.8.exe
+  sha256: 348bface4167bff19fc4e4fdd2d02b269ee4b361db2e9e08eedc0a268cd0c631
