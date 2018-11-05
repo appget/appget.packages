@@ -1,8 +1,6 @@
 id: anydvd-hd
 name: AnyDVD HD
-version: 8.1.3.0
 home: https://www.redfox.bz/anydvdhd.html
 installMethod: NSIS
 installers:
-- location: https://www.redfox.bz/download/SetupAnyDVD8130.exe
-  sha256: 5516661ac771876e31c12f46cb0e51d25a06b44d76ba1db82aa3bb10c62c06c3
+- location: https://www.redfox.bz/download/SetupAnyDVD.exe
