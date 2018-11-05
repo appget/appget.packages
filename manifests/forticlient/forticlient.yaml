@@ -1,0 +1,9 @@
+id: forticlient
+name: FortiClient
+version: 6.0.0.0067
+home: https://www.fortinet.com/
+installMethod: Custom
+installers:
+- location: https://filestore.fortinet.com/forticlient/downloads/FortiClientOnlineInstaller_6.0.0.exe
+  sha256: d527d7175fa28fe18f1c1603daf7488ff7f2fbdcac37015483900c4f1a1b42b3
+  minWindowsVersion: 6.1
