@@ -1,9 +1,9 @@
 id: owncloud
 name: ownCloud
-version: 2.4.3.10188
+version: 2.5.0.10560
 home: https://owncloud.com/
 repo: https://github.com/owncloud/client/
-installMethod: NSIS
+installMethod: MSI
 installers:
-- location: https://download.owncloud.com/desktop/stable/ownCloud-2.4.3.10188-setup.exe
-  sha256: 33b8763cf591f4f3794ce9289dab93d773e1607bff1f7f2e20fe951be69d95d8
+- location: https://download.owncloud.com/desktop/stable/ownCloud-2.5.0.10598.msi
+  sha256: c55f7e560dbd4fdfe4ceb9924b0f98211e34828d710cd62ed5cc8503d6fb52d9
