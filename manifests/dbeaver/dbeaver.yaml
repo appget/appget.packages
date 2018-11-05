@@ -1,13 +1,13 @@
 id: dbeaver
 name: DBeaver Community
-version: 5.2.3
+version: 5.2.4
 home: https://dbeaver.io/
 repo: https://github.com/dbeaver/dbeaver/
 license: Apache License 2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/dbeaver/dbeaver/releases/download/5.2.3/dbeaver-ce-5.2.3-x86-setup.exe
-  sha256: a40ce2bbdaaa75738d8356c94d157f2de9b605dadffd80f6b33577491e6900ea
-- location: https://github.com/dbeaver/dbeaver/releases/download/5.2.3/dbeaver-ce-5.2.3-x86_64-setup.exe
-  sha256: 00ecebe8256518e9df8794a060e4c925b1a23d44f2155969166ddbc873bc1d52
+- location: https://github.com/dbeaver/dbeaver/releases/download/5.2.4/dbeaver-ce-5.2.4-x86-setup.exe
+  sha256: c998282421eca45cf46e0beda4771bad536e3a542da36b7b483e7ec045c57afa
+- location: https://github.com/dbeaver/dbeaver/releases/download/5.2.4/dbeaver-ce-5.2.4-x86_64-setup.exe
+  sha256: ffd537ebe32610dcbd0877268400a4600f032a7656d8c5e6201db3907c44f5e7
   architecture: x64
