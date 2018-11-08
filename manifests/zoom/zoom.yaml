@@ -1,6 +1,6 @@
 id: zoom
 name: Zoom Client for Meetings
-version: 4.1.34460
+version: 4.1.34583
 home: https://zoom.us/
 installMethod: MSI
 installers:
