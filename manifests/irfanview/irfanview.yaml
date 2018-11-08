@@ -1,0 +1,8 @@
+id: irfanview
+name: IrfanView
+version: 4.51
+home: https://www.irfanview.com
+installMethod: Custom
+installers:
+- location: https://www.tucows.com/download/windows/files/iview451_setup.exe
+  sha256: 0a5400988954ec933edac01b8822f9937bb0b6bf2b1337b69cb3347bca375db2
