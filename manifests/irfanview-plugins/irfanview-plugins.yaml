@@ -1,0 +1,8 @@
+id: irfanview-plugins
+name: IrfanView Plugins
+version: 4.51
+home: https://www.irfanview.com
+installMethod: Custom
+installers:
+- location: https://www.tucows.com/download/windows/files/iview451_plugins_setup.exe
+  sha256: 25fcdd3a7a52c505a827505a28cc93b2b7729559209e21f447d9c855a279279b
