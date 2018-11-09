@@ -1,0 +1,11 @@
+id: yacreader
+name: YACReader
+version: 9.5.0
+home: https://www.yacreader.com
+installMethod: Inno
+installers:
+- location: https://bitbucket.org/luisangelsm/yacreader/downloads/YACReader-9.5.0-win32-7z.exe
+  sha256: 1f4d6b76f0114b3b3298662ac17be113674a6bece6df40256d0deacf5d1005e7
+- location: https://bitbucket.org/luisangelsm/yacreader/downloads/YACReader-9.5.0-win64-7z.exe
+  sha256: c0eafacdd8574591d527e1525006ba646f436d9d28c2b3b2b7c1bd95e83dbaf9
+  architecture: x64
