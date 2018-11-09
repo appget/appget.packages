@@ -5,4 +5,4 @@ home: https://www.thymio.org/
 installMethod: NSIS
 installers:
 - location: https://aseba.wdfiles.com/local--files/en:wininstall/aseba-1.6.1.exe
-  sha256: 6c63a7b2311edcbd65aeb7378f491ff2ccf7f6d4eb77b5dbe78b4b90065351b6
+  sha256: 8e1af3540b15a116037dd3cfa799d99fdfc3921e2441f3e8fe1d4e71d95ec417
