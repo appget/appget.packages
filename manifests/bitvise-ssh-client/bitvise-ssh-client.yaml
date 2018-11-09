@@ -1,0 +1,7 @@
+id: bitvise-ssh-client
+name: Bitvise SSH Client
+version: 8.18.0
+home: https://www.bitvise.com/ssh-client
+installMethod: Custom
+installers:
+- location: https://dl.bitvise.com/BvSshClient-Inst.exe
