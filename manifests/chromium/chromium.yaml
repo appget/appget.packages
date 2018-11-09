@@ -3,7 +3,7 @@ name: Chromium
 version: 70.0.3538.77
 home: https://www.chromium.org/Home
 repo: https://chromium.googlesource.com/chromium/src.git
-installMethod: custom
+installMethod: Custom
 installers:
 - location: https://github.com/henrypp/chromium/releases/download/v70.0.3538.77-r587811-win64/chromium-sync.exe
   architecture: x64
