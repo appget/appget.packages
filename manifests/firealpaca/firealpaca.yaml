@@ -1,0 +1,8 @@
+id: firealpaca
+name: FireAlpaca
+version: 2.1.10
+home: https://firealpaca.com/
+installMethod: Inno
+installers:
+- location: https://firealpaca.com/download/win64
+  architecture: x64
