@@ -1,7 +1,7 @@
 id: yacreader
 name: YACReader
 version: 9.5.0
-home: https://www.yacreader.com
+home: https://www.yacreader.com/
 installMethod: Inno
 installers:
 - location: https://bitbucket.org/luisangelsm/yacreader/downloads/YACReader-9.5.0-win32-7z.exe
