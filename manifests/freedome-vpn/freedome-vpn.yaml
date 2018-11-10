@@ -1,0 +1,7 @@
+id: freedome-vpn
+name: Freedome VPN
+version: 2.23.5653
+home: https://www.f-secure.com/en/web/home_global/freedome
+installMethod: Custom
+installers:
+- location: https://download.sp.f-secure.com/freedome/installer/2/Freedome.exe
