@@ -1,7 +1,7 @@
 id: phreshistant
 name: Phreshistant
 version: 1.1.1
-repo: https://github.com/Phreshhh/Phreshistant/
+repo: https://github.com/Phreshhh/Phreshistant
 installMethod: NSIS
 installers:
 - location: https://github.com/Phreshhh/Phreshistant/releases/download/v1.1.1.0/Phreshistant.Setup.1.1.1.exe
