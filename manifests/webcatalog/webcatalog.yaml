@@ -2,7 +2,7 @@ id: webcatalog
 name: WebCatalog
 version: 12.7.0.249
 home: https://getwebcatalog.com/
-repo: https://github.com/webcatalog/webcatalog-12/
+repo: https://github.com/webcatalog/webcatalog-12
 license: Mozilla Public License 2.0
 installMethod: NSIS
 installers:
