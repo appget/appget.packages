@@ -2,7 +2,7 @@ id: python
 name: Python
 version: 2.7.15150
 home: https://www.python.org/
-repo: https://github.com/python/cpython/
+repo: https://github.com/python/cpython
 license: Python Software Foundation License
 installMethod: MSI
 installers:
