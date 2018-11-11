@@ -2,7 +2,7 @@ id: fromscratch
 name: FromScratch
 version: 1.4.2
 home: https://fromscratch.rocks/
-repo: https://github.com/Kilian/fromscratch/
+repo: https://github.com/Kilian/fromscratch
 license: MIT License
 installMethod: NSIS
 installers:
