@@ -1,7 +1,7 @@
 id: clippo
 name: clippo
 version: 1.35.0
-repo: https://github.com/monsterkodi/clippo/
+repo: https://github.com/monsterkodi/clippo
 installMethod: Inno
 installers:
 - location: https://github.com/monsterkodi/clippo/releases/download/v1.35.0/clippo-1.35.0-setup.exe
