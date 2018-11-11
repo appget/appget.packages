@@ -2,7 +2,7 @@ id: doki-doki-mod-manager
 name: Doki Doki Mod Manager!
 version: 2.14.0.32
 home: https://doki.space/
-repo: https://github.com/DokiDokiModManager/Mod-Manager/
+repo: https://github.com/DokiDokiModManager/Mod-Manager
 license: MIT License
 installMethod: NSIS
 installers:
