@@ -1,8 +1,8 @@
 id: gimp
 name: GIMP
-version: 2.10.6
+version: 2.10.8
 home: https://www.gimp.org/
 installMethod: Inno
 installers:
-- location: https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.6-setup.exe
-  sha256: 6037b8c5b1d806f97d4ca1a4facebf8b6001c927d61296d651c131e1358ea283
+- location: https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.8-setup.exe
+  sha256: 6104d79d02be324d24b7bdc7875ca71bb20afb9f380c5dfaafc9a54144e533b9
