@@ -5,4 +5,5 @@ home: https://yarnpkg.com/
 repo: https://github.com/yarnpkg/yarn/
 installMethod: MSI
 installers:
-- location: https://yarnpkg.com/latest.msi
+- location: https://github.com/yarnpkg/yarn/releases/download/v1.12.3/yarn-1.12.3.msi
+  sha256: 0657a3883b9338b22c61abc6a97279f0dac4c0b2b97de9e59c9d0fa919ccbf00
