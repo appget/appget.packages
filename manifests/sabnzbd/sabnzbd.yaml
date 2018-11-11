@@ -2,7 +2,7 @@ id: sabnzbd
 name: SABnzbd
 version: 2.3.5
 home: https://sabnzbd.org/
-repo: https://github.com/sabnzbd/sabnzbd/
+repo: https://github.com/sabnzbd/sabnzbd
 license: GNU GPL
 installMethod: NSIS
 installers:
