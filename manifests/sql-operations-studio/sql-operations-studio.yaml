@@ -1,8 +1,8 @@
 id: sql-operations-studio
-name: SQL Operations Studio
+name: Azure Data Studio
 version: 1.2.4
-home: https://docs.microsoft.com/en-us/sql/sql-operations-studio/
-repo: https://github.com/Microsoft/sqlopsstudio/
+home: https://docs.microsoft.com/en-us/sql/azure-data-studio/
+repo: https://github.com/Microsoft/azuredatastudio
 installMethod: Inno
 installers:
 - location: https://github.com/Microsoft/azuredatastudio/releases/download/1.2.4/azuredatastudio-windows-setup-1.2.4.exe
