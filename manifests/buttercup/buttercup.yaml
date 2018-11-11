@@ -2,7 +2,7 @@ id: buttercup
 name: Buttercup
 version: 1.11.0
 home: https://buttercup.pw/
-repo: https://github.com/buttercup/buttercup-desktop/
+repo: https://github.com/buttercup/buttercup-desktop
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
