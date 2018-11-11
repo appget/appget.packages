@@ -2,7 +2,7 @@ id: tusk-app
 name: Tusk
 version: 0.11.0
 home: https://klauscfhq.github.io/tusk
-repo: https://github.com/klauscfhq/tusk/
+repo: https://github.com/klauscfhq/tusk
 license: MIT License
 installMethod: Squirrel
 installers:
