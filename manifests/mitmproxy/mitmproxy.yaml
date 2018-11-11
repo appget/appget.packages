@@ -2,7 +2,7 @@ id: mitmproxy
 name: mitmproxy
 version: 4.0.1
 home: https://mitmproxy.org/
-repo: https://github.com/mitmproxy/mitmproxy/
+repo: https://github.com/mitmproxy/mitmproxy
 license: MIT License
 installMethod: InstallBuilder
 installers:
