@@ -2,7 +2,7 @@ id: polar-bookshelf
 name: Polar Bookshelf
 version: 1.0.13
 home: https://getpolarized.io/
-repo: https://github.com/burtonator/polar-bookshelf/
+repo: https://github.com/burtonator/polar-bookshelf
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
