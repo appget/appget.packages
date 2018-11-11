@@ -2,7 +2,7 @@ id: devdocs
 name: DevDocs
 version: 0.6.9.58
 home: https://devdocs.egoist.rocks/
-repo: https://github.com/egoist/devdocs-desktop/
+repo: https://github.com/egoist/devdocs-desktop
 license: MIT License
 installMethod: NSIS
 installers:
