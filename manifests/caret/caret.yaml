@@ -2,7 +2,7 @@ id: caret
 name: Caret
 version: 3.4.6
 home: https://caret.io/
-repo: https://github.com/careteditor/issues/
+repo: https://github.com/careteditor/issues
 installMethod: Squirrel
 installers:
 - location: https://github.com/careteditor/issues/releases/download/3.4.6/CaretSetup.exe
