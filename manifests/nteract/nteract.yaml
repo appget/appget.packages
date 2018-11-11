@@ -2,7 +2,7 @@ id: nteract
 name: nteract
 version: 0.12.3
 home: https://nteract.io/
-repo: https://github.com/nteract/nteract/
+repo: https://github.com/nteract/nteract
 license: BSD 3-Clause "New" or "Revised" License
 installMethod: NSIS
 installers:
