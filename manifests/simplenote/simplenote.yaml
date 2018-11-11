@@ -1,7 +1,7 @@
 id: simplenote
 name: Simplenote
 version: 1.2.1.47
-repo: https://github.com/Automattic/simplenote-electron/
+repo: https://github.com/Automattic/simplenote-electron
 license: GNU General Public License v2.0
 installMethod: NSIS
 installers:
