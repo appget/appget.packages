@@ -2,7 +2,7 @@ id: alva
 name: Alva
 version: 0.8.0
 home: https://meetalva.io/
-repo: https://github.com/meetalva/alva/
+repo: https://github.com/meetalva/alva
 license: MIT License
 installMethod: NSIS
 installers:
