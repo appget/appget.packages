@@ -2,7 +2,7 @@ id: qtox
 name: qTox
 version: 1.16.3
 home: https://qtox.github.io/
-repo: https://github.com/qTox/qTox/
+repo: https://github.com/qTox/qTox
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
