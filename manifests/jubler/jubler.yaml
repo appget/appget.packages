@@ -2,7 +2,7 @@ id: jubler
 name: Jubler
 version: 6.0.2.32
 home: http://www.jubler.org/
-repo: https://github.com/teras/Jubler/
+repo: https://github.com/teras/Jubler
 installMethod: NSIS
 installers:
 - location: https://github.com/teras/Jubler/releases/download/6.0.2/Jubler-6.0.2.32.exe
