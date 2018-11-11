@@ -1,7 +1,7 @@
 id: ramme
 name: Ramme
 version: 3.2.5.207
-repo: https://github.com/terkelg/ramme/
+repo: https://github.com/terkelg/ramme
 license: MIT License
 installMethod: NSIS
 installers:
