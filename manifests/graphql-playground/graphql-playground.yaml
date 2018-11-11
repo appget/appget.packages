@@ -1,7 +1,7 @@
 id: graphql-playground
 name: GraphQL Playground
 version: 1.8.0.4820
-repo: https://github.com/prismagraphql/graphql-playground/
+repo: https://github.com/prisma/graphql-playground
 license: MIT License
 installMethod: NSIS
 installers:
