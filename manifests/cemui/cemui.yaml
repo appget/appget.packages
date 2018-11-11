@@ -1,7 +1,7 @@
 id: cemui
 name: CemUI
 version: 2.3.3
-repo: https://github.com/RedDuckss/CemUI/
+repo: https://github.com/RedDuckss/CemUI
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
