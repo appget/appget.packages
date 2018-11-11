@@ -2,7 +2,7 @@ id: cozy-drive
 name: Cozy Drive
 version: 3.10.2.1434
 home: https://cozy-labs.github.io/cozy-desktop/
-repo: https://github.com/cozy-labs/cozy-desktop/
+repo: https://github.com/cozy-labs/cozy-desktop
 license: GNU Affero General Public License v3.0
 installMethod: NSIS
 installers:
