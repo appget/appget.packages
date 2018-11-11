@@ -2,7 +2,7 @@ id: brackets
 name: Brackets
 version: 1.13.17696
 home: http://brackets.io/
-repo: https://github.com/adobe/brackets/
+repo: https://github.com/adobe/brackets
 license: MIT License
 installMethod: MSI
 installers:
