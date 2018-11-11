@@ -2,7 +2,7 @@ id: odio
 name: odio
 version: 1.1.0
 home: https://www.odio.io/
-repo: https://github.com/odioapp/odio/
+repo: https://github.com/odioapp/odio
 installMethod: NSIS
 installers:
 - location: https://github.com/odioapp/odio/releases/download/v1.1.0/odio-setup-1.1.0.exe
