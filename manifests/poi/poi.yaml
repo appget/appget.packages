@@ -2,7 +2,7 @@ id: poi
 name: poi
 version: 9.0.3.3144
 home: https://poi.io/
-repo: https://github.com/poooi/poi/
+repo: https://github.com/poooi/poi
 license: MIT License
 installMethod: NSIS
 installers:
