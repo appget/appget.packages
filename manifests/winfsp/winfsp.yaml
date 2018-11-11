@@ -2,7 +2,7 @@ id: winfsp
 name: WinFsp
 version: 1.3.18160
 home: http://www.secfs.net/winfsp/
-repo: https://github.com/billziss-gh/winfsp/
+repo: https://github.com/billziss-gh/winfsp
 installMethod: MSI
 installers:
 - location: https://github.com/billziss-gh/winfsp/releases/download/v1.3/winfsp-1.3.18160.msi
