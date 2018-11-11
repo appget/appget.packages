@@ -2,7 +2,7 @@ id: ghostwriter
 name: ghostwriter
 version: 1.7.1
 home: https://wereturtle.github.io/ghostwriter/
-repo: https://github.com/wereturtle/ghostwriter/
+repo: https://github.com/wereturtle/ghostwriter
 license: GNU General Public License v3.0
 installMethod: Inno
 installers:
