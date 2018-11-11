@@ -2,7 +2,7 @@ id: screentogif
 name: ScreenToGif
 version: 2.14.1
 home: https://www.screentogif.com/
-repo: https://github.com/NickeManarin/ScreenToGif/
+repo: https://github.com/NickeManarin/ScreenToGif
 license: Microsoft Public License
 installMethod: MSI
 installers:
