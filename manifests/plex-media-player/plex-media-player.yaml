@@ -2,7 +2,7 @@ id: plex-media-player
 name: Plex Media Player
 version: 2.21.0.914
 home: https://www.plex.tv/
-repo: https://github.com/plexinc/plex-media-player/
+repo: https://github.com/plexinc/plex-media-player
 license: GNU General Public License v2.0
 installMethod: Wix
 installers:
