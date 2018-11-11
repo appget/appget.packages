@@ -2,7 +2,7 @@ id: appget
 name: AppGet
 version: 0.5.159
 home: https://appget.net/
-repo: https://github.com/appget/appget/
+repo: https://github.com/appget/appget
 license: Apache License 2.0
 installMethod: Inno
 installers:
