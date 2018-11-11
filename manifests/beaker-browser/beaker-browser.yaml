@@ -2,7 +2,7 @@ id: beaker-browser
 name: Beaker Browser
 version: 0.8.0.43
 home: https://beakerbrowser.com/
-repo: https://github.com/beakerbrowser/beaker/
+repo: https://github.com/beakerbrowser/beaker
 license: MIT License
 installMethod: NSIS
 installers:
