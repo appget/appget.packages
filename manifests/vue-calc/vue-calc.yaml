@@ -1,7 +1,7 @@
 id: vue-calc
 name: vue-calc
 version: 0.18.04.15
-repo: https://github.com/el3um4s/vue-calc/
+repo: https://github.com/el3um4s/vue-calc
 license: MIT License
 installMethod: NSIS
 installers:
