@@ -2,7 +2,7 @@ id: sqlectron
 name: Sqlectron
 version: 1.30.0.674
 home: https://sqlectron.github.io/
-repo: https://github.com/sqlectron/sqlectron-gui/
+repo: https://github.com/sqlectron/sqlectron-gui
 license: MIT License
 installMethod: NSIS
 installers:
