@@ -2,7 +2,7 @@ id: freecad
 name: FreeCAD
 version: 0.17.13541.9948
 home: https://www.freecadweb.org/
-repo: https://github.com/FreeCAD/FreeCAD/
+repo: https://github.com/FreeCAD/FreeCAD
 installMethod: NSIS
 installers:
 - location: https://github.com/FreeCAD/FreeCAD/releases/download/0.17/FreeCAD-0.17.13528.5c3f7bf-WIN-x86-installer.exe
