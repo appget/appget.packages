@@ -2,7 +2,7 @@ id: lepton
 name: Lepton
 version: 1.7.0
 home: https://hackjutsu.com/Lepton
-repo: https://github.com/hackjutsu/Lepton/
+repo: https://github.com/hackjutsu/Lepton
 installMethod: NSIS
 installers:
 - location: https://github.com/hackjutsu/Lepton/releases/download/v1.7.0/Lepton-Setup-1.7.0.exe
