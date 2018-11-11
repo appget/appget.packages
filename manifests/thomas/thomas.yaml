@@ -1,7 +1,7 @@
 id: thomas
 name: Thomas
 version: 0.5.1.96
-repo: https://github.com/andrepolischuk/thomas/
+repo: https://github.com/andrepolischuk/thomas
 license: MIT License
 installMethod: NSIS
 installers:
