@@ -2,7 +2,7 @@ id: metronome-wallet
 name: Metronome Wallet
 version: 1.1.5.380
 home: https://metronome.io/
-repo: https://github.com/autonomoussoftware/metronome-wallet-desktop/
+repo: https://github.com/autonomoussoftware/metronome-wallet-desktop
 license: MIT License
 installMethod: NSIS
 installers:
