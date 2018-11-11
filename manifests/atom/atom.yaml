@@ -2,7 +2,7 @@ id: atom
 name: Atom
 version: 1.32.2
 home: https://atom.io/
-repo: https://github.com/atom/atom/
+repo: https://github.com/atom/atom
 license: MIT License
 installMethod: Squirrel
 installers:
