@@ -2,7 +2,7 @@ id: caption
 name: Caption
 version: 2.0.1
 home: https://getcaption.co/
-repo: https://github.com/gielcobben/caption/
+repo: https://github.com/gielcobben/caption
 license: MIT License
 installMethod: NSIS
 installers:
