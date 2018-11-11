@@ -9,4 +9,4 @@ args:
   silent: /S
 installers:
 - location: https://github.com/Lexikos/AutoHotkey_L/releases/download/v1.1.30.01/AutoHotkey_1.1.30.01_setup.exe
-  sha256: 00fe1b58d79a3fce2a82beadadcad8f88ef5e40a054aa8e2fafd2f36a06dc895
+  sha256: 566eecbfee64e12d5cda0005a0e8e8812cfcee79e8956fa84ab15acad21cfe55
