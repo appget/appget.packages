@@ -2,7 +2,7 @@ id: node-lts
 name: Node.js LTS
 version: 6.9.5.0
 home: https://nodejs.org/
-repo: https://github.com/nodejs/node/
+repo: https://github.com/nodejs/node
 license: MIT
 installMethod: MSI
 installers:
