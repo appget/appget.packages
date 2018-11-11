@@ -2,7 +2,7 @@ id: shotcut
 name: Shotcut
 version: 18.10.08
 home: https://www.shotcut.org/
-repo: https://github.com/mltframework/shotcut/
+repo: https://github.com/mltframework/shotcut
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
