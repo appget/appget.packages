@@ -2,7 +2,7 @@ id: cerebro
 name: Cerebro
 version: 0.3.2
 home: https://cerebroapp.com/
-repo: https://github.com/KELiON/cerebro/
+repo: https://github.com/KELiON/cerebro
 license: MIT License
 installMethod: NSIS
 installers:
