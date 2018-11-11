@@ -2,7 +2,7 @@ id: lightscreen
 name: Lightscreen
 version: 2.4
 home: https://lightscreen.com.ar/
-repo: https://github.com/ckaiser/Lightscreen/
+repo: https://github.com/ckaiser/Lightscreen
 license: GNU General Public License v2.0
 installMethod: Inno
 installers:
