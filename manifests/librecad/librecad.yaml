@@ -2,7 +2,7 @@ id: librecad
 name: LibreCAD
 version: 2.1.3
 home: https://librecad.org/
-repo: https://github.com/LibreCAD/LibreCAD/
+repo: https://github.com/LibreCAD/LibreCAD
 installMethod: NSIS
 installers:
 - location: https://github.com/LibreCAD/LibreCAD/releases/download/2.1.3/LibreCAD-Installer-2.1.3.exe
