@@ -2,7 +2,7 @@ id: patchwork
 name: Patchwork
 version: 3.11.3
 home: https://www.scuttlebutt.nz/
-repo: https://github.com/ssbc/patchwork/
+repo: https://github.com/ssbc/patchwork
 license: GNU Affero General Public License v3.0
 installMethod: NSIS
 installers:
