@@ -2,7 +2,7 @@ id: obs-studio
 name: OBS Studio
 version: 22.0.2
 home: https://obsproject.com/
-repo: https://github.com/obsproject/obs-studio/
+repo: https://github.com/obsproject/obs-studio
 license: GNU General Public License v2.0
 installMethod: NSIS
 installers:
