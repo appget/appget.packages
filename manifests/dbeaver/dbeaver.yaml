@@ -2,7 +2,7 @@ id: dbeaver
 name: DBeaver Community
 version: 5.2.4
 home: https://dbeaver.io/
-repo: https://github.com/dbeaver/dbeaver/
+repo: https://github.com/dbeaver/dbeaver
 license: Apache License 2.0
 installMethod: NSIS
 installers:
