@@ -2,7 +2,7 @@ id: inboxer
 name: Inboxer
 version: 1.2.1.134
 home: https://denysdovhan.com/inboxer
-repo: https://github.com/denysdovhan/inboxer/
+repo: https://github.com/denysdovhan/inboxer
 license: MIT License
 installMethod: NSIS
 installers:
