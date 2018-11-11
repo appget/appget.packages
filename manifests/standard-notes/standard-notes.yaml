@@ -1,7 +1,7 @@
 id: standard-notes
 name: Standard Notes
 version: 2.3.12
-repo: https://github.com/standardnotes/desktop/
+repo: https://github.com/standardnotes/desktop
 license: GNU Affero General Public License v3.0
 installMethod: NSIS
 installers:
