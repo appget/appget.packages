@@ -2,7 +2,7 @@ id: hain
 name: Hain
 version: 0.6.6
 home: https://hainproject.github.io/hain/
-repo: https://github.com/hainproject/hain/
+repo: https://github.com/hainproject/hain
 license: MIT License
 installMethod: Squirrel
 installers:
