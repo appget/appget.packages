@@ -1,7 +1,7 @@
 id: email-securely-app
 name: email-securely-app
 version: 1.5.4.164
-repo: https://github.com/vladimiry/email-securely-app/
+repo: https://github.com/vladimiry/email-securely-app
 license: MIT License
 installMethod: NSIS
 installers:
