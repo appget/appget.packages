@@ -1,8 +1,9 @@
 id: sql-operations-studio
 name: SQL Operations Studio
-version: 0.31.4
+version: 1.2.4
 home: https://docs.microsoft.com/en-us/sql/sql-operations-studio/
 repo: https://github.com/Microsoft/sqlopsstudio/
 installMethod: Inno
 installers:
-- location: https://go.microsoft.com/fwlink/?linkid=2005949
+- location: https://github.com/Microsoft/azuredatastudio/releases/download/1.2.4/azuredatastudio-windows-setup-1.2.4.exe
+  sha256: 54fea1585c34bab88198fd7afbbda9947665d0c9028be934e6123a3d9f23e846
