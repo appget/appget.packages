@@ -2,7 +2,7 @@ id: prey
 name: Prey
 version: 1.8.1
 home: https://preyproject.com/
-repo: https://github.com/prey/prey-node-client/
+repo: https://github.com/prey/prey-node-client
 license: GNU General Public License v3.0
 installMethod: MSI
 installers:
