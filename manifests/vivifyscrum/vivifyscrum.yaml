@@ -2,7 +2,7 @@ id: vivifyscrum
 name: VivifyScrum
 version: 2.1.7
 home: https://www.vivifyscrum.com/
-repo: https://github.com/Vivify-Ideas/vivifyscrum2-electron/
+repo: https://github.com/Vivify-Ideas/vivifyscrum2-electron
 installMethod: Squirrel
 installers:
 - location: https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/win32-ia32-prod-v2.1.7/VivifyScrum.Setup.2.1.7.exe
