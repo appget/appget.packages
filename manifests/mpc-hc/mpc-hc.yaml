@@ -2,7 +2,7 @@ id: mpc-hc
 name: MPC-HC
 version: 1.7.13
 home: https://mpc-hc.org/
-repo: https://github.com/mpc-hc/mpc-hc/
+repo: https://github.com/mpc-hc/mpc-hc
 license: GNU General Public License v3.0
 installMethod: Inno
 installers:
