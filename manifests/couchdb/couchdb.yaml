@@ -2,7 +2,7 @@ id: couchdb
 name: CouchDB
 version: 2.2.0
 home: https://couchdb.apache.org/
-repo: https://github.com/apache/couchdb/
+repo: https://github.com/apache/couchdb
 license: Apache License 2.0
 installMethod: MSI
 installers:
