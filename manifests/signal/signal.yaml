@@ -2,7 +2,7 @@ id: signal
 name: Signal
 version: 1.16.3
 home: https://signal.org/download
-repo: https://github.com/signalapp/Signal-Desktop/
+repo: https://github.com/signalapp/Signal-Desktop
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
