@@ -2,7 +2,7 @@ id: winscp
 name: WinSCP
 version: 5.13.4
 home: https://winscp.net/
-repo: https://github.com/winscp/winscp/
+repo: https://github.com/winscp/winscp
 license: GNU General Public License v3.0
 installMethod: Inno
 installers:
