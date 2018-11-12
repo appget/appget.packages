@@ -3,10 +3,9 @@ name: Wireshark
 version: 2.6.4
 home: https://www.wireshark.org/
 repo: https://github.com/wireshark/wireshark
-installMethod: MSI
+installMethod: NSIS
 installers:
-- location: https://www.wireshark.org/download/win32/all-versions/Wireshark-win32-2.6.4.msi
-  sha256: 20d280fc4b408f6a435e2dc79aefe0f37c82e0ccf46d83ad73eb946e024d5406
-- location: https://www.wireshark.org/download/win64/all-versions/Wireshark-win64-2.6.4.msi
-  sha256: ecfd6cd94b78312f7c195852d9cc0cb9d611795b566ccda7a9ada9579fd34007
-  architecture: x64
+- location: https://1.na.dl.wireshark.org/win64/Wireshark-win64-2.6.4.exe
+  sha256: 3ca543a311a9ec3f9b2045768ead78af3acd19f8fa447aae9885712c5f8aaddb
+- location: https://1.na.dl.wireshark.org/win32/Wireshark-win32-2.6.4.exe
+  sha256: e2a75ec989c8c9c00cd197be7f137707fbc924899fdae2e50e5515b27e7d0ed5
