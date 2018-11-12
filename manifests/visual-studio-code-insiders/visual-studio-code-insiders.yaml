@@ -2,7 +2,7 @@ id: visual-studio-code-insiders
 name: Visual Studio Code - Insiders
 version: 1.29.0
 home: https://code.visualstudio.com/
-repo: https://github.com/Microsoft/vscode/
+repo: https://github.com/Microsoft/vscode
 license: MIT License
 installMethod: Inno
 args:
