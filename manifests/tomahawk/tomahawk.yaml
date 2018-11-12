@@ -1,7 +1,8 @@
 id: tomahawk
 name: Tomahawk
 version: 0.8.4
-repo: https://github.com/tomahawk-player/tomahawk/
+home: http://tomahawk-player.org/
+repo: https://github.com/tomahawk-player/tomahawk
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
