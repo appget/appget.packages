@@ -1,0 +1,8 @@
+id: intel-extreme-tuning-utility
+name: Intel Extreme Tuning Utility
+version: 6.4.1.25
+home: https://intel.com/
+installMethod: Wix
+installers:
+- location: https://downloadmirror.intel.com/24075/eng/XTUSetup.exe
+  sha256: 236f39f4b4f8ed1c48c4a2c2cb72198933c65132a0fa4314acd51be4d5b08445
