@@ -2,7 +2,7 @@ id: wireshark
 name: Wireshark
 version: 2.6.4
 home: https://www.wireshark.org/
-repo: https://github.com/wireshark/wireshark/
+repo: https://github.com/wireshark/wireshark
 installMethod: MSI
 installers:
 - location: https://www.wireshark.org/download/win32/all-versions/Wireshark-win32-2.6.4.msi
