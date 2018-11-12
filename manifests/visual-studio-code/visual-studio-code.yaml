@@ -2,7 +2,7 @@ id: visual-studio-code
 name: Visual Studio Code
 version: 1.28.2
 home: https://code.visualstudio.com/
-repo: https://github.com/Microsoft/vscode/
+repo: https://github.com/Microsoft/vscode
 license: MIT License
 installMethod: Inno
 args:
