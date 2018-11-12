@@ -2,7 +2,7 @@ id: freeciv
 name: Freeciv
 version: 2.6.0
 home: http://www.freeciv.org/
-repo: https://github.com/freeciv/freeciv/
+repo: https://github.com/freeciv/freeciv
 license: GNU General Public License v2.0
 installMethod: NSIS
 installers:
