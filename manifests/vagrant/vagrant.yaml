@@ -2,7 +2,7 @@ id: vagrant
 name: Vagrant
 version: 2.2.0
 home: https://www.vagrantup.com/
-repo: https://github.com/hashicorp/vagrant/
+repo: https://github.com/hashicorp/vagrant
 license: MIT License
 installMethod: MSI
 installers:
