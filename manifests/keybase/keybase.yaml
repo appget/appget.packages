@@ -2,7 +2,7 @@ id: keybase
 name: Keybase
 version: 2.1.0.6
 home: https://keybase.io/
-repo: https://github.com/keybase/client/
+repo: https://github.com/keybase/client
 license: BSD 3-Clause "New" or "Revised" License
 installMethod: Wix
 installers:
