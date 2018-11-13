@@ -1,8 +1,8 @@
 id: intellij
 name: IntelliJ IDEA Community
-version: 182.4892.20
+version: 182.5107.16
 home: https://www.jetbrains.com/
 installMethod: NSIS
 installers:
-- location: https://download.jetbrains.com/idea/ideaIC-2018.2.5.exe
-  sha256: 664c915163e03be7d00c5976efa1f5f5a524cf9575b6921661ce36bea8844888
+- location: https://download.jetbrains.com/idea/ideaIC-2018.2.6.exe
+  sha256: eafe9f9434729fb101aaeb09a3d6957e8bc1842c156baf40f5f378bb36e2bcbb
