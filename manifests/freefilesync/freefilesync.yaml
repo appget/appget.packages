@@ -1,5 +1,5 @@
 id: freefilesync
-name: '{code:InsertHiddenChars|FreeFileSync}'
+name: FreeFileSync
 version: 10.6
 home: https://freefilesync.org/
 installMethod: Inno
