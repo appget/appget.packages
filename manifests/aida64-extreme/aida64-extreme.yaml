@@ -1,0 +1,8 @@
+id: aida64-extreme
+name: AIDA64 Extreme
+version: 5.98.4800
+home: https://www.aida64.com/
+installMethod: Inno
+installers:
+- location: http://download.aida64.com/aida64extreme598.exe
+  sha256: 5ba31f323763f0b01625e746dc89fbc040fed96e76b4b4d677edfff8e9ea864d
