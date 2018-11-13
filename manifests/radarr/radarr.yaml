@@ -1,10 +1,10 @@
 id: radarr
 name: Radarr
-version: 0.2.0.1120
+version: 0.2.0.1217
 home: https://radarr.video/
 repo: https://github.com/Radarr/Radarr
 license: GNU General Public License v3.0
 installMethod: Inno
 installers:
-- location: https://github.com/Radarr/Radarr/releases/download/v0.2.0.1120/Radarr.develop.0.2.0.1120.installer.exe
-  sha256: b306dc61c61a097b8649ffe7f36fd1e79602a77bb7a894472e9eba1a35660d11
+- location: https://github.com/Radarr/Radarr/releases/download/v0.2.0.1217/Radarr.v0.2.0.1217.installer.exe
+  sha256: 0b00ed2ccaf41e9450b2c37f33e2a688229a65b8cfd4d102bc8ca3c1e05a1c34
