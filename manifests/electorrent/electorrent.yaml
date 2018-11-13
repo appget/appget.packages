@@ -1,7 +1,7 @@
 id: electorrent
 name: Electorrent
 version: 2.4.0
-repo: https://github.com/tympanix/Electorrent/
+repo: https://github.com/tympanix/Electorrent
 license: GNU General Public License v3.0
 installMethod: Squirrel
 installers:
