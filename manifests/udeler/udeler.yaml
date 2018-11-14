@@ -1,7 +1,7 @@
 id: udeler
 name: Udemy Course Downloader
 version: 1.6.2
-repo: https://github.com/FaisalUmair/udemy-downloader-gui/
+repo: https://github.com/FaisalUmair/udemy-downloader-gui
 license: MIT License
 installMethod: NSIS
 installers:
