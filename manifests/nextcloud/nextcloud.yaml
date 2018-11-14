@@ -1,9 +1,9 @@
 id: nextcloud
 name: Nextcloud
-version: 2.3.3.1
+version: 2.5.0.61560
 home: https://nextcloud.com/
 repo: https://github.com/nextcloud/desktop
 installMethod: NSIS
 installers:
-- location: https://download.nextcloud.com/desktop/releases/Windows/Nextcloud-2.3.3.1-setup.exe
-  sha256: a61fd80110df4f7673a88b962d1d1033d9800bdc91ea7183e26c880a3856d90d
+- location: https://download.nextcloud.com/desktop/releases/Windows/Nextcloud-2.5.0-setup.exe
+  sha256: c4161acc5267b4553488a825eb85114b8ee44c5e40284b19424c3e0e94f609bd
