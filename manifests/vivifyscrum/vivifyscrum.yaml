@@ -1,10 +1,10 @@
 id: vivifyscrum
 name: VivifyScrum
-version: 2.1.7
+version: 2.1.8
 home: https://www.vivifyscrum.com/
 repo: https://github.com/Vivify-Ideas/vivifyscrum2-electron
 installMethod: Squirrel
 installers:
-- location: https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/win32-ia32-prod-v2.1.7/VivifyScrum.Setup.2.1.7.exe
-  sha256: f1e7c1dd074ac0e44114fec9ef41478786a9f6aea3ba8fac758c35fd282de07d
+- location: https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/win32-ia32-prod-v2.1.8/VivifyScrum.Setup.2.1.8.exe
+  sha256: 036c5af1746015618f503e6bac8505060e772963d690466ffc2a0a6bc1b1e1c0
   minWindowsVersion: 6.1
