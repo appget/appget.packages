@@ -2,6 +2,7 @@ id: docker-community
 name: Docker Community Edition for Windows
 version: 18.06.1.19507
 home: https://www.docker.com/docker-windows/
+repo: https://github.com/docker/for-win/
 installMethod: Custom
 installers:
 - location: https://download.docker.com/win/stable/Docker for Windows Installer.exe
