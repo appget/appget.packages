@@ -4,5 +4,5 @@ version: 2.10.8
 home: https://www.gimp.org/
 installMethod: Inno
 installers:
-- location: https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.8-setup-1.exe
-  sha256: ab4f2bcae9ddaaea16e387ce4dd01d98fe01b6f7cfdf4ea0841e9c04d304ec19
+- location: https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.8-setup-2.exe
+  sha256: 1924d0d50804bad898e9bed7cdfa9f4e093a3cff7efd75b60ec517b27b673958
