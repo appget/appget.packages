@@ -1,9 +1,9 @@
 id: android-messages-desktop
 name: Android Messages Desktop
-version: 0.7.0
+version: 0.7.1
 repo: https://github.com/chrisknepper/android-messages-desktop
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/chrisknepper/android-messages-desktop/releases/download/v0.7.0/android-messages-desktop-setup-0.7.0.exe
-  sha256: b4122023c774c7caca53a40cbc9c244caffc9eb156eba758ec63610dbc5456fd
+- location: https://github.com/chrisknepper/android-messages-desktop/releases/download/v0.7.1/android-messages-desktop-setup-0.7.1.exe
+  sha256: f909e96b0c3027d09c3811bb112dbdb0bc3d85c6f687caffa60b35168704f358
