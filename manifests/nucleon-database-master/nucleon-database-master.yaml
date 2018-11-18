@@ -1,6 +1,6 @@
 id: nucleon-database-master
 name: Nucleon Database Master
-version: 10.1.81.81118
+version: 10.1.91.1118
 home: http://nucleonsoftware.com/products/database-master
 installMethod: MSI
 installers:
