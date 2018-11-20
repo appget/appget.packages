@@ -1,6 +1,6 @@
 id: amazon-workspaces
 name: Amazon WorkSpaces
-version: 2.4.10
+version: 2.5.0
 home: https://aws.amazon.com/workspaces/
 installMethod: MSI
 installers:
