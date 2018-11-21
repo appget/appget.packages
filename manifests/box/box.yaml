@@ -1,6 +1,6 @@
 id: box
 name: Box Drive
-version: 2.0.70
+version: 2.1.105
 home: https://www.box.com/drive/
 installMethod: MSI
 installers:
