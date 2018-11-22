@@ -1,11 +1,11 @@
 id: now
 name: Now
-version: 4.0.9
+version: 4.0.10
 home: https://zeit.co/download
 repo: https://github.com/zeit/now-desktop
 license: MIT License
 installMethod: Squirrel
 installers:
-- location: https://github.com/zeit/now-desktop/releases/download/4.0.9/now-desktop-Setup-4.0.9.exe
-  sha256: 0f9cbfa17389437568d7fe23c746837b9d036e4b9f3e6afb0887ead43573b24a
+- location: https://github.com/zeit/now-desktop/releases/download/4.0.10/now-desktop-Setup-4.0.10.exe
+  sha256: 9acf16497f6f8bb1a35fc1952c1e8f9ef69c05be8c42a9a8a38846546f65864e
   minWindowsVersion: 6.1
