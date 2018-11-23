@@ -2,7 +2,7 @@ id: harmony
 name: Harmony
 version: 0.9.1
 home: https://getharmony.xyz/
-repo: https://github.com/vincelwt/harmony
+repo: https://github.com/vincelwt/harmony/
 installMethod: NSIS
 installers:
 - location: https://github.com/vincelwt/harmony/releases/download/v0.9.1/harmony-0.9.1-setup.exe
