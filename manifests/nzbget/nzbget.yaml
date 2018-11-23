@@ -2,7 +2,7 @@ id: nzbget
 name: NZBGet
 version: 20.0
 home: https://nzbget.net/
-repo: https://github.com/nzbget/nzbget
+repo: https://github.com/nzbget/nzbget/
 license: GNU General Public License v2.0
 installMethod: NSIS
 installers:
