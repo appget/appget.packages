@@ -1,7 +1,7 @@
 id: graphiql
 name: GraphiQL
 version: 0.7.2
-repo: https://github.com/skevy/graphiql-app
+repo: https://github.com/skevy/graphiql-app/
 license: MIT License
 installMethod: NSIS
 installers:
