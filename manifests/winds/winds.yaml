@@ -1,11 +1,11 @@
 id: winds
 name: Winds
-version: 2.1.90
+version: 3.1.0
 home: https://getstream.io/winds/
 repo: https://github.com/GetStream/Winds
 license: BSD 3-Clause "New" or "Revised" License
 installMethod: NSIS
 installers:
-- location: https://s3.amazonaws.com/winds-2.0-releases/releases/Winds Setup 2.1.90.exe
-  sha256: 33db1ae813b38d6a4b361eefdfcb4be4d3ff815ffd16fdede9196b05772110cd
+- location: https://s3.amazonaws.com/winds-2.0-releases/releases/Winds Setup 3.1.0.exe
+  sha256: cc12f1500b040f7618fab56dba3c738a2483d7260dc2f5776d27b8930edba6a9
   minWindowsVersion: 6.1
