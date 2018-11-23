@@ -2,7 +2,7 @@ id: joplin
 name: Joplin
 version: 1.0.116.1511
 home: https://joplin.cozic.net/
-repo: https://github.com/laurent22/joplin
+repo: https://github.com/laurent22/joplin/
 license: MIT License
 installMethod: NSIS
 installers:
