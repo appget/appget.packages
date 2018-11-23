@@ -1,10 +1,10 @@
 id: graphql-playground
 name: GraphQL Playground
-version: 1.8.2
+version: 1.8.3
 repo: https://github.com/prisma/graphql-playground/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/prisma/graphql-playground/releases/download/v1.8.2/graphql-playground-electron-setup-1.8.2.exe
-  sha256: 77698ec50af098e2966ec8512960761092e51734ff883f1b33a3f2cf8fc7adf1
+- location: https://github.com/prisma/graphql-playground/releases/download/v1.8.3/graphql-playground-electron-setup-1.8.3.exe
+  sha256: 147337375e7ba9a5e0e56105a28755460062f3aac93228637edea92d0cbb7040
   minWindowsVersion: 6.1
