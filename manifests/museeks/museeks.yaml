@@ -2,7 +2,7 @@ id: museeks
 name: Museeks
 version: 0.10.1
 home: https://museeks.io/
-repo: https://github.com/martpie/museeks
+repo: https://github.com/martpie/museeks/
 license: MIT License
 installMethod: NSIS
 installers:
