@@ -2,7 +2,7 @@ id: deckboard
 name: Deckboard
 version: 1.2.62
 home: https://deckboard.app/
-repo: https://github.com/rivafarabi/deckboard
+repo: https://github.com/rivafarabi/deckboard/
 installMethod: NSIS
 installers:
 - location: https://github.com/rivafarabi/deckboard/releases/download/v1.2.62/Deckboard-Setup-1.2.62.exe
