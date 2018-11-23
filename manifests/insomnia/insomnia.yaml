@@ -2,7 +2,7 @@ id: insomnia
 name: Insomnia
 version: 6.2.0
 home: https://insomnia.rest/
-repo: https://github.com/getinsomnia/insomnia
+repo: https://github.com/getinsomnia/insomnia/
 license: MIT License
 installMethod: Squirrel
 installers:
