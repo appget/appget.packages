@@ -2,7 +2,7 @@ id: clementine
 name: Clementine
 version: 1.3.1
 home: https://www.clementine-player.org/
-repo: https://github.com/clementine-player/Clementine
+repo: https://github.com/clementine-player/Clementine/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
