@@ -2,7 +2,7 @@ id: conemu
 name: ConEmu
 version: 18.06.26
 home: https://conemu.github.io/
-repo: https://github.com/Maximus5/ConEmu
+repo: https://github.com/Maximus5/ConEmu/
 license: BSD 3-Clause "New" or "Revised" License
 installMethod: Custom
 installers:
