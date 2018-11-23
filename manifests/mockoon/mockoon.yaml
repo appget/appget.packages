@@ -2,7 +2,7 @@ id: mockoon
 name: Mockoon
 version: 1.2.0
 home: https://mockoon.com/
-repo: https://github.com/255kb/mockoon
+repo: https://github.com/255kb/mockoon/
 license: MIT License
 installMethod: NSIS
 installers:
