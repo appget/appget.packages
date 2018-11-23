@@ -1,7 +1,7 @@
 id: advancedrestclient
 name: AdvancedRestClient
 version: 12.1.4
-repo: https://github.com/advanced-rest-client/arc-electron
+repo: https://github.com/advanced-rest-client/arc-electron/
 license: Apache License 2.0
 installMethod: NSIS
 installers:
