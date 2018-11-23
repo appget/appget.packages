@@ -1,7 +1,7 @@
 id: oneleft
 name: OneLeft
 version: 2.0
-repo: https://github.com/drscaon/electron-react-one-left-game
+repo: https://github.com/drscaon/electron-react-one-left-game/
 license: MIT License
 installMethod: NSIS
 installers:
