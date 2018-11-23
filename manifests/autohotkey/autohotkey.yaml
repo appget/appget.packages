@@ -2,7 +2,7 @@ id: autohotkey
 name: Autohotkey
 version: 1.1.30.01
 home: https://autohotkey.com/
-repo: https://github.com/Lexikos/AutoHotkey_L
+repo: https://github.com/Lexikos/AutoHotkey_L/
 license: GNU General Public License v2.0
 installMethod: Custom
 args:
