@@ -2,7 +2,7 @@ id: mjml
 name: MJML
 version: 2.10.0
 home: https://mjmlio.github.io/mjml-app
-repo: https://github.com/mjmlio/mjml-app
+repo: https://github.com/mjmlio/mjml-app/
 license: MIT License
 installMethod: NSIS
 installers:
