@@ -2,7 +2,7 @@ id: zettlr
 name: Zettlr
 version: 0.20.0
 home: https://www.zettlr.com/
-repo: https://github.com/Zettlr/Zettlr
+repo: https://github.com/Zettlr/Zettlr/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
