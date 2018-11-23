@@ -1,7 +1,7 @@
 id: kalk
 name: kalk
 version: 0.16.0
-repo: https://github.com/monsterkodi/kalk
+repo: https://github.com/monsterkodi/kalk/
 installMethod: Inno
 installers:
 - location: https://github.com/monsterkodi/kalk/releases/download/v0.16.0/kalk-0.16.0-setup.exe
