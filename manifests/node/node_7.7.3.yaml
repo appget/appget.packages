@@ -2,7 +2,7 @@ id: node
 name: Node.js
 version: 7.7.3.0
 home: https://nodejs.org/
-repo: https://github.com/nodejs/node
+repo: https://github.com/nodejs/node/
 license: MIT
 installMethod: MSI
 installers:
