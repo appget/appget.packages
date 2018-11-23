@@ -2,7 +2,7 @@ id: greenshot
 name: Greenshot
 version: 1.2.10.6
 home: https://getgreenshot.org/
-repo: https://github.com/greenshot/greenshot
+repo: https://github.com/greenshot/greenshot/
 license: GNU General Public License v3.0
 installMethod: Inno
 installers:
