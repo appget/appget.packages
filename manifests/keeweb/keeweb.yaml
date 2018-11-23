@@ -2,7 +2,7 @@ id: keeweb
 name: KeeWeb
 version: 1.6.3
 home: https://keeweb.info/
-repo: https://github.com/keeweb/keeweb
+repo: https://github.com/keeweb/keeweb/
 installMethod: NSIS
 installers:
 - location: https://github.com/keeweb/keeweb/releases/download/v1.6.3/KeeWeb-1.6.3.win.ia32.exe
