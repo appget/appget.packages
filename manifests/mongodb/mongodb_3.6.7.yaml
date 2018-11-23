@@ -2,7 +2,7 @@ id: mongodb
 name: MongoDB
 version: 3.6.7
 home: https://www.mongodb.com/
-repo: https://github.com/mongodb/mongo
+repo: https://github.com/mongodb/mongo/
 license: AGPL v3
 installMethod: MSI
 installers:
