@@ -1,7 +1,7 @@
 id: elcalc
 name: elcalc
 version: 5.0
-repo: https://github.com/elcalc/elcalc
+repo: https://github.com/elcalc/elcalc/
 license: MIT License
 installMethod: NSIS
 installers:
