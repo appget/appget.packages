@@ -1,7 +1,7 @@
 id: sharepod
 name: SharePod
 version: 2.0.5
-repo: https://github.com/kimyearho/SharePod
+repo: https://github.com/kimyearho/SharePod/
 installMethod: NSIS
 installers:
 - location: https://github.com/kimyearho/SharePod/releases/download/2.0.5/SharePod.Setup.2.0.5.exe
