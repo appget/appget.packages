@@ -2,7 +2,7 @@ id: mullvad
 name: Mullvad
 version: 2018.5.0
 home: https://mullvad.net/
-repo: https://github.com/mullvad/mullvadvpn-app
+repo: https://github.com/mullvad/mullvadvpn-app/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
