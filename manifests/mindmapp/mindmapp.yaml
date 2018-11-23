@@ -2,7 +2,7 @@ id: mindmapp
 name: Mindmapp
 version: 0.7.16.54
 home: https://mindmapp.org/
-repo: https://github.com/Mindmapp/mindmapp
+repo: https://github.com/Mindmapp/mindmapp/
 license: MIT License
 installMethod: NSIS
 installers:
