@@ -2,7 +2,7 @@ id: now
 name: Now
 version: 4.0.10
 home: https://zeit.co/download
-repo: https://github.com/zeit/now-desktop
+repo: https://github.com/zeit/now-desktop/
 license: MIT License
 installMethod: Squirrel
 installers:
