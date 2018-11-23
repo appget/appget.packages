@@ -2,7 +2,7 @@ id: minetime
 name: MineTime
 version: 1.4.9
 home: https://minetime.ai/
-repo: https://github.com/marcoancona/MineTime
+repo: https://github.com/marcoancona/MineTime/
 installMethod: Squirrel
 installers:
 - location: https://github.com/marcoancona/MineTime/releases/download/v1.4.9/MineTime.Setup.1.4.9.exe
