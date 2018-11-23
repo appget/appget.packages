@@ -2,7 +2,7 @@ id: itch
 name: itch
 version: 23.6.3
 home: https://itch.io/app
-repo: https://github.com/itchio/itch
+repo: https://github.com/itchio/itch/
 license: MIT License
 installMethod: Squirrel
 installers:
