@@ -2,7 +2,7 @@ id: juju
 name: Juju
 version: 2.4.4
 home: https://jujucharms.com/
-repo: https://github.com/juju/juju
+repo: https://github.com/juju/juju/
 license: GNU Affero General Public License v3.0
 installMethod: Inno
 installers:
