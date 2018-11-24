@@ -6,5 +6,5 @@ repo: https://github.com/wireapp/wire-desktop/
 license: GNU General Public License v3.0
 installMethod: Squirrel
 installers:
-- location: https://github.com/wireapp/wire-desktop/releases/download/release%2F3.3.2868/wire-3.3.2868.exe
+- location: https://github.com/wireapp/wire-desktop/releases/download/release/3.3.2868/wire-3.3.2868.exe
   sha256: f9325289fc43638260c9a284bdfdb2137e659e31d2f57396dbd7d0282e39f232
