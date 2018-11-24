@@ -1,0 +1,7 @@
+id: duet
+name: Duet Display
+version: 1.5.3.3
+home: https://www.duetdisplay.com/
+installMethod: AdvancedInstaller
+installers:
+- location: https://www.duetdisplay.com/windows/
