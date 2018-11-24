@@ -2,7 +2,7 @@ id: winds
 name: Winds
 version: 3.1.0
 home: https://getstream.io/winds/
-repo: https://github.com/GetStream/Winds
+repo: https://github.com/GetStream/Winds/
 license: BSD 3-Clause "New" or "Revised" License
 installMethod: NSIS
 installers:
