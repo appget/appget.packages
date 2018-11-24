@@ -2,7 +2,7 @@ id: erlang
 name: Erlang
 version: 21.1
 home: https://www.erlang.pl/
-repo: https://github.com/erlanglab/erlangpl
+repo: https://github.com/erlanglab/erlangpl/
 license: Apache License 2.0
 installMethod: NSIS
 installers:
