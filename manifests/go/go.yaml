@@ -2,7 +2,7 @@ id: go
 name: Go Programming Language
 version: 1.11.2
 home: https://golang.org/
-repo: https://github.com/golang/go
+repo: https://github.com/golang/go/
 installMethod: MSI
 installers:
 - location: https://dl.google.com/go/go1.11.2.windows-386.msi
