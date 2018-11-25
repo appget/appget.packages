@@ -1,0 +1,8 @@
+id: comicrack
+name: ComicRack
+version: 0917
+home: http://comicrack.cyolito.com/
+installMethod: NSIS
+installers:
+- location: http://comicrack.cyolito.com/files/comicrack/ComicRackSetup09178.exe
+  sha256: 56db1a1752af146012280a660eb43d8c029789e5baee3e21e90f5fe1b05875a9
