@@ -1,0 +1,11 @@
+id: db-browser-for-sqlite
+name: DB Browser for SQLite
+version: 3.10.1
+home: https://sqlitebrowser.org/
+installMethod: NSIS
+installers:
+- location: https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.10.1-win32.exe
+  sha256: 2d4ee7c846aa0c9db36cc18a5078c7c296b8eddea8f8564622fef4bc23fa4368
+- location: https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.10.1-win64.exe
+  sha256: 2a04eceaf32d5a96a8a7d8a91f78fdd0bc8c44a5ae7f86cde568fee27d422d12
+  architecture: x64
