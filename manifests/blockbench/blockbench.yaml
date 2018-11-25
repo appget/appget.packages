@@ -1,7 +1,7 @@
 id: blockbench
 name: Blockbench
 version: 2.1.0
-home: https://blockbench.net/
+home: https://www.blockbench.net/
 repo: https://github.com/JannisX11/blockbench/
 license: MIT License
 installMethod: NSIS
