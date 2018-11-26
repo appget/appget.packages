@@ -1,6 +1,6 @@
 id: poweriso
 name: PowerISO
-version: 7.2.0
+version: 7.3.0
 home: https://www.poweriso.com/
 installMethod: NSIS
 installers:
