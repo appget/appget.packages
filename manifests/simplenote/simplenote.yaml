@@ -1,9 +1,9 @@
 id: simplenote
 name: Simplenote
-version: 1.2.1.47
+version: 1.3.0.551
 repo: https://github.com/Automattic/simplenote-electron/
 license: GNU General Public License v2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/Automattic/simplenote-electron/releases/download/v1.2.1/Simplenote-win-1.2.1.exe
-  sha256: 23f12708d1aa7c400ca127a1ac97574d77761df64a4b0b54e672b3edf4c53c44
+- location: https://github.com/Automattic/simplenote-electron/releases/download/v1.3.0/Simplenote-win-1.3.0.exe
+  sha256: 2303cdf42050bfd5b0efcf08678b20d3d49a77553bbadb7abcc124d49852d6f8
