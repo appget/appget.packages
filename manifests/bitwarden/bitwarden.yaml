@@ -1,6 +1,6 @@
 id: bitwarden
 name: Bitwarden
-version: 1.10.0
+version: 1.11.1
 home: https://bitwarden.com/
 installMethod: NSIS
 installers:
