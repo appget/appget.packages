@@ -1,6 +1,7 @@
 id: svg-explorer-extension
 name: SVG Explorer Extension
 version: 0.1.1
+home: http://www.dotzdev.com/
 repo: https://github.com/maphew/svg-explorer-extension/
 installMethod: Inno
 installers:
