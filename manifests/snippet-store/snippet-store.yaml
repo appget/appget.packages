@@ -1,10 +1,10 @@
 id: snippet-store
 name: Snippet Store
-version: 0.2.8
+version: 0.2.10
 home: https://zerox-dg.github.io/SnippetStoreWeb/
 repo: https://github.com/ZeroX-DG/SnippetStore/
 installMethod: NSIS
 installers:
-- location: https://github.com/ZeroX-DG/SnippetStore/releases/download/v0.2.8/Snippet.Store.Setup.0.2.8.exe
-  sha256: fb794e899937f8d2c4b2f9b463d229f7f03378eb7a196815370b57a3c05be476
+- location: https://github.com/ZeroX-DG/SnippetStore/releases/download/v0.2.10/Snippet.Store.Setup.0.2.10.exe
+  sha256: 188f3be2fc63b44c35cb2bc53ab1677ff86e84f7caae1523cf1fbabe1041cfd3
   minWindowsVersion: 6.1
