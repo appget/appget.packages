@@ -5,4 +5,4 @@ home: https://www.cpuid.com/softwares/cpu-z.html
 installMethod: Inno
 installers:
 - location: http://download.cpuid.com/cpu-z/cpu-z_1.87-en.exe
-  sha256: 611d039c91262824f7fe1db14222186f4df4e5c6433a6cdde758bd4ec76178c4
+  sha256: 2e7af22fa51a5ebe148de13e8b258345f1462593d22c5c9e4205ef879e18ef17
