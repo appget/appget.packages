@@ -1,13 +1,13 @@
 id: mattermost
 name: Mattermost
-version: 4.1.2.46
+version: 4.2.0
 home: https://mattermost.com/
 repo: https://github.com/mattermost/desktop/
 license: Apache License 2.0
 installMethod: Squirrel
 installers:
-- location: https://releases.mattermost.com/desktop/4.1.2/mattermost-setup-4.1.2-win32.exe
-  sha256: 50eab4932e650c90e97f09dceb8a0805be18022ede156be2857aea22ae2390ae
-- location: https://releases.mattermost.com/desktop/4.1.2/mattermost-setup-4.1.2-win64.exe
-  sha256: 05c0302aae22ec3e751212688c760b57def9a7a34ffb0b7d187cc8b00f639275
+- location: https://releases.mattermost.com/desktop/4.2.0/mattermost-setup-4.2.0-win32.exe
+  sha256: 69ea6a9b325caac5960a9ac429131f906d7249636b8bf1c409654058051c669b
+- location: https://releases.mattermost.com/desktop/4.2.0/mattermost-setup-4.2.0-win64.exe
+  sha256: 2acb15efcf50cd0adfa7fc28e2163fd97262cbfe9b12f86b0dc152569b84de72
   architecture: x64
