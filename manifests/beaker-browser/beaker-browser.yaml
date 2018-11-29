@@ -1,11 +1,11 @@
 id: beaker-browser
 name: Beaker Browser
-version: 0.8.1.45
+version: 0.8.2.46
 home: https://beakerbrowser.com/
 repo: https://github.com/beakerbrowser/beaker/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/beakerbrowser/beaker/releases/download/0.8.1/beaker-browser-setup-0.8.1.exe
-  sha256: d956e8e60ace67b767232b987d784c22b9a4fe2df60e1d6c3b14104cf5b6cb4b
+- location: https://github.com/beakerbrowser/beaker/releases/download/0.8.2/beaker-browser-setup-0.8.2.exe
+  sha256: 9ecd96e90def2fa42b060d64290129903115d7410b2c2008e8d4b928c4b5846a
   minWindowsVersion: 6.1
