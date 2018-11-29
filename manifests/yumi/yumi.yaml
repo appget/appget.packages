@@ -5,4 +5,4 @@ home: https://www.pendrivelinux.com/yumi-multiboot-usb-creator/
 installMethod: NSIS
 installers:
 - location: https://www.pendrivelinux.com/downloads/YUMI/YUMI-2.0.6.0.exe
-  sha256: bde082fbb9f4485adb03a5b482251dcdff7c55c4325d69ccb10607c135bcc388
+  sha256: 7db63a5dbfc0173c514f0d5a7ef943fcafbfb860841a0ac4b43ca6aadc936f47
