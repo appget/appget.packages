@@ -1,6 +1,6 @@
 id: easeus-partition-master
 name: EaseUS Partition Master
-version: 12.10
+version: 13.0
 home: https://www.easeus.com/
 installMethod: Inno
 installers:
