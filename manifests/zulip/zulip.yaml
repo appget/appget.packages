@@ -1,0 +1,10 @@
+id: zulip
+name: Zulip
+version: 2.3.82
+home: https://zulipchat.com/apps
+repo: https://github.com/zulip/zulip-electron/
+license: Apache License 2.0
+installMethod: NSIS
+installers:
+- location: https://github.com/zulip/zulip-electron/releases/download/v2.3.82/Zulip-Web-Setup-2.3.82.exe
+  sha256: a7a438e7ef0ce720c597d70075f92ce37a5d7e7a9c26c55846fb608459797573
