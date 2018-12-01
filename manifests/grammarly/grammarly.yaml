@@ -1,6 +1,6 @@
 id: grammarly
 name: Grammarly
-version: 1.5.45
+version: 1.5.46
 home: https://www.grammarly.com/
 installMethod: Squirrel
 installers:
