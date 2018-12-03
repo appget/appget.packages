@@ -6,5 +6,5 @@ repo: https://github.com/meetfranz/franz/
 license: Apache License 2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/meetfranz/franz/releases/download/v5.0.0-beta.18/franz-setup-5.0.0-beta.18.exe
-  sha256: bb975d60c923cf42b900adf7fcf5c79e6bd937759ab3717ad988c0a9c16bfc7a
+- location: https://github.com/meetfranz/franz/releases/download/v5.0.0-beta.19/franz-setup-5.0.0-beta.19.exe
+  sha256: 7eac11f1b26c69f5157f07dcf09e2f5eec5d8ef35a13b160528951103268229a
