@@ -4,10 +4,10 @@ version: 29.0.0
 home: https://mkvtoolnix.download/
 installMethod: NSIS
 installers:
-- location: https://www.fosshub.com/MKVToolNix.html?dwl=mkvtoolnix-32-bit-29.0.0-setup.exe
+- location: https://mkvtoolnix.download/windows/releases/29.0.0/mkvtoolnix-32-bit-29.0.0-setup.exe
   sha256: 0209134fa35b686a8a4a105924eec4fe11f179792097b02de1be810e64e064ad
   minWindowsVersion: 6.1
-- location: https://www.fosshub.com/MKVToolNix.html?dwl=mkvtoolnix-64-bit-29.0.0-setup.exe
+- location: https://mkvtoolnix.download/windows/releases/29.0.0/mkvtoolnix-64-bit-29.0.0-setup.exe
   sha256: 6b13e6308774b1410f85e20c9b604654f90894b1918542dffeb85812e59255bb
   minWindowsVersion: 6.1
   architecture: x64
