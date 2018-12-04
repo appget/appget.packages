@@ -1,11 +1,11 @@
 id: perl
 name: Strawberry Perl
-version: 5.28.0.1
+version: 5.28.1.1
 home: http://strawberryperl.com/
 installMethod: MSI
 installers:
-- location: http://strawberryperl.com/download/5.28.0.1/strawberry-perl-5.28.0.1-32bit.msi
-  sha256: 652c5ade0785bf6745a6c0d61de2f28ba6caf8f5859f7c19915ebc65dd095667
-- location: http://strawberryperl.com/download/5.28.0.1/strawberry-perl-5.28.0.1-64bit.msi
-  sha256: 215fe9db4338904062065afaac9bf5cb7273c5fc6b943d0fdc60036df8755821
+- location: http://strawberryperl.com/download/5.28.1.1/strawberry-perl-5.28.1.1-32bit.msi
+  sha256: 5966c7134f2bdcdf563a71e8905511932b7815fa5f1ddb65e670a4518d535d09
+- location: http://strawberryperl.com/download/5.28.1.1/strawberry-perl-5.28.1.1-64bit.msi
+  sha256: 99a8d7230537c01e8a82dc6635392ec15a770202f868f631781b21aee5cd805c
   architecture: x64
