@@ -1,6 +1,6 @@
 id: mkvtoolnix
 name: MKVToolNix
-version: 29.0.0
+version: 29.0
 home: https://mkvtoolnix.download/
 installMethod: NSIS
 installers:
@@ -9,5 +9,5 @@ installers:
   minWindowsVersion: 6.1
 - location: https://mkvtoolnix.download/windows/releases/29.0.0/mkvtoolnix-64-bit-29.0.0-setup.exe
   sha256: 6b13e6308774b1410f85e20c9b604654f90894b1918542dffeb85812e59255bb
-  minWindowsVersion: 6.1
   architecture: x64
+  minWindowsVersion: 6.1
