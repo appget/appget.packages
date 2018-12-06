@@ -1,7 +1,7 @@
 id: ride-receipts
 name: Ride Receipts
 version: 1.6.5
-home: https://ridereceipts.io/
+home: https://www.ridereceipts.io/
 repo: https://github.com/ridereceipts/ridereceipts/
 license: MIT License
 installMethod: NSIS
