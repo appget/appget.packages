@@ -1,0 +1,7 @@
+id: cloudmounter
+name: CloudMounter
+version: 1.5.1105
+home: https://cloudmounter.net/mount-cloud-drive-win.html
+installMethod: Inno
+installers:
+- location: https://cdn.eltima.com/download/cloudmounter.exe
