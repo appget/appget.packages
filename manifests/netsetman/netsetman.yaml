@@ -1,6 +1,6 @@
 id: netsetman
 name: NetSetMan
-version: 4.6.1
+version: 4.7.1
 home: https://www.netsetman.com/
 installMethod: Inno
 installers:
