@@ -1,0 +1,8 @@
+id: tux-paint
+name: Tux Paint
+version: 0.9.23
+home: http://www.tuxpaint.org/
+installMethod: Inno
+installers:
+- location: https://downloads.sourceforge.net/project/tuxpaint/tuxpaint/0.9.23/tuxpaint-0.9.23-win32-1-installer.exe
+  sha256: 3cd8b043a4b9ec4654e8bd3e6101f755e718bc34b8281439b66349cc27ca5f58
