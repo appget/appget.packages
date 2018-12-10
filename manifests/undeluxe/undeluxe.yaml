@@ -1,7 +1,7 @@
 id: undeluxe
 name: Undeluxe Home Edition
 version: 2.00
-home: http://www.resplendence.com/undeluxe/
+home: https://www.resplendence.com/undeluxe/
 installMethod: Inno
 installers:
-- location: http://www.resplendence.com/download/UndeluxeHome.exe
+- location: https://www.resplendence.com/download/UndeluxeHome.exe
