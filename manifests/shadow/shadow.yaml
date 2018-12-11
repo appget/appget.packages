@@ -1,0 +1,8 @@
+id: shadow
+name: Shadow
+version: 0.8.98
+home: https://shadow.tech/
+installMethod: NSIS
+installers:
+- location: https://shadow.tech/windows-x64
+- location: https://shadow.tech/windows-x86
