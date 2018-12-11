@@ -1,6 +1,6 @@
 id: dynalist
 name: Dynalist
-version: 1.0.3
+version: 1.0.4
 home: https://dynalist.io/
 installMethod: NSIS
 installers:
