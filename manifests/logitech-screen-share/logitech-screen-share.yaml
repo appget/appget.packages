@@ -1,0 +1,8 @@
+id: logitech-screen-share
+name: Logitech Screen Share
+version: 1.0.69
+home: https://support.logitech.com/en_us/software/screen-share-app
+installMethod: NSIS
+installers:
+- location: https://download01.logi.com/web/ftp/pub/techsupport/cameras/Conference cam/ScreenShareInstall_1.0.69.0.exe
+  sha256: 1131318babcf25b745716918fe6e8e3243ed8c684012a2c093f32a01c3fa58f1
