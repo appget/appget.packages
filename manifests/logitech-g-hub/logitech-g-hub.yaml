@@ -1,0 +1,7 @@
+id: logitech-g-hub
+name: Logitech G HUB
+version: 2018.12.3488
+home: https://support.logitech.com/en_us/software/lghub
+installMethod: Custom
+installers:
+- location: https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe
