@@ -1,0 +1,8 @@
+id: logitech-presentation
+name: Logitech Presentation
+version: 1.52.24
+home: https://support.logitech.com/en_us/software/logi-presentation
+installMethod: NSIS
+installers:
+- location: https://download01.logi.com/web/ftp/pub/techsupport/presentation/LogiPresentation_1.52.24.exe
+  sha256: b355bb4f0810e3db5e35b52ef292e08bbe606fee19e562832990e9d6d8a66b6a
