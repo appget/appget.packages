@@ -1,0 +1,11 @@
+id: setpoint
+name: Logitech SetPoint
+version: 6.69.114
+home: https://support.logitech.com/en_us/software/setpoint
+installMethod: NSIS
+installers:
+- location: https://download01.logi.com/web/ftp/pub/techsupport/mouse/SetPoint6.69.114_32.exe
+  sha256: cf42257ea96f0aca2bd22fdbe38c345e5d5999890b3f21ae8493a323bba6e5b9
+- location: https://download01.logi.com/web/ftp/pub/techsupport/mouse/SetPoint6.69.114_64.exe
+  sha256: 917eb50c3d063169071b0fa51197a42262db0a508b105b1b6d4fb2757b72e856
+  architecture: x64
