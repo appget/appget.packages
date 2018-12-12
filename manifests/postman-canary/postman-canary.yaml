@@ -1,5 +1,5 @@
 id: postman-canary
-name: Postman Canary
+name: PostmanCanary---canary
 version: 6.7.0-canary01
 home: https://www.getpostman.com/
 installMethod: Squirrel
