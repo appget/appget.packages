@@ -1,5 +1,5 @@
 id: logitech-screen-share
-name: Logitech Screen Share Application
+name: Logitech Screen Share
 version: 1.0.69
 home: https://support.logitech.com/en_us/software/screen-share-app
 installMethod: NSIS
