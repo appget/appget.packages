@@ -1,0 +1,8 @@
+id: mblock
+name: mBlock
+version: 3.4.11
+home: http://www.mblock.cc/
+installMethod: Inno
+installers:
+- location: https://mblock.makeblock.com/mBlock_win_V3.4.11.exe
+  sha256: be8e80199d127b3d5afdc5e9a06163c41891a03a2b654d5a7033d1a2d1f9d9bf
