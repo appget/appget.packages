@@ -2,6 +2,7 @@ id: scribus
 name: Scribus
 version: 1.4.7
 home: https://www.scribus.net/
+repo: https://sourceforge.net/projects/scribus/
 installMethod: NSIS
 installers:
 - location: https://downloads.sourceforge.net/project/scribus/scribus/1.4.7/scribus-1.4.7-windows-x64.exe
