@@ -1,6 +1,6 @@
 id: passmark-performancetest
 name: PassMark PerformanceTest
-version: 9.0.1029.0
+version: 9.0.1030.0
 home: https://www.passmark.com/
 installMethod: Inno
 installers:
