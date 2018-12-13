@@ -1,7 +1,7 @@
 id: lisk-hub
 name: Lisk Hub
 version: 1.7.0
-home: https://lisk.io/
+home: https://lisk.io/hub
 repo: https://github.com/LiskHQ/lisk-hub/
 license: GNU General Public License v3.0
 installMethod: NSIS
