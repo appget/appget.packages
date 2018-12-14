@@ -1,8 +1,8 @@
 id: ccleaner
 name: CCleaner
-version: 5.50.0.6911
+version: 5.51.0.6939
 home: https://www.ccleaner.com/
 installMethod: NSIS
 installers:
-- location: https://download.ccleaner.com/ccsetup550.exe
-  sha256: d85858043cf20ac3593dc3160afb5ea7cecaf51f8d7a84c4a4299bc5381c2e91
+- location: https://download.ccleaner.com/ccsetup551.exe
+  sha256: 57c00353b459d6c164e32b1de48a7537dca2788c8d3eda29ba50734ffa800b07
