@@ -1,11 +1,11 @@
 id: kicad
 name: KiCad
-version: 5.0.1
+version: 5.0.2
 home: http://kicad-pcb.org/
 installMethod: NSIS
 installers:
-- location: http://downloads.kicad-pcb.org/windows/stable/kicad-5.0.1_3-i686.exe
-  sha256: 4c4db7fb3d250c1ce8be542c98ca2601e78d7b9e5fb93673f1e362d395a2ba04
-- location: http://downloads.kicad-pcb.org/windows/stable/kicad-5.0.1_3-x86_64.exe
-  sha256: d535c248147bc209567dc41d613d1747f2e5784a632c49d918097b2133c9a670
+- location: http://downloads.kicad-pcb.org/windows/stable/kicad-5.0.2_1-i686.exe
+  sha256: fab44234d6fa91b43c460e2ede5e9cf292c11f0f3a0618f429452155678ff337
+- location: http://downloads.kicad-pcb.org/windows/stable/kicad-5.0.2_1-x86_64.exe
+  sha256: 3931c930aa25a09d13e18742733c7b4874c814f5d811c010b056c5c3b9352c80
   architecture: x64
