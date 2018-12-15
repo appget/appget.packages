@@ -1,6 +1,6 @@
 id: shadow
 name: Shadow
-version: 0.8.98
+version: 0.8.101
 home: https://shadow.tech/
 installMethod: NSIS
 installers:
