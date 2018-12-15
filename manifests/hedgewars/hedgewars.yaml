@@ -5,4 +5,4 @@ home: https://www.hedgewars.org/
 installMethod: NSIS
 installers:
 - location: https://www.hedgewars.org/download/releases/Hedgewars-0.9.25.exe
-  sha256: a890519836e3edc737e2de4bc8f060ac1f811c9d040a634b6b2c0d3e069c96df
+  sha256: 54e77aaec1efdf8fd5b728c630913c8cdaa106b39b606304bcae49c869878956
