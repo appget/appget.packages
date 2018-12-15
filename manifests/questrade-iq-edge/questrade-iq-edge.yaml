@@ -1,6 +1,6 @@
 id: questrade-iq-edge
 name: Questrade IQ Edge
-version: 5.8.0.160
+version: 5.8.1.161
 home: https://www.questrade.com/
 installMethod: Inno
 installers:
