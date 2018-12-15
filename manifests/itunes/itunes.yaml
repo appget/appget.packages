@@ -1,11 +1,11 @@
 id: itunes
 name: iTunes
-version: 12.9.0.167
+version: 12.9.2.6
 home: https://www.apple.com/itunes/
 installMethod: Custom
 installers:
-- location: https://secure-appldnld.apple.com/itunes12/041-02279-20180912-24D8EE3A-AC7A-11E8-BE19-C36F1B1141A5/iTunesSetup.exe
-  sha256: 8da31513d276ab82f3f9fdfeb28ce2ed127a648be02ae7aeef7470044766f480
-- location: https://secure-appldnld.apple.com/itunes12/041-02280-20180912-24D8CF68-AC7A-11E8-8B51-C26F1B1141A5/iTunes64Setup.exe
-  sha256: e366b102f8b57958cd14457dbf3762322da6d86a044fc8e6d2a66e6d605347be
+- location: https://secure-appldnld.apple.com/itunes12/041-17809-20181205-8DD4F85C-F720-11E8-B49B-E121828CC72D/iTunesSetup.exe
+  sha256: 5769fc903338a1ad76607714f50503b171a6758e3ca8f0cd94b2505776142493
+- location: https://secure-appldnld.apple.com/itunes12/041-17808-20181205-8DD4E9E8-F720-11E8-BB37-E021828CC72D/iTunes64Setup.exe
+  sha256: 87ee89d60c27fa2d1206bca0c48fb6d839302224f3d01cd66c1e6eb6115c5513
   architecture: x64
