@@ -1,7 +1,7 @@
 id: auryo
 name: Auryo
 version: 2.3.0.329
-home: http://auryo.com/
+home: https://auryo.com/
 repo: https://github.com/Superjo149/auryo/
 license: GNU General Public License v3.0
 installMethod: NSIS
