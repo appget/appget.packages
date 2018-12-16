@@ -7,8 +7,8 @@ license: MIT License
 installMethod: NSIS
 installers:
 - location: https://github.com/JannisX11/blockbench/releases/download/v2.2.2/Blockbench_2.2.2.exe
-  sha256: f34d2cf1f6f4fb030a5d0cfeb089581fab55bd89bc70fa1c86610178d04ae950
+  sha256: f63af72d70894d5a18b187288a4029169c3bce832647c2c25befba7ba3a4005b
   minWindowsVersion: 6.1
 - location: https://github.com/JannisX11/blockbench/releases/download/v2.2.2/Blockbench_32bit_2.2.2.exe
-  sha256: 5640aea5825e682ca688fc798060d2588dd0ebf3ee1c220847fac737339b836a
+  sha256: 35fd8e9cb8091ac453f79c9f7c3824cd8607672e4e08921739ee4e8dfa914b4c
   minWindowsVersion: 6.1
