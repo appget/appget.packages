@@ -1,0 +1,11 @@
+id: ultramon
+name: UltraMon
+version: 3.4.1
+home: https://www.realtimesoft.com/ultramon/
+installMethod: MSI
+installers:
+- location: https://www.realtimesoft.com/files/UltraMon_3.4.1_en_x32.msi
+  sha256: a5ffb1632626008bdff8e5c8d6cd94677878272257dcc22d33980c982cc8863f
+- location: https://www.realtimesoft.com/files/UltraMon_3.4.1_en_x64.msi
+  sha256: c950c739883802137b650c4be9eda050affa9bdd08f6d138a0d58b698d105a17
+  architecture: x64
