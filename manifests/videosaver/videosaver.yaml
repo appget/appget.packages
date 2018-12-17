@@ -1,0 +1,8 @@
+id: videosaver
+name: VideoSaver
+version: 3.2.0
+home: https://www.realtimesoft.com/videosaver/
+installMethod: MSI
+installers:
+- location: https://www.realtimesoft.com/files/VideoSaver_3.2.0_en_x32.msi
+  sha256: 5e83a584db04ca142e5f1d7d8d59d6f70c7cdad8b6b9b1b6d27b48c41091036b
