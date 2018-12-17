@@ -1,0 +1,7 @@
+id: overdrive
+name: OverDrive
+version: 3.6.0
+home: https://app.overdrive.com/
+installMethod: MSI
+installers:
+- location: https://app.overdrive.com/downloads/ODMediaConsoleSetup.msi
