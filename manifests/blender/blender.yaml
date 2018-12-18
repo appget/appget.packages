@@ -4,8 +4,8 @@ version: 2.79.2
 home: https://www.blender.org/
 installMethod: MSI
 installers:
-- location: https://download.blender.org/release/Blender2.79/blender-2.79b-windows32.msi
+- location: https://ftp.nluug.nl/pub/graphics/blender/release/Blender2.79/blender-2.79b-windows32.msi
   sha256: 6cb5a972f9d122eb3ffec34a5916ddb3a527e6a6278c4983f96dfcfbbd02b1b5
-- location: https://download.blender.org/release/Blender2.79/blender-2.79b-windows64.msi
+- location: https://ftp.halifax.rwth-aachen.de/blender/release/Blender2.79/blender-2.79b-windows64.msi
   sha256: d574878f03ea6a25a7bfebed631a2a12a4ce01b22b12a2bfc8c255b46d3901ae
   architecture: x64
