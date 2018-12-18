@@ -1,8 +1,8 @@
 id: intellij-ultimate
 name: IntelliJ IDEA Ultimate
-version: 183.4588.61
+version: 183.4886.37
 home: https://www.jetbrains.com/idea/
 installMethod: NSIS
 installers:
-- location: https://download.jetbrains.com/idea/ideaIU-2018.3.1.exe
-  sha256: 850321b574462f1f7718f58e24e5d9b9656fe19935279662260d19fe1b26a141
+- location: https://download.jetbrains.com/idea/ideaIU-2018.3.2.exe
+  sha256: 983c072797b4be23b0e9ae43e74ef232e7b7747d145ac2b51c853dce6e50c93b
