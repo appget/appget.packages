@@ -4,8 +4,8 @@ version: 18.4.0
 home: https://www.emeditor.com/
 installMethod: MSI
 installers:
-- location: http://files.emeditor.com/emed32_18.4.0.msi
-  sha256: 8da7e792fc16d13d26388b36c92b780ffe3f5dfb391d4906f0f4b6dca43097fc
-- location: http://files.emeditor.com/emed64_18.4.0.msi
-  sha256: 9d9f46a4271da0902a87b2673a79565f348de9e988cddcfe0b16df0d0248f673
+- location: http://files.emeditor.com/emed32_18.4.0a.msi
+  sha256: 0df119d0ff03eeedb2456a34c4b4decf9e884988ee5bc4ac42387d9f4fb18a2e
+- location: http://files.emeditor.com/emed64_18.4.0a.msi
+  sha256: 57430cec371e2f63eb804ef051e4e323b037fad551bf0c3b15939b71495b891b
   architecture: x64
