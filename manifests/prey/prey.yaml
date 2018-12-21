@@ -7,7 +7,7 @@ license: GNU General Public License v3.0
 installMethod: MSI
 installers:
 - location: https://github.com/prey/prey-node-client/releases/download/v1.8.2/prey-windows-1.8.2-x86.msi
-  sha256: bd70cb2fbbbe95ee79979539c75f34bfc9f7c6a7c305106262c4d873b748c294
+  sha256: 3a58d1acd8fb6d57912d81681cb375a1f1317afd8b4681c41b1e10ccc4051a0a
 - location: https://github.com/prey/prey-node-client/releases/download/v1.8.2/prey-windows-1.8.2-x64.msi
-  sha256: d06e7a3e9568bac452a0f3478a1f6b15e9c3d0551ff1eafb67688ccab67cb5ad
+  sha256: 0272caff8e6ff5825f2bd9616df72a516fd1b4900c492e50a22c6aeed87b3006
   architecture: x64
