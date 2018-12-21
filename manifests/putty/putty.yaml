@@ -1,12 +1,9 @@
 id: putty
 name: PuTTY
-version: 0.70.0
+version: 8.22.0
 home: https://www.putty.org/
 license: MIT
-installMethod: MSI
+installMethod: Custom
 installers:
-- location: https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.70-installer.msi
-  sha256: 822da752a69f399377614561125f51a9220a7aa0f4e8afcf1b0e5cd341c0b676
-- location: https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.70-installer.msi
-  sha256: 0a92f2312a95f807fd192c9c25cb6ae502b564c9a8ae013ff83824334fe70d04
-  architecture: x64
+- location: https://dl.bitvise.com/BvSshClient-Inst.exe
+- location: https://s3.amazonaws.com/dl.bitvise.com/BvSshClient-Inst.exe
