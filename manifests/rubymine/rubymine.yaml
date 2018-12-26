@@ -1,8 +1,8 @@
 id: rubymine
 name: RubyMine
-version: 183.4588.71
+version: 183.4886.48
 home: https://www.jetbrains.com/ruby/
 installMethod: NSIS
 installers:
-- location: https://download.jetbrains.com/ruby/RubyMine-2018.3.1.exe
-  sha256: 697c89a0bd051e1e4031d35d145183f77bd4da53bc4f7d53710e2d2abea743d5
+- location: https://download.jetbrains.com/ruby/RubyMine-2018.3.2.exe
+  sha256: 0d8bb7eca93a9813351e2c6bc4725ee38e675b6ece875b510ab101acc1d861cd
