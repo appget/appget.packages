@@ -1,6 +1,6 @@
 id: link-shell-extension
 name: Link Shell Extension
-version: 3.8.7.2
+version: 3.9.0
 home: http://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html
 installMethod: NSIS
 installers:
