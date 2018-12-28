@@ -1,0 +1,10 @@
+id: wickrme
+name: WickrMe
+version: 4.68.12
+home: https://wickr.com/
+installMethod: MSI
+installers:
+- location: https://s3.amazonaws.com/static.wickr.com/downloads/win/me/WickrMe-4.68.12.msi
+  sha256: 4031d30286fe587a99389385a0e672a1b7570222305731997f5c8b5320f9dcb8
+  architecture: x64
+  minWindowsVersion: 10.0
