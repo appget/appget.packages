@@ -1,8 +1,8 @@
 id: enpass
 name: Enpass
-version: 5.6.10
-home: https://www.sinew.io/
-installMethod: NSIS
+version: 6.0.0.230
+home: https://www.enpass.io/
+installMethod: Wix
 installers:
-- location: https://dl.sinew.in/windows/setup/5-6-10/Enpass_5.6.10_Setup.exe
-  sha256: a8e32cf75b7af3f6a4c987f26d7bba9d1db23eac6f274b54e9efeff5ba82ea49
+- location: https://dl.enpass.io/stable/windows/setup/6.0.0.230/Enpass-setup.exe
+  sha256: 43d06787fe3a3a66a26c8b5b119b826b2cc903b38cb335b8867862ce84eed09a
