@@ -1,7 +1,7 @@
 id: enpass
 name: Enpass
 version: 6.0.0.230
-home: https://www.sinew.io/
+home: https://www.enpass.io/
 installMethod: Wix
 installers:
 - location: https://dl.enpass.io/stable/windows/setup/6.0.0.230/Enpass-setup.exe
