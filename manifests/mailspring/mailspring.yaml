@@ -1,10 +1,10 @@
 id: mailspring
 name: Mailspring
-version: 1.5.3
+version: 1.5.4
 home: https://getmailspring.com/
 repo: https://github.com/Foundry376/Mailspring/
 installMethod: Squirrel
 installers:
-- location: https://github.com/Foundry376/Mailspring/releases/download/1.5.3/MailspringSetup.exe
-  sha256: eb5c464e57be8b80d728dbe80f4d4e33fb347787609cda80b0bb560a02a00180
+- location: https://github.com/Foundry376/Mailspring/releases/download/1.5.4/MailspringSetup.exe
+  sha256: 8c78d12b15a35ba412e01a8ed251a3aa2a4f193a7790ad0f7d286a83aeeb4dfe
   minWindowsVersion: 6.1
