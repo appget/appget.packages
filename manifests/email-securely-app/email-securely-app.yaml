@@ -1,10 +1,10 @@
 id: email-securely-app
 name: email-securely-app
-version: 2.0.0.321
+version: 2.1.0.330
 repo: https://github.com/vladimiry/email-securely-app/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/vladimiry/email-securely-app/releases/download/v2.0.0/email-securely-app-2.0.0-windows-nsis-installer.exe
-  sha256: b80b378c4664638db45b79a63c888b33f255e20db72e0e11450d4c2b9cd6a6fb
+- location: https://github.com/vladimiry/email-securely-app/releases/download/v2.1.0/email-securely-app-2.1.0-windows-nsis-installer.exe
+  sha256: 922309c5147641991d5a9c9dc1969ece5bba775d132526510f75d0d85f47b980
   minWindowsVersion: 6.1
