@@ -1,8 +1,8 @@
 id: xmedia-recode
 name: XMedia Recode
-version: 3.4.4.9
+version: 3.4.5.0
 home: https://www.xmedia-recode.de/
 installMethod: Inno
 installers:
-- location: https://www.xmedia-recode.de/download/XMediaRecode3449_setup.exe
-  sha256: c2e8183da9d84f382f210a7560b0fd730dcb78948f8aa3b4fbd750db79a4dd48
+- location: https://www.xmedia-recode.de/download/XMediaRecode3450_setup.exe
+  sha256: e59fe995a1588c4b61e3bc8b87fb0ec5136b7f788f23533722f55b2e5d6fd1f7
