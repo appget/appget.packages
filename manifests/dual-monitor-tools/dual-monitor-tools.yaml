@@ -1,7 +1,7 @@
 id: dual-monitor-tools
 name: Dual Monitor Tools
 version: 2.7.0
-home: http://dualmonitortool.sourceforge.net/
+home: http://dualmonitortool.sourceforge.net
 installMethod: MSI
 installers:
 - location: https://downloads.sourceforge.net/project/dualmonitortool/dualmonitortool/2.7/DualMonitorTools-2.7.msi
