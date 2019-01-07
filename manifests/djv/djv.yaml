@@ -1,7 +1,7 @@
 id: djv
 name: DJV Imaging
 version: 1.2.4
-home: http://djv.sourceforge.net/
+home: http://djv.sourceforge.net
 repo: https://sourceforge.net/projects/djv/
 installMethod: NSIS
 installers:
