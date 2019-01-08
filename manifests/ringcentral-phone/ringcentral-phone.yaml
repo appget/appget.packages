@@ -1,0 +1,10 @@
+id: ringcentral-phone
+name: RingCentral Phone
+version: 10.2.1.31914
+home: https://ringcentral.com/
+installMethod: MSI
+installers:
+- location: https://downloads.ringcentral.com/sp/RingCentralPhone-10.2.1.msi
+  sha256: cef591611b491a558a1c156b045c72511fcf6f009ffaa8137d634178e712482b
+  architecture: x64
+  minWindowsVersion: 10.0
