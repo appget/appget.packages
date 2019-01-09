@@ -1,6 +1,6 @@
 id: origin
 name: Origin
-version: 10.5.32
+version: 10.5.33
 home: https://www.origin.com/
 installMethod: Custom
 installers:
