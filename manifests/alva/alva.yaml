@@ -1,11 +1,11 @@
 id: alva
 name: Alva
-version: 0.8.0
+version: 0.9.0.1697
 home: https://meetalva.io/
 repo: https://github.com/meetalva/alva/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/meetalva/alva/releases/download/v0.8.0/Alva-0.8.0.exe
-  sha256: 3ff3f4e8191188ba91dbfcb9f5854b2941ea78f872359c270e80eda6a6876304
+- location: https://github.com/meetalva/alva/releases/download/v0.9.0/Alva-0.9.0.exe
+  sha256: 4b774fd7a1aca8a7418c8c5e8068a843fab374ab2655a0cb7ae4b17b46522d65
   minWindowsVersion: 6.1
