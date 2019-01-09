@@ -1,12 +1,12 @@
 id: sourcetree-enterprise
 name: Sourcetree Enterprise
-version: 3.0.8.2279
+version: 3.0.15.2611
 home: https://www.sourcetreeapp.com/enterprise/
 installMethod: MSI
 args:
   passive: ACCEPTEULA=1
   silent: ACCEPTEULA=1
 installers:
-- location: https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_3.0.8.msi
-  sha256: 270839714ed9c112c32e8d0439f1286595cdf6ed6d1d80d3c6810da62bb937b1
+- location: https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourcetreeEnterpriseSetup_3.0.15.msi
+  sha256: 26d85ec3692b523e0b8e52f58cfefbfb359818e273417ae977547753111f1b16
   architecture: x64
