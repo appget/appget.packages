@@ -6,4 +6,3 @@ installMethod: NSIS
 installers:
 - location: https://download.jetbrains.com/idea/ideaIC-2018.3.3.exe
   sha256: 1cec3eaf4813e76cf390f27d9139b5e9a81ccc4b38d67ea256002bfa8d72957d
-isLatest: true

@@ -7,4 +7,3 @@ installMethod: MSI
 installers:
 - location: https://downloads.sourceforge.net/project/keepass/KeePass 2.x/2.41/KeePass-2.41.msi
   sha256: 4030ffd9a44895505ad9e3f422779acf89e11f5d125cb59b66befb293571f3e0
-isLatest: true

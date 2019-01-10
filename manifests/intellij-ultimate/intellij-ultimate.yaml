@@ -6,4 +6,3 @@ installMethod: NSIS
 installers:
 - location: https://download.jetbrains.com/idea/ideaIU-2018.3.3.exe
   sha256: 3651612e517b76671237f39694eeb14f24b0313108fe8b292dbdd5dd46264b47
-isLatest: true

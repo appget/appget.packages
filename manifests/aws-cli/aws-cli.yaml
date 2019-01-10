@@ -7,4 +7,3 @@ installers:
 - location: https://s3.amazonaws.com/aws-cli/AWSCLI32.msi
 - location: https://s3.amazonaws.com/aws-cli/AWSCLI64.msi
   architecture: x64
-isLatest: true

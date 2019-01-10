@@ -7,4 +7,3 @@ installers:
 - location: https://dl.pstmn.io/download/latest/win32
 - location: https://dl.pstmn.io/download/latest/win64
   architecture: x64
-isLatest: true

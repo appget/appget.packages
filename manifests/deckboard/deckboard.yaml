@@ -8,4 +8,3 @@ installers:
 - location: https://github.com/rivafarabi/deckboard/releases/download/v1.2.643/Deckboard-Setup-1.2.643.exe
   sha256: 7a86ca81b531c2b461cf3616e13ab40e9d3dad2847f07e9a45ad8193814b8930
   minWindowsVersion: 6.1
-isLatest: true

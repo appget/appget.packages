@@ -6,4 +6,3 @@ installMethod: NSIS
 installers:
 - location: https://download.jetbrains.com/cpp/CLion-2018.3.3.exe
   sha256: 985004fb93e269531cbbb35835a6bb0a1245152bddf5d280987b201876ef35d9
-isLatest: true

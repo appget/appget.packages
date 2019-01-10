@@ -9,4 +9,3 @@ installers:
 - location: https://github.com/sindresorhus/caprine/releases/download/v2.25.1/caprine-setup-2.25.1.exe
   sha256: 9899546f612833416f154f12f1b2506a8fc9adf8be83687f10e4a4673956d733
   minWindowsVersion: 6.1
-isLatest: true

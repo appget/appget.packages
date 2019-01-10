@@ -11,4 +11,3 @@ installers:
 - location: https://releases.hashicorp.com/vagrant/2.2.3/vagrant_2.2.3_x86_64.msi
   sha256: 4ac00cd17e9de3294e3d9bbec68404b9bd09c20b91f78cbb73745f0b8f01b793
   architecture: x64
-isLatest: true

@@ -6,4 +6,3 @@ installMethod: Squirrel
 installers:
 - location: https://software.goinfront.com/Terminal/Releases/Latest/SetupInfront.exe
   minWindowsVersion: 6.1
-isLatest: true

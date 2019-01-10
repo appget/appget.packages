@@ -7,4 +7,3 @@ installers:
 - location: https://typora.io/windows/typora-setup-ia32.exe
 - location: https://typora.io/windows/typora-setup-x64.exe
   architecture: x64
-isLatest: true

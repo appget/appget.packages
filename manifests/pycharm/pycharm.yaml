@@ -6,4 +6,3 @@ installMethod: NSIS
 installers:
 - location: https://download.jetbrains.com/python/pycharm-professional-2018.3.3.exe
   sha256: 38f5c8916fc401573cbd83e7cae2e77d9dc7eb2c18e5b7daafd81cd5fad00567
-isLatest: true

@@ -6,4 +6,3 @@ repo: https://github.com/aws/aws-sdk-net/
 installMethod: MSI
 installers:
 - location: https://sdk-for-net.amazonwebservices.com/latest/AWSToolsAndSDKForNet.msi
-isLatest: true
