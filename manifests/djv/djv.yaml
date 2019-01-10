@@ -1,10 +1,11 @@
 id: djv
 name: DJV Imaging
 version: 1.2.4
-home: http://djv.sourceforge.net
+home: http://djv.sourceforge.net/
 repo: https://sourceforge.net/projects/djv/
 installMethod: NSIS
 installers:
 - location: https://downloads.sourceforge.net/project/djv/djv-stable/1.2.4/DJV-1.2.4-win64.exe
   sha256: a2f37a2cf3bae3fb55d00f0c4ef7d3b1e37560cd8a2d9184c7c6430c1b914d83
   architecture: x64
+isLatest: true
