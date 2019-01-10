@@ -1,9 +1,10 @@
 id: sed
 name: sed
 version: 4.2.1
-home: http://gnuwin32.sourceforge.net
+home: http://gnuwin32.sourceforge.net/
 repo: https://sourceforge.net/projects/gnuwin32/
 installMethod: Inno
 installers:
 - location: https://downloads.sourceforge.net/project/gnuwin32/sed/4.2.1/sed-4.2.1-setup.exe
   sha256: dadd71a1d65b79f7703cbca96e680fd96fdcf06fb5c365bae771395dfd846453
+isLatest: true
