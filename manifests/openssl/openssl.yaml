@@ -1,9 +1,10 @@
 id: openssl
 name: OpenSSL
 version: 0.9.8.8
-home: http://gnuwin32.sourceforge.net/packages/openssl.htm
+home: http://gnuwin32.sourceforge.net/
 repo: https://sourceforge.net/projects/gnuwin32/
 installMethod: Inno
 installers:
 - location: https://downloads.sourceforge.net/gnuwin32/openssl-0.9.8h-1-setup.exe
   sha256: c33db89b6f3beba609ad3d51f42eeba76d90c5cbb07170ab4943ea3726a8794b
+isLatest: true
