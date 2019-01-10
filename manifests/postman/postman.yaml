@@ -1,9 +1,10 @@
 id: postman
 name: Postman
-version: 6.6.1
+version: 6.7.1
 home: https://www.getpostman.com/
 installMethod: Squirrel
 installers:
 - location: https://dl.pstmn.io/download/latest/win32
 - location: https://dl.pstmn.io/download/latest/win64
   architecture: x64
+isLatest: true
