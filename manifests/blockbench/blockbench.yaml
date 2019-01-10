@@ -1,7 +1,7 @@
 id: blockbench
 name: Blockbench
 version: 2.3.2
-home: https://blockbench.net/
+home: https://www.blockbench.net/
 repo: https://github.com/JannisX11/blockbench/
 license: MIT License
 installMethod: NSIS
@@ -12,3 +12,4 @@ installers:
 - location: https://github.com/JannisX11/blockbench/releases/download/v2.3.2/Blockbench_32bit_2.3.2.exe
   sha256: bfd11bf7f55139ed97cc308eaaa543c50da34cb8a9e684e191694898b150f03c
   minWindowsVersion: 6.1
+isLatest: true
