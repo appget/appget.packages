@@ -1,8 +1,9 @@
 id: infront-terminal
 name: Infront
-version: 8.5.3
+version: 8.5.5
 home: https://www.infrontfinance.com/
 installMethod: Squirrel
 installers:
 - location: https://software.goinfront.com/Terminal/Releases/Latest/SetupInfront.exe
   minWindowsVersion: 6.1
+isLatest: true
