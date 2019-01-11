@@ -1,6 +1,6 @@
 id: typora
 name: Typora
-version: 0.9.61
+version: 0.9.62
 home: https://typora.io/
 installMethod: Inno
 installers:
