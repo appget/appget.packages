@@ -1,6 +1,6 @@
 id: megasync
 name: MEGAsync
-version: 3.7.1
+version: 4.0
 home: https://mega.nz/
 installMethod: NSIS
 installers:
