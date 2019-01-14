@@ -1,0 +1,8 @@
+id: notion
+name: Notion
+version: 0.3.0
+home: https://www.notion.so/
+installMethod: NSIS
+installers:
+- location: https://desktop-release.notion-static.com/Notion Setup 0.3.0.exe
+  sha256: 6210bb8e2cda317550abcde3e75477de27e94c808ccce0e646d0690e3254fd86
