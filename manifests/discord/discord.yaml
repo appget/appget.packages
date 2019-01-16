@@ -1,6 +1,6 @@
 id: discord
 name: Discord
-version: 0.0.301
+version: 0.0.304
 home: https://discordapp.com/
 installMethod: Squirrel
 installers:
