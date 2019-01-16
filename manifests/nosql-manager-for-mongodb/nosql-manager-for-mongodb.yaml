@@ -1,6 +1,6 @@
 id: nosql-manager-for-mongodb
 name: NoSQL Manager for MongoDB Freeware
-version: 4.10.0.4
+version: 4.10.1.6
 home: https://www.mongodbmanager.com/
 installMethod: Inno
 installers:
