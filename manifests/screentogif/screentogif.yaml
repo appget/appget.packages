@@ -1,10 +1,10 @@
 id: screentogif
 name: ScreenToGif
-version: 2.15.2
+version: 2.16.0
 home: https://www.screentogif.com/
 repo: https://github.com/NickeManarin/ScreenToGif/
 license: Microsoft Public License
 installMethod: MSI
 installers:
-- location: https://github.com/NickeManarin/ScreenToGif/releases/download/2.15.2/ScreenToGif.2.15.2.Setup.msi
-  sha256: 5be362034832d6d87b5fc9156700d7c706d78fff3893fc0901ff9edf4546c798
+- location: https://github.com/NickeManarin/ScreenToGif/releases/download/2.16/ScreenToGif.2.16.Setup.msi
+  sha256: e24048214caf671e55cd2f4e42c26b4cc51006f5938bf6bed355c0a761ff969a
