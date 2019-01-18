@@ -1,0 +1,13 @@
+id: node
+name: Node.js
+version: 11.7.0.0
+home: https://nodejs.org/
+repo: https://github.com/nodejs/node/
+license: MIT
+installMethod: MSI
+installers:
+- location: https://nodejs.org/download/release/v11.7.0/node-v11.7.0-x86.msi
+  sha256: 901cf55bfecdd5048c3184c45087bbefc136be11a5cb224b280d65c95c0ccdbf
+- location: https://nodejs.org/download/release/v11.7.0/node-v11.7.0-x64.msi
+  sha256: 56644938be5d053123a4766755b7b06b5428117133b9e57bd945c6053b9c58f6
+  architecture: x64
