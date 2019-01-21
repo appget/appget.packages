@@ -5,5 +5,5 @@ home: https://encfs.win/
 repo: https://github.com/jetwhiz/encfs4win/
 installMethod: NSIS
 installers:
-- location: https://github.com/jetwhiz/encfs4win/releases/download/v1.10.1-RC13/encfs-installer.exe
-  sha256: 40919d186017e6c522e192365e3572e6b7f4509f203cfc64efeb7696cb459403
+- location: https://github.com/jetwhiz/encfs4win/releases/download/v1.10.1-RC14/encfs-installer.exe
+  sha256: 2179908672d584163186f4bcf0198505d8bb35918c2c3ed9459072a2ec052e21
