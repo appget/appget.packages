@@ -1,11 +1,11 @@
 id: lisk-hub
 name: Lisk Hub
-version: 1.8.0
+version: 1.9.0
 home: https://lisk.io/hub
 repo: https://github.com/LiskHQ/lisk-hub/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/LiskHQ/lisk-hub/releases/download/v1.8.0/lisk-hub-win-1.8.0.exe
-  sha256: f370fc8f4732670c112ee6a8f3a391da7b85d506e6e3b9c9c8fe2a9d5a94928e
+- location: https://github.com/LiskHQ/lisk-hub/releases/download/v1.9.0/lisk-hub-win-1.9.0.exe
+  sha256: d630fd25cd58ab2f79ecc0cb4d1a94cf3e5f71aa346ae8906eeea00cb1dadaa1
   minWindowsVersion: 6.1
