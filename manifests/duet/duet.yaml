@@ -1,6 +1,6 @@
 id: duet
 name: Duet Display
-version: 1.5.5
+version: 1.5.5.2
 home: https://www.duetdisplay.com/
 installMethod: AdvancedInstaller
 installers:
