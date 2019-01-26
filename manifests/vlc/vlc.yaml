@@ -1,13 +1,13 @@
 id: vlc
 name: VLC media player
-version: 3.0.5
+version: 3.0.6
 home: https://www.videolan.org/vlc
 repo: https://github.com/videolan/vlc/
 license: GNU Lesser General Public License v2.1+
 installMethod: NSIS
 installers:
-- location: https://get.videolan.org/vlc/3.0.5/win32/vlc-3.0.5-win32.exe
-  sha256: 71b11a14e48e6a1a3263d131d92a888f8e10e8970702866339eb02ed5adf850c
-- location: https://get.videolan.org/vlc/3.0.5/win64/vlc-3.0.5-win64.exe
-  sha256: 8cb9651c43b4a46430505fb722de46b2dc33863a0829af4a64a431f5a51db8f3
+- location: https://get.videolan.org/vlc/3.0.6/win32/vlc-3.0.6-win32.exe
+  sha256: e75697cae485a9206a416aaa3b3eb18c9010056d1fcb53e3658be086c7080724
+- location: https://get.videolan.org/vlc/3.0.6/win64/vlc-3.0.6-win64.exe
+  sha256: a16cf11836f258a564a30670bcc7f1315a1860367a3fff43825e1806d23af332
   architecture: x64
