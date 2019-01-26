@@ -1,8 +1,8 @@
 id: wps-office
 name: WPS Office
-version: 10.2.0.7587
+version: 10.2.0.7635
 home: https://www.wps.com/office-free
 installMethod: NSIS
 installers:
-- location: http://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/10.2.0.7587/WPSOffice_10.2.0.7587_Free.exe
-  sha256: 34521cd6605b5464901f4b88e90a168ded588e93a75687e4c8c1682561a912d9
+- location: http://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/10.2.0.7635/WPSOffice_10.2.0.7635_Free.exe
+  sha256: 73be4463c8325f88ce7cce50eab15c11402aec7edcf1970be76e8b325bec0a77
