@@ -1,10 +1,10 @@
 id: electorrent
 name: Electorrent
-version: 2.5.2
+version: 2.6.0
 repo: https://github.com/tympanix/Electorrent/
 license: GNU General Public License v3.0
 installMethod: Squirrel
 installers:
-- location: https://github.com/tympanix/Electorrent/releases/download/v2.5.2/electorrent-Setup-2.5.2.exe
-  sha256: 9b8e6214c1bf157788b9d4ecb99c24762c17c22e29bb76825ed1dc4b898992bd
+- location: https://github.com/tympanix/Electorrent/releases/download/v2.6.0/electorrent-Setup-2.6.0.exe
+  sha256: 67fc5f37e27efe13dbf6ad1cd9b133281c5bdd142307dec2ef3c394f6bd05fd6
   minWindowsVersion: 6.1
