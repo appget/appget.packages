@@ -6,5 +6,5 @@ repo: https://github.com/esteemapp/esteem-surfer/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/esteemapp/esteem-surfer/releases/download/2.0.5/esteem-surfer-setup-2.0.5.exe
-  sha256: 4dc56bd478823c1db2566c2f4d9ffb4e6a58c43840cb8d82c3515ff13401bb8f
+- location: https://github.com/esteemapp/esteem-surfer/releases/download/2.0.5/eSteem.Surfer.Setup.2.0.5.exe
+  sha256: 8419982a6af56f39de12ab1916db5eeace197b49b2694080990893ea338839c0
