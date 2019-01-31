@@ -1,6 +1,6 @@
 id: gravit-designer
 name: Gravit Designer
-version: 3.5.7.3026
+version: 3.5.8.3028
 home: https://gravit.io/
 installMethod: NSIS
 installers:
