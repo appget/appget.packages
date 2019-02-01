@@ -1,10 +1,10 @@
 id: thomas
 name: Thomas
-version: 0.5.1.96
+version: 0.6.0.103
 repo: https://github.com/andrepolischuk/thomas/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/andrepolischuk/thomas/releases/download/v0.5.1/thomas-setup-0.5.1.exe
-  sha256: 108ac0207da441f7f96d1dffad4d64314117549f5ad7a6511a08f10e2c77ebdd
+- location: https://github.com/andrepolischuk/thomas/releases/download/v0.6.0/thomas-setup-0.6.0.exe
+  sha256: dae4cb7dce03edc0277ad7fad979e77291bee3ed24f2ee9faa2a2ba5e2213d0d
   minWindowsVersion: 6.1
