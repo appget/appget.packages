@@ -1,12 +1,12 @@
 id: calibre
 name: Calibre
-version: 3.38.1
+version: 3.39.0
 home: https://calibre-ebook.com/
 repo: https://github.com/kovidgoyal/calibre/
 installMethod: MSI
 installers:
-- location: https://github.com/kovidgoyal/calibre/releases/download/v3.38.1/calibre-3.38.1.msi
-  sha256: ceb6c13e5b25f248fe61a0bb1110055188fb23c804407a8693a00f9de2ef5b5d
-- location: https://github.com/kovidgoyal/calibre/releases/download/v3.38.1/calibre-64bit-3.38.1.msi
-  sha256: e1dabbe5163d7b81fa73d5cfaa569e83f692ba94a2f595cd58347d1e24580582
+- location: https://github.com/kovidgoyal/calibre/releases/download/v3.39.0/calibre-3.39.0.msi
+  sha256: b94e627f6cc55dd8d275071563e4ccf74edd353ee3037101969e6b61859805e5
+- location: https://github.com/kovidgoyal/calibre/releases/download/v3.39.0/calibre-64bit-3.39.0.msi
+  sha256: 2216e0b3a8630f56e75fb2151a92b23435fa36bc078abc64ab68edea11482366
   architecture: x64
