@@ -1,9 +1,9 @@
 id: musescore
 name: MuseScore
-version: 3.0.0.4785
+version: 3.0.2.5315
 home: https://musescore.org/
 installMethod: MSI
 installers:
-- location: https://download.musescore.com/releases/MuseScore-3.0.0/MuseScore-3.0.0.msi
-  sha256: 53c1bc584035978515f83eca371105a22e98251c0e7023875e32f567f8b40cc4
+- location: https://download.musescore.com/releases/MuseScore-3.0.2/MuseScore-3.0.2.msi
+  sha256: 01597993e805b3ff4a141ca7b967ff24246ae00c584a9d6da69f34997ebb64c1
   architecture: x64
