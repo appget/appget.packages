@@ -1,0 +1,7 @@
+id: fraps
+name: FRAPS
+version: 3.5.99.15627
+home: http://www.fraps.com/
+installMethod: NSIS
+installers:
+- location: http://www.fraps.com/free/setup.exe
