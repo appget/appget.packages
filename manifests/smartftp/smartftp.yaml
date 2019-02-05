@@ -1,6 +1,6 @@
 id: smartftp
 name: SmartFTP Client
-version: 9.0.2630
+version: 9.0.2632
 home: https://www.smartftp.com/
 installMethod: MSI
 installers:
