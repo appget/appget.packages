@@ -5,6 +5,9 @@ home: https://dbeaver.io/
 repo: https://github.com/dbeaver/dbeaver/
 license: Apache License 2.0
 installMethod: NSIS
+args:
+  passive: /allusers
+  silent: /allusers
 installers:
 - location: https://github.com/dbeaver/dbeaver/releases/download/5.3.4/dbeaver-ce-5.3.4-x86-setup.exe
   sha256: 141b9f093d669161078062dc26a73a4d5240bf2ac6e2b5b24d9d17a2144b1976
