@@ -1,11 +1,12 @@
 id: libreoffice
 name: LibreOffice
-version: 6.1.5.2
+version: 6.2.0.3
 home: https://www.libreoffice.org/
 installMethod: MSI
 installers:
-- location: https://download.documentfoundation.org/libreoffice/stable/6.1.5/win/x86/LibreOffice_6.1.5_Win_x86.msi
-  sha256: bfac8629d6db9e921010330e926bde080fb1f5fbb285fca684ea15b182950b66
-- location: https://download.documentfoundation.org/libreoffice/stable/6.1.5/win/x86_64/LibreOffice_6.1.5_Win_x64.msi
-  sha256: 812e01eaa790c8fa66c91254e9255ec494f22a92e8d18bfbe50486c842884289
+- location: https://download.documentfoundation.org/libreoffice/stable/6.2.0/win/x86_64/LibreOffice_6.2.0_Win_x64.msi
+  sha256: 83028ca0db1a87abb304d77524b51d42be734e0e74f22012bdb7f750d8328996
+  architecture: x64
+- location: https://download.documentfoundation.org/libreoffice/stable/6.2.0/win/x86_64/LibreOffice_6.2.0_Win_x64_sdk.msi
+  sha256: 06a6acea4fee6df99637298b5b39efa13986b0958fed646abb90b808e3ce242b
   architecture: x64
