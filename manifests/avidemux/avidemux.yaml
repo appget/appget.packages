@@ -1,7 +1,7 @@
 id: avidemux
 name: Avidemux
 version: 2.7.1
-home: http://avidemux.sourceforge.net/
+home: http://avidemux.sourceforge.net
 repo: https://sourceforge.net/projects/avidemux/
 installMethod: NSIS
 installers:
