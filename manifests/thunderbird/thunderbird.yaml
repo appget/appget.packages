@@ -1,0 +1,9 @@
+id: thunderbird
+name: Thunderbird
+version: 60.5.0
+home: https://www.thunderbird.net/
+installMethod: Custom
+installers:
+- location: https://download.mozilla.org/?product=thunderbird-60.5.0-SSL&os=win&lang=es-ES
+  sha256: f18e588468ac6cbe10290d96bedf3d647769a450371d54d3aafecec7b344f2f1
+  architecture: x64
