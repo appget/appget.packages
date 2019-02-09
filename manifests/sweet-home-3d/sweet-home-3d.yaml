@@ -1,9 +1,9 @@
 id: sweet-home-3d
 name: Sweet Home 3D
-version: 6.1
+version: 6.1.2
 home: http://www.sweethome3d.com/
 repo: https://sourceforge.net/projects/sweethome3d/
 installMethod: Inno
 installers:
-- location: https://downloads.sourceforge.net/project/sweethome3d/SweetHome3D/SweetHome3D-6.1/SweetHome3D-6.1-windows.exe
-  sha256: 20b9866a9e308fbd853a518593227d459834fb8869247ea94e6a5833f992e275
+- location: https://downloads.sourceforge.net/project/sweethome3d/SweetHome3D/SweetHome3D-6.1.2/SweetHome3D-6.1.2-windows.exe
+  sha256: 892894a733243e38804f8800068e3aba786c4aab7e5dd7860153ceaf6150c95b
