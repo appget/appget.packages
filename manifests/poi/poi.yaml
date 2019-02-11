@@ -1,11 +1,11 @@
 id: poi
 name: poi
-version: 10.2.2.20190210.5
+version: 10.2.3.20190211.2
 home: https://poi.io/
 repo: https://github.com/poooi/poi/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/poooi/poi/releases/download/v10.2.2/poi-setup-10.2.2.exe
-  sha256: bb52aabc6581ed4d026839a36c55e7fd4b5a6ff52c05c7e031a4868b12298123
+- location: https://github.com/poooi/poi/releases/download/v10.2.3/poi-setup-10.2.3.exe
+  sha256: a32cffcd9486ec0486a0fd20922e800ea56be3a895ff3339a2bc13d69da1852f
   minWindowsVersion: 6.1
