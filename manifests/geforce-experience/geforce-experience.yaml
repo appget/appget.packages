@@ -1,10 +1,10 @@
 id: geforce-experience
 name: GeForce Experience
-version: 3.16.0.140
+version: 3.17.0.126
 home: https://www.nvidia.com/en-us/geforce/geforce-experience/
 installMethod: Custom
 args:
   silent: -s -noreboot
 installers:
-- location: https://us.download.nvidia.com/GFE/GFEClient/3.16.0.140/GeForce_Experience_v3.16.0.140.exe
-  sha256: 8408691f6206e7890e94427548f9436bd409906b8af57f8a1c65f40b76e4888e
+- location: https://us.download.nvidia.com/GFE/GFEClient/3.17.0.126/GeForce_Experience_v3.17.0.126.exe
+  sha256: 4861af7e68125d596a1e36101c315abe7347462a04ab9d095c103cd6702f06b2
