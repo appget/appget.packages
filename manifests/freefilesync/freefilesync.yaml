@@ -1,8 +1,8 @@
 id: freefilesync
 name: FreeFileSync
-version: 10.7
+version: 10.9
 home: https://freefilesync.org/
 installMethod: Inno
 installers:
-- location: https://freefilesync.org/download/FreeFileSync_10.7_Windows_Setup.exe
-  sha256: 8eac1fe6d77cdf28abf36101bff872ece32fd1f09b993df27b87b16e911e1b98
+- location: https://freefilesync.org/download/FreeFileSync_10.9_Windows_Setup.exe
+  sha256: 13f742ca6d537b072998cc1fbe626a0bca94c088c818595ed9a0967fb2d33e0e
