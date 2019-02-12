@@ -1,0 +1,10 @@
+id: notepad-plus-plus
+name: Notepad++
+version: 7.6.3
+home: https://notepad-plus-plus.org/
+license: GNU General Public License
+installMethod: NSIS
+installers:
+- location: https://notepad-plus-plus.org/repository/7.x/7.6.3/npp.7.6.3.Installer.x64.exe
+  sha256: c99e5ba7386010f85c1a19d88fbe48c1f0df281ab624c00b0a1fa6bf8d46ce42
+  architecture: x64
