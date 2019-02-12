@@ -1,6 +1,6 @@
 id: nucleon-bi-studio
 name: Nucleon BI Studio
-version: 10.6.145.0219
+version: 10.6.149.0219
 home: http://nucleonsoftware.com/products/nucleon-bistudio
 installMethod: MSI
 installers:
