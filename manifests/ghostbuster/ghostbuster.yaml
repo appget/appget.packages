@@ -1,6 +1,7 @@
 id: ghostbuster
 name: Ghostbuster
 version: 1.0.8
+repo: https://bitbucket.org/wvd-vegt/ghostbuster
 installMethod: MSI
 installers:
 - location: https://bitbucket.org/wvd-vegt/ghostbuster/downloads/Ghostbuster Setup v1.0.8.msi
