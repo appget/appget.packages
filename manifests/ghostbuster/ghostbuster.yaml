@@ -1,0 +1,7 @@
+id: ghostbuster
+name: Ghostbuster
+version: 1.0.8
+installMethod: MSI
+installers:
+- location: https://bitbucket.org/wvd-vegt/ghostbuster/downloads/Ghostbuster Setup v1.0.8.msi
+  sha256: cd68bfbd7bab7d222666fcfa10e27aad9f78b2f81b9249eb842888833af9ec4d
