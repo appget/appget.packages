@@ -1,0 +1,9 @@
+id: hack-fonts
+name: Hack Fonts
+version: 1.6.0
+home: https://sourcefoundry.org/hack/
+repo: https://github.com/source-foundry/Hack-windows-installer/
+installMethod: Inno
+installers:
+- location: https://github.com/source-foundry/Hack-windows-installer/releases/download/v1.6.0/HackFontsWindowsInstaller.exe
+  sha256: a408b54d3b08f9a120574a6da1f1c6bbf2af7e9803c50da49ef13090f5edcc67
