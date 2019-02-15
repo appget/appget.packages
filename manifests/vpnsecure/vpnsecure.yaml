@@ -1,0 +1,8 @@
+id: vpnsecure
+name: VPNSecure
+version: 2.1.6
+home: https://www.vpnsecure.me/
+installMethod: Inno
+installers:
+- location: https://downloads-us.vpnsecure.me/VPNS_2.1.6.exe
+  sha256: a411ac140d9674710eeeced6d845c0287f9a623c425eace457f1286286e732cf
