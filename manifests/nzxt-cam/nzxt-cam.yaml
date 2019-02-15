@@ -1,0 +1,7 @@
+id: nzxt-cam
+name: NZXT CAM
+version: 3.7.5
+home: https://camwebapp.com/
+installMethod: Custom
+installers:
+- location: https://camwebapp.com/download/cam
