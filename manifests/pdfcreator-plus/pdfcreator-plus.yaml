@@ -1,6 +1,6 @@
 id: pdfcreator-plus
 name: PDFCreator Plus
-version: 3.3.2.3528
+version: 3.4.0.5156
 home: https://www.pdfforge.org/pdfcreator/plus
 installMethod: Inno
 installers:
