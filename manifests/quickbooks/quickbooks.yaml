@@ -1,6 +1,6 @@
 id: quickbooks
 name: QuickBooks
-version: 4.0.2.170
+version: 4.0.3.171
 home: https://quickbooks.intuit.com/
 installMethod: NSIS
 installers:
