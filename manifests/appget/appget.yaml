@@ -1,10 +1,10 @@
 id: appget
 name: AppGet
-version: 0.6.31
+version: 0.6.37
 home: https://appget.net/
 repo: https://github.com/appget/appget/
 license: Apache License 2.0
 installMethod: Inno
 installers:
-- location: https://github.com/appget/appget/releases/download/0.6.31/appget.0.6.31.exe
-  sha256: 415958167d16f6f0855e728d3c6f07ad226dc7dc8283e90f5166b5c6a5676d9f
+- location: https://github.com/appget/appget/releases/download/0.6.37/appget.0.6.37.exe
+  sha256: 031b040b69ff3b0bc885a3f38de2bd9210d799459991bfba97abc7afba9c7725
