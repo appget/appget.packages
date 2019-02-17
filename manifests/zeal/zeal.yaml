@@ -2,6 +2,7 @@ id: zeal
 name: Zeal
 version: 0.6.1
 home: https://zealdocs.org/
+repo: https://github.com/zealdocs/zeal/
 installMethod: MSI
 installers:
 - location: https://dl.bintray.com/zealdocs/windows/zeal-0.6.1-windows-x86.msi
