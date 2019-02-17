@@ -3,10 +3,11 @@ name: Zeal
 version: 0.6.1
 home: https://zealdocs.org/
 repo: https://github.com/zealdocs/zeal/
+license: GNU General Public License v3.0
 installMethod: MSI
 installers:
-- location: https://dl.bintray.com/zealdocs/windows/zeal-0.6.1-windows-x86.msi
+- location: https://github.com/zealdocs/zeal/releases/download/v0.6.1/zeal-0.6.1-windows-x86.msi
   sha256: f4796664b64d30317cf50914f0ff730139bb0b40656aaba5376769976896025a
-- location: https://dl.bintray.com/zealdocs/windows/zeal-0.6.1-windows-x64.msi
+- location: https://github.com/zealdocs/zeal/releases/download/v0.6.1/zeal-0.6.1-windows-x64.msi
   sha256: 875a91b0aa91a7dc56ef23b551006fd64b33ebfb16b710e4924c391751e6d515
   architecture: x64
