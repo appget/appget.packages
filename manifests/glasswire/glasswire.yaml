@@ -1,6 +1,6 @@
 id: glasswire
 name: GlassWire
-version: 2.1.140
+version: 2.1.152
 home: https://www.glasswire.com/
 installMethod: NSIS
 installers:
