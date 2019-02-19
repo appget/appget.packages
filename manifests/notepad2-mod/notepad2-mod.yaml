@@ -1,0 +1,10 @@
+id: notepad2-mod
+name: Notepad2-mod
+version: 4.2.25.998
+home: https://xhmikosr.github.io/notepad2-mod/
+repo: https://github.com/XhmikosR/notepad2-mod/
+installMethod: Inno
+installers:
+- location: https://github.com/XhmikosR/notepad2-mod/releases/download/4.2.25.998/Notepad2-mod.4.2.25.998.exe
+  sha256: ebd0bfd738ba9f07598369d09c91241807c94fe63f6629a0a9c66f2d66d3aed9
+  architecture: x64
