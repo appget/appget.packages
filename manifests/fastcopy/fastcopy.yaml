@@ -1,10 +1,10 @@
 id: fastcopy
 name: FastCopy
-version: 362
+version: 363
 home: https://fastcopy.jp/
 installMethod: Custom
 args:
   silent: /SILENT
 installers:
-- location: https://fastcopy.jp/archive/FastCopy362_installer.exe
-  sha256: 4a88318e05374bc4e0484273915f73eed751de6ccc67673dfff60b1f6060d8a2
+- location: https://fastcopy.jp/archive/FastCopy363_installer.exe
+  sha256: 1d9d8cd4a64f5c55621893202979fbba4584b7b4e8a69390651647d8158cc714
