@@ -1,0 +1,9 @@
+id: ccleaner-slim
+name: CCleaner-Slim
+version: 5.53.0.7034
+home: https://www.ccleaner.com/
+installMethod: NSIS
+installers:
+- location: https://download.ccleaner.com/slim/ccsetup553_slim.exe
+  sha256: 8911097985f2e42aa4436f2eb66aa1a03092c17e74a5effb5df7cb6a55562283
+  architecture: x64
