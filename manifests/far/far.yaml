@@ -1,0 +1,11 @@
+id: far
+name: Far Manager
+version: 3.0.5354
+home: https://www.farmanager.com
+repo: https://github.com/FarGroup/FarManager
+installMethod: MSI
+installers:
+- location: https://www.farmanager.com/files/Far30b5354.x86.20190117.msi
+  sha256: 779c7c0e087a838982d4c8c4f3e0a13eac0a9ab3b51a1fe0f3501ecf7cfa0b71
+- location: https://www.farmanager.com/files/Far30b5354.x64.20190117.msi
+  sha256: 8facac319e1842d2a2d7da32caadc8e4df8073f6f7b868aa4cafc8f03f41346c
