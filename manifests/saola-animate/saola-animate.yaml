@@ -1,8 +1,8 @@
 id: saola-animate
 name: Saola Animate
-version: 2.0.2
+version: 2.5.0
 home: https://atomisystems.com/saola-animate/
 installMethod: Inno
 installers:
-- location: https://cdn.atomisystems.com/apdownloads/saola/Saola-Animate_v2.0.2_setup.exe
-  sha256: 4c0d19c363f9624cd1c2331765f556d84d9259098d141a834afd4f9378dbe5b8
+- location: https://cdn.atomisystems.com/apdownloads/saola/Saola-Animate_v2.5.0_setup.exe
+  sha256: b282171b3a7d9b994047e094b613fcbc4a3649db5f9ea6345c88afecaba1d367
