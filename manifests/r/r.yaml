@@ -1,0 +1,8 @@
+id: r
+name: R
+version: 3.5.2.25870
+home: https://www.r-project.org/
+installMethod: Inno
+installers:
+- location: https://cloud.r-project.org/bin/windows/base/R-3.5.2-win.exe
+  sha256: 519f54bc707e61a6562995ec89830d78920c6e2383d06a601f3543d9e511535e
