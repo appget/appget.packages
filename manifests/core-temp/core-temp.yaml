@@ -1,0 +1,7 @@
+id: core-temp
+name: Core Temp
+version: 1.13.0
+home: https://www.alcpu.com/CoreTemp/
+installMethod: Inno
+installers:
+- location: https://www.alcpu.com/CoreTemp/Core-Temp-setup.exe
