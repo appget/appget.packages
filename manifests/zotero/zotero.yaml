@@ -1,0 +1,7 @@
+id: zotero
+name: Zotero
+version: 5.0.60
+home: https://www.zotero.org/
+installMethod: Custom
+installers:
+- location: https://www.zotero.org/download/client/dl?channel=release&platform=win32
