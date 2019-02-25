@@ -1,8 +1,8 @@
 id: nomachine
 name: NoMachine
-version: 6.4.6
+version: 6.5.6
 home: https://www.nomachine.com/
 installMethod: Inno
 installers:
-- location: https://download.nomachine.com/download/6.4/Windows/nomachine_6.4.6_5.exe
-  sha256: 234d3dfa1eb844fad49c49bf7034da24fe45fc811371ae806b7cea1ac4afaa50
+- location: https://download.nomachine.com/download/6.5/Windows/nomachine_6.5.6_8.exe
+  sha256: c204501b0df3cc158528cbbcba811d72ff582fb6bc5ae3c889168cc50bef5c4f
