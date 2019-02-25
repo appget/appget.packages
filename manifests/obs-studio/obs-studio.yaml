@@ -1,13 +1,13 @@
 id: obs-studio
 name: OBS Studio
-version: 22.0.2
+version: 23.0
 home: https://obsproject.com/
 repo: https://github.com/obsproject/obs-studio/
 license: GNU General Public License v2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/obsproject/obs-studio/releases/download/22.0.2/OBS-Studio-22.0.2-Full-Installer-x86.exe
-  sha256: 9ab68e33c3a47bad5c7068e2db4622da408ad8f21408db94d5dfc3c96ea035f7
-- location: https://github.com/obsproject/obs-studio/releases/download/22.0.2/OBS-Studio-22.0.2-Full-Installer-x64.exe
-  sha256: c6f01cec8c7c8a8512f9051247de4cb7b3cb89ec5ec76e53d6826bbe23966350
+- location: https://github.com/obsproject/obs-studio/releases/download/23.0.0/OBS-Studio-23.0-Full-Installer-x86.exe
+  sha256: 3e37fdee62fe3ab7a481c4c88951c470c592aed6638d329f7548d21d0fcb9e8b
+- location: https://github.com/obsproject/obs-studio/releases/download/23.0.0/OBS-Studio-23.0-Full-Installer-x64.exe
+  sha256: b75d578cf7725cd770969f600f7f00e27de262272e85eb1c5782debb90b58a04
   architecture: x64
