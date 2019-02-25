@@ -1,0 +1,13 @@
+id: python
+name: Python
+version: 2.5.4150
+home: https://www.python.org/
+repo: https://github.com/python/cpython/
+license: Python Software Foundation License
+installMethod: MSI
+installers:
+- location: https://www.python.org/ftp/python/2.5.4/python-2.5.4.msi
+  sha256: 485e325c0189ae06ea4b0675d2502f8ee82ce301bd2e5aa1b5387cd3cdf650bd
+- location: https://www.python.org/ftp/python/2.5.4/python-2.5.4.amd64.msi
+  sha256: 299567ee0f010a25dec8de57fdc48412fb90399a3241ba6155f8848f9d61f983
+  architecture: x64
