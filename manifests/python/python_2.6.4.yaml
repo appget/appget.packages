@@ -1,0 +1,13 @@
+id: python
+name: Python
+version: 2.6.4150
+home: https://www.python.org/
+repo: https://github.com/python/cpython/
+license: Python Software Foundation License
+installMethod: MSI
+installers:
+- location: https://www.python.org/ftp/python/2.6.4/python-2.6.4.msi
+  sha256: b8c3cef38f779e7e63f45b2b1b5f3fde5f06abd7661e6abad7972e078cbe0766
+- location: https://www.python.org/ftp/python/2.6.4/python-2.6.4.amd64.msi
+  sha256: fca26208ea2581ddf1f800033688a142673b78d3a3cb47a15df4c71fc0b2f0d2
+  architecture: x64
