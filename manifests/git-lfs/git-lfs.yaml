@@ -1,10 +1,10 @@
 id: git-lfs
 name: Git LFS
-version: 2.7.0
+version: 2.7.1
 home: https://git-lfs.github.com/
 repo: https://github.com/git-lfs/git-lfs/
 license: MIT License
 installMethod: Inno
 installers:
-- location: https://github.com/git-lfs/git-lfs/releases/download/v2.7.0/git-lfs-windows-v2.7.0.exe
-  sha256: f66d7f603e04244fd2007528351db0bb11e2b286ab261a6983bc3972171cc989
+- location: https://github.com/git-lfs/git-lfs/releases/download/v2.7.1/git-lfs-windows-v2.7.1.exe
+  sha256: 43db9e0b63ca69f3aa36b34fad5eecfb70fb2ae36ca160ecd03ac7cfc5f3422d
