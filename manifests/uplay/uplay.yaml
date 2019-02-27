@@ -1,6 +1,6 @@
 id: uplay
 name: Uplay
-version: 83.0.5985
+version: 84.0.5994
 home: https://uplay.ubisoft.com/
 installMethod: NSIS
 installers:
