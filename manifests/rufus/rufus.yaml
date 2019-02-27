@@ -1,0 +1,13 @@
+id: rufus
+name: Rufus
+version: 3.4.1430
+home: https://rufus.ie/
+repo: https://github.com/pbatard/rufus/
+license: GNU General Public License v3.0
+installMethod: Custom
+installers:
+- location: https://github.com/pbatard/rufus/releases/download/v3.4/rufus-3.4.exe
+  sha256: fbd6456d0e0eb2184fedad9426298407743e2b7d547d3343f76b01b6e568fcb6
+- location: https://github.com/pbatard/rufus/releases/download/v3.4/rufus-3.4.exe
+  sha256: fbd6456d0e0eb2184fedad9426298407743e2b7d547d3343f76b01b6e568fcb6
+  architecture: x64
