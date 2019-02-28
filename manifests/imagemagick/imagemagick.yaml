@@ -1,5 +1,5 @@
 id: imagemagick
-name: ImageMagick
+name: ImageMagick Q
 version: 7.0.8
 home: https://www.imagemagick.org/
 installMethod: Inno
