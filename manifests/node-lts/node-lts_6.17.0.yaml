@@ -1,0 +1,13 @@
+id: node-lts
+name: Node.js LTS
+version: 6.17.0.0
+home: https://nodejs.org/
+repo: https://github.com/nodejs/node/
+license: MIT
+installMethod: MSI
+installers:
+- location: https://nodejs.org/download/release/v6.17.0/node-v6.17.0-x86.msi
+  sha256: e3478fcf22e3395a41f34cf7e64527e6cc532c109e5a8d67ab1de213e53f780c
+- location: https://nodejs.org/download/release/v6.17.0/node-v6.17.0-x64.msi
+  sha256: 3a9171ab366ba45accc2ec898b50390d0020797b1cf16a16e9f3e105fcfdc95a
+  architecture: x64
