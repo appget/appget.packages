@@ -7,6 +7,7 @@ license: Mozilla Public License 2.0
 installMethod: MSI
 args:
   passive: REGISTER_NO_MSO_TYPES=1 ISCHECKFORPRODUCTUPDATES=0 ADDLOCAL=ALL
+  silent: REGISTER_NO_MSO_TYPES=1 ISCHECKFORPRODUCTUPDATES=0 ADDLOCAL=ALL
 installers:
 - location: https://download.documentfoundation.org/libreoffice/stable/6.2.0/win/x86/LibreOffice_6.2.0_Win_x86.msi
   sha256: 71ceed80aa77137cf60264652d435930bdb1d4f0c8ee5d7418885ad6ac795d67
