@@ -1,0 +1,7 @@
+id: elicenser-control-center
+name: eLicenser Control Center
+version: 6.11.6.1247
+home: https://steinberg.net/
+installMethod: InstallBuilder
+installers:
+- location: https://download.steinberg.net/downloads/eLicenserControlSetup.exe
