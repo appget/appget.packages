@@ -1,13 +1,13 @@
 id: shotcut
 name: Shotcut
-version: 19.01.27
+version: 19.02.28
 home: https://www.shotcut.org/
 repo: https://github.com/mltframework/shotcut/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/mltframework/shotcut/releases/download/v19.01.27/shotcut-win32-190127.exe
-  sha256: c1f6cb44ccab9606ca33c566ac1872e14751f7e4e0b2dc5f74185ca46cbc7710
-- location: https://github.com/mltframework/shotcut/releases/download/v19.01.27/shotcut-win64-190127.exe
-  sha256: 9a1e25359407db9bc34b2d4cedc026d195254fb9eb751e127307b8347fa5ee54
+- location: https://github.com/mltframework/shotcut/releases/download/v19.02.28/shotcut-win32-190228.exe
+  sha256: 196a085e6d02d8c309706ef6db37e32974fbd9a91d2b0c5ce496bb5cc7976e56
+- location: https://github.com/mltframework/shotcut/releases/download/v19.02.28/shotcut-win64-190228.exe
+  sha256: 935e1068b561ad015c23eea659c60210db1ab1608e8be52f13c989e715b466fa
   architecture: x64
