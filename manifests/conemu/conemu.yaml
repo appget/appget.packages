@@ -1,10 +1,10 @@
 id: conemu
 name: ConEmu
-version: 19.02.25
+version: 19.03.01
 home: https://conemu.github.io/
 repo: https://github.com/Maximus5/ConEmu/
 license: BSD 3-Clause "New" or "Revised" License
 installMethod: Custom
 installers:
-- location: https://github.com/Maximus5/ConEmu/releases/download/v19.02.25/ConEmuSetup.190225.exe
-  sha256: 67412ce2281d0aa1bdbf622def12952ecbbca75570b44271a2f15dc6abb00978
+- location: https://github.com/Maximus5/ConEmu/releases/download/v19.03.01/ConEmuSetup.190301.exe
+  sha256: c4bf555c312b2057a39542cfd3321f383bdbdd0f55c1ebfd1f54d2bedb2577ed
