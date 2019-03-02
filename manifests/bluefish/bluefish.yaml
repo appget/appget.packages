@@ -1,8 +1,8 @@
 id: bluefish
 name: Bluefish
-version: 2.2.10
-home: http://bluefish.openoffice.nl/index.html
+version: 2.24.8
+home: https://gtk-win.sourceforge.io/
 installMethod: NSIS
 installers:
-- location: https://www.bennewitz.com/bluefish/stable/binaries/win32/Bluefish-2.2.10-setup.exe
-  sha256: 65e70a80882dfd289661ed718fad16054b89d95848885008e443ed81b2a76623
+- location: https://downloads.sourceforge.net/gtk-win/gtk2-runtime-2.24.8-2011-12-03-ash.exe
+  sha256: a60d27a5c537dfa63b50a99d6ccc2ed6b3973a489e78e959e29a08207488fb4c
