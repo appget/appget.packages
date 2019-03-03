@@ -6,7 +6,6 @@ installMethod: NSIS
 installers:
 - location: https://mkvtoolnix.download/windows/releases/31.0.0/mkvtoolnix-32-bit-31.0.0-setup.exe
   sha256: 6d96f695a2d79347585709605c687daa480d6ed35b6ad2c019610cc953880ed5
-  minWindowsVersion: 6.1
 - location: https://mkvtoolnix.download/windows/releases/31.0.0/mkvtoolnix-64-bit-31.0.0-setup.exe
   sha256: 9f25644d5b3d656c1e2ab0e7d835b40ca06580ad732a27e2b148b18991d3b22f
   architecture: x64
