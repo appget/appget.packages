@@ -1,11 +1,9 @@
 id: mysql-workbench
-name: Mysql-Workbench
-version: 6.3.10
-home: https://mysql.com
+name: Mysql Workbench
+version: 8.0.15
+home: https://www.mysql.com/products/workbench/
 installMethod: MSI
 installers:
-- location: https://dev.mysql.com/get/Downloads/MySQLGUITools/mysql-workbench-community-6.3.10-win32.msi
-  sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-- location: https://dev.mysql.com/get/Downloads/MySQLGUITools/mysql-workbench-community-6.3.10-winx64.msi
-  sha256: abb03477d1af0748573b06c436a0a58f619607e6d63e3e9063e8120fd587294e
+- location: https://dev.mysql.com/get/Downloads/MySQLGUITools/mysql-workbench-community-8.0.15-winx64.msi
+  sha256: 93f88e9ccc0a9a455ab9c0c8fa10ddc95b9b319be68ac792a2cfc06a3ad0d097
   architecture: x64
