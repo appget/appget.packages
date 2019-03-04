@@ -1,7 +1,7 @@
 id: todo-backup
-name: EaseUS Todo Backup
-version: 4.6.2.5
-home: https://www.easeus.com/backup-software/personal.html
+name: EaseUS Todo Backup Free
+version: 11.5
+home: https://www.easeus.com/backup-software/tb-free.html
 installMethod: Inno
 installers:
-- location: http://down.easeus.com/product/tb
+- location: http://download.easeus.com/free/tb_free.exe
