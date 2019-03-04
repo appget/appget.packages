@@ -8,4 +8,4 @@ args:
   log: /LogFile={path}
 installers:
 - location: https://download.jetbrains.com/resharper/ReSharperUltimate.2018.3.3/JetBrains.ReSharperUltimate.2018.3.3.exe
-  sha256: 7bc28095f5bb2d75aa3fe371d3a62acdeeb0d7116e372d654458f863c430d8c9
+  sha256: f7eb0695dc5b5a81824483ec1d8ff27fe0dc37bd88974b700b4aea97de172aca
