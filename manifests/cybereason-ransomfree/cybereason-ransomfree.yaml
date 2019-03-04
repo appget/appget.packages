@@ -1,7 +1,0 @@
-id: cybereason-ransomfree
-name: Cybereason RansomFree
-version: 2.4.2
-home: https://ransomfree.cybereason.com/
-installMethod: MSI
-installers:
-- location: https://ransomfreedownload.cybereason.com/CybereasonRansomFree.msi
