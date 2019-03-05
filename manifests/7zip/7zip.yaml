@@ -1,11 +1,11 @@
 id: 7zip
 name: 7-Zip
-version: 18.06.00
+version: 19.00
 home: https://www.7-zip.org/
-installMethod: MSI
+installMethod: Custom
 installers:
-- location: https://www.7-zip.org/a/7z1806.msi
-  sha256: e1e509fb1fc6c7b7c2f55b1831454084541ee0a6c0a3f67730cdc4ca6bdd443b
-- location: https://www.7-zip.org/a/7z1806-x64.msi
-  sha256: f00e1588ed54ddf633d8652eb89d0a8f95bd80cccfc3eed362d81927bec05aa5
+- location: https://www.7-zip.org/a/7z1900.exe
+  sha256: 759aa04d5b03ebeee13ba01df554e8c962ca339c74f56627c8bed6984bb7ef80
+- location: https://www.7-zip.org/a/7z1900-x64.exe
+  sha256: 0f5d4dbbe5e55b7aa31b91e5925ed901fdf46a367491d81381846f05ad54c45e
   architecture: x64
