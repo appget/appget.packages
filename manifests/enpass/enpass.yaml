@@ -1,8 +1,8 @@
 id: enpass
 name: Enpass
-version: 6.0.4.281
+version: 6.0.6.323
 home: https://www.enpass.io/
 installMethod: Wix
 installers:
-- location: https://dl.enpass.io/stable/windows/setup/6.0.4.281/Enpass-setup.exe
-  sha256: af838bcb12d8124942e6ed7cf309c9e9258c369c8976dcf9d83982bbb42af111
+- location: https://dl.enpass.io/stable/windows/setup/6.0.6.323/Enpass-setup.exe
+  sha256: 4e79c85b4bdbc15f2bba8ce950e2d19c3655ee3b54c25d3f3dc78cb6f941473d
