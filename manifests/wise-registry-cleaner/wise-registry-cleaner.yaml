@@ -1,6 +1,6 @@
 id: wise-registry-cleaner
 name: Wise Registry Cleaner
-version: 10.1.5
+version: 10.1.6
 home: https://www.wisecleaner.com/
 installMethod: Inno
 installers:
