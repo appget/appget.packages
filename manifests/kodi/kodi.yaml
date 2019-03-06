@@ -2,6 +2,8 @@ id: kodi
 name: Kodi
 version: 18.1.0
 home: https://kodi.tv/
+repo: https://github.com/xbmc/xbmc/
+license: GNU General Public License v2.0
 installMethod: NSIS
 installers:
 - location: https://mirrors.kodi.tv/releases/windows/win32/kodi-18.1-Leia-x86.exe
