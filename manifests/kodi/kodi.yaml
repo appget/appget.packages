@@ -1,10 +1,11 @@
 id: kodi
 name: Kodi
-version: 17.6.0
+version: 18.1.0
 home: https://kodi.tv/
-repo: https://github.com/xbmc/xbmc/
-license: GNU General Public License v2.0
 installMethod: NSIS
 installers:
-- location: https://mirrors.kodi.tv/releases/windows/win32/kodi-17.6-Krypton-x86.exe
-  sha256: d50aa59064f440618dc29d6cd65b47f783bbd7c75caea5359a96f4f00f31475f
+- location: https://mirrors.kodi.tv/releases/windows/win32/kodi-18.1-Leia-x86.exe
+  sha256: d3610f0aa119c2fce681f02055df7e0d1f9f21410adee4209cfe1c17a3a4b21c
+- location: https://mirrors.kodi.tv/releases/windows/win64/kodi-18.1-Leia-x64.exe
+  sha256: 2a898e4cc5cc7db32474aba6800024bb5958596a29d9f6eb852dc5ac4e189a32
+  architecture: x64
