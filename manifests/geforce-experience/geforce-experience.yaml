@@ -6,5 +6,5 @@ installMethod: Custom
 args:
   silent: -s -noreboot
 installers:
-- location: https://us.download.nvidia.com/GFE/GFEClient/3.17.0.126/GeForce_Experience_v3.17.0.126.exe
+- location: https://fr.download.nvidia.com/GFE/GFEClient/3.17.0.126/GeForce_Experience_v3.17.0.126.exe
   sha256: 4861af7e68125d596a1e36101c315abe7347462a04ab9d095c103cd6702f06b2
