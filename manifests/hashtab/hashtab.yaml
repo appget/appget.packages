@@ -1,7 +1,7 @@
 id: hashtab
 name: Hashtab
 version: 6.0.0.34
-home: http://implbits.com/
+home: http://implbits.com/products/hashtab/
 installMethod: NSIS
 installers:
 - location: http://implbits.com/products/hashtab/HashTab_v6.0.0.34_Setup.exe
