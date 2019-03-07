@@ -1,6 +1,6 @@
 id: spotify
 name: Spotify
-version: 1.1.0.237
+version: 1.1.1.348
 home: https://www.spotify.com/
 installMethod: Custom
 args:
