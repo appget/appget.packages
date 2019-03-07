@@ -1,0 +1,9 @@
+id: hwinfo
+name: HWiNFO
+version: 6.02
+home: https://www.hwinfo.com/
+installMethod: Inno
+installers:
+- location: https://www.sac.sk/download/utildiag/hwi_602.exe
+  sha256: 881c452718f8b83f0722fbe0117df95d83bf912523b3221f3c15caf20491870b
+  minWindowsVersion: 6.1
