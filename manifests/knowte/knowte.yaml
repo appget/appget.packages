@@ -1,0 +1,8 @@
+id: knowte
+name: Knowte
+version: 1.1.6
+home: https://www.digimezzo.com/software/knowte-2/
+installMethod: MSI
+installers:
+- location: https://www.digimezzo.com/content/software/knowte/Knowte 1.1.6.0.msi
+  sha256: ee398af5a7f73118fa8f4c3ceb93dfefc7fc0fc5b242944375514ed18fcec6c9
