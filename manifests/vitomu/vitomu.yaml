@@ -1,0 +1,8 @@
+id: vitomu
+name: Vitomu
+version: 1.2.0.1
+home: https://www.digimezzo.com/software/vitomu/
+installMethod: MSI
+installers:
+- location: https://www.digimezzo.com/content/software/vitomu/Vitomu 1.2.0.1.msi
+  sha256: ac01e362d4d1aa930c86fbec102cd349c465627a98ccae54c28227a3be351592
