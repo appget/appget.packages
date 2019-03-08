@@ -1,6 +1,6 @@
 id: focuswriter
 name: FocusWriter
-version: 1.7.1
+version: 1.7.2
 home: https://gottcode.org/focuswriter/
 installMethod: NSIS
 installers:
