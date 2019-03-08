@@ -1,6 +1,6 @@
 id: aomei-partition-assistant
 name: AOMEI Partition Assistant Standard Edition
-version: 8.0
+version: 8.1
 home: https://www.disk-partition.com/free-partition-manager.html
 installMethod: Inno
 installers:
