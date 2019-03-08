@@ -1,9 +1,13 @@
 id: thunderbird
 name: Thunderbird
-version: 60.5.1
+version: 60.5.3
 home: https://www.thunderbird.net/
 installMethod: Custom
 installers:
-- location: https://download.mozilla.org/?product=thunderbird-60.5.1-SSL&os=win&lang=en-US
-  sha256: cbbe280e2e0adff3f963896adf9c6b9f327f7890880bfdad19f7ca24abbf4e67
+- location: https://ftp.mozilla.org/pub/thunderbird/releases/60.5.3/win32/en-US/Thunderbird Setup 60.5.3.exe
+  sha256: a10761b3eb6e53f0656802ab7bc9b64ee3adf894cff5897f665c204d58e9d040
+  minWindowsVersion: 6.1
+- location: https://ftp.mozilla.org/pub/thunderbird/releases/60.5.3/win64/en-US/Thunderbird Setup 60.5.3.exe
+  sha256: 0d2e3975c7467c4b593245952b6070ffa3795f48a898a20c15a6f040e179262b
+  architecture: x64
   minWindowsVersion: 6.1
