@@ -7,7 +7,7 @@ license: Python Software Foundation License
 installMethod: MSI
 installers:
 - location: https://www.python.org/ftp/python/2.7.16/python-2.7.16.msi
-  sha256: 02781f83eee14d08180fa8f00da5baaf19b1304e7a871dcb1d4125d4b75a6d36
+  sha256: d57dc3e1ba490aee856c28b4915d09e3f49442461e46e481bc6b2d18207831d7
 - location: https://www.python.org/ftp/python/2.7.16/python-2.7.16.amd64.msi
-  sha256: 22e0f077dc1c063e7c5bfc7c88b5473e23dd03a8d83c4b79ff27b86d1ea4a272
+  sha256: 7c0f45993019152d46041a7db4b947b919558fdb7a8f67bcd0535bc98d42b603
   architecture: x64
