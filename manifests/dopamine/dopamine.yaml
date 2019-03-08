@@ -2,7 +2,8 @@ id: dopamine
 name: Dopamine
 version: 1.5.14.4000
 home: https://www.digimezzo.com/software/dopamine/
-repo: https://github.com/digimezzo/Dopamine
+repo: https://github.com/digimezzo/Dopamine/
+license: GNU General Public License v3.0
 installMethod: MSI
 installers:
 - location: https://www.digimezzo.com/content/software/dopamine/Dopamine 1.5.14 (Release).msi
