@@ -1,0 +1,9 @@
+id: pulseway
+name: Pulseway
+version: 6.2.1
+home: https://www.pulseway.com/
+installMethod: MSI
+installers:
+- location: https://www.pulseway.com/download/Pulseway_x86.msi
+- location: https://www.pulseway.com/download/Pulseway_x64.msi
+  architecture: x64
