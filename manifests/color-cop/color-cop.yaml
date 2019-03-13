@@ -1,0 +1,7 @@
+id: color-cop
+name: Color Cop
+version: 5.4.3
+home: http://colorcop.net/
+installMethod: Inno
+installers:
+- location: http://colorcop.net/tools/colorcop/colorcop-setup.exe
