@@ -1,11 +1,11 @@
 id: couchdb
 name: CouchDB
-version: 2.3.0
+version: 2.3.1
 home: https://couchdb.apache.org/
 repo: https://github.com/apache/couchdb/
 license: Apache License 2.0
 installMethod: MSI
 installers:
-- location: https://dl.bintray.com/apache/couchdb/win/2.3.0/couchdb-2.3.0.msi
-  sha256: f544798d40db5a0ab92c965987ac7af13b0c1e433a396541584c04d82e4726cf
+- location: https://apache.bintray.com/couchdb/win/2.3.1/apache-couchdb-2.3.1.msi
+  sha256: 14cb5aa22b548ffbbfbe8134e68b8385162cee9abfa01092eeb4312115a2943e
   architecture: x64
