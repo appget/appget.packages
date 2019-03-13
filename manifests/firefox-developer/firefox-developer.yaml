@@ -1,6 +1,6 @@
 id: firefox-developer
 name: Mozilla Firefox (Developer Edition)
-version: 66.0
+version: 67.0
 home: https://www.mozilla.org/firefox/
 installMethod: Custom
 args:
