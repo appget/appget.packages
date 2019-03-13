@@ -1,0 +1,8 @@
+id: instant-eyedropper
+name: Instant Eyedropper
+version: 1.9.1
+home: http://instant-eyedropper.com/
+installMethod: Inno
+installers:
+- location: http://instant-eyedropper.com/download/instant-eyedropper-1.9.1.exe
+  sha256: 7f06171798fe3342fe6d221c1e9a0832f9ea53cc9ddf2e9d200091c36da0c31c
