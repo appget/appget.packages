@@ -1,7 +1,7 @@
 id: dotnetinstaller
 name: dotNetInstaller
 version: 2.4.99
-home: http://dblock.github.io/dotnetinstaller/
+home: https://dblock.github.io/dotnetinstaller/
 repo: https://github.com/dotnetinstaller/dotnetinstaller/
 license: MIT License
 installMethod: MSI
