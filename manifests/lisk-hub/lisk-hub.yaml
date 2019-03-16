@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/LiskHQ/lisk-hub/releases/download/v1.12.0/lisk-hub-win-1.12.0.exe
   sha256: 7d316cc2e8c56d37990da90d8b400260b3c83716182c7f58e73640e5258fc365
-  minWindowsVersion: 6.1
