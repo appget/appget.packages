@@ -7,8 +7,6 @@ installMethod: NSIS
 installers:
 - location: https://github.com/el3um4s/vue-calc/releases/download/v0.18.04.15/vue-calc-32bit.exe
   sha256: bf5247be08e6d0e2ba864f6f95ae4dda6b71069abcb33703cbf5f107cd4c9cd6
-  minWindowsVersion: 6.1
 - location: https://github.com/el3um4s/vue-calc/releases/download/v0.18.04.15/vue-calc-64bit.exe
   sha256: 05c4d6ef44ea758e1aa908a5d6450fbb8b7b81e2885fe023f9a82589e3bb98ef
   architecture: x64
-  minWindowsVersion: 6.1
