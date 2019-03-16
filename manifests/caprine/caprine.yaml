@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/sindresorhus/caprine/releases/download/v2.30.1/caprine-setup-2.30.1.exe
   sha256: d5ac05f30ce818c524408b6cddb02bce16f86a39ed6fa64d127ec3c206f67619
-  minWindowsVersion: 6.1
