@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/cozy-labs/cozy-desktop/releases/download/v3.12.0/CozyDrive-Setup-3.12.0.exe
   sha256: f84b6d178c27778f25405d755d31b9187867e5104cd2e79f0c4ed3c3a1f1d994
-  minWindowsVersion: 6.1
