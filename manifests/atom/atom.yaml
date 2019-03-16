@@ -8,8 +8,6 @@ installMethod: Squirrel
 installers:
 - location: https://github.com/atom/atom/releases/download/v1.35.1/AtomSetup.exe
   sha256: 69ab98e7e3f6d3772229624e220078188a61368fd5010be443508e3b3a9d6560
-  minWindowsVersion: 6.1
 - location: https://github.com/atom/atom/releases/download/v1.35.1/AtomSetup-x64.exe
   sha256: 99730bf657149921b1d4a43291908a4a97ded2b99e8f6e15eff726dce98ad64f
   architecture: x64
-  minWindowsVersion: 6.1
