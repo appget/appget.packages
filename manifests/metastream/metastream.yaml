@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/samuelmaddock/metastream/releases/download/v0.2.3/metastream-setup-0.2.3.exe
   sha256: 346664da68392c65972ebf0256925e3df06e34d814ad77bbcb8ace23f3a36e3f
-  minWindowsVersion: 6.1
