@@ -1,6 +1,6 @@
 id: pspp4windows
 name: pspp4windows
-version: 2018
+version: 20181109
 home: https://www.gnu.org/software/pspp/
 installMethod: NSIS
 installers:
