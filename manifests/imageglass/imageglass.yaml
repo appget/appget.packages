@@ -1,10 +1,10 @@
 id: imageglass
 name: ImageGlass
-version: 6.0.12.27
+version: 6.0.12.29
 home: https://imageglass.org/
 repo: https://github.com/d2phap/ImageGlass/
 license: GNU General Public License v3.0
 installMethod: Inno
 installers:
-- location: https://github.com/d2phap/ImageGlass/releases/download/6.0.12.27/ImageGlass_6.0.12.27.exe
-  sha256: e4462946b0d287209e717f227093c80e778fd09e0afd27357d26b788efd7f1b8
+- location: https://github.com/d2phap/ImageGlass/releases/download/6.0.12.29/ImageGlass_6.0.12.29.exe
+  sha256: b39e9134bb6f7f98936c62569777e92df2dd5fa553069f4686c06fc298baf87c
