@@ -6,4 +6,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/Phreshhh/Phreshistant/releases/download/v1.1.1.0/Phreshistant.Setup.1.1.1.exe
   sha256: fd8a08528627408fbe81ffbf72af1eaf8c9c205be22cc6da0801c0cd376a7dae
-  minWindowsVersion: 6.1
