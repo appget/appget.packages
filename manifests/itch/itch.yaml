@@ -8,4 +8,3 @@ installMethod: Squirrel
 installers:
 - location: https://github.com/itchio/itch/releases/download/v23.6.3/itchSetup.exe
   sha256: c273d92af33ad1a74e40ccbac72322b79051e2a367a215c0875794d3a8c4f9aa
-  minWindowsVersion: 6.1
