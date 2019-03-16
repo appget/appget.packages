@@ -7,4 +7,3 @@ installMethod: Squirrel
 installers:
 - location: https://github.com/tympanix/Electorrent/releases/download/v2.6.0/electorrent-Setup-2.6.0.exe
   sha256: 67fc5f37e27efe13dbf6ad1cd9b133281c5bdd142307dec2ef3c394f6bd05fd6
-  minWindowsVersion: 6.1
