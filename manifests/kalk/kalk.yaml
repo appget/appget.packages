@@ -7,4 +7,3 @@ installers:
 - location: https://github.com/monsterkodi/kalk/releases/download/v0.16.0/kalk-0.16.0-setup.exe
   sha256: f724a5938ae1d800aa359ab87c6c60098f6608f699493549c4fdbdb14f08de37
   architecture: x64
-  minWindowsVersion: 6.1
