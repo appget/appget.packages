@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/marktext/marktext/releases/download/v0.13.65/marktext-setup-0.13.65.exe
   sha256: 356e44eb38f22b2a3d0e896506e40fd6884b3b7aac14bd61d4571103e85dab52
-  minWindowsVersion: 6.1
