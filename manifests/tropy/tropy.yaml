@@ -8,4 +8,3 @@ installers:
 - location: https://github.com/tropy/tropy/releases/download/1.4.3/setup-tropy-1.4.3-x64.exe
   sha256: a9c0200cf786a4c925fad865617ca296810878a5fed36b0d51b63a223832a999
   architecture: x64
-  minWindowsVersion: 6.1
