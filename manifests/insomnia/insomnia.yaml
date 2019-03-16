@@ -8,4 +8,3 @@ installMethod: Squirrel
 installers:
 - location: https://github.com/getinsomnia/insomnia/releases/download/v6.3.2/Insomnia.Setup.6.3.2.exe
   sha256: 4c566f5f9453ae3898a7992b2c1c2d853e163673e3221ae0155b6cda97e3d558
-  minWindowsVersion: 6.1
