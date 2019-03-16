@@ -7,4 +7,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/advanced-rest-client/arc-electron/releases/download/v12.1.4/arc-setup.exe
   sha256: 8c81d293db55f6904cd16ebf39e479918cf8c32ca240c69fe6fe977e04dc9eb7
-  minWindowsVersion: 6.1
