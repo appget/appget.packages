@@ -7,4 +7,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/RedDuckss/CemUI/releases/download/v2.3.3/CemUI.Setup.2.3.3.exe
   sha256: 3cfe43ae60735c6865815710cad39b5ff8101af7a974071a758a62b445d95f10
-  minWindowsVersion: 6.1
