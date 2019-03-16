@@ -8,4 +8,3 @@ installMethod: Squirrel
 installers:
 - location: https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-/releases/download/v4.6.1/Google.Play.Music.Desktop.Player.Setup.exe
   sha256: 4d026c4248832a04981107abc6eb0fefce7facabed9d0fb279fc1c6b72586fd1
-  minWindowsVersion: 6.1
