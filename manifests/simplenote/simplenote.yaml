@@ -7,3 +7,4 @@ installMethod: NSIS
 installers:
 - location: https://github.com/Automattic/simplenote-electron/releases/download/v1.5.0/Simplenote-win-1.5.0.exe
   sha256: b86a7b5f5e81e65d8e999e8a3d36c4b4484db9a11adf818fc714a267a40f3ab5
+  minWindowsVersion: 6.1
