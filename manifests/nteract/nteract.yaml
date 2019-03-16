@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/nteract/nteract/releases/download/v0.12.3/nteract-setup-0.12.3.exe
   sha256: f42822e4f6e92d18b45520dedf78258061abb5497cce83c87d243f16091d7731
-  minWindowsVersion: 6.1
