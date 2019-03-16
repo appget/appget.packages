@@ -8,4 +8,3 @@ installMethod: Squirrel
 installers:
 - location: https://github.com/zeit/now-desktop/releases/download/4.0.18/now-desktop-Setup-4.0.18.exe
   sha256: c821e2621613f1175888415b5a0965965055297fbd6fbde8940d6360a12fd7c0
-  minWindowsVersion: 6.1
