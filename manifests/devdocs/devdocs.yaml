@@ -8,7 +8,5 @@ installMethod: NSIS
 installers:
 - location: https://github.com/egoist/devdocs-desktop/releases/download/v0.6.9/DevDocs-0.6.9.exe
   sha256: bf97ac773bb7cfb30784a931b0eb2f1377c8e5f4a4f4ed0cb7e383ca7dbe01d4
-  minWindowsVersion: 6.1
 - location: https://github.com/egoist/devdocs-desktop/releases/download/v0.6.9/DevDocs-Setup-0.6.9.exe
   sha256: da559b3ad88bb71bdaa22582fffe9710953384f85167e36b8ca882e159ee2c05
-  minWindowsVersion: 6.1
