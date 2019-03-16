@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/ssbc/patchwork/releases/download/v3.11.4/Patchwork-3.11.4-windows.exe
   sha256: 82f1e2eb7e5de3f6c1dd18e984ae38344c7437c1c7cdff1bcce3d06e76d56409
-  minWindowsVersion: 6.1
