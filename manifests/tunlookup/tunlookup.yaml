@@ -7,4 +7,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/tun-application/Tunlookup/releases/download/v3.0.2/Tunlookup.Setup.3.0.2.exe
   sha256: 850ccd0ecbab0940073201f08db555a8bd115879ab6c560b0aff0dc570da7ff3
-  minWindowsVersion: 6.1
