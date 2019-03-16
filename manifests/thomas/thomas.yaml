@@ -7,4 +7,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/andrepolischuk/thomas/releases/download/v0.6.0/thomas-setup-0.6.0.exe
   sha256: dae4cb7dce03edc0277ad7fad979e77291bee3ed24f2ee9faa2a2ba5e2213d0d
-  minWindowsVersion: 6.1
