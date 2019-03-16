@@ -1,8 +1,8 @@
 id: clipboardfusion
 name: ClipboardFusion
-version: 5.4.1.0
+version: 5.5.1.0
 home: https://www.clipboardfusion.com/
 installMethod: Inno
 installers:
-- location: https://binaryfortressdownloads.com/Download/BFSFiles/104/ClipboardFusionSetup-5.4.1.exe
-  sha256: 63b35b5050853c93a793624b41b6abbf7bebaa1a1d5b746a4e5039be1cd61352
+- location: https://binaryfortressdownloads.com/Download/BFSFiles/104/ClipboardFusionSetup-5.5.1.exe
+  sha256: 3740e474d39911d43316cc2c68fd4d25dc1e52fa926a9535da2d3d2973efc8f1
