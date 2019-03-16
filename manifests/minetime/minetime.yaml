@@ -7,4 +7,3 @@ installMethod: Squirrel
 installers:
 - location: https://github.com/marcoancona/MineTime/releases/download/v1.4.10/MineTime.Setup.1.4.10.exe
   sha256: 3ae0ff60f3a906f50e940078bc1e950ebd101a6d82ef999eeabec2c24de12cc1
-  minWindowsVersion: 6.1
