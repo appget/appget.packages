@@ -1,10 +1,10 @@
 id: nuclear
 name: nuclear
-version: 0.4.3
+version: 0.4.4
 home: https://nuclear.gumblert.tech/
 repo: https://github.com/nukeop/nuclear/
 license: GNU Affero General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/nukeop/nuclear/releases/download/v0.4.3/nuclear.Setup.0.4.3.exe
-  sha256: 440d310cdfccfb5da272b2693d4b194e2302ab9cd0998fd244f7c12be9468611
+- location: https://github.com/nukeop/nuclear/releases/download/v0.4.4/nuclear.Setup.0.4.4.exe
+  sha256: 5ac026e92fac6483ebc49b17ab48672416e10a901a7eddb71c81f859e13bdd13
