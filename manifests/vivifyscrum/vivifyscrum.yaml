@@ -7,3 +7,4 @@ installMethod: Squirrel
 installers:
 - location: https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/win32-ia32-prod-v2.3.0/VivifyScrum.Setup.2.3.0.exe
   sha256: 949c1adb99b422c4e9ab8a0631e5c1ea586412e23c08a4c2366173b3bd90d6fd
+  minWindowsVersion: 6.1
