@@ -7,4 +7,3 @@ installMethod: Inno
 installers:
 - location: https://github.com/phonegap/phonegap-app-desktop/releases/download/0.4.5/PhoneGapSetup-win32.exe
   sha256: f07c072db22c2b89f8626bb8a233a15668c690562146eb047e23efffe924d9fc
-  minWindowsVersion: 6.1
