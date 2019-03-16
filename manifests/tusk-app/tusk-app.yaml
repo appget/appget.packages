@@ -1,10 +1,10 @@
 id: tusk-app
 name: Tusk
-version: 0.11.0
+version: 0.22.0.628
 home: https://klaussinani.github.io/tusk
 repo: https://github.com/klaussinani/tusk/
 license: MIT License
-installMethod: Squirrel
+installMethod: NSIS
 installers:
-- location: https://github.com/klaussinani/tusk/releases/download/v0.11.0/tusk-Setup-0.11.0.exe
-  sha256: dcf75810d586bdc60a71c76454830c0dc5e1b53068a437ee4d44fdf1a3464a90
+- location: https://github.com/klaussinani/tusk/releases/download/v0.22.0/tusk-setup-0.22.0.exe
+  sha256: 06d1e135d7f30fea026c99948ec7fae54624b86cfa329d5d291a98f80ce4c9aa
