@@ -8,8 +8,6 @@ installMethod: Squirrel
 installers:
 - location: https://github.com/hainproject/hain/releases/download/v0.6.6/HainSetup-ia32-v0.6.6.exe
   sha256: a7da87019ac4d0d9f62bf9aa82e0a37df0ea3e56c9c578605d7cf328d4d39e88
-  minWindowsVersion: 6.1
 - location: https://github.com/hainproject/hain/releases/download/v0.6.6/HainSetup-x64-v0.6.6.exe
   sha256: 59b048c9fb4e635dbe7fbeb1576c62d25fa7a58e84cff709f228d97961f6378d
   architecture: x64
-  minWindowsVersion: 6.1
