@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/oliverschwendener/ueli/releases/download/v7.2.5/ueli-setup-7.2.5.exe
   sha256: 2e1343219f6fcea261b510d1b76a050e538983e6e026f77680a88063437d4709
-  minWindowsVersion: 6.1
