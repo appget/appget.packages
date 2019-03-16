@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/Kilian/fromscratch/releases/download/v1.4.3/FromScratch.Setup.1.4.3.exe
   sha256: fd82565ef9eeb6e6bcd6755721ae6198075d163323b18cae04f2d9c7ec1d0923
-  minWindowsVersion: 6.1
