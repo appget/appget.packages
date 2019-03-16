@@ -8,8 +8,6 @@ installMethod: Squirrel
 installers:
 - location: https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.20.0/WebTorrentSetup-v0.20.0-ia32.exe
   sha256: 985d5ec6658627a3dd0a65767406677562e61722253b04956bc8bacc4776ceaf
-  minWindowsVersion: 6.1
 - location: https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.20.0/WebTorrentSetup-v0.20.0.exe
   sha256: 0fd0deddc7ec34deedc298b831156578c0bcc5d66fa99f6fca3131be4bc3f3de
   architecture: x64
-  minWindowsVersion: 6.1
