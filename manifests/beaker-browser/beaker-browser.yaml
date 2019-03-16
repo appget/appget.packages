@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/beakerbrowser/beaker/releases/download/0.8.5/beaker-browser-setup-0.8.5.exe
   sha256: 6a700287dfc70ab23e70dee7545ecbf398ee43eb5344e2f21aa4ffff8c845fad
-  minWindowsVersion: 6.1
