@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/Mindmapp/mindmapp/releases/download/v0.7.16/Mindmapp-0.7.16.exe
   sha256: 6c82155d0df7cfdb113c41ff796a04138058aa652f01d11d883be334d6fd720e
-  minWindowsVersion: 6.1
