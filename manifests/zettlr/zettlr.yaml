@@ -9,4 +9,3 @@ installers:
 - location: https://github.com/Zettlr/Zettlr/releases/download/v1.2.0/Zettlr-win32-x64-1.2.0.exe
   sha256: b5b5a4022af813d534fdfebc99d267b2d5faccdd67964564dd98b1802cba76bf
   architecture: x64
-  minWindowsVersion: 6.1
