@@ -1,12 +1,12 @@
 id: avidemux
 name: Avidemux
-version: 2.7.1
+version: 2.7.2
 home: http://avidemux.sourceforge.net/
 repo: https://sourceforge.net/projects/avidemux/
 installMethod: NSIS
 installers:
-- location: https://downloads.sourceforge.net/project/avidemux/avidemux/2.7.1/avidemux_2.7.1_win32.exe
-  sha256: e3fe66cecf5e17cf9d997646b74b8d50fbeaab4d41bdf53fc2851eff47fd5611
-- location: https://downloads.sourceforge.net/project/avidemux/avidemux/2.7.1/avidemux_2.7.1_win64.exe
-  sha256: c74803b089607d31451ff1f4a48c1458019d23ff6ddbd012e99bc87f4b237b9f
+- location: https://downloads.sourceforge.net/project/avidemux/avidemux/2.7.2/avidemux_2.7.2_win3.exe
+  sha256: a33efd0ae872ab6549b01c3ea2d0e8a7450fbe9fcec309dca79faa96fdad3418
+- location: https://downloads.sourceforge.net/project/avidemux/avidemux/2.7.2/Avidemux_2.7.2 VC++ 64bits .exe
+  sha256: f858eb4165fe08048c868c0f088466bb74a67d4297bb20bb2ae5e8e98aca5618
   architecture: x64
