@@ -7,4 +7,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/elcalc/elcalc/releases/download/5.0.0/elcalc.Setup.5.0.0.exe
   sha256: c1d049fe0cf7cdc81cc47c928be82722651c14fc9bea4773abc870851a5319bb
-  minWindowsVersion: 6.1
