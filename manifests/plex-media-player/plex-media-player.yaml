@@ -9,4 +9,3 @@ installers:
 - location: https://downloads.plex.tv/plexmediaplayer/2.29.1.961-bb236059/PlexMediaPlayer-2.29.1.961-bb236059-windows-x64.exe
   sha256: 9a2fe6c1d477b26f9ba770c53badd1a80001751e510bc1e4d790778a28167979
   architecture: x64
-  minWindowsVersion: 6.1
