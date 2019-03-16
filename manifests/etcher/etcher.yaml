@@ -8,8 +8,6 @@ installMethod: NSIS
 installers:
 - location: https://github.com/balena-io/etcher/releases/download/v1.4.9/balenaEtcher-Setup-1.4.9-x86.exe
   sha256: 6d76bb4f37298080ab66376184bedb670e59c3570623dd36253dc2a1074a486b
-  minWindowsVersion: 6.1
 - location: https://github.com/balena-io/etcher/releases/download/v1.4.9/balenaEtcher-Setup-1.4.9-x64.exe
   sha256: 24b6d0d174dfa5883ed313f7546d1df36794d3fe9eb0d7397ab96d6f82af2a96
   architecture: x64
-  minWindowsVersion: 6.1
