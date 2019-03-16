@@ -1,0 +1,15 @@
+id: premid
+name: PreMiD
+version: 1.2.0
+home: https://premid.app/
+repo: https://github.com/PreMiD/PreMiD/
+license: MIT License
+installMethod: Squirrel
+installers:
+- location: https://github.com/PreMiD/PreMiD/releases/download/v1.2/PreMiD-Windows-x32.exe
+  sha256: af6112737ea70ce4c8211f6100da55d9b711b0368cf73465af63e953b2aa4a16
+  minWindowsVersion: 6.1
+- location: https://github.com/PreMiD/PreMiD/releases/download/v1.2/PreMiD-Windows-x64.exe
+  sha256: 63167d8ecc9e7256dcd655fa7fd73d64f384529e068d418fa205df170995dc22
+  architecture: x64
+  minWindowsVersion: 6.1
