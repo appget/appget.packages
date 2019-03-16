@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/ridereceipts/ridereceipts/releases/download/v1.7.6/ridereceipts-setup-1.7.6.exe
   sha256: 3690e5be95f3b213badedd4644738bcee1b2560bfeecb24f3a13164f908f36ee
-  minWindowsVersion: 6.1
