@@ -7,4 +7,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/ZeroX-DG/SnippetStore/releases/download/v0.2.11/Snippet.Store.Setup.0.2.11.exe
   sha256: b2b34eed80d8ef873e49ea5c8d2986aabbcef26fa3117ab8f95827f367ab0968
-  minWindowsVersion: 6.1
