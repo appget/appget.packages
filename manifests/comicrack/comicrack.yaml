@@ -1,6 +1,6 @@
 id: comicrack
 name: ComicRack
-version: 0917
+version: 09178
 home: http://comicrack.cyolito.com/
 installMethod: NSIS
 installers:
