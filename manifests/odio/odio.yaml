@@ -7,4 +7,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/odioapp/odio/releases/download/v1.4.0/odio-setup-1.4.0.exe
   sha256: 790a3e37403dda8c55f22e7ad9c7e1b427c60c8cd4e9f5ad3ee59d964148a23f
-  minWindowsVersion: 6.1
