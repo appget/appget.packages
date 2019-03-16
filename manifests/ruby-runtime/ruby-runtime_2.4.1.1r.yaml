@@ -1,0 +1,13 @@
+id: ruby-runtime
+name: Ruby Runtime
+version: 2.4.1.1r
+home: https://www.ruby-lang.org/
+repo: https://github.com/ruby/ruby/
+license: Ruby License
+installMethod: Inno
+installers:
+- location: https://github.com/oneclick/rubyinstaller2/releases/download/2.4.1-1rc3/rubyinstaller-2.4.1-1rc3-x86.exe
+  sha256: 513072c99dfff0040f3f0bcfb9bb8dab1087829b802727c6ad8048d2197347f6
+- location: https://github.com/oneclick/rubyinstaller2/releases/download/2.4.1-1rc3/rubyinstaller-2.4.1-1rc3-x64.exe
+  sha256: 8ddbf5942d552421fca54ab13800499dcdfda6677a652d906cf9aa21e3e6ce45
+  architecture: x64
