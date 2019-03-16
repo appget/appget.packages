@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/martpie/museeks/releases/download/0.10.1/museeks-setup.exe
   sha256: 679c3573947e2f5254dee604f6e9654f084fcb1eebbd36cc608cf51c4ea0968b
-  minWindowsVersion: 6.1
