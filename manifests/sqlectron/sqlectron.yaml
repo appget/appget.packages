@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/sqlectron/sqlectron-gui/releases/download/v1.30.0/Sqlectron-Setup-1.30.0.exe
   sha256: 3b930d9f79022475574fa54966657661276c67bed2afd50fd8b060eea1a5cc35
-  minWindowsVersion: 6.1
