@@ -1,11 +1,11 @@
 id: sublime-text
 name: Sublime Text
-version: 3176
+version: 3200
 home: https://www.sublimetext.com/3
 installMethod: Inno
 installers:
-- location: https://download.sublimetext.com/Sublime Text Build 3176 Setup.exe
-  sha256: 7339ec15eda39c7b9328554a271cc4fc6029a3fbe9804c242be02b8c2d1854d1
-- location: https://download.sublimetext.com/Sublime Text Build 3176 x64 Setup.exe
-  sha256: a6f2652584c98b39855252feb84a830b303fd7b09002c9956f71426543403257
+- location: https://download.sublimetext.com/Sublime Text Build 3200 Setup.exe
+  sha256: 4f913c9d21591f853452a672605e005593e09bbf7151b2ea94d7f6e1d1581b30
+- location: https://download.sublimetext.com/Sublime Text Build 3200 x64 Setup.exe
+  sha256: feceb7621e0126a49bda1d4e2355e7caf758fdeecbfa06ad304adadca5689254
   architecture: x64
