@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/lutzroeder/netron/releases/download/v2.9.4/Netron-Setup-2.9.4.exe
   sha256: 8d015be6ca311b074030ce66f94614a50fbf98374bfebc99d5510469733858e1
-  minWindowsVersion: 6.1
