@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/gielcobben/caption/releases/download/v2.0.1/caption-setup-2.0.1.exe
   sha256: f511394a5d5578b3d4a3757d306ac70b4b538e6c3b3335fda4c38232151f645f
-  minWindowsVersion: 6.1
