@@ -7,4 +7,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/prisma/graphql-playground/releases/download/v1.8.10/graphql-playground-electron-setup-1.8.10.exe
   sha256: 52e6525f43c6f5679fd147ef346a84c7d4643106966e4b0ef6173e304ccac008
-  minWindowsVersion: 6.1
