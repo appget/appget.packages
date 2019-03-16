@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/autonomoussoftware/metronome-wallet-desktop/releases/download/v1.3.0/metronome-desktop-wallet_v1.3.0.exe
   sha256: 8ccb81701ebb00a5bc874106f3a6925c6317df51d80209d1e44280677d772a71
-  minWindowsVersion: 6.1
