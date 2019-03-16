@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/KELiON/cerebro/releases/download/v0.3.2/cerebro-setup-0.3.2.exe
   sha256: 666c14cf17ff7aaabb6ff6781006b28db25102a55ed500c3ea1fcb7db16f1214
-  minWindowsVersion: 6.1
