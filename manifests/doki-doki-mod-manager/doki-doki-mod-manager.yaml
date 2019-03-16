@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/DokiDokiModManager/Mod-Manager/releases/download/v3.2.2/ddmm-3.2.2-win.exe
   sha256: d2e4ed589dce97622ae28a94add0d4b6c13f79a707223ed9aa9bc8fd1089776c
-  minWindowsVersion: 6.1
