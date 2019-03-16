@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/meetalva/alva/releases/download/v0.9.1/Alva-0.9.1.exe
   sha256: acf845f9cebdef025cb43d572fbf25ad9bd28d28c63a9682f03751daf353507c
-  minWindowsVersion: 6.1
