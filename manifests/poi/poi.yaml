@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/poooi/poi/releases/download/v10.2.4/poi-setup-10.2.4.exe
   sha256: 8998e2818fa2a70e5586778baf2c1ae2ef0a247a40483912c7dfa7eeae2ff041
-  minWindowsVersion: 6.1
