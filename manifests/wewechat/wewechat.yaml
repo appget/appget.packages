@@ -7,4 +7,3 @@ installMethod: NSIS
 installers:
 - location: https://github.com/trazyn/weweChat/releases/download/v1.1.7/wewechat-1.1.7-win-setup.exe
   sha256: 95a5a4fe860ff625785392e8af9d3029221ffbfa13c96ea8b16286ccfc2afe5d
-  minWindowsVersion: 6.1
