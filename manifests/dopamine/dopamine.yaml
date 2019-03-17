@@ -8,4 +8,3 @@ installMethod: MSI
 installers:
 - location: https://www.digimezzo.com/content/software/dopamine/Dopamine 1.5.14 (Release).msi
   sha256: d205f03dedeef1fa2816696d1994987511ef177b0b29f255c2ae70f09bad71a6
-  minWindowsVersion: 6.1
