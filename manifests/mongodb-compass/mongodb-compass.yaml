@@ -7,4 +7,3 @@ installers:
 - location: https://downloads.mongodb.com/compass/mongodb-compass-1.13.1-win32-x64.exe
   sha256: a9c8b63c8677f20d18d5528ed61dbbdf8fe5853c71af8c4a3af4ce51038b6cbf
   architecture: x64
-  minWindowsVersion: 6.1
