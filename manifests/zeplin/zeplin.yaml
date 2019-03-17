@@ -6,4 +6,3 @@ installMethod: Squirrel
 installers:
 - location: https://zpl.io/download-windows-64
   architecture: x64
-  minWindowsVersion: 6.1
