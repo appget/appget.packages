@@ -5,4 +5,3 @@ home: https://www2.sugarsync.com/
 installMethod: NSIS
 installers:
 - location: https://www.sugarsync.com/downloads/p/SugarSyncSetup.exe
-  minWindowsVersion: 6.1
