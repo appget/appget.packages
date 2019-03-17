@@ -8,4 +8,3 @@ installMethod: Squirrel
 installers:
 - location: https://central.github.com/deployments/desktop/desktop/latest/win32
   architecture: x64
-  minWindowsVersion: 6.1
