@@ -5,4 +5,3 @@ home: https://popsql.com/
 installMethod: NSIS
 installers:
 - location: https://get.popsql.io/download/windows
-  minWindowsVersion: 6.1
