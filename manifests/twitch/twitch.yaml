@@ -4,4 +4,3 @@ home: https://app.twitch.tv/
 installMethod: Custom
 installers:
 - location: https://updates.twitchapp.net/windows/installer/TwitchSetup.exe
-  minWindowsVersion: 6.1
