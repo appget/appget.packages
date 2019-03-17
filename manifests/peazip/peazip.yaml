@@ -1,12 +1,12 @@
 id: peazip
 name: PeaZip
-version: 6.7.0
+version: 6.7.1
 home: http://www.peazip.org/
 repo: https://github.com/giorgiotani/PeaZip/
 installMethod: MSI
 installers:
-- location: https://github.com/giorgiotani/PeaZip/releases/download/6.7.0/peazip-6.7.0.WINDOWS.msi
-  sha256: a3275038fecfe68322c9e01e1805f0dfe313cc3b3a378d7ed6c931c575657c3a
-- location: https://github.com/giorgiotani/PeaZip/releases/download/6.7.0/peazip-6.7.0.WIN64.msi
-  sha256: cd3306b43c75f43002e06b0f4cea91a08f67e04ee254e98f17e4a25b34ce0f9c
+- location: https://github.com/giorgiotani/PeaZip/releases/download/6.7.1/peazip-6.7.1.WINDOWS.msi
+  sha256: b8b3c48b135361613780d428bbf0ff18abe5e7f2723734fb1d92ea6a0679c43b
+- location: https://github.com/giorgiotani/PeaZip/releases/download/6.7.1/peazip-6.7.1.WIN64.msi
+  sha256: 1f032de23650ffae6d539a1d9b022b88dcc2dbaa5f1581417974305690da552e
   architecture: x64
