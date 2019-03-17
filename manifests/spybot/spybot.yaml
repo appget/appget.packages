@@ -6,4 +6,3 @@ installMethod: Inno
 installers:
 - location: https://updates2.safer-networking.org/spybot1/spybotsd-2.7.64.0.exe
   sha256: 770c55cdd8a793e4ecdbcd88003631ce30d0940a7965ed56afb36b0d26cbd68d
-  minWindowsVersion: 6.1
