@@ -6,4 +6,3 @@ installMethod: NSIS
 installers:
 - location: https://download01.logi.com/web/ftp/pub/techsupport/options/Options_6.72.344.exe
   sha256: d1a44fa96049b8b0f9fb8a0b719588d7ae0dfebe7770ca26aff0a35d27fe502a
-  minWindowsVersion: 6.1
