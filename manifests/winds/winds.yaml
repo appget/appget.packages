@@ -8,4 +8,3 @@ installMethod: NSIS
 installers:
 - location: https://s3.amazonaws.com/winds-2.0-releases/releases/Winds Setup 3.1.6.exe
   sha256: 38bb226dd47892b5dbe957361b5427187aafb04887a17e1f7cf15b90fafb64f9
-  minWindowsVersion: 6.1
