@@ -6,7 +6,5 @@ repo: https://github.com/marktext/marktext/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/marktext/marktext/releases/download/v0.13.65/marktext-0.13.65.exe
-  sha256: fb0b9527a172e600cb73a786c9f1498333083b5ac8a8c14d321502df4706dda8
 - location: https://github.com/marktext/marktext/releases/download/v0.13.65/marktext-setup-0.13.65.exe
   sha256: 356e44eb38f22b2a3d0e896506e40fd6884b3b7aac14bd61d4571103e85dab52
