@@ -5,4 +5,3 @@ home: https://quickbooks.intuit.com/
 installMethod: NSIS
 installers:
 - location: https://http-download.intuit.com/http.intuit/CMO/qbo_client_web/static/release/win/latest/QuickBooks-Setup.exe
-  minWindowsVersion: 6.1
