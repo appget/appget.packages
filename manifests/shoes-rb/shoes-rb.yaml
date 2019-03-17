@@ -6,4 +6,3 @@ installMethod: NSIS
 installers:
 - location: https://shoes.mvmanila.com/public/shoes/shoes-3.3.7-gtk3-32.exe
   sha256: 2ab528858cfa3917c37e3f7c4eb153755efe58f1a08c167b68e2a522505d3c9f
-  minWindowsVersion: 6.1
