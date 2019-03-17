@@ -7,4 +7,3 @@ installMethod: Inno
 installers:
 - location: https://update.gitter.im/win/GitterSetup-4.1.0.exe
   sha256: dfe7b52c441f0b6cc407e25b520f776b6b61ede4985a0b9fe43271b42903b89e
-  minWindowsVersion: 6.1
