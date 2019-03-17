@@ -6,4 +6,3 @@ installMethod: NSIS
 installers:
 - location: https://nextpvr.com/NPVRSetup_4_2_4_190307.exe
   sha256: 81ee3168357b250420fd664d6fe0c4bd3f9c05b7d67e9533aece1e17132790d2
-  minWindowsVersion: 6.1
