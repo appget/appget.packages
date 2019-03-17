@@ -1,9 +1,9 @@
 id: arduino
 name: Arduino
-version: 1.8.8
+version: 1.8.9
 home: https://www.arduino.cc/
 repo: https://github.com/arduino/Arduino/
 installMethod: NSIS
 installers:
-- location: https://downloads.arduino.cc/arduino-1.8.8-windows.exe
-  sha256: 9cd95d4142f389c230d1ae06f3fa4b1d1cc5419e025798ebc12ff026298eecdc
+- location: https://downloads.arduino.cc/arduino-1.8.9-windows.exe
+  sha256: 1c9ba2a49a241cc6b18f5473deb37723055cdce56d0e55a827219ebe97dc8667
