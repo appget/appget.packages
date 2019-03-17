@@ -5,7 +5,5 @@ home: https://slack.com/
 installMethod: Squirrel
 installers:
 - location: https://slack.com/ssb/download-win
-  minWindowsVersion: 6.1
 - location: https://slack.com/ssb/download-win64
   architecture: x64
-  minWindowsVersion: 6.1
