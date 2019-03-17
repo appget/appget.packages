@@ -6,4 +6,3 @@ license: MIT
 installMethod: Squirrel
 installers:
 - location: http://1clipboard.io/download/windows/1ClipboardSetup.exe
-  minWindowsVersion: 6.1
