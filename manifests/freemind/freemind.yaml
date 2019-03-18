@@ -1,8 +1,8 @@
 id: freemind
 name: FreeMind
-version: 1.0.0
+version: 1.0.1
 home: http://freemind.sourceforge.net/
 installMethod: Inno
 installers:
-- location: https://downloads.sourceforge.net/project/freemind/freemind/1.0.0/FreeMind-Windows-Installer-1.0.0-max-java-installer-embedded.exe
-  sha256: 785565ac4cf379c857f97890070e7f82afdf72f9e65e1a71902732af0fc00110
+- location: https://downloads.sourceforge.net/project/freemind/freemind/1.0.1/FreeMind-Windows-Installer-1.0.1-max-java-installer-embedded.exe
+  sha256: 703f482fb519ce7f0f9f422df35fc769abb700c25b56b17225209314304927f9
