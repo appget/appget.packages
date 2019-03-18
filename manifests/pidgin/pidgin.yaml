@@ -1,10 +1,10 @@
 id: pidgin
 name: Pidgin
-version: 2.12.0
+version: 2.13.0
 home: https://pidgin.im/
 repo: https://sourceforge.net/projects/pidgin/
 license: GNU General Public License version 2.0
 installMethod: NSIS
 installers:
-- location: https://downloads.sourceforge.net/project/pidgin/Pidgin/2.12.0/pidgin-2.12.0.exe
-  sha256: ad2e65a2b968e2f0ce08bbe9227ab2ba314df6e869f22848fcc4b68783cb40cc
+- location: https://downloads.sourceforge.net/project/pidgin/Pidgin/2.13.0/pidgin-2.13.0.exe
+  sha256: d641963ae5b19f9229805b271aa5593712b8b69d97be659d827856a84109b048
