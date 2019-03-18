@@ -1,0 +1,7 @@
+id: yandex-browser
+name: Yandex Browser
+version: 17.9.1.966
+home: https://browser.yandex.com/
+installMethod: MSI
+installers:
+- location: https://download.cdn.yandex.net/browser/corporate/yandex_msi.msi
