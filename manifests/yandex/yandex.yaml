@@ -1,0 +1,7 @@
+id: yandex
+name: Yandex
+version: 17.9.1.966
+home: https://yandex.ru/
+installMethod: MSI
+installers:
+- location: https://download.cdn.yandex.net/browser/corporate/yandex_msi.msi
