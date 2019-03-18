@@ -5,4 +5,3 @@ home: https://www.infrontfinance.com/
 installMethod: Squirrel
 installers:
 - location: https://software.goinfront.com/Terminal/Releases/Latest/SetupInfront.exe
-  minWindowsVersion: 6.1
