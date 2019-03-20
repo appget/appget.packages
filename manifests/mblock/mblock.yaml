@@ -1,7 +1,7 @@
 id: mblock
 name: mBlock
 version: 5.0.0
-home: http://www.mblock.cc/
+home: https://www.mblock.cc/
 installMethod: Inno
 installers:
 - location: https://mblockapp.oss-cn-hongkong.aliyuncs.com/mblock5/win32/V5.0.1.exe
