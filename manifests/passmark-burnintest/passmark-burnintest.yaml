@@ -1,6 +1,6 @@
 id: passmark-burnintest
 name: PassMark BurnInTest
-version: 9.0.1013.0
+version: 9.0.1014.0
 home: https://www.passmark.com/products/bit.htm
 installMethod: Inno
 installers:
