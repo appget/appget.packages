@@ -1,11 +1,7 @@
 id: 7zip
-name: 7-Zip
-version: 19.00
-home: https://www.7-zip.org/
-installMethod: MSI
+name: Smoke Test App
+version: 1.2.3
+home: https://appget.net
+installMethod: Custom
 installers:
-- location: https://www.7-zip.org/a/7z1900.msi
-  sha256: b49d55a52bc0eab14947c8982c413d9be141c337da1368a24aa0484cbb5e89cd
-- location: https://www.7-zip.org/a/7z1900-x64.msi
-  sha256: a7803233eedb6a4b59b3024ccf9292a6fffb94507dc998aa67c5b745d197a5dc
-  architecture: x64
+- location: https://appget.net/0a16dfa3-787e-4a75-ae86-05f7d2088921
