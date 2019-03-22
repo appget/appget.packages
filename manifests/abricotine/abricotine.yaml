@@ -1,0 +1,11 @@
+id: abricotine
+name: Abricotine
+version: 0.7.0
+home: https://abricotine.brrd.fr/
+repo: https://github.com/brrd/Abricotine/
+license: GNU General Public License v3.0
+installMethod: Squirrel
+installers:
+- location: https://github.com/brrd/Abricotine/releases/download/0.7.0/Abricotine-0.7.0-windows-x64.exe
+  sha256: b7bbcab05486cece51f21e04421d4416a9cfb4c90ab204b68f2f329f1f9e1ed5
+  architecture: x64
