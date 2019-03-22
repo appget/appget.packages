@@ -8,3 +8,6 @@ installMethod: NSIS
 installers:
 - location: https://github.com/mjmlio/mjml-app/releases/download/2.11.0/mjml-app-2.11.0-win.exe
   sha256: 50a51866d6c13f4f93abbb1f695245ff99604f24f9fca674f153b2a4fa788da1
+- location: https://github.com/mjmlio/mjml-app/releases/download/2.11.0/mjml-app-win-x64_2.11.0.exe
+  sha256: 50a51866d6c13f4f93abbb1f695245ff99604f24f9fca674f153b2a4fa788da1
+  architecture: x64
