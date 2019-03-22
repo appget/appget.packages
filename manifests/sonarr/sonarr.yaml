@@ -1,6 +1,6 @@
 id: sonarr
 name: Sonarr
-version: 2.0.0.5301
+version: 2.0.0.5319
 home: https://sonarr.tv/
 repo: https://github.com/Sonarr/Sonarr/
 license: GNU GPL v3
