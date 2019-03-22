@@ -1,7 +1,6 @@
 id: mmrcalculator
 name: R6RC
 version: 0.4.4
-home: https://www.r6rc.com/
 repo: https://github.com/AustinLeath/r6rc/
 license: MIT License
 installMethod: NSIS
