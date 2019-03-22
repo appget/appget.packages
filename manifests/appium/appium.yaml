@@ -1,0 +1,10 @@
+id: appium
+name: Appium
+version: 1.11.0
+repo: https://github.com/appium/appium-desktop/
+installMethod: NSIS
+installers:
+- location: https://github.com/appium/appium-desktop/releases/download/v1.11.0/appium-desktop-setup-1.11.0.exe
+  sha256: 6c41ec4e69c7866c47ddb1c7b8fc95d988277c56ffdf1d2bb1a6ec24e1febf37
+- location: https://github.com/appium/appium-desktop/releases/download/v1.11.0/appium-desktop-web-setup-1.11.0.exe
+  sha256: d076c3bb6cf85590d8f315e1724ae7fd373953554b72521a8b46c94608e69ee9
