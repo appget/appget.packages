@@ -1,0 +1,10 @@
+id: unfx-proxy-checker
+name: Unfx Proxy Checker
+version: 1.5.2
+home: https://openproxy.space/software/proxy-checker
+repo: https://github.com/assnctr/unfx-proxy-checker/
+license: MIT License
+installMethod: NSIS
+installers:
+- location: https://github.com/assnctr/unfx-proxy-checker/releases/download/v1.5.2/unfx-proxy-checker-v1.5.2-win-installer.exe
+  sha256: 74f21f25ed9df1be2a427f8743a0ad73eb271620ea5345bdba0c1a9e3b4d7b10
