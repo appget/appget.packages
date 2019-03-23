@@ -1,6 +1,6 @@
 id: firefox
 name: Mozilla Firefox
-version: 66.0
+version: 66.0.1
 home: https://www.mozilla.org/firefox/
 installMethod: Custom
 args:
