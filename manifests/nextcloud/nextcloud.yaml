@@ -1,7 +1,7 @@
 id: nextcloud
 name: Nextcloud
 version: 2.5.2.5231
-home: https://nextcloud.com/install/#install-clients
+home: https://nextcloud.com/
 repo: https://github.com/nextcloud/desktop/
 installMethod: NSIS
 installers:
