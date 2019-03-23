@@ -1,13 +1,13 @@
 id: hain
 name: Hain
-version: 0.6.6
+version: 0.7.0-beta1
 home: https://hainproject.github.io/hain/
 repo: https://github.com/hainproject/hain/
 license: MIT License
 installMethod: Squirrel
 installers:
-- location: https://github.com/hainproject/hain/releases/download/v0.6.6/HainSetup-ia32-v0.6.6.exe
-  sha256: a7da87019ac4d0d9f62bf9aa82e0a37df0ea3e56c9c578605d7cf328d4d39e88
-- location: https://github.com/hainproject/hain/releases/download/v0.6.6/HainSetup-x64-v0.6.6.exe
-  sha256: 59b048c9fb4e635dbe7fbeb1576c62d25fa7a58e84cff709f228d97961f6378d
+- location: https://github.com/hainproject/hain/releases/download/v0.7.0-beta.1/HainSetup-ia32-v0.7.0-beta.1.exe
+  sha256: 6072e0ef4f00a3f671287451de25665cc12749fd8dffc5c51b9a4504570b817a
+- location: https://github.com/hainproject/hain/releases/download/v0.7.0-beta.1/HainSetup-x64-v0.7.0-beta.1.exe
+  sha256: e49e938ec09066de1bf9972b3afee98fa08872a4fb2fd274588b40e898aa1a69
   architecture: x64
