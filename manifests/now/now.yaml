@@ -7,4 +7,4 @@ license: MIT License
 installMethod: Squirrel
 installers:
 - location: https://github.com/zeit/now-desktop/releases/download/4.0.19/now-desktop-Setup-4.0.19.exe
-  sha256: cb74a7cb048817ba2992639315adbf12945e1da49c184a1ddc4c3f38fa5c7c67
+  sha256: 8eb55a5af5e83ab24ea79408d112319bdb460ad4902d83db861aea02f754319c
