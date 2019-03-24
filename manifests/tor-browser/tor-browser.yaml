@@ -1,11 +1,11 @@
 id: tor-browser
 name: Tor Browser
-version: 8.0.7
+version: 8.0.8
 home: https://www.torproject.org/projects/torbrowser.html
 installMethod: NSIS
 installers:
-- location: https://www.torproject.org/dist/torbrowser/8.0.7/torbrowser-install-8.0.7_en-US.exe
-  sha256: 35685a05625bdd110cf57359ab32347e807ce534deb6b75e3b837da86ee86f34
-- location: https://www.torproject.org/dist/torbrowser/8.0.7/torbrowser-install-win64-8.0.7_en-US.exe
-  sha256: 503ea12984176ca203a7ec8dede07c4b22803db8a614811be799394045aecd76
+- location: https://www.torproject.org/dist/torbrowser/8.0.8/torbrowser-install-8.0.8_en-US.exe
+  sha256: bfe32a737e9fa37bf0c8837dbf3385be41cd9e8f9a88850d8f2946bb736e784f
+- location: https://www.torproject.org/dist/torbrowser/8.0.8/torbrowser-install-win64-8.0.8_en-US.exe
+  sha256: 33ac5c0d8b73c217fd200183631a4ba91431efdb702ddef0b566dd60176d24c9
   architecture: x64
