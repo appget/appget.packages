@@ -7,4 +7,4 @@ license: MIT License
 installMethod: NSIS
 installers:
 - location: https://github.com/lutzroeder/netron/releases/download/v2.9.7/Netron-Setup-2.9.7.exe
-  sha256: d91dcb6641c022c343588fa6c147bbec0aec74220a9f4f5e20d4e9d1702ce4ce
+  sha256: fb485292ab90783dd245dea5641946aa4160924ca081ade53ce0ad860d9648f5
