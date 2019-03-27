@@ -1,10 +1,10 @@
 id: workrave
 name: Workrave
-version: 1.10.30
+version: 1.10.31
 home: http://www.workrave.org/
 repo: https://github.com/rcaelers/workrave/
 license: GNU General Public License v3.0
 installMethod: Inno
 installers:
-- location: https://github.com/rcaelers/workrave/releases/download/v1_10_30/workrave-win32-v1.10.30.exe
-  sha256: 4879592d462d3210b9c4fd8438c1296f955d395f20f2b90ba75836d9f036dcdd
+- location: https://github.com/rcaelers/workrave/releases/download/v1_10_31/workrave-win32-v1.10.31.exe
+  sha256: 6e739e654f8cf09932da76d99bf110bf806fc639083b5ec543ab89632c27aa21
