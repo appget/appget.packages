@@ -1,0 +1,10 @@
+id: kaku
+name: Kaku
+version: 2.0.2.967
+home: https://kaku.rocks/
+repo: https://github.com/EragonJ/Kaku/
+license: MIT License
+installMethod: NSIS
+installers:
+- location: https://github.com/EragonJ/Kaku/releases/download/2.0.2/Kaku-Setup-2.0.2.exe
+  sha256: 2fa7bf3206eea6e577752c3c092a86a8f94cc74d3dc37ebdc32b55ad5b6b460d
