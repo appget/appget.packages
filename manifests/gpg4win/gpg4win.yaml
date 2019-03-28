@@ -1,6 +1,6 @@
 id: gpg4win
 name: GPG4Win
-version: 3.1.5.45282
+version: 3.1.7
 home: https://gpg4win.org/
 installMethod: NSIS
 installers:
