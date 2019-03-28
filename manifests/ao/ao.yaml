@@ -4,7 +4,5 @@ version: 6.8.0.364
 repo: https://github.com/klaussinani/ao/
 installMethod: NSIS
 installers:
-- location: https://github.com/klaussinani/ao/releases/download/v6.8.0/ao-6.8.0.exe
-  sha256: 82b97f9870b609fdfb932680b33aeccf63e79c3d1aca43ace62ba9117a1e0983
 - location: https://github.com/klaussinani/ao/releases/download/v6.8.0/ao-setup-6.8.0.exe
   sha256: 5cef1becc4dd8dfb6b2bbf5f699d67c3fe5d69c19f8ea55e2250f41316f2340a
