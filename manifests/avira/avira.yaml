@@ -1,8 +1,8 @@
 id: avira
 name: Avira
-version: 1.2.131.15242
+version: 1.2.132.16752
 home: https://www.avira.com/
 installMethod: Wix
 installers:
 - location: https://package.avira.com/package/oeavira/win/int/avira_en_fass0_5b7edcddcc5ac__ws24.exe
-  sha256: 8829cff9b383d2949dfe4e28b6438c7963b4f84bde944a1fae3ceb3f680d7828
+  sha256: a8706d06db5a0f93d91dffc13d4b85f4ffd4cbfb159973360a9b4a4b7342762f
