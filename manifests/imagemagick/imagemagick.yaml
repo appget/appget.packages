@@ -1,11 +1,11 @@
 id: imagemagick
-name: ImageMagick Q
+name: ImageMagick Q16
 version: 7.0.8
 home: https://www.imagemagick.org/
 installMethod: Inno
 installers:
-- location: https://imagemagick.org/download/binaries/ImageMagick-7.0.8-34-Q16-x86-dll.exe
-  sha256: 40ee0fc516f6b0abe8d537cdde173c638fee9cb3b910f77a8275dbd1771cba05
-- location: https://imagemagick.org/download/binaries/ImageMagick-7.0.8-34-Q16-x64-dll.exe
-  sha256: 4646e689394faacc2e6448582eb7f8471263108f8da0cfafff9dfd9f0d9e13e8
+- location: https://imagemagick.org/download/binaries/ImageMagick-7.0.8-35-Q16-x86-dll.exe
+  sha256: bb3b943fe36652aaeb1af705481e27d2a9a735f1a841b756037f8a704d32395f
+- location: https://imagemagick.org/download/binaries/ImageMagick-7.0.8-35-Q16-x64-dll.exe
+  sha256: c4868f9818209d4ba2973d51bad3ba3e97fdac8faf68d0ec683a019453168723
   architecture: x64
