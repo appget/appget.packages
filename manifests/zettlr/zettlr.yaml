@@ -1,11 +1,11 @@
 id: zettlr
 name: Zettlr
-version: 1.2.1
+version: 1.2.2
 home: https://www.zettlr.com/
 repo: https://github.com/Zettlr/Zettlr/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/Zettlr/Zettlr/releases/download/v1.2.1/Zettlr-win32-x64-1.2.1.exe
-  sha256: aadc29c37a3b7cc8a7b436ee8fd003670d25e139b7f099171ea9f281da48de24
+- location: https://github.com/Zettlr/Zettlr/releases/download/v1.2.2/Zettlr-win32-x64-1.2.2.exe
+  sha256: 236b15868d6da8872e7bad44489223ab4e83c2ff70756416190d983215c0ec79
   architecture: x64
