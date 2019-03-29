@@ -1,10 +1,10 @@
 id: djv
 name: DJV Imaging
-version: 1.2.5
+version: 1.2.6
 home: http://djv.sourceforge.net/
 repo: https://sourceforge.net/projects/djv/
 installMethod: NSIS
 installers:
-- location: https://downloads.sourceforge.net/project/djv/djv-stable/1.2.5/DJV-1.2.5-win64.exe
-  sha256: 373add81efb12e8365536d86a5505794d69df8b3da3f4df2446c782eb53c56f0
+- location: https://downloads.sourceforge.net/project/djv/djv-stable/1.2.6/DJV-1.2.6-win64.exe
+  sha256: 0ad52637f87da38ba8e18520c8e6adceff4bb5c467cde710cef61fdc9a6984a2
   architecture: x64
