@@ -1,0 +1,8 @@
+id: appium
+name: Appium
+version: 1.12.0.20190327.10
+repo: https://github.com/appium/appium-desktop/
+installMethod: NSIS
+installers:
+- location: https://github.com/appium/appium-desktop/releases/download/v1.12.0/Appium-windows-1.12.0.exe
+  sha256: 3a7e498f22d0d48ffbd0ea86b0b879fdb65299136157e7c921e840d8e273eece
