@@ -1,7 +1,7 @@
 id: nuclear
 name: nuclear
 version: 0.4.4
-home: https://nuclear.gumblert.tech/
+home: https://nuclear.js.org/
 repo: https://github.com/nukeop/nuclear/
 license: GNU Affero General Public License v3.0
 installMethod: NSIS
