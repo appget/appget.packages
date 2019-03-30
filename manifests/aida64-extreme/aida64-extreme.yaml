@@ -5,4 +5,3 @@ home: https://www.aida64.com/
 installMethod: Inno
 installers:
 - location: http://download.aida64.com/aida64extreme599.exe
-  sha256: c9b8d414b631995759702391798a7657c9db1187e4456c4d794e6196e3f0c334
