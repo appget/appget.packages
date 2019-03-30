@@ -5,4 +5,3 @@ home: https://www.xmedia-recode.de/
 installMethod: Inno
 installers:
 - location: https://www.xmedia-recode.de/download/XMediaRecode3452_setup.exe
-  sha256: 17acfa9abb1e62d2d21a95038d74acbc3963d348ef888fb3adcdf862b55894c6
