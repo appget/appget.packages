@@ -4,4 +4,5 @@ version: 3.1.0
 installMethod: MSI
 installers:
 - location: https://download.microsoft.com/download/9/1/E/91E9F42C-3F1F-4AD9-92B7-8DD65DA3B0C2/mvmc_setup.msi
+  sha256: 520b0d08e0b9d2d95206369e56461d3873fb208f507fbccc28651d43aba37f33
   architecture: x64
