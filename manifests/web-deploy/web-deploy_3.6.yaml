@@ -4,6 +4,8 @@ version: 10.0.1973
 home: https://www.iis.net/downloads/microsoft/web-deploy
 installMethod: MSI
 installers:
-- location: https://download.microsoft.com/download/0/1/D/01DC28EA-638C-4A22-A57B-4CEF97755C6C/WebDeploy_x86_en-US.msi
-- location: https://download.microsoft.com/download/0/1/D/01DC28EA-638C-4A22-A57B-4CEF97755C6C/WebDeploy_amd64_en-US.msi
+- location: https://download.microsoft.com/download/5/6/4/56418889-EAC9-4CE6-93C3-E0DA3D64A0D8/WebDeploy_x86_zh-CN.msi
+  sha256: e078746e91f9fd500adbb781f53539f647d3b146309fa9f2f520eb1d1841a9ab
+- location: https://download.microsoft.com/download/5/6/4/56418889-EAC9-4CE6-93C3-E0DA3D64A0D8/WebDeploy_amd64_zh-CN.msi
+  sha256: 589bc86ad98d60871cdd76a86192f09349875ddef8db33178aeba2a583ff3c32
   architecture: x64
