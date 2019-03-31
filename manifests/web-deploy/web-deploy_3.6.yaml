@@ -5,7 +5,5 @@ home: https://www.iis.net/downloads/microsoft/web-deploy
 installMethod: MSI
 installers:
 - location: https://download.microsoft.com/download/0/1/D/01DC28EA-638C-4A22-A57B-4CEF97755C6C/WebDeploy_x86_en-US.msi
-  sha256: 5a2176f4571948b362396b6c80ebf8404a9c8ab6cb91fb778ea065c65a666561
 - location: https://download.microsoft.com/download/0/1/D/01DC28EA-638C-4A22-A57B-4CEF97755C6C/WebDeploy_amd64_en-US.msi
-  sha256: 721d9c3b8416518c0bb8a440e9d70ea927da151b9c3d428a1b04e49cffcdc484
   architecture: x64
