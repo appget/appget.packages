@@ -1,0 +1,9 @@
+id: messenger-for-desktop
+name: Messenger for Desktop
+version: 3.0.6
+home: https://www.digitalocean.com/
+installMethod: NSIS
+installers:
+- location: https://mfd3.sfo2.cdn.digitaloceanspaces.com/Messenger for Desktop Setup 3.0.6.exe
+  sha256: 2ccf938f45463ab9646b827b0eb32653a8196ca93eb4787878e496b8d7ae11cd
+  architecture: x64
