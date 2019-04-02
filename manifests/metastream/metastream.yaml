@@ -1,10 +1,10 @@
 id: metastream
 name: Metastream
-version: 0.2.3
+version: 0.2.5
 home: https://getmetastream.com/
 repo: https://github.com/samuelmaddock/metastream/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/samuelmaddock/metastream/releases/download/v0.2.3/metastream-setup-0.2.3.exe
-  sha256: 346664da68392c65972ebf0256925e3df06e34d814ad77bbcb8ace23f3a36e3f
+- location: https://github.com/samuelmaddock/metastream/releases/download/v0.2.5/metastream-setup-0.2.5.exe
+  sha256: 1142ff2c540283a09972ad1e6e307bd17d84a178184e8a562823ace4d49bdb60
