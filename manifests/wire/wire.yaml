@@ -1,10 +1,10 @@
 id: wire
 name: Wire
-version: 3.8.2927
+version: 3.9.2928
 home: https://wire.com/download/
 repo: https://github.com/wireapp/wire-desktop/
 license: GNU General Public License v3.0
 installMethod: Squirrel
 installers:
-- location: https://github.com/wireapp/wire-desktop/releases/download/windows/3.8.2927/WireSetup.3.8.2927.exe
-  sha256: dce96d7cbca0ff707bb5e90831480a7e009f3886cf7fd14a395082a466d80e90
+- location: https://github.com/wireapp/wire-desktop/releases/download/windows/3.9.2928/WireSetup.3.9.2928.exe
+  sha256: 0c38350fa2825dc99059eca69ca2a5d19c37c4f79e32b996e3f3a240a228f009
