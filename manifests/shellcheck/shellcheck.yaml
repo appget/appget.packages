@@ -1,0 +1,8 @@
+id: shellcheck
+name: shellcheck
+version: 0.6.0
+home: https://www.shellcheck.net/
+installMethod: Custom
+installers:
+- location: https://shellcheck.storage.googleapis.com/shellcheck-v0.6.0.exe
+  sha256: 3026f9598c8c62e5f7ee3dbadfa9254ad4dac925b2ae1b1a15d8052d858c465a
