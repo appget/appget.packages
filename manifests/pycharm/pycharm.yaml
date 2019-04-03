@@ -1,8 +1,10 @@
 id: pycharm
 name: PyCharm
-version: 191.6183.50
+version: 191.6605.12
 home: https://www.jetbrains.com/pycharm/
 installMethod: NSIS
 installers:
-- location: https://download.jetbrains.com/python/pycharm-professional-2019.1.exe
-  sha256: f8c2253cf9f2b39bd5ff74b6c115273aef3c59a6aaa2eff4b079fdfd312942aa
+- location: https://download.jetbrains.com/python/pycharm-professional-2019.1.1.exe
+  sha256: 08b9c5563c35200e4661ea8eae9ae4043b0f69986640a2e608d9a76ff96361aa
+- location: https://download.jetbrains.com/python/pycharm-professional-anaconda-2019.1.1.exe
+  sha256: 9e07babd0933b559840b507e42572d4df9c19f8b92c10665c44c173f4bb4353c
