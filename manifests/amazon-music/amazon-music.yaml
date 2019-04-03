@@ -4,5 +4,5 @@ version: 7.3.0
 home: https://www.amazon.com/musicapps
 installMethod: InstallBuilder
 installers:
-- location: https://images-na.ssl-images-amazon.com/images/G/01/digital/music/morpho/installers/20190402/041946ded9/AmazonMusicInstaller.exe?ref=dm_mo_instruct_start
+- location: https://images-na.ssl-images-amazon.com/images/G/01/digital/music/morpho/installers/20190402/041946ded9/AmazonMusicInstaller.exe
   sha256: 2e2c28b8af0426d7b6461e0bae98982f3ae6d69272378ec9bc27eeec77355851
