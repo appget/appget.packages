@@ -5,4 +5,4 @@ home: https://www.ntwind.com/software/winsnap.html
 installMethod: NSIS
 installers:
 - location: https://www.ntwind.com/download/WinSnap_5.0.8-setup.exe
-  sha256: b94b5b30b487e042f6bb966a33682fa56dc74dd303bd481b5143294b11f5262f
+  sha256: 84722491618c5ede46f9a01e55f49a5549ce586509d7437ac60c9b63c5e6fa67
