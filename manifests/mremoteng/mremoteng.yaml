@@ -1,10 +1,10 @@
 id: mremoteng
 name: mRemoteNG
-version: 1.76.18.26260
+version: 1.76.19.35762
 home: https://mremoteng.org/
 repo: https://github.com/mRemoteNG/mRemoteNG/
 license: GNU General Public License v2.0
 installMethod: MSI
 installers:
-- location: https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.18/mRemoteNG-Installer-1.76.18.26260.msi
-  sha256: 244e6d5e81ccd3a1fbde999d2ee4cc634cfbe881099632694a13734e1239d6ac
+- location: https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.19/mRemoteNG-Installer-1.76.19.35762.msi
+  sha256: 1f8b8e59bbbf15fc65caeaa7e3b02b39ea574e075a8e54f76101d2b2153e54b2
