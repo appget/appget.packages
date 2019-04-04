@@ -1,11 +1,11 @@
 id: db-browser-for-sqlite
 name: DB Browser for SQLite
-version: 3.11.1
+version: 3.11.2
 home: https://sqlitebrowser.org/
 installMethod: MSI
 installers:
-- location: https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.11.1-win32.msi
-  sha256: 76076d5c20240479238705f2211cad709f23c31cabe1682e2953bf6a7168b8d0
-- location: https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.11.1-win64.msi
-  sha256: ffe1f44f10d49c9d382e66b951125ae1ee10d4bce93e5a32dbb8547d6bf7122f
+- location: https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.11.2-win32.msi
+  sha256: 0a660c8eefdfbb8be6cf8be2abe223b0149ce8723cc1c19a36b88198be071abe
+- location: https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.11.2-win64.msi
+  sha256: 9db9d0c69c1372f09ef54599e3f87af3e28057a20c2bd6f59787d1cf16edb742
   architecture: x64
