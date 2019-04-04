@@ -1,9 +1,9 @@
 id: pgadmin-4
 name: pgAdmin
-version: 4.3
+version: 4.4
 home: https://www.pgadmin.org/
 license: GPL v3
 installMethod: Inno
 installers:
-- location: https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v4.3/windows/pgadmin4-4.3-x86.exe
-  sha256: 933622bcc59586e112dd8a07e4f8981ebe30f31600c98fdaa389d71f790252f8
+- location: https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v4.4/windows/pgadmin4-4.4-x86.exe
+  sha256: 371f341f3a629f1691a3876085834cfd53360abe72543cd27ae4eec6d8f9676b
