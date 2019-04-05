@@ -1,0 +1,11 @@
+id: filebot
+name: FileBot
+version: 4.8.5
+home: https://www.filebot.net/
+installMethod: MSI
+installers:
+- location: https://get.filebot.net/filebot/FileBot_4.8.5/FileBot_4.8.5_x86.msi
+  sha256: 3ecf043d8722efb74c04e87628bcd15bc52fca76a91e0b0590fc3b1985591242
+- location: https://get.filebot.net/filebot/FileBot_4.8.5/FileBot_4.8.5_x64.msi
+  sha256: 289f14fad9bca5acdb2f152832a263104c001e3f799fcb4d21eab691f7d9b24e
+  architecture: x64
