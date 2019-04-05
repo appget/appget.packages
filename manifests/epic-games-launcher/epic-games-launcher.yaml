@@ -1,6 +1,6 @@
 id: epic-games-launcher
 name: Epic Games Launcher
-version: 1.1.183
+version: 1.1.195
 home: https://epicgames.com/
 installMethod: MSI
 installers:
