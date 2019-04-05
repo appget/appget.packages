@@ -1,0 +1,7 @@
+id: wunderlist
+name: Wunderlist
+version: 3.19.7
+home: https://www.wunderlist.com/
+installMethod: NSIS
+installers:
+- location: https://s3-eu-west-1.amazonaws.com/wunderlist-windows/win7/Wunderlist-Setup.exe
