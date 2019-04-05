@@ -1,6 +1,6 @@
 id: cloud-spanner-manager
 name: Cloud Spanner Manager
-version: 0.8 beta
+version: 0.9
 home: https://www.mongodbmanager.com/cloud-spanner-manager
 installMethod: Inno
 installers:
