@@ -1,8 +1,8 @@
 id: penguinet
 name: PenguiNet
-version: 2.70
-home: http://www.siliconcircus.com/
+version: v2.70
+home: https://www.siliconcircus.com/
 installMethod: Inno
 installers:
-- location: http://www.siliconcircus.com/download/PN_270setup.exe
+- location: https://www.siliconcircus.com/download/PN_270setup.exe
   sha256: 1e22c05445ccb0225b1a73d521db54e62e45d7cfea9dd845046b0f62bf0630d6
