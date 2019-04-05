@@ -1,10 +1,10 @@
 id: nteract
 name: nteract
-version: 0.12.3
+version: 0.13.0
 home: https://nteract.io/
 repo: https://github.com/nteract/nteract/
 license: BSD 3-Clause "New" or "Revised" License
 installMethod: NSIS
 installers:
-- location: https://github.com/nteract/nteract/releases/download/v0.12.3/nteract-setup-0.12.3.exe
-  sha256: f42822e4f6e92d18b45520dedf78258061abb5497cce83c87d243f16091d7731
+- location: https://github.com/nteract/nteract/releases/download/v0.13.0/nteract.Setup.0.13.0.exe
+  sha256: 27044b5dd3eaad6920357785158cb4e6991cb59f65255aa1ebfc3c1a39fb9a08
