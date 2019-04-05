@@ -1,0 +1,8 @@
+id: action-screen-recorder
+name: Action!
+version: 3.9.1
+home: https://mirillis.com/en/products/action.html
+installMethod: NSIS
+installers:
+- location: https://downloads.mirillis.com/files/action_3_9_1_setup.exe
+  sha256: 59eb7ebb818ff4949d68bf73f808dd9fb57154d28a8e7fcf1544862a5e0360c4
