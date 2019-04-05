@@ -1,0 +1,9 @@
+id: cheat-engine
+name: Cheat Engine
+version: 6.8.3.6
+home: https://cheatengine.org/
+repo: https://github.com/cheat-engine/cheat-engine/
+installMethod: Inno
+installers:
+- location: https://github.com/cheat-engine/cheat-engine/releases/download/6.8.3/CheatEngine683.exe
+  sha256: 961cd20daca654599fb48030fe7c8ebb97e5423e44a194899bc93040ec0424c4
