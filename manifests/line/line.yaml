@@ -1,0 +1,7 @@
+id: line
+name: LINE
+version: 5.15.0.1909
+home: https://line.me/
+installMethod: NSIS
+installers:
+- location: https://desktop.line-scdn.net/win/new/LineInst.exe
