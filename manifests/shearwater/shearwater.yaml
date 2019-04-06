@@ -1,0 +1,8 @@
+id: shearwater
+name: Shearwater Desktop
+version: 3.1.5
+home: https://www.shearwater.com/
+installMethod: NSIS
+installers:
+- location: https://www.shearwater.com/wp-content/downloads/ShearwaterDesktop_3.1.5.exe
+  sha256: f6792aede77f7e73e4036fad8718241c5b2c8b5479178392525dca389234105b
