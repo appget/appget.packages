@@ -1,6 +1,5 @@
 id: wunderlist
 name: Wunderlist
-version: 3.19.7
 home: https://www.wunderlist.com/
 installMethod: NSIS
 installers:
