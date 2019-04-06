@@ -1,6 +1,6 @@
 id: pulseway
 name: Pulseway
-version: 6.2.1
+version: 6.3
 home: https://www.pulseway.com/
 installMethod: MSI
 installers:
