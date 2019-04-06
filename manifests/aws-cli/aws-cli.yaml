@@ -4,6 +4,6 @@ version: 1.16.140
 home: https://aws.amazon.com/cli/
 installMethod: MSI
 installers:
-- location: https://s3.amazonaws.com/aws-cli/AWSCLI32.msi
-- location: https://s3.amazonaws.com/aws-cli/AWSCLI64.msi
+- location: https://s3.amazonaws.com/aws-cli/AWSCLI32PY3.msi
+- location: https://s3.amazonaws.com/aws-cli/AWSCLI64PY3.msi
   architecture: x64
