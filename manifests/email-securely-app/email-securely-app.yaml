@@ -1,9 +1,9 @@
 id: email-securely-app
 name: ElectronMail
-version: 3.1.0.13
+version: 3.1.1.17
 repo: https://github.com/vladimiry/ElectronMail/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/vladimiry/ElectronMail/releases/download/v3.1.0/electron-mail-3.1.0-windows-nsis-installer.exe
-  sha256: 41bcb9c16ada9c2155ed6aa800fbce0cc34dcfe1e478351ce0455eb297c6d2e2
+- location: https://github.com/vladimiry/ElectronMail/releases/download/v3.1.1/electron-mail-3.1.1-windows-nsis-installer.exe
+  sha256: 7aa7ae1fd7716bda7b80fbfae440b4f2f3b1393740a47f90fdc114d7487e4022
