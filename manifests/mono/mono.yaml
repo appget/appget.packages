@@ -1,9 +1,9 @@
 id: mono
 name: Mono for Windows
-version: 5.18.1
+version: 5.18.1.3
 home: https://www.mono-project.com/
 installMethod: MSI
 installers:
-- location: https://download.mono-project.com/archive/5.18.1/windows-installer/mono-5.18.1.0-x64-0.msi
-  sha256: e35cb806fd030693972ea23a69c62405b767cd185d6229cf30be627222201fa9
+- location: https://download.mono-project.com/archive/5.18.1/windows-installer/mono-5.18.1.3-x64-0.msi
+  sha256: ac6ace744864f4232c3d78dda45ad47559fd99fc7719f18e3fe8ce528953874a
   architecture: x64
