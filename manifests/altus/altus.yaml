@@ -1,10 +1,10 @@
 id: altus
 name: Altus
-version: 2.1.0
+version: 2.2.0
 home: https://shadythgod.github.io/altus/
 repo: https://github.com/ShadyThGod/altus/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/ShadyThGod/altus/releases/download/2.1.0/Altus-Setup-2.1.0.exe
-  sha256: d26f29b48315d59b3b51cbb9306725cfcdf9cca8ac97fe17e5d5073322b51e6c
+- location: https://github.com/ShadyThGod/altus/releases/download/2.2.0/Altus-Setup-2.2.0.exe
+  sha256: be7cc6d2b7e8f0cdbc70ca9a91cf7a8ac86f0069247cb833d388a4708df98b24
