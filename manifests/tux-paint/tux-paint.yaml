@@ -1,7 +1,7 @@
 id: tux-paint
 name: Tux Paint
 version: 0.9.23
-home: http://www.tuxpaint.org/
+home: http://www.tuxpaint.org
 installMethod: Inno
 installers:
 - location: https://downloads.sourceforge.net/project/tuxpaint/tuxpaint/0.9.23/tuxpaint-0.9.23-win32-1-installer.exe
