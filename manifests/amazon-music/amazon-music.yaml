@@ -1,8 +1,8 @@
 id: amazon-music
 name: Amazon Music
-version: 7.3.0
+version: 7.3.1.1590
 home: https://www.amazon.com/musicapps
 installMethod: InstallBuilder
 installers:
-- location: https://images-na.ssl-images-amazon.com/images/G/01/digital/music/morpho/installers/20190402/041946ded9/AmazonMusicInstaller.exe
-  sha256: 2e2c28b8af0426d7b6461e0bae98982f3ae6d69272378ec9bc27eeec77355851
+- location: https://images-na.ssl-images-amazon.com/images/G/01/digital/music/morpho/installers/20190411/2134329ce4/AmazonMusicInstaller.exe
+  sha256: dd8c53167dc3030e6a682164b5222aae5e3d8bb830f8ebd1972142a2431a3efd
