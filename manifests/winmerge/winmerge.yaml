@@ -1,0 +1,11 @@
+id: winmerge
+name: WinMerge
+version: 2.16.2.0
+home: http://winmerge.org/
+installMethod: Inno
+installers:
+- location: https://downloads.sourceforge.net/project/winmerge/stable/2.16.2/WinMerge-2.16.2-Setup.exe
+  sha256: 2226d35e8d21285cd828cdd2781736e29843ff571480a01cf2fdd961d2c61295
+- location: https://downloads.sourceforge.net/project/winmerge/stable/2.16.2/WinMerge-2.16.2-x64-Setup.exe
+  sha256: 201251a256e9b67b932b696ddd859d22be8cb41996600d616ce8b64da104ed68
+  architecture: x64
