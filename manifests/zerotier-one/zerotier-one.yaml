@@ -1,0 +1,7 @@
+id: zerotier-one
+name: ZeroTier One
+version: 1.2.12
+home: https://www.zerotier.com/
+installMethod: MSI
+installers:
+- location: https://download.zerotier.com/dist/ZeroTier One.msi
