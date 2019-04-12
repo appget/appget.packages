@@ -1,0 +1,9 @@
+id: sync
+name: Sync
+version: 1.0.7.12
+repo: https://github.com/vechain/thor-sync.electron/
+license: GNU Lesser General Public License v3.0
+installMethod: NSIS
+installers:
+- location: https://github.com/vechain/thor-sync.electron/releases/download/v1.0.7/Sync-win-1.0.7.exe
+  sha256: cc695f19bf8f980788397fab50b6ba2a2b5121501390595040a0f4ac52ac90cd
