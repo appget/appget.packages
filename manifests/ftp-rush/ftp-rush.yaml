@@ -1,0 +1,7 @@
+id: ftp-rush
+name: FTP Rush
+version: 2.2.0
+home: https://www.wftpserver.com/ftprush.htm
+installMethod: Inno
+installers:
+- location: https://www.wftpserver.com/download/ftprush.exe
