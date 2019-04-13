@@ -1,7 +1,7 @@
 id: occt
 name: OCCT
 version: 4.5.1
-home: http://www.ocbase.com/index.php/software/20-occt
+home: https://www.ocbase.com/index.php/software/20-occt
 installMethod: NSIS
 installers:
 - location: https://www.ocbase.com/download/OCCTPT4.5.1.exe
