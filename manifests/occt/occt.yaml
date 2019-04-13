@@ -1,0 +1,8 @@
+id: occt
+name: OCCT
+version: 4.5.1
+home: http://www.ocbase.com/index.php/software/20-occt
+installMethod: NSIS
+installers:
+- location: https://www.ocbase.com/download/OCCTPT4.5.1.exe
+  sha256: 936457c564731c0fab37e869c884f2d13f2115966c3fbd24c9167380baf771bb
