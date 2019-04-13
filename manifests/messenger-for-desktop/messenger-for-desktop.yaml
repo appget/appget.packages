@@ -4,6 +4,4 @@ version: 3.0.8
 home: https://messengerfordesktop.com/
 installMethod: NSIS
 installers:
-- location: https://mfd3.sfo2.cdn.digitaloceanspaces.com/Messenger for Desktop Setup 3.0.8.exe
-  sha256: 613246d8dee0efbc9bc142ee20b510254f1ac3c7e1dbf42cd3ac93b0dbe7f7f0
-  architecture: x64
+- location: https://messengerfordesktop.com/do/sfo2/mfd3/win32/latest.exe
