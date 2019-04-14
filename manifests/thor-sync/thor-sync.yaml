@@ -1,5 +1,5 @@
-id: sync
-name: Sync
+id: thor-sync
+name: Thor Sync
 version: 1.0.7.12
 repo: https://github.com/vechain/thor-sync.electron/
 license: GNU Lesser General Public License v3.0
