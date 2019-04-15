@@ -1,10 +1,10 @@
 id: dockstation
 name: DockStation
-version: 1.5.0
+version: 1.5.1
 home: https://dockstation.io/
 repo: https://github.com/DockStation/dockstation/
 license: Apache License 2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/DockStation/dockstation/releases/download/v1.5.0/dockstation-setup-1.5.0.exe
-  sha256: 1bbe89c962268814b64e3bc696b3d8233f150dbec8144bfbb0306bfb5cafb348
+- location: https://github.com/DockStation/dockstation/releases/download/v1.5.1/dockstation-setup-1.5.1.exe
+  sha256: ca7b287bcce8fd6138dc385821738c56b1363a3ddb26db4c4b2d9b4adc3a05fb
