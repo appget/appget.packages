@@ -1,0 +1,7 @@
+id: latencymon
+name: LatencyMon
+version: 6.70
+home: https://www.resplendence.com/
+installMethod: Inno
+installers:
+- location: https://www.resplendence.com/download/LatencyMon.exe
