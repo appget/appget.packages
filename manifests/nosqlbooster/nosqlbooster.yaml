@@ -1,8 +1,9 @@
 id: nosqlbooster
 name: NoSQLBooster for MongoDB
-version: 5.0.3
+version: 5.1.6
 home: https://nosqlbooster.com/
 installMethod: NSIS
 installers:
-- location: https://nosqlbooster.com/s3/download/releasesv5/nosqlbooster4mongo-5.0.3.exe
-  sha256: 78133d7ac27f33678ec57241cddfa9b3c712f623646b386892b96729930961a0
+- location: https://nosqlbooster.com/s3/download/releasesv5/nosqlbooster4mongo-5.1.6.exe
+  sha256: f10a1bef6e42be993cb0ad50f9d6bb979ed6af49f3db4042da79d89af98984af
+  architecture: x64
