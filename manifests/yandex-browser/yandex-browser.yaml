@@ -1,6 +1,6 @@
 id: yandex-browser
 name: Yandex Browser
-version: 17.9.1.966
+version: 19.3.2.177
 home: https://browser.yandex.com/
 installMethod: MSI
 installers:
