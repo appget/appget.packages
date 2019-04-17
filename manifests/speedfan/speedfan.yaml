@@ -1,6 +1,6 @@
 id: speedfan
 name: SpeedFan
-version: 452
+version: 4.52
 home: http://www.almico.com/speedfan.php
 installMethod: NSIS
 installers:
