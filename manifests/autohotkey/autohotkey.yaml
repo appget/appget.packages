@@ -1,7 +1,7 @@
 id: autohotkey
 name: Autohotkey
 version: 1.1.30.03
-home: https://autohotkey.com/
+home: https://www.autohotkey.com/
 repo: https://github.com/Lexikos/AutoHotkey_L/
 license: GNU General Public License v2.0
 installMethod: Custom
