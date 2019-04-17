@@ -1,9 +1,10 @@
 id: aws-cli
 name: AWS Command Line Interface
-version: 1.16.140
+version: 1.16.141
 home: https://aws.amazon.com/cli/
 installMethod: MSI
 installers:
 - location: https://s3.amazonaws.com/aws-cli/AWSCLI32.msi
+  sha256: eadd877c-983b-4097-8f5b-527466c5027a
 - location: https://s3.amazonaws.com/aws-cli/AWSCLI64.msi
   architecture: x64
