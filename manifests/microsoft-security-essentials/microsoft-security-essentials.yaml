@@ -6,5 +6,7 @@ args:
   silent: /s /runwgacheck /o
 installers:
 - location: https://download.microsoft.com/download/A/3/8/A38FFBF2-1122-48B4-AF60-E44F6DC28BD8/enus/x86/mseinstall.exe
+  sha256: 33ed6488ff802e8adface18143c1369bc3c683dacf541430577cb6075376f017
 - location: https://download.microsoft.com/download/A/3/8/A38FFBF2-1122-48B4-AF60-E44F6DC28BD8/enus/amd64/mseinstall.exe
+  sha256: 8ead7ce2c76a6e8edbd53869cde315dacf59b0935a8ee80f9427baab630d9d4a
   architecture: x64
