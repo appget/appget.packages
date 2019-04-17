@@ -1,7 +1,7 @@
 id: gyazo
 name: Gyazo
 version: 3.5.6
-home: http://gyazo.com/
+home: https://gyazo.com/
 installMethod: Inno
 installers:
 - location: https://files.gyazo.com/setup/Gyazo-3.5.6.exe
