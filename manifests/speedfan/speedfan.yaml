@@ -1,0 +1,8 @@
+id: speedfan
+name: SpeedFan
+version: 4.52
+home: http://www.almico.com/speedfan.php
+installMethod: NSIS
+installers:
+- location: http://www.almico.com/speedfan452.exe
+  sha256: e2ccb3c0d23f0d04ee8057f5ce3861eea952fb20694c1656c9805b1d4cd922ff
