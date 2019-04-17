@@ -1,6 +1,6 @@
 id: autoit-editor
 name: AutoIt Script Editor
-version: 18.708.1148
+version: 19.102.1901
 home: https://www.autoitscript.com/site/autoit-script-editor/
 installMethod: NSIS
 installers:
