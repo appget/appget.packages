@@ -5,5 +5,7 @@ home: https://www.apple.com/itunes
 installMethod: Custom
 installers:
 - location: https://www.apple.com/itunes/download/win32
+  sha256: 9d4b498a2db1c71ae2118ac8e3c84848c766823288994a68fc363d96d97d87e1
 - location: https://www.apple.com/itunes/download/win64
+  sha256: 5022bda75d937f2c0b2d39e90d649bbe1460e4e5667c1d6d550ef1beceba0f12
   architecture: x64
