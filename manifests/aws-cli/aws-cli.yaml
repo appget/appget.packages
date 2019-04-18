@@ -5,6 +5,5 @@ home: https://aws.amazon.com/cli/
 installMethod: MSI
 installers:
 - location: https://s3.amazonaws.com/aws-cli/AWSCLI32.msi
-  sha256: b8ab4d03-efba-42a8-a0f7-035643fa1bcb
 - location: https://s3.amazonaws.com/aws-cli/AWSCLI64.msi
   architecture: x64
