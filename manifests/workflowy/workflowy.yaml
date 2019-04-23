@@ -1,9 +1,9 @@
 id: workflowy
 name: WorkFlowy
-version: 1.2.10.3525
+version: 1.2.11.3602
 home: https://workflowy.com/
 repo: https://github.com/workflowy/desktop/
 installMethod: NSIS
 installers:
-- location: https://github.com/workflowy/desktop/releases/download/v1.2.10/WorkFlowy-Installer.exe
-  sha256: 7d42c537a645b5439d0676ec0f4dc43300110579d28ced32982cd5227412649a
+- location: https://github.com/workflowy/desktop/releases/download/v1.2.11/WorkFlowy-Installer.exe
+  sha256: a1384c51650e1d286825a189ca70032daf776464d019db402072c4b62d8f98f2
