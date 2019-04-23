@@ -6,5 +6,5 @@ repo: https://github.com/web-pal/chronos-timetracker/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/web-pal/chronos-timetracker/releases/download/v3.2.0/Chronos-Setup-3.2.0.exe
+- location: https://github.com/web-pal/chronos-timetracker/releases/download/v3.2.1/Chronos-Setup-3.2.1.exe
   sha256: 15827c9f7e4ef06736135ee6685ded905a803faea5bd409807a7b2b9f32d86a0
