@@ -1,8 +1,8 @@
 id: strokeit
 name: StrokeIt
-version: 0.9.7
+version: 1.1
 home: https://www.tcbmi.com/strokeit/
-installMethod: NSIS
+installMethod: Custom
 installers:
-- location: http://download.tcbmi.com/ZTB80XT/strokeit/StrokeIt_0.9.7-Home-English.exe
-  sha256: 85cff616b00c15129a2ef299acd24e0de6abfeb4c3bc8aaabce93dcd5712e92c
+- location: http://download.tcbmi.com/strokeit/plugins/StrokeIt_MinToTray_1.1.exe
+  sha256: b6a73af6ba29629fbd899ef1350d355b1c1184dfec6dc83d9efed8d7469dd23d
