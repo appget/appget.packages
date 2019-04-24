@@ -1,0 +1,11 @@
+id: miktex-net
+name: MiKTeX (Net Installer)
+version: 2.9.6942
+home: https://miktex.org/
+installMethod: Custom
+installers:
+- location: https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x86/setup-2.9.6942.exe
+  sha256: a85c06cfc2119d06f824d772b3604d17e39ea0e7750e76680555298aa0d2a866
+- location: https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x64/setup-2.9.6942-x64.exe
+  sha256: 648ed1c06a4da18bd3afeb5f2296bf57be5ec21ec86b78ceae6ec8849f6a0218
+  architecture: x64
