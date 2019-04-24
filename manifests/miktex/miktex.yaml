@@ -1,8 +1,10 @@
-id: miktex-basic
+id: miktex
 name: MiKTeX
 version: 2.9.7031
 home: https://miktex.org/
 installMethod: Custom
+args:
+  passive: --package-set=basic install --unattended
 installers:
 - location: https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x86/basic-miktex-2.9.7031.exe
   sha256: 59d53c038a90382ad5cffcd0eb2d2aab9e6b69eed1370b9bc7ede33b750e9fec
