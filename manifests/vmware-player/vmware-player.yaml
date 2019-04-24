@@ -7,6 +7,5 @@ args:
   passive: /s /v /qb EULAS_AGREED=1
   silent: /s /v /qn EULAS_AGREED=1
 installers:
-- location: https://download3.vmware.com/software/player/file/VMware-player-15.0.4-12990004.exe
-  sha256: a028c0e42fe9e9928ec7f22495d35b96bb093ebba6e734193e699102d852334c
+- location: https://www.vmware.com/go/getplayer-win
   architecture: x64
