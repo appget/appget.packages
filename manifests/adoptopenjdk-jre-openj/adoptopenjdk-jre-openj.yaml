@@ -1,0 +1,12 @@
+id: adoptopenjdk-jre-openj
+name: AdoptOpenJDK JRE with Eclipse OpenJ9
+version: 8.0.212.03
+home: https://adoptopenjdk.net/
+repo: https://github.com/AdoptOpenJDK/openjdk8-binaries/
+installMethod: MSI
+installers:
+- location: https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u212-b03_openj9-0.14.0/OpenJDK8U-jre_x86-32_windows_openj9_8u212b03_openj9-0.14.0.msi
+  sha256: e27578590494434a5947ab9ee384b08fb5f4cb9f2e50c7b49187818034dde31f
+- location: https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u212-b03_openj9-0.14.0/OpenJDK8U-jre_x64_windows_openj9_8u212b03_openj9-0.14.0.msi
+  sha256: 65b2b0fc7f94f63523536f0dca4ac14c2cbe53681f3a13b020dd0f2226ba1c2d
+  architecture: x64
