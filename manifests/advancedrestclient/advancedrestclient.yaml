@@ -1,9 +1,9 @@
 id: advancedrestclient
 name: AdvancedRestClient
-version: 13.0.5
+version: 13.0.6
 repo: https://github.com/advanced-rest-client/arc-electron/
 license: Apache License 2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/advanced-rest-client/arc-electron/releases/download/v13.0.5/arc-setup.exe
-  sha256: d029106e9957d3dce9ff9be0312171646c316246b28d42d307e6782f4900698f
+- location: https://github.com/advanced-rest-client/arc-electron/releases/download/v13.0.6/arc-setup.exe
+  sha256: c8d76703a8cf4994dff45e054a0a2136cb4a7f66edc5d0c60960013627ed1ce1
