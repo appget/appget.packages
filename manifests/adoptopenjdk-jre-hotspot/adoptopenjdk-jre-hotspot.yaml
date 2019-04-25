@@ -1,0 +1,12 @@
+id: adoptopenjdk-jre-hotspot
+name: AdoptOpenJDK JRE with Hotspot
+version: 8.0.212.03
+home: https://adoptopenjdk.net/
+repo: https://github.com/AdoptOpenJDK/openjdk8-binaries/
+installMethod: MSI
+installers:
+- location: https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u212-b03/OpenJDK8U-jre_x86-32_windows_hotspot_8u212b03.msi
+  sha256: aded63b96b47f13e9fe83b124501116ca621dbab1db904314b8708d623e44147
+- location: https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u212-b03/OpenJDK8U-jre_x64_windows_hotspot_8u212b03.msi
+  sha256: 54343f9b57852122314a225ad67279e59a7f1a788908d890adc2f8d1d4abb534
+  architecture: x64
