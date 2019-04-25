@@ -1,8 +1,8 @@
 id: datagrip
 name: DataGrip
-version: 191.6707.12
+version: 191.7141.8
 home: https://www.jetbrains.com/datagrip/
 installMethod: NSIS
 installers:
-- location: https://download.jetbrains.com/datagrip/datagrip-2019.1.exe
-  sha256: 200c19255292e848bf432a72111500d9e290abce0ade2bee95a2dbaeafa941e7
+- location: https://download.jetbrains.com/datagrip/datagrip-2019.1.1.exe
+  sha256: f5add4654447ede63951793406d5b696ddef4d9ba19ca408093e9b4a244944e0
