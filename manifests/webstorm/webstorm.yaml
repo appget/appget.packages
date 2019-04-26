@@ -1,6 +1,6 @@
 id: webstorm
 name: WebStorm
-version: 191.6707.60
+version: 2019.1.1
 home: https://www.jetbrains.com/webstorm/
 installMethod: NSIS
 installers:
