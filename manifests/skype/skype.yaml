@@ -5,4 +5,5 @@ home: https://skype.com/
 installMethod: Inno
 installers:
 - location: https://go.skype.com/windows.desktop.download
+  sha256: 32650153123c5850c3aed7dc56fceaef9d8859810bd406d670188a6572413cb4
   minWindowsVersion: 10.0
