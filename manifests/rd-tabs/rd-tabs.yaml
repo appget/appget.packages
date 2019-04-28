@@ -5,3 +5,4 @@ home: https://www.avianwaves.com/tools/rdtabs
 installMethod: Wix
 installers:
 - location: https://www.avianwaves.com/g/latestrdtabs
+  sha256: 5d18c1fa29f20c0fed73b7f69f982095402f9b551b640bc3057135866ec129d4
