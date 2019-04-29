@@ -1,0 +1,10 @@
+id: wexond
+name: Wexond
+version: 2.0.0.426
+home: https://wexond.net/
+repo: https://github.com/wexond/wexond/
+license: GNU General Public License v3.0
+installMethod: NSIS
+installers:
+- location: https://github.com/wexond/wexond/releases/download/v2.0.0/wexond-setup-2.0.0.exe
+  sha256: b79133e2c59be93317b2e2bf5555718c746df564e8a4120b365563ec8803b569
