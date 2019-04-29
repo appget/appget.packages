@@ -6,5 +6,5 @@ repo: https://github.com/lutzroeder/netron/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/lutzroeder/netron/releases/download/v3.0.3/Netron-Setup-3.0.3.exe
+- location: https://github.com/lutzroeder/netron/releases/download/v3.0.4/netron-setup-3.0.4.exe
   sha256: 487a4ece63769f47a94e8a35afa7881361da22975060fc3df5022906efd4e540
