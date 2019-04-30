@@ -1,0 +1,8 @@
+id: iobit-uninstaller
+name: IObit Uninstaller
+version: 8.4.0.8
+home: https://www.iobit.com/en/advanceduninstaller.php#
+installMethod: Inno
+installers:
+- location: http://update.iobit.com/dl/iobituninstaller.exe
+  architecture: x64
