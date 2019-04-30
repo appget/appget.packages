@@ -1,6 +1,6 @@
 id: em-client
 name: eM Client
-version: 7.2.35128
+version: 7.2.35172
 home: https://www.emclient.com/
 installMethod: MSI
 installers:
