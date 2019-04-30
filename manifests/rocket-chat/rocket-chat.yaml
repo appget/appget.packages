@@ -1,10 +1,10 @@
 id: rocket-chat
 name: Rocket.Chat
-version: 2.15.2.1045
+version: 2.15.3.1057
 home: https://rocket.chat/
 repo: https://github.com/RocketChat/Rocket.Chat.Electron/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/2.15.2/rocketchat-setup-2.15.2.exe
-  sha256: 5bbf409d4e1bf0982b9db9cd436631ecc214b9591cfb915f268792a5b0cf7819
+- location: https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/2.15.3/rocketchat-setup-2.15.3.exe
+  sha256: 267d1daecb3a0857cd38a8ad6a0f0d4da5bc7d5424afa78397178f5404c068bf
