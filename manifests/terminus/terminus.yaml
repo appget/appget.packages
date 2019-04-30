@@ -1,10 +1,10 @@
 id: terminus
 name: Terminus
-version: 1.0.76
+version: 1.0.77
 home: https://eugeny.github.io/terminus/
 repo: https://github.com/Eugeny/terminus/
 license: MIT License
 installMethod: Squirrel
 installers:
-- location: https://github.com/Eugeny/terminus/releases/download/v1.0.76/terminus-Setup-1.0.76.exe
-  sha256: 31a25f7052dd95288b878c57685da70ca61f37f116980a5c43706d0125c0b666
+- location: https://github.com/Eugeny/terminus/releases/download/v1.0.77/terminus-Setup-1.0.77.exe
+  sha256: a701a32d662b71ff1a2a9bf694ec9688f82eb756998adeff6ddd3bada4abd149
