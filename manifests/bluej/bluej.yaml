@@ -1,9 +1,9 @@
 id: bluej
 name: BlueJ
-version: 4.2.0
+version: 4.2.1
 home: https://www.bluej.org/
 installMethod: MSI
 installers:
-- location: https://www.bluej.org/download/files/BlueJ-windows-420.msi
-  sha256: 39ccdda1b201c69fe6eee54b7613a9117edb045f4486ee258075d8aee2e2a102
+- location: https://www.bluej.org/download/files/BlueJ-windows-421.msi
+  sha256: d50a2002b7661050053e1393f794f906f3ed972d50688d5c9140b18e9771668f
   architecture: x64
