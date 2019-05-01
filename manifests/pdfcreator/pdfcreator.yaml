@@ -5,4 +5,3 @@ home: https://www.pdfforge.org/pdfcreator
 installMethod: Inno
 installers:
 - location: https://download.pdfforge.org/download/pdfcreator/PDFCreator-stable?download
-  sha256: 406469845bc4bf52b4e822060f1595629296f8637dfb0725cd2bdeae71b10593
