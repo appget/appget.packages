@@ -1,6 +1,6 @@
 id: nzxt-cam
 name: NZXT CAM
-version: 3.7.5
+version: 3.7.6
 home: https://camwebapp.com/
 installMethod: AdvancedInstaller
 installers:
