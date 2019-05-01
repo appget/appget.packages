@@ -5,4 +5,3 @@ home: https://gpg4win.org/
 installMethod: NSIS
 installers:
 - location: https://files.gpg4win.org/gpg4win-latest.exe
-  sha256: ba2c4ac4cf9a44e19611f86ece4bafa71a5ef02553a1652a73b9037c74608b69
