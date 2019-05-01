@@ -8,5 +8,4 @@ args:
   silent: /s /v /qn EULAS_AGREED=1
 installers:
 - location: https://www.vmware.com/go/getplayer-win
-  sha256: a028c0e42fe9e9928ec7f22495d35b96bb093ebba6e734193e699102d852334c
   architecture: x64
