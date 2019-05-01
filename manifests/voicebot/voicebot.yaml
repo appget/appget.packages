@@ -5,4 +5,3 @@ home: https://www.voicebot.net/
 installMethod: Inno
 installers:
 - location: https://www.binaryfortress.com/Data/Download/?package=voicebot
-  sha256: cab0f9d53e261fb59113f2495ad924229a0bbaffb0896db4ffac85ab9954011c
