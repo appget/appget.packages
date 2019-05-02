@@ -9,5 +9,5 @@ installers:
 - location: https://github.com/FarGroup/FarManager/releases/download/v3.0.5392.869/Far.x86.3.0.5392.869.11e37d8d449c65f2f7f903329223e3d83c3d5fc5.msi
   sha256: d4ba976fd0b59feda83f775b644812399f38a7b7be8c2787b20ed51c506b0f24
 - location: https://github.com/FarGroup/FarManager/releases/download/v3.0.5392.869/Far.x64.3.0.5392.869.11e37d8d449c65f2f7f903329223e3d83c3d5fc5.msi
-  sha256: 1b1a4b189c824f3d94db814f64bd2b95b74073fecb2b862e9d4e8ab05c782ada
+  sha256: 9358304e44c6c2400718ea23f5b68d53e1d195a356cca4b3da238713cff31e08
   architecture: x64
