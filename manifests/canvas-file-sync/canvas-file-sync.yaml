@@ -1,10 +1,10 @@
 id: canvas-file-sync
 name: Canvas File Sync
-version: 1.5.0.126
+version: 1.5.1.127
 home: https://canvasfilesync.com/
 repo: https://github.com/drew-royster/canvasFileSync/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/drew-royster/canvasFileSync/releases/download/v1.5.0/canvas-file-sync-setup-1.5.0.exe
-  sha256: a4737e7753d0342b2f25f481dce7aeba845d2aa6f3f016d76b3c49edd4a5c971
+- location: https://github.com/drew-royster/canvasFileSync/releases/download/v1.5.1/canvas-file-sync-setup-1.5.1.exe
+  sha256: 23ed4afa729bce9671be8c77b221df4f756021d33c99bda010f8eff6fc1218d9
