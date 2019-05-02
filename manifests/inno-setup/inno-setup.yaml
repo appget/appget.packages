@@ -5,4 +5,4 @@ home: http://jrsoftware.org/
 repo: https://github.com/jrsoftware/issrc
 installMethod: Inno
 installers:
-- location: http://www.jrsoftware.org/download.php/is-unicode.exe
+- location: http://www.jrsoftware.org/download.php/is.exe
