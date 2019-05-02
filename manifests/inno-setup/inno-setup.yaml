@@ -2,6 +2,7 @@ id: inno-setup
 name: Inno Setup
 version: 5.6.1
 home: http://jrsoftware.org/
+repo: https://github.com/jrsoftware/issrc
 installMethod: Inno
 installers:
 - location: http://www.jrsoftware.org/download.php/is-unicode.exe
