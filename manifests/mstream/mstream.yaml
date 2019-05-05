@@ -1,0 +1,11 @@
+id: mstream
+name: mStream Express
+version: 4.2.0
+home: https://mstream.io/
+repo: https://github.com/IrosTheBeggar/mStream/
+license: GNU General Public License v3.0
+installMethod: Inno
+installers:
+- location: https://github.com/IrosTheBeggar/mStream/releases/download/v4.2.0/mStreamExpress-Windows-x64-installer.exe
+  sha256: 1c10b6daf5caba01c3d36f33bc319cfe1a33279acb2da9a5a960913cc3b45bc8
+  architecture: x64
