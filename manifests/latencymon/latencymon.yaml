@@ -1,6 +1,6 @@
 id: latencymon
 name: LatencyMon
-version: 6.70
+version: 6.71
 home: https://www.resplendence.com/latencymon
 installMethod: Inno
 installers:
