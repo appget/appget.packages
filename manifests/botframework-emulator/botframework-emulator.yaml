@@ -6,5 +6,5 @@ repo: https://github.com/microsoft/BotFramework-Emulator/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/Microsoft/BotFramework-Emulator/releases/download/v4.4.0/BotFramework-Emulator-4.4.0-windows-setup.exe
+- location: https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.4.0/BotFramework-Emulator-4.4.0-windows-setup.exe
   sha256: 1d2c8da9d092ddf18620c6b31340e8fb92bc2ceba419ac7b9801ea02fb338e5c
