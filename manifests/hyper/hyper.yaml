@@ -1,10 +1,10 @@
 id: hyper
 name: Hyper
-version: 2.1.2
+version: 3.0.0
 home: https://hyper.is/
 repo: https://github.com/zeit/hyper/
 license: MIT License
 installMethod: Squirrel
 installers:
-- location: https://github.com/zeit/hyper/releases/download/2.1.2/hyper-Setup-2.1.2.exe
-  sha256: afa927cc3595e00fcb419db2088cd97629ae40118dd142f80b6347049d625e83
+- location: https://github.com/zeit/hyper/releases/download/3.0.0/hyper-Setup-3.0.0.exe
+  sha256: 48cc74a0ee2c3dff5be0cd2fe80afd9d0cbf0365c2e872e69c1a1a89a847a9b4
