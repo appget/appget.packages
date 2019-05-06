@@ -7,4 +7,4 @@ license: MIT License
 installMethod: NSIS
 installers:
 - location: https://github.com/imolorhe/altair/releases/download/v2.1.7/altair-setup-2.1.7.exe
-  sha256: ce720f17eb0497ebb73aaa5c2d19b275e724d09163633dd405fc18d038f91178
+  sha256: b375e47d7f41aa930e561b9b18c80802de8cbb9394d9381e65875fa30fd4e14e
