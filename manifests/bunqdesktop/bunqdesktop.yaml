@@ -7,4 +7,4 @@ license: MIT License
 installMethod: NSIS
 installers:
 - location: https://github.com/bunqCommunity/bunqDesktop/releases/download/0.9.7/bunqDesktop-0.9.7.exe
-  sha256: 1a0afc818a8485d9cf783418e3225cdcb5ea456508c0d09e159632ece6e9802b
+  sha256: b8e072a8818473313b0faf2d25e5d6473daca706185f39b7b07bafb752bb7137
