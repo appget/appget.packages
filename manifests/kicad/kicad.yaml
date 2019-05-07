@@ -2,10 +2,11 @@ id: kicad
 name: KiCad
 version: 5.1.2
 home: http://kicad-pcb.org/
+repo: https://github.com/KiCad/kicad-source-mirror
 installMethod: NSIS
 installers:
-- location: https://kicad-downloads.s3.cern.ch/windows/stable/kicad-5.1.2_1-i686.exe
+- location: https://github.com/KiCad/kicad-winbuilder/releases/download/5.1.2/kicad-5.1.2_1-i686.exe
   sha256: 6c9a17ed861fc66180c9430053d23312f1689d70d5a9be3502571d73e5153825
-- location: https://kicad-downloads.s3.cern.ch/windows/stable/kicad-5.1.2_1-x86_64.exe
+- location: https://github.com/KiCad/kicad-winbuilder/releases/download/5.1.2/kicad-5.1.2_1-x86_64.exe
   sha256: fc2dd255ce02be7f8c709c453acdd47d2dab52f780a211f6784b389a3312f088
   architecture: x64
