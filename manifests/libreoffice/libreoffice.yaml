@@ -1,6 +1,6 @@
 id: libreoffice
 name: LibreOffice
-version: 6.2.2.2
+version: 6.2.3.2
 home: https://www.libreoffice.org/
 repo: https://cgit.freedesktop.org/libreoffice
 license: Mozilla Public License 2.0
@@ -9,8 +9,8 @@ args:
   passive: REGISTER_NO_MSO_TYPES=1 ISCHECKFORPRODUCTUPDATES=0 ADDLOCAL=ALL
   silent: REGISTER_NO_MSO_TYPES=1 ISCHECKFORPRODUCTUPDATES=0 ADDLOCAL=ALL
 installers:
-- location: https://download.documentfoundation.org/libreoffice/stable/6.2.2/win/x86/LibreOffice_6.2.2_Win_x86.msi
-  sha256: 87c911ce011c451c46ef5733c904ade8d38a35b8361e7e25b19edd631b83fba1
-- location: https://download.documentfoundation.org/libreoffice/stable/6.2.2/win/x86_64/LibreOffice_6.2.2_Win_x64.msi
-  sha256: ebed6400076d75a4886d4d55cb53012f066c59625f6edd5f8b162aecb51c718c
+- location: https://download.documentfoundation.org/libreoffice/stable/6.2.3/win/x86/LibreOffice_6.2.3_Win_x86.msi
+  sha256: 9b2b32158d0ff37cc522519a8e9683bcb2b59a58967a8413bd233e83862fae6e
+- location: https://download.documentfoundation.org/libreoffice/stable/6.2.3/win/x86_64/LibreOffice_6.2.3_Win_x64.msi
+  sha256: 579bc692bffa300d05c77c90bcccfe3afc9681f12f0967c2196bdedb1ac6430e
   architecture: x64
