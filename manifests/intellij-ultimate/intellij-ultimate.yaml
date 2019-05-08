@@ -6,5 +6,3 @@ installMethod: NSIS
 installers:
 - location: https://download.jetbrains.com/idea/ideaIU-2019.1.2.exe
   sha256: 00d2ed7ff6e3eff1116724fa9f81527ac74d329fe544c8bc444cbbd62955f5d1
-- location: https://download.jetbrains.com/idea/ideaIU-2019.1.2-jbr11.exe
-  sha256: 4c62541275951f3d747bc404a9741b9707c92c37c6b8e304401a5aad3829a8e7
