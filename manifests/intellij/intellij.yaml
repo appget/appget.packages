@@ -6,5 +6,3 @@ installMethod: NSIS
 installers:
 - location: https://download.jetbrains.com/idea/ideaIC-2019.1.2.exe
   sha256: 92f2255852fb7e50ecfa707291d16bfaff6ecbebd8c01b81986bafb95979b912
-- location: https://download.jetbrains.com/idea/ideaIC-2019.1.2-jbr11.exe
-  sha256: 2561fda57d3a13d3cdbc0f8d2fc1071ca233da7b8e370d35f6013ef9504107cb
