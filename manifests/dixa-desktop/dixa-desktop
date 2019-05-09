@@ -1,0 +1,8 @@
+id: dixa-desktop
+name: Dixa Desktop
+version: 3.0.0.341
+repo: https://github.com/dixahq/dixa-desktop-app-release/
+installMethod: MSI
+installers:
+- location: https://github.com/dixahq/dixa-desktop-app-release/releases/download/v3.0.0/dixa-3.0.0.msi
+  sha256: 53b2d400166399cd7e7ea7fd5bf31e4180deb67a6d61278439d5380a95822a62
