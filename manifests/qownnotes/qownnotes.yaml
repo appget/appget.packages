@@ -1,0 +1,9 @@
+id: qownnotes
+name: QOwnNotes
+version: 19.5.2
+home: https://www.qownnotes.org/
+repo: https://github.com/pbek/QOwnNotes/
+license: GNU General Public License v2.0
+installMethod: Custom
+installers:
+- location: https://github.com/pbek/QOwnNotes/releases/download/windows-b4276/QOwnNotes.zip
