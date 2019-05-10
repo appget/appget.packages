@@ -1,7 +1,6 @@
 id: keepassxc
 name: KeePassXC
 version: 2.4.1
-home: https://keepassxc.org/
 repo: https://github.com/keepassxreboot/keepassxc/
 installMethod: MSI
 installers:
