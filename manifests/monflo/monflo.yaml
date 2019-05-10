@@ -1,8 +1,8 @@
 id: monflo
 name: Monflo For PC
-version: 1.6.0
+version: 1.6.1
 home: https://monflo.mirillis.com/remote-pc-access
 installMethod: NSIS
 installers:
-- location: https://downloads.mirillis.com/files/monflo_pc_1_6_0_setup.exe
-  sha256: 8bc6a3a42b2cb09bcb9f425c0e619a890955027d2d3c6656bd08a709b8275395
+- location: https://downloads.mirillis.com/files/monflo_pc_1_6_1_setup.exe
+  sha256: 6bb1a46bedfd7b100826def743c36027da34dc0d3c91f900c3a4eb4f8ba21723
