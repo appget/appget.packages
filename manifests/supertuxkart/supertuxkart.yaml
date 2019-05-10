@@ -1,7 +1,6 @@
 id: supertuxkart
 name: SuperTuxKart
 version: 1.0
-home: https://supertuxkart.net/
 repo: https://sourceforge.net/projects/supertuxkart/
 installMethod: NSIS
 installers:
