@@ -1,7 +1,7 @@
 id: logitech-unifying-software
 name: Logitech Unifying Software
 version: 2.50.25
-home: https://logi.com/
+home: https://support.logitech.com/en_us/software/unifying
 installMethod: NSIS
 installers:
 - location: https://download01.logi.com/web/ftp/pub/controldevices/unifying/unifying250.exe
