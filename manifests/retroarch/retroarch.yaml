@@ -5,7 +5,7 @@ home: https://www.libretro.com/
 installMethod: NSIS
 installers:
 - location: https://buildbot.libretro.com/stable/1.7.7/windows/x86/RetroArch-1.7.7-x86-setup.exe
-  sha256: e3a69825db88ee2b39df8fbb33917e28f8f005757348e666fd1524932329d31d
+  sha256: 2fdd9df87003d3c732f315bbd464113bd3be5db28a3f2072ef6b6c191d16b5fe
 - location: https://buildbot.libretro.com/stable/1.7.7/windows/x86_64/RetroArch-1.7.7-x64-setup.exe
-  sha256: 5cc7ec87ebdc727a2a0f7b012c43799050f6f29c52d856e2caa1c6267020ae60
+  sha256: 97b58433ad09efdd2bb0e475f85683aeeeb05a162cd228770087b45eb59f2a57
   architecture: x64
