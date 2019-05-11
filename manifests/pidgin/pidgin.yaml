@@ -1,7 +1,6 @@
 id: pidgin
 name: Pidgin
 version: 2.13.0
-home: https://pidgin.im/
 repo: https://sourceforge.net/projects/pidgin/
 license: GNU General Public License version 2.0
 installMethod: NSIS
