@@ -1,7 +1,6 @@
 id: y2mp3
 name: y2mp3
 version: 1.5.0.212
-home: https://electronjs.org/apps/y2mp3
 repo: https://github.com/moshfeu/y2mp3/
 license: MIT License
 installMethod: NSIS
