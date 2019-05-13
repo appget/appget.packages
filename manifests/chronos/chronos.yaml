@@ -1,10 +1,10 @@
 id: chronos
 name: Chronos
-version: 3.2.3
+version: 3.2.4
 home: https://chronos.web-pal.com/
 repo: https://github.com/web-pal/chronos-timetracker/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/web-pal/chronos-timetracker/releases/download/v3.2.3/Chronos-Setup-3.2.3.exe
-  sha256: f33a475540a8e0a4933bd922351e1b827ce4e98cc4d49d4622c97ded3b306c8f
+- location: https://github.com/web-pal/chronos-timetracker/releases/download/v3.2.4/Chronos-Setup-3.2.4.exe
+  sha256: f7c7e5186a0192b413b8a63bab1a32412a6d84238ec62748ba986a59f79ada2b
