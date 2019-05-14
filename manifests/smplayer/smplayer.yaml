@@ -7,6 +7,6 @@ installMethod: NSIS
 installers:
 - location: https://downloads.sourceforge.net/project/smplayer/SMPlayer/19.5.0/smplayer-19.5.0-win32.exe
   sha256: 28de936f40969ecdb13f53f66a38ed25fb848bbb0ed07a08319fdb4925c2d959
-- location: https://downloads.sourceforge.net/project/smplayer/SMPlayer/19.1.0/smplayer-19.1.0-x64.exe
-  sha256: 3c6f46e6b61b25b76ee82e70ee3a817f5a4262d5b8966c4f1fcb79bb374ff7bf
+- location: https://downloads.sourceforge.net/project/smplayer/SMPlayer/19.5.0/smplayer-19.5.0-x64.exe
+  sha256: c7085e1f52a8f066260d521315e38746bc54628e10a0c33d2e91fc73a6137c50
   architecture: x64
