@@ -1,10 +1,10 @@
 id: insomnia
 name: Insomnia
-version: 6.5.1
+version: 6.5.3
 home: https://insomnia.rest/
 repo: https://github.com/getinsomnia/insomnia/
 license: MIT License
 installMethod: Squirrel
 installers:
-- location: https://github.com/getinsomnia/insomnia/releases/download/v6.5.1/Insomnia.Setup.6.5.1.exe
-  sha256: 63d7e11acea6ad0774aa9ae7ef3cdf86287c4c93deb4600e2a8c814f4f5ccf4d
+- location: https://github.com/getinsomnia/insomnia/releases/download/v6.5.3/Insomnia.Setup.6.5.3.exe
+  sha256: be023a82ed3979ecd3585b9b1b3c38b520df9a3d22d162407e1efbde9ab73601
