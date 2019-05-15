@@ -1,7 +1,6 @@
 id: webtorrent
 name: WebTorrent
 version: 0.20.0
-home: https://webtorrent.io/desktop
 repo: https://github.com/webtorrent/webtorrent-desktop/
 license: MIT License
 installMethod: Squirrel
