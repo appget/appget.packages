@@ -1,7 +1,6 @@
 id: owncloud
 name: ownCloud
 version: 2.5.3.11470.11300
-home: https://owncloud.com/
 repo: https://github.com/owncloud/client/
 installMethod: MSI
 installers:
