@@ -1,8 +1,8 @@
 id: mps
 name: MPS
-version: 191.1434
+version: 191.1476
 home: https://www.jetbrains.com/mps/
 installMethod: NSIS
 installers:
-- location: https://download.jetbrains.com/mps/2019.1/MPS-2019.1.1.exe
-  sha256: cc2be0c3713e323b71d09d5543dfc90a34e19b025069e2f7ef49865be038ab21
+- location: https://download.jetbrains.com/mps/2019.1/MPS-2019.1.2.exe
+  sha256: 6c937cbbbdda0df52430d5d26c7ebb2d5296e1427312f6c686411e8b1d065679
