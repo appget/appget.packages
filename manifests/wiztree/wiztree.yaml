@@ -4,5 +4,5 @@ version: 3.29
 home: https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/
 installMethod: Inno
 installers:
-- location: https://antibody-software.com/files/wiztree_3_29_setup.exe
+- location: https://antibody-software.com/files/wiztree_3_28_setup.exe
   sha256: 298343950c351d4ad7a113eca5360455d5c87c750e6171507d498834f1d56ecc
