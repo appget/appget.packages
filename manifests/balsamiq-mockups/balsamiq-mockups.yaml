@@ -1,10 +1,9 @@
 id: balsamiq-mockups
 name: Balsamiq Mockups
-version: 3.5.16
+version: 3.5.17
 home: https://balsamiq.com/
 installMethod: Inno
 installers:
-- location: https://builds.balsamiq.com/mockups-desktop/Balsamiq_Mockups_3.5.16.exe
-  sha256: 694a20bb4a960dd497c49ae39b5779f23e43f1bb534653e6a39160752279b2f3
+- location: https://builds.balsamiq.com/mockups-desktop/Balsamiq_Mockups_3.5.17.exe
+  sha256: 3b932da496f5be2d4afac02052227c46eee2a7bfc8b5b251b63d15900cdc7da2
   architecture: x64
-  minWindowsVersion: 6.1
