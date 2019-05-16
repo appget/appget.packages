@@ -1,0 +1,8 @@
+id: cubecoders-amp
+name: AMP Instance Manager
+version: 1.8.0
+home: https://cubecoders.com/AMP
+installMethod: MSI
+installers:
+- location: https://cubecoders.com/Downloads/AMPSetup.msi
+  architecture: x64
