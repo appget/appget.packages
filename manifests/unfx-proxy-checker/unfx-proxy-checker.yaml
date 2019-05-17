@@ -1,7 +1,6 @@
 id: unfx-proxy-checker
 name: Unfx Proxy Checker
 version: 1.5.3
-home: https://openproxy.space/software/proxy-checker
 repo: https://github.com/assnctr/unfx-proxy-checker/
 license: MIT License
 installMethod: NSIS
