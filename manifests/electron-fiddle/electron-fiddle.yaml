@@ -7,7 +7,7 @@ license: MIT License
 installMethod: Squirrel
 installers:
 - location: https://github.com/electron/fiddle/releases/download/v0.7.0/electron-fiddle-0.7.0-ia32-setup.exe
-  sha256: a1d1b4610fa2ee5d137347811589555557879667d1d64f7c1604dfc5effd06bb
+  sha256: f35b3ac56d7f517d0d92d04fd88257ac8365bc5e00a7f6f762ac67230860b3ad
 - location: https://github.com/electron/fiddle/releases/download/v0.7.0/electron-fiddle-0.7.0-x64-setup.exe
-  sha256: c9665fcb558bc02b7eeecbaff0e929dcae75256be029c28836c019d444ad5f2c
+  sha256: 8ffd5dee0728196f686dee24ef1124d69becf3f73f0163214c7f679075d0a036
   architecture: x64
