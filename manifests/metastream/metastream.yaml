@@ -7,4 +7,4 @@ license: MIT License
 installMethod: NSIS
 installers:
 - location: https://github.com/samuelmaddock/metastream/releases/download/v0.2.7/metastream-setup-0.2.7.exe
-  sha256: 5dde3da0b227cb8cbe00435ded67f006bcb0515d9b82ce981b0c9a8cc2cabe22
+  sha256: f0b110413747495cb549efa17231ca2f960a2b61f41c64221cf41e00753b1564
