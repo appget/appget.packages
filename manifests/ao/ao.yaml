@@ -1,10 +1,10 @@
 id: ao
 name: Ao
-version: 6.8.0.364
+version: 6.9.0.392
 home: https://klaussinani.github.io/ao
 repo: https://github.com/klaussinani/ao/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/klaussinani/ao/releases/download/v6.8.0/ao-setup-6.8.0.exe
-  sha256: 5cef1becc4dd8dfb6b2bbf5f699d67c3fe5d69c19f8ea55e2250f41316f2340a
+- location: https://github.com/klaussinani/ao/releases/download/v6.9.0/ao-setup-6.9.0.exe
+  sha256: 0864a2635d78fa8116d468173fbbc34cb871afba1fdea035031efd9492247813
