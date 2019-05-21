@@ -1,10 +1,10 @@
 id: min-browser
 name: Min Browser
-version: 1.10.0
+version: 1.10.1
 home: https://minbrowser.github.io/min
 repo: https://github.com/minbrowser/min/
 license: Apache License 2.0
 installMethod: Squirrel
 installers:
-- location: https://github.com/minbrowser/min/releases/download/v1.10.0/min-1.10.0-setup.exe
-  sha256: 1327e16be242699f4ffb68c3d6749b6fe9af2b4030b8df1c95c4aab036621d6b
+- location: https://github.com/minbrowser/min/releases/download/v1.10.1/min-1.10.1-setup.exe
+  sha256: 1dcd277da4b853039cd2751fd1b3892a4d95419c6838dd8ed1de966577553b41
