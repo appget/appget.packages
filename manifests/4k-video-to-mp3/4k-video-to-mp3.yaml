@@ -1,0 +1,11 @@
+id: 4k-video-to-mp3
+name: 4K Video to MP3
+version: 2.6.1.913
+home: https://www.4kdownload.com/products/product-videotomp3
+installMethod: MSI
+installers:
+- location: https://dl.4kdownload.com/app/4kvideotomp3_2.6.1.msi
+  sha256: c1f82ba687632fd615904b0ac8d3a4d6679fe4da3fb818cc52a807c7967307c9
+- location: https://dl.4kdownload.com/app/4kvideotomp3_2.6.1_x64.msi
+  sha256: dcac4b38e766458a67d9184d0607c45f3e06c95f9259e7eb541134bd2422982c
+  architecture: x64
