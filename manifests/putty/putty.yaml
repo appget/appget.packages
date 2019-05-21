@@ -1,7 +1,7 @@
 id: putty
 name: PuTTY
 version: 0.71.0
-home: https://www.putty.org/
+home: https://www.chiark.greenend.org.uk/~sgtatham/putty/
 license: MIT
 installMethod: MSI
 installers:
