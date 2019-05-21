@@ -1,7 +1,7 @@
 id: 4k-slideshow-maker
 name: 4K Slideshow Maker
 version: 1.7.1.978
-home: https://www.4kdownload.com/
+home: https://www.4kdownload.com/products/product-slideshowmaker
 installMethod: MSI
 installers:
 - location: https://dl.4kdownload.com/app/4kslideshowmaker_1.7.1.msi
