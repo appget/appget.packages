@@ -1,0 +1,11 @@
+id: 4k-stogram
+name: 4K Stogram
+version: 2.7.2.1795
+home: https://www.4kdownload.com/products/product-stogram
+installMethod: MSI
+installers:
+- location: https://dl.4kdownload.com/app/4kstogram_2.7.2.msi
+  sha256: d1b28d72ae14560bc6f0c3bbfac41a9db2a69239d961a20924b8c69bdac44086
+- location: https://dl.4kdownload.com/app/4kstogram_2.7.2_x64.msi
+  sha256: ca0c5e2cd5c3689babc61ad2a80be15ad9ada9336467469b324b9cb8b8909ac2
+  architecture: x64
