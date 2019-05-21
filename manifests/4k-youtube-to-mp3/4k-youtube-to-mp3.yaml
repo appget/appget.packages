@@ -1,0 +1,11 @@
+id: 4k-youtube-to-mp3
+name: 4K YouTube to MP3
+version: 3.6.1.2194
+home: https://www.4kdownload.com/products/product-youtubetomp3
+installMethod: MSI
+installers:
+- location: https://dl.4kdownload.com/app/4kyoutubetomp3_3.6.1.msi
+  sha256: 975bd0ee547cbb64e78c69efb8615ba3317d93d73ccba8d855c3ffa4fd4c5011
+- location: https://dl.4kdownload.com/app/4kyoutubetomp3_3.6.1_x64.msi
+  sha256: 302f687d0b7de51504b4bdea7de0ffc382a70b3520a50978dbe6c25cf1c8b706
+  architecture: x64
