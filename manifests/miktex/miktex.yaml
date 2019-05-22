@@ -1,13 +1,13 @@
 id: miktex
 name: MiKTeX
-version: 2.9.7031
+version: 2.9.7079
 home: https://miktex.org/
 installMethod: Custom
 args:
   passive: --package-set=basic install --unattended
 installers:
-- location: https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x86/basic-miktex-2.9.7031.exe
-  sha256: 59d53c038a90382ad5cffcd0eb2d2aab9e6b69eed1370b9bc7ede33b750e9fec
-- location: https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x64/basic-miktex-2.9.7031-x64.exe
-  sha256: f074270f9f96ce6e309a5a7d912a414b354ef2aa31a1241657d4e8a7871bf81f
+- location: https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x86/basic-miktex-2.9.7079.exe
+  sha256: ed42095cc2f46f72da8965c0f866bcc4e54abaf9114d92408e37c96119bb519a
+- location: https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x64/basic-miktex-2.9.7079-x64.exe
+  sha256: cad938b09d49ee4e26b70cda6254614ebde0bed9eb9d7a9cba799c98a0d7ef75
   architecture: x64
