@@ -1,6 +1,6 @@
 id: chrome
 name: Google Chrome
-version: 67.164.16541
+version: 67.164.16553
 home: https://www.google.com/chrome/
 installMethod: MSI
 installers:
