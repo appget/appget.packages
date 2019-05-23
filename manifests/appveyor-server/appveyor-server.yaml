@@ -1,0 +1,9 @@
+id: appveyor-server
+name: AppVeyor Server
+version: 7.0.2126
+home: https://www.appveyor.com/on-premise/
+installMethod: MSI
+installers:
+- location: https://www.appveyor.com/downloads/appveyor-server/latest/windows/appveyor-server.msi
+  architecture: x64
+  minWindowsVersion: 10.0
