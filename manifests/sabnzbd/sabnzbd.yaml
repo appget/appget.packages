@@ -1,10 +1,10 @@
 id: sabnzbd
 name: SABnzbd
-version: 2.3.8
+version: 2.3.9
 home: https://sabnzbd.org/
 repo: https://github.com/sabnzbd/sabnzbd/
 license: GNU GPL
 installMethod: NSIS
 installers:
-- location: https://github.com/sabnzbd/sabnzbd/releases/download/2.3.8/SABnzbd-2.3.8-win-setup.exe
-  sha256: c5bfe2816b85563d70eb292a10fb9245f55b198db64bf54cabb57b3d1d6dd80a
+- location: https://github.com/sabnzbd/sabnzbd/releases/download/2.3.9/SABnzbd-2.3.9-win-setup.exe
+  sha256: 450b6e190a069a2b8812fd25d66efb3bc101b6fc3b318fef5bb7eadc84988d08
