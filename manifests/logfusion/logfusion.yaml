@@ -4,5 +4,5 @@ version: 6.2.1.0
 home: https://www.logfusion.ca/
 installMethod: Inno
 installers:
-- location: https://binaryfortressdownloads.com/Download/BFSFiles/117/LogFusionSetup-6.2.1.exe
+- location: https://www.binaryfortress.com/Data/Download/?package=logfusion&log=117
   sha256: 55ce7ba56d448b4c32e153997c6c8d12938cc87fcc9fbd1fffcb3c70bc350170
