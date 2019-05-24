@@ -1,11 +1,11 @@
 id: emeditor
 name: EmEditor
-version: 18.9.4
+version: 18.9.5
 home: https://www.emeditor.com/
 installMethod: MSI
 installers:
-- location: http://files.emeditor.com/emed32_18.9.4.msi
-  sha256: f70a1f765b06003931bdd9b4c6270b69d6d804aaef06e472c29e5b5c11e30c93
-- location: http://files.emeditor.com/emed64_18.9.4.msi
-  sha256: fcc67ce33dd10e0a563acd07278388141efc21a4fcb5e8be8c0e90ade007678a
+- location: http://files.emeditor.com/emed32_18.9.5.msi
+  sha256: f90c5567c315260310716741155d4f5109db9a8f9a813f3563c04fc88c9c1998
+- location: http://files.emeditor.com/emed64_18.9.5.msi
+  sha256: e4b827f4a64ba1955d5159ee95affa50b285b32bff62747f38617cd7ba07a85e
   architecture: x64
