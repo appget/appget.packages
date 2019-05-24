@@ -1,8 +1,8 @@
 id: axcrypt
 name: AxCrypt
-version: 2.1.1573.0
+version: 2.1.1585.0
 home: https://www.axcrypt.net/
 installMethod: Wix
 installers:
 - location: https://www.axcrypt.net/downloads/4519/
-  sha256: b30273015669229d7e924a7d2fc7f350c667f1441605ca7bd5de22ff5c0acca4
+  sha256: e1f85e9bf4586975aa5ff34dc033ebacfa49829b244725e25640297c0149d66c
