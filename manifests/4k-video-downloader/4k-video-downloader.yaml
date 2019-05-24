@@ -4,6 +4,6 @@ version: 4.7.2.2732
 home: https://www.4kdownload.com/products/product-videodownloader
 installMethod: MSI
 installers:
-- location: https://dl.4kdownload.com/app/4kvideodownloader_4.7.2_x64.msi?source=website
+- location: https://dl.4kdownload.com/app/4kvideodownloader_4.7.2_x64.msi
   sha256: 13b7b234c8dbb3f0ae0b4af9e772e580195291d1f78085a25f9e8c53c27ab711
   architecture: x64
