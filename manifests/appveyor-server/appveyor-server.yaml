@@ -1,6 +1,6 @@
 id: appveyor-server
 name: AppVeyor Server
-version: 7.0.2126
+version: 7.0.2150
 home: https://www.appveyor.com/on-premise/
 installMethod: MSI
 installers:
