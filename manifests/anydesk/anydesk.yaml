@@ -2,6 +2,7 @@ id: anydesk
 name: AnyDesk
 version: 5.1.1
 home: https://anydesk.com/
-installMethod: MSI
+installMethod: Custom
 installers:
-- location: https://download.anydesk.com/AnyDesk.msi
+- location: https://download.anydesk.com/AnyDesk.exe
+  minWindowsVersion: 10.0
