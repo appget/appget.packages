@@ -1,0 +1,7 @@
+id: cloudshot
+name: CloudShot
+version: 6.3.0
+home: https://cloudshot.com/
+installMethod: Squirrel
+installers:
+- location: https://cloudshot.com/downloads/release/CloudShotSetup.exe
