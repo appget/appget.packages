@@ -5,4 +5,3 @@ home: https://cloudshot.com/
 installMethod: Squirrel
 installers:
 - location: https://cloudshot.com/downloads/release/CloudShotSetup.exe
-  minWindowsVersion: 6.1
