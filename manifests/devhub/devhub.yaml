@@ -1,10 +1,10 @@
 id: devhub
 name: DevHub
-version: 0.81.0
+version: 0.90.0
 home: https://devhubapp.com/
 repo: https://github.com/devhubapp/devhub/
 license: GNU Affero General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/devhubapp/devhub/releases/download/v0.81.0/devhub-setup-0.81.0.exe
-  sha256: c4bc04337e93479bcd70609c839a32a609dd31d76711542f0facc24e098f741d
+- location: https://github.com/devhubapp/devhub/releases/download/v0.90.0/devhub-setup-0.90.0.exe
+  sha256: 23c0ed926881a5950ea0e1dec9a712ef8eb98eac719d3bdce038ec26c1972d3d
