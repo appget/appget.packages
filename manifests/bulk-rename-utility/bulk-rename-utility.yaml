@@ -1,0 +1,7 @@
+id: bulk-rename-utility
+name: Bulk Rename Utility
+version: 3.0.0.1
+home: https://www.bulkrenameutility.co.uk/
+installMethod: Inno
+installers:
+- location: https://www.bulkrenameutility.co.uk/swmirror/BRU_setup.exe
