@@ -1,7 +1,7 @@
 id: gridcoin
 name: Gridcoin
 version: 46.3
-home: https://www.gridcoin.us/
+home: https://gridcoin.us/
 installMethod: MSI
 installers:
 - location: https://download.gridcoin.us/download/downloadstake/GridcoinResearch.msi
