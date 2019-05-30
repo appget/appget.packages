@@ -1,10 +1,10 @@
 id: caprine
 name: Caprine
-version: 2.31.1.1392
+version: 2.31.2.1405
 home: https://sindresorhus.com/caprine
 repo: https://github.com/sindresorhus/caprine/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/sindresorhus/caprine/releases/download/v2.31.1/caprine-setup-2.31.1.exe
-  sha256: 3b60a8b186201e6bcae0de4dbe3c824baa0a8fe2166b0ad2ae64826487d99f82
+- location: https://github.com/sindresorhus/caprine/releases/download/v2.31.2/caprine-setup-2.31.2.exe
+  sha256: 8e287b0a3ec9dfb6adc34bd61dcb64d168ce2e08d8d6d7132e7ffbfb2ece4400
