@@ -1,0 +1,10 @@
+id: metube
+name: Metube
+version: 1.7.7
+home: https://www.metube-official.com/
+repo: https://github.com/kimyearho/Metube-electron/
+license: MIT License
+installMethod: NSIS
+installers:
+- location: https://github.com/kimyearho/Metube-electron/releases/download/1.7.7/Metube.Setup.1.7.7.exe
+  sha256: 75e02898f0b26e5854dd1e3207b41576422d9a3570bfa7a04ede732bad71df76
