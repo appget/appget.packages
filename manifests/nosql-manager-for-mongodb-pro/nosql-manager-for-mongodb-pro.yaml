@@ -1,6 +1,6 @@
 id: nosql-manager-for-mongodb-pro
 name: NoSQL Manager for MongoDB Professional
-version: 5.1
+version: 5.2
 home: https://www.mongodbmanager.com/
 installMethod: Inno
 installers:
