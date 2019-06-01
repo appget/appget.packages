@@ -5,5 +5,5 @@ home: https://www.gnucash.org/
 repo: https://sourceforge.net/projects/gnucash/
 installMethod: Inno
 installers:
-- location: https://downloads.sourceforge.net/project/gnucash/gnucash (stable)/3.5/gnucash-3.5.setup.exe
-  sha256: e8341391b5a025ffcafd0473e226bf304fdb98d58a8bd71487ae2b2510b0945b
+- location: https://downloads.sourceforge.net/project/gnucash/gnucash (stable)/3.5/gnucash-3.5-1.setup.exe
+  sha256: 1e14f343eaf7c2118a937a74fd51842fdce59b0bd73db5863103b27592dbaafa
