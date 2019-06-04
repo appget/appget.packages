@@ -1,7 +1,6 @@
 id: synctrayzor
 name: SyncTrayzor
 version: 1.1.23.0
-home: https://appget.net
 repo: https://github.com/canton7/SyncTrayzor/
 license: MIT License
 installMethod: Inno
