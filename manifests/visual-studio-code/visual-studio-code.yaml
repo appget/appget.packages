@@ -1,6 +1,6 @@
 id: visual-studio-code
 name: Visual Studio Code
-version: 1.34.0
+version: 1.35.0
 home: https://code.visualstudio.com/
 repo: https://github.com/microsoft/vscode/
 license: MIT License
