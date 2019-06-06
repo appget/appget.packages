@@ -7,4 +7,4 @@ license: GNU General Public License v3.0
 installMethod: MSI
 installers:
 - location: https://www.digimezzo.com/content/software/knowte/Knowte 1.1.7.0.msi
-  sha256: d419ec2ebbe4056375e37e0ade9696a9d26a72a2a418eec474d94acd772f64ba
+  sha256: 8d868070604f9d31c5eccecfc2f927c945816381b4ceba796a5f3df8dd1c7b5d
