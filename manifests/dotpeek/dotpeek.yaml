@@ -1,11 +1,11 @@
 id: dotpeek
 name: dotPeek
-version: 2019.1.1
+version: 2019.1.2
 home: https://www.jetbrains.com/decompiler/
 installMethod: Custom
 args:
   silent: /SpecificProductNames=dotPeek /Silent=True /VsVersion=0
   log: /LogFile={path}
 installers:
-- location: https://download.jetbrains.com/resharper/ReSharperUltimate.2019.1.1/JetBrains.ReSharperUltimate.2019.1.1.exe
-  sha256: a8dc61d220df5e2d654f3295cbfe3c0a36205c361ec7ae555664dacb14f06ff4
+- location: https://download.jetbrains.com/resharper/ReSharperUltimate.2019.1.2/JetBrains.ReSharperUltimate.2019.1.2.exe
+  sha256: f5a5c2c5f45b76effdc1b0110ef61fcbbec9713531ecf3ccb30ee5b2b797e0f8
