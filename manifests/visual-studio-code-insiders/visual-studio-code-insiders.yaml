@@ -1,6 +1,6 @@
 id: visual-studio-code-insiders
 name: Visual Studio Code - Insiders
-version: 1.35.0
+version: 1.36.0
 home: https://code.visualstudio.com/
 repo: https://github.com/microsoft/vscode/
 license: MIT License
