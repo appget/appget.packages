@@ -1,13 +1,13 @@
 id: far
 name: Far Manager
-version: 3.0.5410.968
+version: 3.0.5410.971
 home: https://farmanager.com/
 repo: https://github.com/FarGroup/FarManager/
 license: BSD 3-Clause "New" or "Revised" License
 installMethod: MSI
 installers:
-- location: https://github.com/FarGroup/FarManager/releases/download/v3.0.5410.968/Far.x86.3.0.5410.968.3c87d913626eb09d56b417094d7ef985572df1ed.msi
-  sha256: 030170dbaced803a5c1b60935568d073c5fe0b242725bd289df03fa7a4cb9e6a
-- location: https://github.com/FarGroup/FarManager/releases/download/v3.0.5410.968/Far.x64.3.0.5410.968.3c87d913626eb09d56b417094d7ef985572df1ed.msi
-  sha256: 665370fdae9f393fab47b95d304f66bea88941ea78b0f152653ab2aac467c5e7
+- location: https://github.com/FarGroup/FarManager/releases/download/v3.0.5410.971/Far.x86.3.0.5410.971.c863c28a259157902f9314ae12d489f30f90b571.msi
+  sha256: 56c3c2fa7b4014a88f42e092441e65932f6c0268b5088de3c27379788cbe3e9d
+- location: https://github.com/FarGroup/FarManager/releases/download/v3.0.5410.971/Far.x64.3.0.5410.971.c863c28a259157902f9314ae12d489f30f90b571.msi
+  sha256: cdfd3ea7280acc2f1086e6b6a46461f29655a15148d5d1273c8694bdca55eb3f
   architecture: x64
