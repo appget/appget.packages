@@ -7,4 +7,3 @@ args:
   silent: --quiet --norestart
 installers:
 - location: https://aka.ms/vs/15/release/vs_community.exe
-  sha256: d2ec805e23522975e89803e8b2437fcf3b934b423f96440ec3c8a0dabbf903e7
