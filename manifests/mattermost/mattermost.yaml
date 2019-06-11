@@ -2,6 +2,8 @@ id: mattermost
 name: Mattermost
 version: 4.2.1
 home: https://mattermost.com/
+repo: https://github.com/mattermost/desktop/
+license: Apache License 2.0
 installMethod: Squirrel
 installers:
 - location: https://releases.mattermost.com/desktop/4.2.1/mattermost-setup-4.2.1-win32.exe
