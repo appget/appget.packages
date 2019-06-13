@@ -1,7 +1,7 @@
 id: devhub
 name: DevHub
 version: 0.91.1.39
-home: https://beta.devhubapp.com/
+home: https://devhubapp.com/
 repo: https://github.com/devhubapp/devhub/
 license: GNU Affero General Public License v3.0
 installMethod: NSIS
