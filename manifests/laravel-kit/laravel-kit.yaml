@@ -1,0 +1,10 @@
+id: laravel-kit
+name: Laravel Kit
+version: 1.2.3.10
+home: https://tmdh.github.io/laravel-kit
+repo: https://github.com/tmdh/laravel-kit/
+license: MIT License
+installMethod: NSIS
+installers:
+- location: https://github.com/tmdh/laravel-kit/releases/download/v1.2.3/laravel-kit-setup-1.2.3.exe
+  sha256: 723ac3721062e1545262d9847f841089abf2da38ec0974029b96edaf3cd514bf
