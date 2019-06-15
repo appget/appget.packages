@@ -1,6 +1,6 @@
 id: kmplayer
 name: KMPlayer
-version: 2019.05.14.01
+version: 2019.06.13.02
 home: http://www.kmplayer.com/
 installMethod: NSIS
 installers:
