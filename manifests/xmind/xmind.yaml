@@ -1,7 +1,7 @@
 id: xmind
 name: XMind
 version: 3.7.0.201611010032
-home: https://www.xmind.net/
+home: https://www.xmind.net/xmind8
 repo: https://github.com/xmindltd/xmind/
 installMethod: Inno
 installers:
