@@ -1,9 +1,9 @@
 id: texmaker
 name: Texmaker
 version: 5.0.3
-home: http://www.xm1math.net/texmaker/
+home: https://www.xm1math.net/texmaker/
 installMethod: MSI
 installers:
-- location: http://www.xm1math.net/texmaker/assets/files/Texmaker_5.0.3_Win_x64.msi
+- location: https://www.xm1math.net/texmaker/assets/files/Texmaker_5.0.3_Win_x64.msi
   sha256: ddb5b8200bf1b96a3b7bfba3606f5b57cec16042060b703b7a062426fba7e10e
   architecture: x64
