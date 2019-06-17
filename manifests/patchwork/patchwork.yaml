@@ -1,10 +1,10 @@
 id: patchwork
 name: Patchwork
-version: 3.14.0.490
+version: 3.14.1.493
 home: https://www.scuttlebutt.nz/
 repo: https://github.com/ssbc/patchwork/
 license: GNU Affero General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/ssbc/patchwork/releases/download/v3.14.0/ssb-patchwork-setup-3.14.0.exe
-  sha256: 24ee819def5e52f197f55d7cf5ab2d8a86055b8429f8b85508b12bb46110c32c
+- location: https://github.com/ssbc/patchwork/releases/download/v3.14.1/ssb-patchwork-setup-3.14.1.exe
+  sha256: 9ef89d33dc9ce48fef50cd9caf19a7675b1f44ccfc3feed97fed9eb8b6acaf40
