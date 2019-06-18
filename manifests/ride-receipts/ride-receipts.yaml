@@ -2,7 +2,7 @@ id: ride-receipts
 name: Ride Receipts
 version: 1.7.6
 home: https://ridereceipts.io/
-repo: https://github.com/ridereceipts/ridereceipts/
+repo: https://github.com/hello-efficiency-inc/ridereceipts/
 license: MIT License
 installMethod: NSIS
 installers:
