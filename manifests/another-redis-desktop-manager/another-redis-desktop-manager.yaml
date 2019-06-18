@@ -1,9 +1,9 @@
 id: another-redis-desktop-manager
 name: Another.Redis.Desktop.Manager
-version: 1.2.2
+version: 1.2.3
 repo: https://github.com/qishibo/AnotherRedisDesktopManager/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.2.2/Another.Redis.Desktop.Manager.1.2.2.exe
-  sha256: f8004373a3689e63594ac05e6fedfa2a6cdcda5a54e8884977a8d5315c6bd4b7
+- location: https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.2.3/Another.Redis.Desktop.Manager.1.2.3.exe
+  sha256: a66c84bb7526cad7c2dd3d628e0660af792b94c78df6ca2198c634c0fc7b15c5
