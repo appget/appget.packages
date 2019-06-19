@@ -1,7 +1,7 @@
 id: jabra-direct
 name: Jabra Direct
 version: 4.0.4380.0
-home: http://www.jabra.com/
+home: https://www.jabra.com/software-and-services/jabra-direct
 installMethod: Wix
 installers:
 - location: https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.exe
