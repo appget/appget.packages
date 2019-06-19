@@ -4,5 +4,6 @@ version: 5.0.5
 home: https://shadow.tech/
 installMethod: NSIS
 installers:
-- location: https://shadow.tech/windows-x64
-- location: https://shadow.tech/windows-x86
+- location: https://update.shadow.tech/launcher/prod/win/x86/ShadowSetup.exe
+- location: https://update.shadow.tech/launcher/prod/win/x64/ShadowSetup.exe
+  architecture: x64
