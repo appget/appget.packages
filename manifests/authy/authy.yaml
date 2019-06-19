@@ -4,8 +4,6 @@ version: 1.7.0
 home: https://authy.com/
 installMethod: Squirrel
 installers:
-- location: https://s3.amazonaws.com/authy-electron-repository-production/authy/stable/1.5.0/win32/x32/Authy Desktop Setup 1.5.0.exe
-  sha256: dd860ed175c247a25d30aee502190274a789b910fa414cf772ae4a4b2657ceb1
-- location: https://s3.amazonaws.com/authy-electron-repository-production/authy/stable/1.7.0/win32/x64/Authy Desktop Setup 1.7.0.exe
-  sha256: 2dc1ca76d667abfaf364665c6cef8ed3b01829e803c411f23f3b729ca20ee992
+- location: https://electron.authy.com/download?channel=stable&arch=x32&platform=win32&version=latest&product=authy
+- location: https://electron.authy.com/download?channel=stable&arch=x64&platform=win32&version=latest&product=authy
   architecture: x64
