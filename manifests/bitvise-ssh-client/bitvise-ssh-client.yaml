@@ -3,5 +3,7 @@ name: Bitvise SSH Client
 version: 8.34.0
 home: https://bitvise.com/
 installMethod: Custom
+args:
+  passive: /acceptEULA
 installers:
 - location: https://dl.bitvise.com/BvSshClient-Inst.exe
