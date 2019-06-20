@@ -1,0 +1,8 @@
+id: onvif-device-manager
+name: ONVIF Device Manager
+version: 2.2.250
+home: https://sourceforge.net/projects/onvifdm/
+installMethod: MSI
+installers:
+- location: https://downloads.sourceforge.net/project/onvifdm/onvifdm-v2.2.250/odm-v2.2.250.msi
+  sha256: fc09f2321b575a8446d04bf6f278284d784b906260fa42c7375998aa7a5378a4
