@@ -1,0 +1,7 @@
+id: driver-booster
+name: Driver Booster
+version: 6.5.0.420
+home: http://iobit.com/
+installMethod: Inno
+installers:
+- location: http://update.iobit.com/dl/db6/driver_booster_setup_free.exe
