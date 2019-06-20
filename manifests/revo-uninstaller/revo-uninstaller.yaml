@@ -1,0 +1,7 @@
+id: revo-uninstaller
+name: Revo Uninstaller
+version: 2.1.0
+home: https://www.revouninstaller.com/
+installMethod: Inno
+installers:
+- location: https://www.revouninstaller.com/download-freeware-version.php
