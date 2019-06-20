@@ -1,6 +1,10 @@
 id: openvpn
 name: OpenVPN
-home: https://openvpn.net/
+version: 2.4.7
+home: https://openvpn.org/
 installMethod: NSIS
 installers:
-- location: https://build.openvpn.net/downloads/releases/latest/openvpn-install-latest-stable.exe
+- location: https://swupdate.openvpn.org/community/releases/openvpn-install-2.4.7-I607-Win10.exe
+  sha256: ea03af1dedb1ba5bda043456d3d9726e40997960d42eaed450bd277b4968969d
+  architecture: x64
+  minWindowsVersion: 10.0
