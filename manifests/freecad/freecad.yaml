@@ -1,12 +1,12 @@
 id: freecad
 name: FreeCAD
-version: 0.18.16110
+version: 0.18.16117
 home: https://www.freecadweb.org/
 repo: https://github.com/FreeCAD/FreeCAD/
 installMethod: NSIS
 installers:
-- location: https://github.com/FreeCAD/FreeCAD/releases/download/0.18.1/FreeCAD-0.18.16110.f7dccfa-WIN-x32-installer.exe
-  sha256: d5d30471d0c79b9588f1504e606e146f61512b17371577f6bb12b32bc6cac2a0
-- location: https://github.com/FreeCAD/FreeCAD/releases/download/0.18.1/FreeCAD-0.18.16110.f7dccfa-WIN-x64-installer.exe
-  sha256: 1a4e842ce39850a2efeec3ed16ca59e4c8a720c16999ce0724e22a20c5db5540
+- location: https://github.com/FreeCAD/FreeCAD/releases/download/0.18.2/FreeCAD-0.18.16117.dbb4cc6-WIN-x32-installer.exe
+  sha256: 10cae09ad5f86d8045a7ba0770f69ef5961f4d58a83ee87eb235a7b44ecdbd35
+- location: https://github.com/FreeCAD/FreeCAD/releases/download/0.18.2/FreeCAD-0.18.16117.dbb4cc6-WIN-x64-installer.exe
+  sha256: e2adfe5e692317735cf8c0a80e38e8b3d9dbc8ab241472b5e846e0a7d5be486c
   architecture: x64
