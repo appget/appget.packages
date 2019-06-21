@@ -1,0 +1,7 @@
+id: geogebra-geometry
+name: GeoGebra Geometry
+version: 6.0.544
+home: https://www.geogebra.org/
+installMethod: Squirrel
+installers:
+- location: https://download.geogebra.org/package/windows-geometry
