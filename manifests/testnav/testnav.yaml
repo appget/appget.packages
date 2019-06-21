@@ -1,0 +1,9 @@
+id: testnav
+name: TestNav
+version: 1.8.2
+home: https://testnav.com/
+installMethod: MSI
+installers:
+- location: https://download.testnav.com/_testnavinstallers/testnav-1.8.2.msi
+  sha256: fec60db5fcce78583271acea596bfd84ba7223814a959c25866b4859aa1f0040
+  architecture: x64
