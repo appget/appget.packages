@@ -1,7 +1,7 @@
 id: onvif-device-manager
 name: ONVIF Device Manager
 version: 2.2.250
-home: https://sourceforge.net/projects/onvifdm/
+home: https://kipod.com/
 installMethod: MSI
 installers:
 - location: https://downloads.sourceforge.net/project/onvifdm/onvifdm-v2.2.250/odm-v2.2.250.msi
