@@ -1,10 +1,10 @@
 id: nuclear
 name: nuclear
-version: 0.4.4
+version: 0.5.0
 home: https://nuclear.js.org/
 repo: https://github.com/nukeop/nuclear/
 license: GNU Affero General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/nukeop/nuclear/releases/download/v0.4.4/nuclear.Setup.0.4.4.exe
-  sha256: 5ac026e92fac6483ebc49b17ab48672416e10a901a7eddb71c81f859e13bdd13
+- location: https://github.com/nukeop/nuclear/releases/download/v0.5.0/nuclear.Setup.0.5.0.exe
+  sha256: 222877f796d981f4b6338d2f5ffb5ab487e770d625d775b41230259a5215a676
