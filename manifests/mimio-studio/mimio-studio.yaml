@@ -1,0 +1,9 @@
+id: mimio-studio
+name: Mimio Studio
+version: 12.00
+home: http://www.boxlightinc.com/
+installMethod: MSI
+installers:
+- location: https://s3.amazonaws.com/mimiostudio12/MimioStudio_12_en.msi
+  sha256: faee9b35da4d548d7d1b6032a089306bee6e904ecd7a12942edea42667d2874c
+  architecture: x64
