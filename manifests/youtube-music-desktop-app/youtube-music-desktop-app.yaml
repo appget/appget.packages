@@ -1,10 +1,10 @@
 id: youtube-music-desktop-app
 name: YouTube Music Desktop App
-version: 1.3.1
+version: 1.3.2
 home: https://ytmdesktop.app/
 repo: https://github.com/adlerluiz/ytmdesktop/
 license: Creative Commons Zero v1.0 Universal
 installMethod: NSIS
 installers:
-- location: https://github.com/adlerluiz/ytmdesktop/releases/download/v1.3.1/YouTube.Music.Desktop.App.Setup.1.3.1.exe
-  sha256: 8a9f643706a0ea1519f5c7780f26030b7c077ae11940d09d67299905bd2d008c
+- location: https://github.com/adlerluiz/ytmdesktop/releases/download/v1.3.2/YouTube.Music.Desktop.App.Setup.1.3.2.exe
+  sha256: 4ca743139f48ded26f07eb58fc5123d936d33c6278bf13e5161a4aaa46437cb7
