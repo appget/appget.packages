@@ -1,0 +1,11 @@
+id: qgis
+name: QGIS
+version: 3.8.0.1
+home: https://qgis.org/
+installMethod: NSIS
+installers:
+- location: https://qgis.org/downloads/QGIS-OSGeo4W-3.8.0-1-Setup-x86.exe
+  sha256: 501f4ec75e9d16d4f316a723e08c25bb5f5e50caa27bb48946257f717ba2b4b7
+- location: https://qgis.org/downloads/QGIS-OSGeo4W-3.8.0-1-Setup-x86_64.exe
+  sha256: 7d9162297c702ccdf918c3658dcae16197b860cb2a302a608bb57c9fd3fdb167
+  architecture: x64
