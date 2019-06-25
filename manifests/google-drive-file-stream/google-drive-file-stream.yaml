@@ -7,4 +7,3 @@ args:
   silent: --silent
 installers:
 - location: https://dl.google.com/drive-file-stream/GoogleDriveFSSetup.exe
-  architecture: x64
