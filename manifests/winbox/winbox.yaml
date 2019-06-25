@@ -1,0 +1,8 @@
+id: winbox
+name: Winbox
+version: 3.18
+home: https://mikrotik.com/
+installMethod: Custom
+installers:
+- location: https://download.mikrotik.com/routeros/winbox/3.18/winbox.exe
+  sha256: b300a83ad84f844f68d6ca4ca4c4f3823ac0239ea227e33147737db5e4cab782
