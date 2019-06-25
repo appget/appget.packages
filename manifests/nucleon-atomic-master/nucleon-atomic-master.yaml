@@ -1,7 +1,7 @@
 id: nucleon-atomic-master
 name: Nucleon Atomic Master
 version: 4.7.173.0319
-home: http://nucleonsoftware.com/products/nucleon-atomic
+home: https://nucleonsoftware.com/products/nucleon-atomic
 installMethod: MSI
 installers:
-- location: http://nucleonsoftware.com/download/AtomicMasterModuleSetup.msi
+- location: https://nucleonsoftware.com/download/AtomicMasterModuleSetup.msi
