@@ -1,7 +1,7 @@
 id: nucleon-bi-studio
 name: Nucleon BI Studio
 version: 10.8.199.0419
-home: http://nucleonsoftware.com/products/nucleon-bistudio
+home: https://nucleonsoftware.com/products/nucleon-bistudio
 installMethod: MSI
 installers:
-- location: http://nucleonsoftware.com/download/BIStudioSetup.msi
+- location: https://nucleonsoftware.com/download/BIStudioSetup.msi
