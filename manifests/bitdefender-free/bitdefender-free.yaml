@@ -1,0 +1,9 @@
+id: bitdefender-free
+name: Bitdefender Free
+version: 1.0.13.59
+home: https://www.bitdefender.com/
+installMethod: Custom
+args:
+  passive:
+installers:
+- location: https://download.bitdefender.com/windows/bp/agent/en-us/bitdefender_online.exe
