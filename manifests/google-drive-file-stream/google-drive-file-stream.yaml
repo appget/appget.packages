@@ -3,6 +3,8 @@ name: Google Drive File Stream
 version: 31.0.13
 home: https://support.google.com/a/answer/7491144?hl=en
 installMethod: Custom
+args:
+  silent: --silent
 installers:
 - location: https://dl.google.com/drive-file-stream/GoogleDriveFSSetup.exe
   architecture: x64
