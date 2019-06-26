@@ -1,7 +1,7 @@
 id: foxit-reader
 name: Foxit Reader
 version: 9.5.0.20723
-home: https://www.foxitsoftware.com/
+home: https://www.foxitsoftware.com/pdf-reader/
 installMethod: NSIS
 installers:
 - location: https://cdn01.foxitsoftware.com/pub/foxit/reader/desktop/win/9.x/9.5/en_us/FoxitReader95_Setup_Prom_IS.exe
