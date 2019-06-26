@@ -1,8 +1,8 @@
 id: vpn-unlimited
 name: VPN Unlimited
-version: 5.4
+version: 6.0
 home: https://www.vpnunlimitedapp.com/
 installMethod: Inno
 installers:
-- location: https://geo.keepsolidcdn.com/soft/vpn/Win/VPN_Unlimited_v5.4.exe
-  sha256: 83be58ec01530778ba7de01c2b82f5784bed31fa685d8a16d066029e68bd37fb
+- location: https://geo.keepsolidcdn.com/soft/vpn/Win/VPN_Unlimited_v6.0.exe
+  sha256: 55d98278647fb1475405324eb21d9ac533a699db3a37f72e56a2bd74df222e31
