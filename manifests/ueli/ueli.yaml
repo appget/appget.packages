@@ -1,10 +1,10 @@
 id: ueli
 name: ueli
-version: 7.2.6.652
+version: 7.2.7.664
 home: https://ueli.oliverschwendener.ch/
 repo: https://github.com/oliverschwendener/ueli/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/oliverschwendener/ueli/releases/download/v7.2.6/ueli-setup-7.2.6.exe
-  sha256: c82cb4d3a21f6a39862d9c1f42082bdcb1dec42bd63428d60c22f820fee54f10
+- location: https://github.com/oliverschwendener/ueli/releases/download/v7.2.7/ueli-setup-7.2.7.exe
+  sha256: 7e1045246ffaf0bde81a627858253c98ba549cf3283e4742586388e53b64ff4c
