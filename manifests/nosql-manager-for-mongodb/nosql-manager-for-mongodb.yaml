@@ -1,6 +1,6 @@
 id: nosql-manager-for-mongodb
 name: NoSQL Manager for MongoDB Freeware
-version: 5.2
+version: 5.3
 home: https://www.mongodbmanager.com/
 installMethod: Inno
 installers:
