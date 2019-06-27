@@ -1,8 +1,8 @@
 id: cyberduck
 name: Cyberduck
-version: 7.0.0.30869
+version: 7.0.1.30930
 home: https://cyberduck.io/
 installMethod: Wix
 installers:
-- location: https://update.cyberduck.io/windows/Cyberduck-Installer-7.0.0.30869.exe
-  sha256: c3fb50252d234a57aab82150a3785c61b197cb7fabaacf523245201b594d99c5
+- location: https://update.cyberduck.io/windows/Cyberduck-Installer-7.0.1.30930.exe
+  sha256: 7a2bc70dbda8b72751af5da93c318276b99f2f37f39d0b738c84058f3d9edc3f
