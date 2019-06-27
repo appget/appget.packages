@@ -3,6 +3,8 @@ name: Zotero
 version: 5.0.69
 home: https://www.zotero.org/
 installMethod: Custom
+args:
+  silent: /S
 installers:
 - location: https://download.zotero.org/client/release/5.0.69/Zotero-5.0.69_setup.exe
   sha256: ed50a569bccd09648740353c9ff449eb69854077831c035b51dfd9815a2dcf2a
