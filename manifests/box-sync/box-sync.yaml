@@ -1,0 +1,7 @@
+id: box-sync
+name: Box Sync
+version: 4.0.7929.0
+home: https://www.box.com/
+installMethod: Wix
+installers:
+- location: https://e3.boxcdn.net/box-installers/sync/Sync+4+External/BoxSyncSetup.exe
