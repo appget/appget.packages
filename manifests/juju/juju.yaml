@@ -1,7 +1,7 @@
 id: juju
 name: Juju
 version: 2.5.1
-home: https://jujucharms.com/
+home: https://jaas.ai/
 repo: https://github.com/juju/juju/
 license: GNU Affero General Public License v3.0
 installMethod: Inno
