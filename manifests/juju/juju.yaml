@@ -1,10 +1,10 @@
 id: juju
 name: Juju
-version: 2.5.1
-home: https://jujucharms.com/
+version: 2.6.4
+home: https://jaas.ai/
 repo: https://github.com/juju/juju/
 license: GNU Affero General Public License v3.0
 installMethod: Inno
 installers:
-- location: https://launchpad.net/juju/2.5/2.5.1/+download/juju-setup-2.5.1-signed.exe
-  sha256: 3e1c965fc841f80d5f6bfc487f89cacdb75dbf46e97e5e02d7d9ca1200f0a7fe
+- location: https://launchpad.net/juju/2.6/2.6.4/+download/juju-setup-2.6.4.exe
+  sha256: 720c382ce5cba249d2086925f2f11709e1a335220bf15a72ac3269d805cf5977
