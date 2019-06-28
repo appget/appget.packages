@@ -1,0 +1,10 @@
+id: visual-studio-2019-professional
+name: Microsoft Visual Studio 2019 Professional Edition
+version: 16.1.29020.237
+home: https://visualstudio.microsoft.com/vs/
+installMethod: Custom
+args:
+  silent: --quiet --norestart
+installers:
+- location: https://aka.ms/vs/16/release/vs_professional.exe
+  sha256: 9bb800f024b053ee51f7ce4da250768f10385e6471a52c3a0ba70cc1e7f53e4b
