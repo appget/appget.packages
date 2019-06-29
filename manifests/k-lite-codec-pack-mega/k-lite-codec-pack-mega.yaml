@@ -1,0 +1,8 @@
+id: k-lite-codec-pack-mega
+name: K-Lite Codec Pack Mega
+version: 15.0.0
+home: https://codecguide.com/download_k-lite_codec_pack_mega.htm
+installMethod: Inno
+installers:
+- location: https://files3.codecguide.com/K-Lite_Codec_Pack_1500_Mega.exe
+  sha256: d39c817d0a5c51b9f6561f220aa4b5988b9dbcc3eac1b37b81a5c45325d6ec99
