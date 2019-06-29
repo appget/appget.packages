@@ -1,7 +1,7 @@
 id: k-lite-codec-pack-standard
 name: K-Lite Codec Pack Standard
 version: 15.0.0
-home: https://codecguide.com/about_kl.htm
+home: https://codecguide.com/download_k-lite_codec_pack_standard.htm
 installMethod: Inno
 installers:
 - location: http://files2.codecguide.com/K-Lite_Codec_Pack_1500_Standard.exe
