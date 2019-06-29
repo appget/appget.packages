@@ -1,9 +1,9 @@
 id: p3x-redis-ui
 name: P3X Redis UI
-version: 2019.4.160
+version: 2019.4.164
 home: https://pages.corifeus.com/redis-ui
 repo: https://github.com/patrikx3/redis-ui/
 installMethod: NSIS
 installers:
-- location: https://github.com/patrikx3/redis-ui/releases/download/v2019.4.160/p3x-redis-ui-electron-setup-win-2019.4.160.exe
-  sha256: 68fc6fa13ab9187fe6adde35e84cb62dcdfd944397cac49261f744a9bf222e82
+- location: https://github.com/patrikx3/redis-ui/releases/download/v2019.4.164/p3x-redis-ui-electron-setup-win-2019.4.164.exe
+  sha256: 63406b712f4d579912538d4ba491c7ae61bc09941f546fb65ed3ab14342d9bbf
