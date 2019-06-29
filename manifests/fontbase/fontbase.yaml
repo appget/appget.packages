@@ -1,0 +1,8 @@
+id: fontbase
+name: FontBase
+version: 2.8.3
+home: https://fontba.se/
+installMethod: NSIS
+installers:
+- location: https://releases.fontba.se/win/FontBase-2.8.3.exe
+  sha256: 3ff0fd19987062858759d59d7a90e4d67f8ccf6fc23d4b988ed27a673d8e7ef5
