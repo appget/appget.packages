@@ -4,4 +4,4 @@ version: 9.5.0.20723
 home: https://www.foxitsoftware.com/pdf-reader/
 installMethod: NSIS
 installers:
-- location: http://www.foxitsoftware.com/downloads/latest.php?product=Foxit-Reader
+- location: https://www.foxitsoftware.com/downloads/latest.php?product=Foxit-Reader
