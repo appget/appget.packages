@@ -4,7 +4,7 @@ version: 6.1.1
 home: https://www.naps2.com/
 repo: https://github.com/cyanfish/naps2/
 license: GNU General Public License v2.0
-installMethod: MSI
+installMethod: Inno
 installers:
-- location: https://github.com/cyanfish/naps2/releases/download/v6.1.1/naps2-6.1.1-setup.msi
-  sha256: 090f194398469b09c3a44a35bde8e78eaa71ad2a86c249d802b554d748219177
+- location: https://github.com/cyanfish/naps2/releases/download/v6.1.1/naps2-6.1.1-setup.exe
+  sha256: 72c301140fed209789dfded59c50bc4701d6e587ff280671cc29d0439077c11b
