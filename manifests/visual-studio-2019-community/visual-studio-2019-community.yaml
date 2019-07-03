@@ -1,10 +1,10 @@
 id: visual-studio-2019-community
 name: Microsoft Visual Studio 2019 Community Edition
-version: 16.1.29020.237
+version: 16.1.29025.244
 home: https://visualstudio.microsoft.com/vs/
 installMethod: Custom
 args:
   silent: --quiet --norestart
 installers:
 - location: https://aka.ms/vs/16/release/vs_community.exe
-  sha256: 7c2b806dff8b8cd9e348170cd9106d4ad25f76b5b54297f5a00eac8c64148cc2
+  sha256: fa8c0bdafdc979ad778a00b741c27403f7fda6938104204a3820122285203373
