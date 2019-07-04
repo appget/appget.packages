@@ -1,7 +1,7 @@
 id: foxit-reader
 name: Foxit Reader
-version: 9.5.0.20723
+version: 9.6.0.25114
 home: https://www.foxitsoftware.com/pdf-reader/
-installMethod: NSIS
+installMethod: MSI
 installers:
-- location: https://www.foxitsoftware.com/downloads/latest.php?product=Foxit-Reader
+- location: https://www.foxitsoftware.com/downloads/latest.php?product=Foxit-Enterprise-Reader&platform=Windows&package_type=msi
