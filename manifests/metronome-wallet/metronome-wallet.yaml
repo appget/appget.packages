@@ -1,10 +1,10 @@
 id: metronome-wallet
 name: Metronome Wallet
-version: 1.4.0.683
+version: 1.4.1.692
 home: https://metronome.io/
 repo: https://github.com/autonomoussoftware/metronome-wallet-desktop/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/autonomoussoftware/metronome-wallet-desktop/releases/download/v1.4.0/metronome-desktop-wallet_v1.4.0.exe
-  sha256: d135a67029f52c50b895dc3d2c8894dfa541221731c01210821123a5c1b440c0
+- location: https://github.com/autonomoussoftware/metronome-wallet-desktop/releases/download/v1.4.1/metronome-desktop-wallet_v1.4.1.exe
+  sha256: 6154d42efcb0e27a3c1e3a4607f339a0f0b549bc8ee321ea985b54097042b826
