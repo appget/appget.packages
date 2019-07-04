@@ -1,0 +1,8 @@
+id: cyberduck-cli
+name: Cyberduck CLI
+version: 7.0
+home: https://duck.sh/
+installMethod: MSI
+installers:
+- location: https://dist.duck.sh/duck-7.0.0.30869.msi
+  sha256: 93b83b777dd7db9dc90fc716ee4b63d704aee5b98d815a3bc18d84538232189e
