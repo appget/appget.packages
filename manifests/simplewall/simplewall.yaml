@@ -1,0 +1,10 @@
+id: simplewall
+name: simplewall
+version: 2.4.6
+home: https://www.henrypp.org/product/simplewall
+repo: https://github.com/henrypp/simplewall/
+license: GNU General Public License v3.0
+installMethod: NSIS
+installers:
+- location: https://github.com/henrypp/simplewall/releases/download/v.2.4.6/simplewall-2.4.6-setup.exe
+  sha256: c5bd54c7f3912b36158bb4356218053f978293942c543166372791610e198434

@@ -1,0 +1,8 @@
+id: flightgear
+name: FlightGear
+version: 2016.4.1
+home: https://www.flightgear.org/
+installMethod: Inno
+installers:
+- location: https://ftp.igh.cnrs.fr/pub/flightgear/ftp/Windows/FlightGear-2016.4.1.exe
+  sha256: 8b1851999233047e3da451afb2739c5024e914e92011b3f5f37e42cdb5ed1f64

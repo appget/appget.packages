@@ -5,6 +5,8 @@ home: https://www.scribus.net/
 repo: https://sourceforge.net/projects/scribus/
 installMethod: NSIS
 installers:
+- location: https://downloads.sourceforge.net/project/scribus/scribus/1.4.8/scribus-1.4.8-windows.exe
+  sha256: eb8cdb9ea513393c5793d3a6b180b0b04bd9383385396e13ddc23487dafdb0ca
 - location: https://downloads.sourceforge.net/project/scribus/scribus/1.4.8/scribus-1.4.8-windows-x64.exe
   sha256: 1197587ebaf4622f348da594f3d96442847024476f078b1c1b515a736a507181
   architecture: x64

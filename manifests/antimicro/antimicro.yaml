@@ -1,0 +1,8 @@
+id: antimicro
+name: AntiMicro
+version: 2.20.2
+repo: https://github.com/AntiMicro/antimicro/
+installMethod: MSI
+installers:
+- location: https://github.com/AntiMicro/antimicro/releases/download/2.23/antimicro-2.23-win32.msi
+  sha256: 27817cc5c7673fc5e356db531325cfd0c95fa07b24d61c4f85363ae883627728

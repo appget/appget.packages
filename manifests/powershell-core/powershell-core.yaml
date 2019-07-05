@@ -1,0 +1,12 @@
+id: powershell-core
+name: PowerShell Core
+version: 6.2.1
+home: https://microsoft.com/PowerShell
+repo: https://github.com/PowerShell/PowerShell/
+installMethod: MSI
+installers:
+- location: https://github.com/PowerShell/PowerShell/releases/download/v6.2.1/PowerShell-6.2.1-win-x86.msi
+  sha256: 0fe4ea7b87a948c4c42551ab68e22fcd12bff593954dd4483cffdf541c23a5e4
+- location: https://github.com/PowerShell/PowerShell/releases/download/v6.2.1/PowerShell-6.2.1-win-x64.msi
+  sha256: c24406ca8f65440fa0381e417b05a16161227276eb3b77091fdb9d174b7f3144
+  architecture: x64

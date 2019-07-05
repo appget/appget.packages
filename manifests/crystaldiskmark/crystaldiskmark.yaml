@@ -1,8 +1,8 @@
 id: crystaldiskmark
 name: CrystalDiskMark6
-version: 6.0.1
+version: 6.0.2
 home: https://crystalmark.info/
 installMethod: Inno
 installers:
-- location: https://osdn.dl.osdn.jp/crystaldiskmark/68624/CrystalDiskMark6_0_1.exe
-  sha256: bf41c1d312ff20c55fe57d1e58613f8111d07555be0770882e5717f645950003
+- location: https://osdn.net/frs/redir.php?m=xtom_us&f=crystaldiskmark%2F68624%2FCrystalDiskMark6_0_2.exe
+  sha256: 84ccc2dc20e33abe48e9e452566213edf36adf5f308854fa55a9e15ff9efa2e0

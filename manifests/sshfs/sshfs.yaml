@@ -1,0 +1,12 @@
+id: sshfs
+name: SSHFS for Windows
+version: 3.2.18213
+repo: https://github.com/billziss-gh/sshfs-win/
+license: GNU General Public License v2.0
+installMethod: MSI
+installers:
+- location: https://github.com/billziss-gh/sshfs-win/releases/download/v3.2.18213/sshfs-win-3.2.18213-x86.msi
+  sha256: 38bdae56b70e2276b323b5fc942aeb1f1c4df283b13e80ea0d8850879185f694
+- location: https://github.com/billziss-gh/sshfs-win/releases/download/v3.2.18213/sshfs-win-3.2.18213-x64.msi
+  sha256: 5079a14a47c62d3355007deae59b20a2d136d4f22680bce9f89fd192b8762d30
+  architecture: x64

@@ -1,0 +1,10 @@
+id: classic-shell
+name: Classic Shell
+version: 4.3.1
+home: http://www.classicshell.net/
+installMethod: Custom
+args:
+  silent: /qn NOSTART=1
+installers:
+- location: https://downloads.sourceforge.net/project/classicshell/Version 4.3.1 general release/ClassicShellSetup_4_3_1.exe
+  sha256: 8bbd850fd8a2b41d090fbf8e005f9a5a76c774aca643318a8a34254f99f79ed8

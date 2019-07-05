@@ -1,0 +1,7 @@
+id: google-backup-and-sync
+name: Backup and Sync from Google
+version: 3.44.4943.6228
+home: https://www.google.com/drive/
+installMethod: MSI
+installers:
+- location: https://dl.google.com/drive/gsync_enterprise.msi
