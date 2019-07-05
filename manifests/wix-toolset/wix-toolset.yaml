@@ -1,0 +1,9 @@
+id: wix-toolset
+name: WiX Toolset
+version: 3.11.1.2318
+home: https://wixtoolset.org/
+repo: https://github.com/wixtoolset/wix3/
+installMethod: Wix
+installers:
+- location: https://github.com/wixtoolset/wix3/releases/download/wix3111rtm/wix311.exe
+  sha256: 7caecc9ffdcdeca09e211aa20c8dd2153da12a1647f8b077836b858c7b4ca265
