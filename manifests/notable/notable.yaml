@@ -1,9 +1,9 @@
 id: notable
 name: Notable
-version: 1.5.1
+version: 1.6.0
 repo: https://github.com/notable/notable/
 license: GNU Affero General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/notable/notable/releases/download/v1.5.1/Notable.Setup.1.5.1.exe
-  sha256: f7faaa8fec06ff0f6b24e1edc2d2069c23d0ce07517bded3fff30b1a51dba77f
+- location: https://github.com/notable/notable/releases/download/v1.6.0/Notable.Setup.1.6.0.exe
+  sha256: 45bc1abc68480bd1de7bff2cf492705ea868ec6292f4ec03e7cd9ba4bd4fac69
