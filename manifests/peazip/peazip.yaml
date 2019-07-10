@@ -1,7 +1,7 @@
 id: peazip
 name: PeaZip
 version: 6.8.1
-home: http://www.peazip.org/
+home: https://www.peazip.org/
 repo: https://github.com/giorgiotani/PeaZip/
 installMethod: MSI
 installers:
