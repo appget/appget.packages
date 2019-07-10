@@ -5,5 +5,7 @@ repo: https://github.com/notable/notable/
 license: GNU Affero General Public License v3.0
 installMethod: NSIS
 installers:
+- location: https://github.com/notable/notable/releases/download/v1.6.2/Notable.1.6.2.exe
+  sha256: 01f384691e5d0cc55f7bd75aa4883748da3ec83ecc283b9c401d570196eba7c8
 - location: https://github.com/notable/notable/releases/download/v1.6.2/Notable.Setup.1.6.2.exe
   sha256: f6540a346cd9b42c4b45e8fec5500c81a8ebee20ce864df3d3afbeb3d4b2f67a
