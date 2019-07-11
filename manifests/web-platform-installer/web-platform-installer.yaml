@@ -1,0 +1,9 @@
+id: web-platform-installer
+name: Microsoft Web Platform Installer
+version: 5.1.51515
+home: https://www.microsoft.com/web/downloads/platform.aspx
+installMethod: MSI
+installers:
+- location: https://go.microsoft.com/fwlink/?LinkId=287165
+- location: https://go.microsoft.com/fwlink/?LinkId=287166
+  architecture: x64
