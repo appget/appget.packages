@@ -1,6 +1,6 @@
 id: slack
 name: Slack
-version: 3.4.3
+version: 4.0.0
 home: https://slack.com/
 installMethod: Squirrel
 installers:
