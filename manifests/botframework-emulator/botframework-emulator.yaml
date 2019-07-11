@@ -1,10 +1,10 @@
 id: botframework-emulator
 name: botframework-emulator
-version: 4.4.2.61547
+version: 4.5.0.70171
 home: https://aka.ms/botemulator
 repo: https://github.com/microsoft/BotFramework-Emulator/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.4.2/BotFramework-Emulator-4.4.2-windows-setup.exe
-  sha256: d90f2418354110b2a6f69bbaee32fea8dcb44241222287f5052cb90be0cc2c3e
+- location: https://github.com/microsoft/BotFramework-Emulator/releases/download/v4.5.0/BotFramework-Emulator-4.5.0-windows-setup.exe
+  sha256: 0045bb7e5dd49a8d30402553c8114f82cd469fac0874e07848c071cc3cd2171e
