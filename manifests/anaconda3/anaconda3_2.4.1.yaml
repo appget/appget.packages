@@ -1,11 +1,11 @@
 id: anaconda3
 name: Anaconda3
-version: 2.4.1
+version: 2019.03
 home: https://www.anaconda.com/distribution/
 installMethod: NSIS
 installers:
-- location: https://repo.anaconda.com/archive/Anaconda3-2.4.1-Windows-x86.exe
-  sha256: dfe50d13473547b5230f6194dfe6bdff961a8b7f5e3c22edef8c7788194b7129
-- location: https://repo.anaconda.com/archive/Anaconda3-2.4.1-Windows-x86_64.exe
-  sha256: 21d155a4b43805042499b8d008835bcdfd9c3a45fe53d1183de9e0a937170679
+- location: https://repo.anaconda.com/archive/Anaconda3-2019.03-Windows-x86.exe
+  sha256: 03d94f55c4c5e1187382ff414c78e66244893170fa7aacd0deb71536b7a925e5
+- location: https://repo.anaconda.com/archive/Anaconda3-2019.03-Windows-x86_64.exe
+  sha256: d2c90169879f40816eac91bec585a1f9f788016fe0a8215ca066299e4b6531b9
   architecture: x64
