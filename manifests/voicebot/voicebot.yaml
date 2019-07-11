@@ -1,6 +1,6 @@
 id: voicebot
 name: VoiceBot
-version: 3.5.0.0
+version: 3.5.1.0
 home: https://www.voicebot.net/
 installMethod: Inno
 installers:
