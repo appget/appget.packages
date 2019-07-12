@@ -1,0 +1,9 @@
+id: opencomic
+name: OpenComic
+version: 0.1.2
+repo: https://github.com/ollm/OpenComic/
+license: GNU General Public License v3.0
+installMethod: NSIS
+installers:
+- location: https://github.com/ollm/OpenComic/releases/download/v0.1.2/OpenComic.Setup.0.1.2.exe
+  sha256: 6ed5f1e64172e67fe580dd8578ad0ccdbb803a5775f7142f0366ad935adacb1d
