@@ -1,8 +1,8 @@
 id: seafile-client
 name: Seafile Desktop Syncing Client
-version: 7.0
+version: 7.0.1
 home: https://www.seafile.com/
 installMethod: MSI
 installers:
-- location: https://download.seadrive.org/seafile-7.0.0-en.msi
-  sha256: d829778b3df2f64cdbcdebc3a3ac5060cdfd551e41cbcf8d5c0cf6b6e0b2bacf
+- location: https://download.seadrive.org/seafile-7.0.1-en.msi
+  sha256: 940da51f75a91f5fd3dc2e0f566b97a6fef9d95dd8c9ce5a40c672de591dc903
