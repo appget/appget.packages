@@ -6,5 +6,7 @@ repo: https://github.com/kovidgoyal/calibre/
 installMethod: MSI
 installers:
 - location: https://github.com/kovidgoyal/calibre/releases/download/v3.45.1/calibre-3.45.1.msi
+  sha256: 0234a76159f8384660ac745aff9b01768b1fb3f75d0a9765a1e74c69389d0990
 - location: https://github.com/kovidgoyal/calibre/releases/download/v3.45.1/calibre-64bit-3.45.1.msi
+  sha256: 000481f3a1c8b7a16d24558678b7bb2d35269691070a473e80b9e9cb66d2aea5
   architecture: x64
