@@ -1,9 +1,9 @@
 id: course-hunt
 name: Course Hunt
-version: 0.0.6
+version: 0.0.7
 repo: https://github.com/theIYD/coursehunt/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/theIYD/coursehunt/releases/download/v0.0.6/course-hunt-setup-0.0.6.exe
-  sha256: 420fa53fbee445eb3ba4b78162d10bcca2f2d907bf019a46647ceaf9102f84ae
+- location: https://github.com/theIYD/coursehunt/releases/download/v0.0.7/course-hunt-setup-0.0.7.exe
+  sha256: 4a37c205a4eb2abec818f3cbab529a5b28dee149198bad0e89ccb4404a54fe50
