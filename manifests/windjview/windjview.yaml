@@ -1,0 +1,9 @@
+id: windjview
+name: WinDjView
+version: 2.1
+home: https://windjview.sourceforge.io/
+installMethod: NSIS
+installers:
+- location: https://downloads.sourceforge.net/project/windjview/WinDjView/2.1/WinDjView-2.1-Setup.exe
+  sha256: 91cde668b1f700b64677199e9b534f8da4ae45aef014f5439cefdc8c532418bf
+  architecture: x64
