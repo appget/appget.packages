@@ -1,6 +1,6 @@
 id: anydesk
 name: AnyDesk
-version: 5.2.1
+version: 5.2.2
 home: https://anydesk.com/
 installMethod: MSI
 installers:
