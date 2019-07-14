@@ -1,9 +1,9 @@
 id: music-kitten
 name: Music Kitten
-version: 2.4.1.278
+version: 2.4.2.283
 repo: https://github.com/CorySanin/Kitten-for-CSGO/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/CorySanin/Kitten-for-CSGO/releases/download/v2.4.1/Music-Kitten-Setup-2.4.1.exe
-  sha256: 59054ecfd060f23dac92c232e27ddfdb92338338eea499d3086ac0b9db616508
+- location: https://github.com/CorySanin/Kitten-for-CSGO/releases/download/v2.4.2/Music-Kitten-Setup-2.4.2.exe
+  sha256: 70de5d68326478eea9502c99985ecfe8ba2f612b8c5ef506ef6580b57e020a3a
