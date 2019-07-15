@@ -1,8 +1,8 @@
 id: heidisql
 name: HeidiSQL
-version: 10.1.0.5464
+version: 10.2.0.5599
 home: https://www.heidisql.com/
 installMethod: Inno
 installers:
-- location: https://www.heidisql.com/installers/HeidiSQL_10.1.0.5464_Setup.exe
-  sha256: d5d17c2915dd2361c0b892b75e520cd86b7d2126d3200abae607f2807924321e
+- location: https://www.heidisql.com/installers/HeidiSQL_10.2.0.5599_Setup.exe
+  sha256: 3198e7e0bdd1451242ee5807bc367a2ff206359f7971a14abf5f13ab7ac65832
