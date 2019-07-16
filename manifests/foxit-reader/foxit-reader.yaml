@@ -1,6 +1,6 @@
 id: foxit-reader
 name: Foxit Reader
-version: 9.5.0.20723
+version: 9.6.0.25114
 home: https://www.foxitsoftware.com/pdf-reader/
 installMethod: NSIS
 installers:
