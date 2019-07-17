@@ -4,5 +4,7 @@ version: 191.7479.30
 home: https://www.jetbrains.com/pycharm/
 installMethod: NSIS
 installers:
+- location: https://download.jetbrains.com/python/pycharm-professional-anaconda-2019.1.3.exe
+  sha256: cdc7cf144a30f8d59eff8b16de19fbf546f9a506f644fbc94db916707c09f7a9
 - location: https://download.jetbrains.com/python/pycharm-professional-2019.1.3.exe
   sha256: 93360bc9424a4fe49ce3be988ad2188ea44e7be7859c4bf19c38c3bebb5d0cb1
