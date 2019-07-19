@@ -1,6 +1,6 @@
 id: sugarsync
 name: SugarSync
-version: 3.11.0.8
+version: 3.11.1.7
 home: https://www2.sugarsync.com/
 installMethod: NSIS
 installers:
