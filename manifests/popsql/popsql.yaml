@@ -1,6 +1,6 @@
 id: popsql
 name: PopSQL
-version: 0.7.3.953
+version: 0.7.4.955
 home: https://popsql.com/
 installMethod: NSIS
 installers:
