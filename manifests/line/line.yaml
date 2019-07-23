@@ -1,6 +1,6 @@
 id: line
 name: LINE
-version: 5.17.3.1958
+version: 5.18.0
 home: https://line.me/
 installMethod: NSIS
 installers:
