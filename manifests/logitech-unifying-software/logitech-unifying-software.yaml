@@ -6,3 +6,4 @@ installMethod: NSIS
 installers:
 - location: https://download01.logi.com/web/ftp/pub/controldevices/unifying/unifying250.exe
   sha256: ace27f43e1ce4925e72c49a33fcc2aa3b3db557ed808f29e75dacedfebf7ab90
+  architecture: x64
