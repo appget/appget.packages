@@ -1,13 +1,13 @@
 id: atom
 name: Atom
-version: 1.39.0
+version: 1.38.2
 home: https://atom.io/
 repo: https://github.com/atom/atom/
 license: MIT License
 installMethod: Squirrel
 installers:
-- location: https://github.com/atom/atom/releases/download/v1.39.0/AtomSetup.exe
-  sha256: a59188aa8aebebf28d64d74ecf8315b355fb2caf4a86564cea3a13f03871edc1
-- location: https://github.com/atom/atom/releases/download/v1.39.0/AtomSetup-x64.exe
-  sha256: 63de0aebd5f507821e77d542fcbee3e1cc71b8380854967d495555cfa5c72a6b
+- location: https://github.com/atom/atom/releases/download/v1.38.2/AtomSetup.exe
+  sha256: 66e0ef04d2f71b1e256f13263b4e5fa83644761706c38481eac031eb1886f39b
+- location: https://github.com/atom/atom/releases/download/v1.38.2/AtomSetup-x64.exe
+  sha256: bdd4e02f7cd714c92bcc843f46bb4d7cd19208bd3d40007f25832e21a178afea
   architecture: x64
