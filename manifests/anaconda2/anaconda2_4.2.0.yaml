@@ -1,11 +1,11 @@
 id: anaconda2
 name: Anaconda2
-version: 4.2.0
+version: 2019.07
 home: https://www.anaconda.com/distribution/
 installMethod: NSIS
 installers:
-- location: https://repo.anaconda.com/archive/Anaconda2-4.2.0-Windows-x86.exe
-  sha256: a97ca79cb771568d051ef7773d25c0dda407c63e7ec91305f35dff790aeda042
-- location: https://repo.anaconda.com/archive/Anaconda2-4.2.0-Windows-x86_64.exe
-  sha256: 6254b150edee53000c94e9abfc9c51a2d2e5ef3453d8e7cc7ef0a848d6d3b422
+- location: https://repo.anaconda.com/archive/Anaconda2-2019.07-Windows-x86.exe
+  sha256: 1bd676a51ccdee57c2c01a2bc87fa8b1bd48cf7a6c0b16c44a241374f798f919
+- location: https://repo.anaconda.com/archive/Anaconda2-2019.07-Windows-x86_64.exe
+  sha256: fb7493a5c40d28ab47e54c57f025186dc26309183b21c8a0df733837e86b1aad
   architecture: x64
