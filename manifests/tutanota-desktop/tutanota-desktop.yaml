@@ -1,0 +1,7 @@
+id: tutanota-desktop
+name: Tutanota Desktop
+version: 3.55.7.479
+home: https://tutanota.com/
+installMethod: NSIS
+installers:
+- location: https://mail.tutanota.com/desktop/tutanota-desktop-win.exe
