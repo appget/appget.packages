@@ -1,0 +1,8 @@
+id: comodo-free-firewall-2019
+name: Comodo Free Firewall 2019
+version: 12.0
+home: https://www.comodo.com/home/internet-security/firewall.php
+installMethod: Custom
+installers:
+- location: https://download.comodo.com/cis/download/installs/1000/partners/cmd_fw_installer_10299_79.exe
+  sha256: e5acf2e21a84f10d98e6f5dac826c389b1358b66ccd4c6bc361b78073524570e
