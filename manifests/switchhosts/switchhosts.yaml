@@ -1,10 +1,10 @@
 id: switchhosts
 name: SwitchHosts!
-version: 3.3.14.5404
+version: 3.4.0.5450
 home: https://oldj.github.io/SwitchHosts/
 repo: https://github.com/oldj/SwitchHosts/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/oldj/SwitchHosts/releases/download/v3.3.14/SwitchHosts._windows_installer_3.3.14.5404.exe
-  sha256: 84b6308efaef06b87f4144d4844abbedfddb0654e13373def4bde04374653796
+- location: https://github.com/oldj/SwitchHosts/releases/download/v3.4.0/SwitchHosts._windows_installer_3.4.0.5450.exe
+  sha256: 9cf0901d733fdd2ad6b00a2de9ff97b3c230e8a0616da83fa487ab33970e5c1b
