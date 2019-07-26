@@ -1,0 +1,8 @@
+id: mikrotik-winbox
+name: MikroTik WinBox
+version: 3.19
+home: https://mikrotik.com/
+installMethod: Custom
+installers:
+- location: https://download.mikrotik.com/routeros/winbox/3.19/winbox.exe
+  sha256: 494ce796164c1a2dae4ca37e3ea277866068fd736fbb09dd651cb22923faee5a
