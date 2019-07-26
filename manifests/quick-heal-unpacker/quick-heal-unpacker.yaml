@@ -1,0 +1,11 @@
+id: quick-heal-unpacker
+name: Quick Heal Total Security
+version: 11.1.0.1
+home: https://www.quickheal.com/
+installMethod: Custom
+installers:
+- location: http://dlupdate.quickheal.com/builds/1800/eval/ts/QHTSFT.EXE
+  sha256: 25b78e0d93ecf2843d00d79c4932b15c8042ba85a5eaf8c3e692cfbc6cfdd7d7
+- location: http://dlupdate.quickheal.com/builds/1800/eval/ts/QHTSFT.EXE
+  sha256: 25b78e0d93ecf2843d00d79c4932b15c8042ba85a5eaf8c3e692cfbc6cfdd7d7
+  architecture: x64
