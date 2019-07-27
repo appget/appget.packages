@@ -1,12 +1,12 @@
 id: synctrayzor
 name: SyncTrayzor
-version: 1.1.23.0
+version: 1.1.24.0
 repo: https://github.com/canton7/SyncTrayzor/
 license: MIT License
 installMethod: Inno
 installers:
-- location: https://github.com/canton7/SyncTrayzor/releases/download/v1.1.23/SyncTrayzorSetup-x86.exe
-  sha256: 6f7d815eaf4c578a86862de28c00a3e3d3b2742fa6ff8719875299d84eca0727
-- location: https://github.com/canton7/SyncTrayzor/releases/download/v1.1.23/SyncTrayzorSetup-x64.exe
-  sha256: 47fffd4fe8c81e5d29e8ca67678655d63e2c23d89f2f403cf0b29f838e461936
+- location: https://github.com/canton7/SyncTrayzor/releases/download/v1.1.24/SyncTrayzorSetup-x86.exe
+  sha256: 3506079a9d26e64619ac187b5c9a0075c0a5de8100a7241ee9673d6644ddcad7
+- location: https://github.com/canton7/SyncTrayzor/releases/download/v1.1.24/SyncTrayzorSetup-x64.exe
+  sha256: 081325f3f5dc11d55ad40d204421e1cd0f2af1dea0b43abc70cd60b65b4bc37d
   architecture: x64
