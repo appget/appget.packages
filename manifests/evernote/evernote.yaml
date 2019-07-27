@@ -3,6 +3,9 @@ name: Evernote
 version: 6.19.2.8555
 home: https://evernote.com/
 installMethod: Custom
+args:
+  passive: /qb /norestart
+  silent: /qn /norestart
 installers:
 - location: https://cdn1.evernote.com/win6/public/Evernote_6.19.2.8555.exe
   sha256: c38f178399cbd50d39b5941a1300d3737da2224d77f349eb6dbc4912aaef1115
