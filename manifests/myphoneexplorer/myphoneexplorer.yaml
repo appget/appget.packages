@@ -1,0 +1,7 @@
+id: myphoneexplorer
+name: MyPhoneExplorer
+version: 1.8.12
+home: https://www.fjsoft.at/
+installMethod: NSIS
+installers:
+- location: https://www.fjsoft.at/download.php?id=1
