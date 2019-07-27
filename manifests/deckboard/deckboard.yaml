@@ -1,9 +1,9 @@
 id: deckboard
 name: Deckboard
-version: 1.5.0
+version: 1.6.0
 home: https://deckboard.app/
 repo: https://github.com/rivafarabi/deckboard/
 installMethod: NSIS
 installers:
-- location: https://github.com/rivafarabi/deckboard/releases/download/v1.5.0/Deckboard-Setup-1.5.0.exe
-  sha256: ca3856e35136ac85effb35ae64d33da927d1ab02b364f09b913d9ed8121377a9
+- location: https://github.com/rivafarabi/deckboard/releases/download/v1.6.0/Deckboard-Setup-1.6.0.exe
+  sha256: efef0b5306309dd4113eeca14d4dc055bf1b95a9b63126dd7280209ba85bb57b
