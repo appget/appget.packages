@@ -1,0 +1,7 @@
+id: system-explorer
+name: System Explorer
+version: 7.0
+home: http://systemexplorer.net/
+installMethod: Inno
+installers:
+- location: https://systemexplorer.net/download/SystemExplorerSetup.exe
