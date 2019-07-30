@@ -6,3 +6,5 @@ installMethod: NSIS
 installers:
 - location: https://download.jetbrains.com/go/goland-2019.2.exe
   sha256: 7eb5d090eafa5fee49eb96ad8fd4c30608d906951d409234ade2138c26743a75
+- location: https://download.jetbrains.com/go/goland-2019.2-jbr8.exe
+  sha256: 3330f1d5ac052d119ce430bc7a4e060b726203323feab6e6dfe9e82354ff8ba7
