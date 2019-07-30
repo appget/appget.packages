@@ -1,12 +1,12 @@
 id: putty
 name: PuTTY
-version: 0.71.0
+version: 0.72.0
 home: https://www.chiark.greenend.org.uk/~sgtatham/putty/
 license: MIT
 installMethod: MSI
 installers:
-- location: https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.71-installer.msi
-  sha256: 2c6c5dcb250f78d9946402279ffe9c7f468e862c23b5e489b1ea9a9a81d44178
-- location: https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.71-installer.msi
-  sha256: 3aa8298ce09fe005b1da2f91f84ab13623a35684ecae5537b5b5f4235bd99720
+- location: https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.72-installer.msi
+  sha256: d09971c1f67e15de5491a76af944e495a24c51df0a8c2193b0794da1060db96d
+- location: https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.72-installer.msi
+  sha256: 82b906d253b9d9816236336bce045fee954d939a34aa81a3c4cadd3a95345a3c
   architecture: x64
