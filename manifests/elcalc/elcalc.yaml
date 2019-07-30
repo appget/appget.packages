@@ -1,9 +1,9 @@
 id: elcalc
 name: elcalc
-version: 6.1.0
+version: 6.0.2
 repo: https://github.com/elcalc/elcalc/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/elcalc/elcalc/releases/download/6.1.0/elcalc.Setup.6.1.0.exe
-  sha256: 0ba4cc4a12ec96d45af73f37bdce81ecb86550a72d0a59cf444ef7d5a0c27ae1
+- location: https://github.com/elcalc/elcalc/releases/download/6.0.2/elcalc.Setup.6.0.2.exe
+  sha256: fe7f1a2feeb6d3d63c61fb5481ca9295e0fc53f7b904979ba4c599f51736172b
