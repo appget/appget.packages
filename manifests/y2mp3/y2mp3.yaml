@@ -1,10 +1,10 @@
 id: y2mp3
 name: y2mp3
-version: 2.0.0.243
+version: 1.7.1.229
 home: https://electronjs.org/apps/y2mp3
 repo: https://github.com/moshfeu/y2mp3/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/moshfeu/y2mp3/releases/download/v2.0.0/y2mp3.Setup.2.0.0.exe
-  sha256: 3617c1f377265b49b9ce738c7096b91f738124ecb267c026c52960d144de2245
+- location: https://github.com/moshfeu/y2mp3/releases/download/v1.7.1/y2mp3.Setup.1.7.1.exe
+  sha256: 010a3109e2b8eb801d67a148ece66eb3e8e9bc6514cb619b9959359388bafa30
