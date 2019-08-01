@@ -7,4 +7,4 @@ license: MIT License
 installMethod: NSIS
 installers:
 - location: https://github.com/dsheiko/puppetry/releases/download/v2.0.2/puppetrySetup-win-v2.0.2.exe
-  sha256: 732c7a933d5efc1cd0add698176e674f75a42afd0fe6bc019346c9fccbf5e298
+  sha256: aa67b9c7996032d46bbc370c231d4b53a78dc1866cf13daf2b6b6b3d738a62af
