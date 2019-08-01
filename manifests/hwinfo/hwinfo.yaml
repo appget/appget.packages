@@ -1,8 +1,8 @@
 id: hwinfo
 name: HWiNFO
-version: 6.08
+version: 6.10
 home: https://www.hwinfo.com/
 installMethod: Inno
 installers:
-- location: https://www.sac.sk/download/utildiag/hwi_608.exe
-  sha256: 533ff8f4951acc14dd675771ebafd8ff949a77258e305b91917048a7d08f36e7
+- location: https://www.sac.sk/download/utildiag/hwi_610.exe
+  sha256: 506ba7f5dbf56c00db2a4f9de73608516ff40009ff79ff4ac10bd310a8798614
