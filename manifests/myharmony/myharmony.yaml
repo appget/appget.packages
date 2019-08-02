@@ -1,8 +1,8 @@
 id: myharmony
 name: MyHarmony
-version: 1.0.308
+version: 2.36289572.547945663.1564764546
 home: https://myharmony.com/
 installMethod: MSI
 installers:
-- location: https://app.myharmony.com/prod/win/1.0/MyHarmony-App.msi
+- location: https://app.myharmony.com/prod/win/1.0/MyHarmony-App.msi?_ga=2.36289572.547945663.1564764546-1590751122.1564764546
   sha256: 245c352b579a8f79329ca34a1003a496e7834b62011fdd1912775cb81ec19784
