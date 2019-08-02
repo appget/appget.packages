@@ -1,10 +1,10 @@
 id: qawl-quran-reader
 name: Qawl — Quran Reader
-version: 3.1.15.48
+version: 3.1.16
 home: https://qawl.navedislam.com/
 repo: https://github.com/mr-islam/qawl/
 license: GNU General Public License v2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/mr-islam/qawl/releases/download/v3.1.15/qawl-setup-3.1.15.exe
-  sha256: 1040ce5a2eaa0fc1b398311daca370a61cd869e2d23797c584d3d4163f81ba8f
+- location: https://github.com/mr-islam/qawl/releases/download/v3.1.16/qawl-setup-3.1.16.exe
+  sha256: 76c33718a963feb0da645676f1a7270fa33b4ab6e4f2bce631909de7faadef7f
