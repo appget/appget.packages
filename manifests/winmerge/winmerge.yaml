@@ -1,7 +1,7 @@
 id: winmerge
 name: WinMerge
 version: 2.16.4.0
-home: http://winmerge.org/
+home: https://winmerge.org/
 installMethod: Inno
 installers:
 - location: https://downloads.sourceforge.net/project/winmerge/stable/2.16.4/WinMerge-2.16.4-Setup.exe
