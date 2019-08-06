@@ -4,8 +4,8 @@ version: 19.0
 home: https://www.emeditor.com/
 installMethod: MSI
 installers:
-- location: http://files.emeditor.com/emed32_19.0.0.msi
+- location: https://emeditor.blob.core.windows.net/emed32_19.0.0.msi
   sha256: 6c2a05843e010e64680d30935a4901927366ebaf8dde680cd9c244b891d943d7
-- location: http://files.emeditor.com/emed64_19.0.0.msi
+- location: https://emeditor.blob.core.windows.net/emed64_19.0.0.msi
   sha256: 29d00aed29269553006139e03032517c6cbff2657bc2108bcbe942317a4b5cbf
   architecture: x64
