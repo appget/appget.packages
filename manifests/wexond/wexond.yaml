@@ -2,7 +2,7 @@ id: wexond
 name: Wexond
 version: 2.2.4.1064
 home: https://wexond.net/
-repo: https://github.com/wexond/wexond/
+repo: https://github.com/wexond/desktop/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
