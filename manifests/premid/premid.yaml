@@ -3,7 +3,7 @@ name: PreMiD
 version: 1.2.0
 home: https://premid.app/
 repo: https://github.com/PreMiD/PreMiD/
-license: MIT License
+license: Mozilla Public License 2.0
 installMethod: Squirrel
 installers:
 - location: https://github.com/PreMiD/PreMiD/releases/download/v1.2/PreMiD-Windows-x32.exe
