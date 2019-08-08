@@ -1,11 +1,11 @@
 id: resharper-cpp
 name: ReSharper C++
-version: 2019.1.3
+version: 2019.2
 home: https://www.jetbrains.com/resharper-cpp/
 installMethod: Custom
 args:
   silent: /SpecificProductNames=resharper-cpp /Silent=True /VsVersion=15.0;14.0;12.0;11.0;10.0
   log: /LogFile={path}
 installers:
-- location: https://download.jetbrains.com/resharper/ReSharperUltimate.2019.1.3/JetBrains.ReSharperUltimate.2019.1.3.exe
-  sha256: 1ce8b815d12b6bdc4b9fcb648b97c0c6aea4733b3626fbea2a7b747986c7cb6e
+- location: https://download.jetbrains.com/resharper/ReSharperUltimate.2019.2/JetBrains.ReSharperUltimate.2019.2.exe
+  sha256: 6afc3f0bfb404dfad5f6f889abf5d1e481c576d529edcb2d8f93394568bd0dae
