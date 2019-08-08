@@ -1,7 +1,7 @@
 id: cmake
 name: CMake
 version: 3.15.2
-home: https://gitlab.kitware.com/cmake/cmake
+home: https://cmake.org/
 repo: https://github.com/Kitware/CMake/
 installMethod: MSI
 installers:
