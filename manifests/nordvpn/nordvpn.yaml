@@ -1,6 +1,6 @@
 id: nordvpn
 name: NordVPN
-version: 6.23.10
+version: 6.23.11
 home: https://nordvpn.com/
 installMethod: AdvancedInstaller
 installers:
