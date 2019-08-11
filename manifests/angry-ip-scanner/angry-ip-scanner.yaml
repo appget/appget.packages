@@ -1,10 +1,10 @@
 id: angry-ip-scanner
 name: Angry IP Scanner
-version: 3.5.5
+version: 3.6.0
 home: https://angryip.org/
 repo: https://github.com/angryip/ipscan/
 license: GNU General Public License v2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/angryip/ipscan/releases/download/3.5.5/ipscan-3.5.5-setup.exe
-  sha256: a4c9bcf5a748e432e6ae84393c4d174d7f1b7cc6a3e7308183ac829970b73e6e
+- location: https://github.com/angryip/ipscan/releases/download/3.6.0/ipscan-3.6.0-setup.exe
+  sha256: eb6aa78a64ba7c6ed9341855d3aef5742ab13948b6cd445e9c715260f8d10dcb
