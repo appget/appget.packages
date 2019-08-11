@@ -3,8 +3,9 @@ name: Avidemux
 version: 2.7.3
 home: http://avidemux.sourceforge.net/
 repo: https://sourceforge.net/projects/avidemux/
-installMethod: NSIS
+installMethod: Custom
 installers:
-- location: https://downloads.sourceforge.net/project/avidemux/avidemux/2.7.3/Avidemux_2.7.3%20VC%2B%2B%2064bits%20.exe
-  sha256: 4D9ED2F3953A95261308906AFE6C973396F73E4A7B3979CF715281EFA241E7FA
+- location: https://downloads.sourceforge.net/project/avidemux/avidemux/2.7.3/Avidemux_2.7.3 VC++ 64bits .exe
+  sha256: eb2e264b261d023d3b6891877dd8b5f9b6e32300ab363c2e04a60b5085ba4051
   architecture: x64
+  
