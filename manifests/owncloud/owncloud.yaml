@@ -6,4 +6,4 @@ repo: https://github.com/owncloud/client/
 installMethod: MSI
 installers:
 - location: https://download.owncloud.com/desktop/stable/ownCloud-2.5.4.11654.11466.en-US.msi
-  sha256: 290A0AEA188CC6C3B2066C38914127347F3C31890490AD971F086560CAF55DF3
+  sha256: 290a0aea188cc6c3b2066c38914127347f3c31890490ad971f086560caf55df3
