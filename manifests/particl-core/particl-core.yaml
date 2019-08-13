@@ -1,13 +1,13 @@
 id: particl-core
 name: Particl Core
-version: 0.18.1.1
+version: 0.18.1.2
 home: https://particl.io/
 repo: https://github.com/particl/particl-core/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/particl/particl-core/releases/download/v0.18.1.1/particl-0.18.1.1-win32-setup.exe
-  sha256: e0a7a5be0e6599e585887697054063a9f9a008baa6acae7e0d51204c45e54ce9
-- location: https://github.com/particl/particl-core/releases/download/v0.18.1.1/particl-0.18.1.1-win64-setup.exe
-  sha256: d090ffdc730ec2c21c2bb32cc930863bbd1be808c2a94d91424a9b1af26fea42
+- location: https://github.com/particl/particl-core/releases/download/v0.18.1.2/particl-0.18.1.2-win32-setup.exe
+  sha256: 1d2f14999e45f616b74afef6b619573fbd614decebdedd6ede4863b2e5d3c800
+- location: https://github.com/particl/particl-core/releases/download/v0.18.1.2/particl-0.18.1.2-win64-setup.exe
+  sha256: e266a7dc755ec491499bad9d5401aa8a86af6220d1e99f9b303a00cad192677c
   architecture: x64
