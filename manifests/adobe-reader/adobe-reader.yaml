@@ -1,11 +1,11 @@
 id: adobe-reader
 name: Adobe Acrobat Reader DC
-version: 19.12.20034.328841
+version: 19.12.20036.342519
 home: https://www.adobe.com/
 installMethod: Custom
 args:
   passive: /sPB /rs /msi /qb /norestart EULA_ACCEPT=YES
   silent: /sAll /rs /msi /qn /norestart EULA_ACCEPT=YES
 installers:
-- location: http://ardownload.adobe.com/pub/adobe/reader/win/AcrobatDC/1901220034/AcroRdrDC1901220034_en_US.exe
-  sha256: f24a19191f80bce2d67154f57cab7b222919f7be07413db2fd8f2075cb231eff
+- location: http://ardownload.adobe.com/pub/adobe/reader/win/AcrobatDC/1901220036/AcroRdrDC1901220036_en_US.exe
+  sha256: 8949ebd986098507321a9dc99e2067155595f13e70d6d7106dc0e51b6ee6e945
