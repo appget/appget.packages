@@ -1,10 +1,10 @@
 id: dotnetinstaller
 name: dotNetInstaller
-version: 3.0.812
+version: 3.0.814
 home: https://dotnetinstaller.github.io/dotnetinstaller/
 repo: https://github.com/dotnetinstaller/dotnetinstaller/
 license: MIT License
 installMethod: MSI
 installers:
-- location: https://github.com/dotnetinstaller/dotnetinstaller/releases/download/3.0.812/dotNetInstaller.3.0.msi
-  sha256: fa972c4436dd652053cf47d6f457435a1ca7365e1688b670945cc8e895f1a597
+- location: https://github.com/dotnetinstaller/dotnetinstaller/releases/download/3.0.814/dotNetInstaller.3.0.814.0.msi
+  sha256: 6e8608afcf9e88bebed38df5990220c86347daf69bc062ebc569b1898be7a4b1
