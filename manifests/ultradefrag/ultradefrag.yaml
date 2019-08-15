@@ -1,11 +1,11 @@
 id: ultradefrag
 name: UltraDefrag
-version: 7.1.2
+version: 7.1.3
 home: https://ultradefrag.net/
 installMethod: NSIS
 installers:
-- location: https://downloads.sourceforge.net/project/ultradefrag/stable-release/7.1.2/ultradefrag-7.1.2.bin.i386.exe
-  sha256: 605c0308a90767f9f7a1b4ef359dc47d8ec9470c51fc643fc10b8b76a21f0906
-- location: https://downloads.sourceforge.net/project/ultradefrag/stable-release/7.1.2/ultradefrag-7.1.2.bin.amd64.exe
-  sha256: 847ae1f09501ba66efbc97f56d6c02d2519632e031f24fc841f0f7a6ed40c888
+- location: https://downloads.sourceforge.net/project/ultradefrag/stable-release/7.1.3/ultradefrag-7.1.3.bin.i386.exe
+  sha256: 8617a7eb043f72a72bd4da44347ca163848c348d6c17bbf6960ed4f31d350013
+- location: https://downloads.sourceforge.net/project/ultradefrag/stable-release/7.1.3/ultradefrag-7.1.3.bin.amd64.exe
+  sha256: dc1e5df113b68506bdc6ea71a821b90d315cd817608377d2e60b1e556acf4995
   architecture: x64
