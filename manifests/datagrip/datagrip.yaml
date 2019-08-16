@@ -6,5 +6,3 @@ installMethod: NSIS
 installers:
 - location: https://download.jetbrains.com/datagrip/datagrip-2019.2.2.exe
   sha256: bef2e41ad36870da1788676f410c17e68180db3a516309a613aef7a7c17e855c
-- location: https://download.jetbrains.com/datagrip/datagrip-2019.2.2-jbr8.exe
-  sha256: 355ec2abb6425f1ff6614131fba216272060cf43e212ed0b119bfee385a20f4f
