@@ -6,5 +6,5 @@ repo: https://github.com/imolorhe/altair/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/imolorhe/altair/releases/download/v2.3.0/Altair-GraphQL-Client-Setup-2.3.0.exe
+- location: https://github.com/imolorhe/altair/releases/download/v2.3.0/altair-setup-2.3.0.exe
   sha256: 6c033242647caf0e926319a5f63ddc5895e381ef055d4ab5414d898b3d71b99a
