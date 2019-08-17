@@ -7,6 +7,6 @@ installMethod: NSIS
 installers:
 - location: https://downloads.sourceforge.net/project/avidemux/avidemux/2.7.4/avidemux_2.7.4_win32.exe
   sha256: 5c4c73841e88ff098216fd325d0a0ced2dd3d395ca39ce9160d1ae1b70c841f1
-- location: https://downloads.sourceforge.net/project/avidemux/avidemux/2.7.1/avidemux_2.7.1_win64.exe
-  sha256: c74803b089607d31451ff1f4a48c1458019d23ff6ddbd012e99bc87f4b237b9f
+- location: https://downloads.sourceforge.net/project/avidemux/avidemux/2.7.4/Avidemux_2.7.4 VC++ 64bits.exe
+  sha256: eb2e264b261d023d3b6891877dd8b5f9b6e32300ab363c2e04a60b5085ba4051
   architecture: x64
