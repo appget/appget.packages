@@ -1,8 +1,8 @@
 id: format-factory
-name: Format Factory
-version: 4.8.0
+name: BodebotL
+version: 5.1.9
 home: http://pcfreetime.com/formatfactory/index.php
-installMethod: NSIS
+installMethod: Inno
 installers:
-- location: http://www.pcfreetime.com/public/FFSetup4.8.0.0.exe
-  sha256: 388ce44318d3884efd99af21c4e00ebd29bc032051be1626f11a1d6f8beead49
+- location: http://www.canirtap.com/^g4vs027qk6ft/FFSetupLite.exe
+  sha256: 1586864a49b098d5e5d64dd0abff99e428d9746eec78d4d52b4bb08808e97e1f
