@@ -5,5 +5,5 @@ home: http://www.codeblocks.org/
 repo: https://sourceforge.net/projects/codeblocks/
 installMethod: NSIS
 installers:
-- location: https://downloads.sourceforge.net/project/codeblocks/Binaries/17.12/Windows/codeblocks-17.12-setup.exe
-  sha256: bdb1a109b99cabfbe45442e8a8e02e00a8b1d5c3bc8276d68d83f5e0151b3ad2
+- location: https://downloads.sourceforge.net/project/codeblocks/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe
+  sha256: d53b03186fd487b34479f139e39ca19418186a45d62afab9ba86a67398259b39
