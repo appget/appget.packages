@@ -1,0 +1,8 @@
+id: xnviewmp
+name: XnViewMP
+version: 0.93.1
+home: https://www.xnview.com/en/xnviewmp/
+installMethod: Inno
+installers:
+- location: https://download.xnview.com/XnViewMP-win-x64.exe
+  architecture: x64
