@@ -1,10 +1,10 @@
 id: tagspaces
 name: TagSpaces
-version: 3.1.6
+version: 3.2.1
 home: https://www.tagspaces.org/
 repo: https://github.com/tagspaces/tagspaces/
 license: GNU Affero General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/tagspaces/tagspaces/releases/download/v3.1.6/tagspaces-win-3.1.6.exe
-  sha256: 98be20b5de5c1c03a4d27e3dc5712c0e9fa3ea3fc184309e41c2bb43da2d718a
+- location: https://github.com/tagspaces/tagspaces/releases/download/v3.2.1/tagspaces-win-3.2.1.exe
+  sha256: 8f55e3ac6083db37f258d8d6d1428531afe510e6642b786e31909b9dc76cb25e
