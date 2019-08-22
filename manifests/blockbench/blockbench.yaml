@@ -9,4 +9,4 @@ installers:
 - location: https://github.com/JannisX11/blockbench/releases/download/v3.1.0/Blockbench_3.1.0.exe
   sha256: 8b945a18a26def8b3f02077d7f631b01680dab990493969e3fc18150e1c1b13e
 - location: https://github.com/JannisX11/blockbench/releases/download/v3.1.0/Blockbench_32bit_3.1.0.exe
-  sha256: 365f7622ce83a4f883e5cbf2d08ba1895856c62cf85cf3040cbeb5da1c9cc437
+  sha256: bc36322f48dda25b088186d8271491a58457c3323d9ae63243d5a0e9f6552024
