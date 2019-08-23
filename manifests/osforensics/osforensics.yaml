@@ -1,6 +1,6 @@
 id: osforensics
 name: OSForensics
-version: 7.0.1002
+version: 7.0.1003
 home: https://www.osforensics.com/
 installMethod: Inno
 installers:
