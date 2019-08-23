@@ -1,9 +1,9 @@
 id: zmninja
 name: zmNinja
-version: 1.3.074
+version: 1.3.078
 home: https://pliablepixels.github.io/
 repo: https://github.com/pliablepixels/zmNinja/
 installMethod: NSIS
 installers:
-- location: https://github.com/pliablepixels/zmNinja/releases/download/v1.3.074/zmninjapro-1.3.74-win.exe
-  sha256: 895d1eaf85d3e36e82cadb312c9ab9ab828257c67e55c8242215ccadc421e0c8
+- location: https://github.com/pliablepixels/zmNinja/releases/download/v1.3.078/zmninjapro-1.3.78-win.exe
+  sha256: f1505a391bf30c3a0ed9ed0cf30d6c0a592a08dbe0d9963aba48b09c4474ffdc
