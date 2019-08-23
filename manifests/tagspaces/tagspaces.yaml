@@ -7,4 +7,4 @@ license: GNU Affero General Public License v3.0
 installMethod: NSIS
 installers:
 - location: https://github.com/tagspaces/tagspaces/releases/download/v3.2.1/tagspaces-win-3.2.1.exe
-  sha256: 8f55e3ac6083db37f258d8d6d1428531afe510e6642b786e31909b9dc76cb25e
+  sha256: 00159f6a4ea11578a0b4d14bd2502e4cda76071c5b8917d6460377d08ecdff40
