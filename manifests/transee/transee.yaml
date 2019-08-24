@@ -1,0 +1,10 @@
+id: transee
+name: Transee
+version: 1.2.5
+home: https://alessioforte.github.io/transee/
+repo: https://github.com/alessioforte/transee/
+license: MIT License
+installMethod: NSIS
+installers:
+- location: https://github.com/alessioforte/transee/releases/download/v1.2.5/transee-setup-1.2.5.exe
+  sha256: e3c744cd6ed2c647fe73d03039db773262cb18396833937b066f7daf0c502498
