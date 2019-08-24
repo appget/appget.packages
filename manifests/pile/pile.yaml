@@ -1,0 +1,9 @@
+id: pile
+name: Pile
+version: 0.3.2.4
+repo: https://github.com/mtobeiyf/pile/
+license: GNU General Public License v3.0
+installMethod: NSIS
+installers:
+- location: https://github.com/mtobeiyf/pile/releases/download/v0.3.2/Pile-Setup-0.3.2.exe
+  sha256: e037d75adc1377750d75295595535a9c5d9ff0d25066eb87cb61a461287318fe
