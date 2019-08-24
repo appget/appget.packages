@@ -1,0 +1,10 @@
+id: translatium
+name: Translatium
+version: 9.1.3.52
+home: https://translatiumapp.com/
+repo: https://github.com/quanglam2807/translatium/
+license: Mozilla Public License 2.0
+installMethod: NSIS
+installers:
+- location: https://github.com/quanglam2807/translatium/releases/download/v9.1.3/translatium-setup-9.1.3.exe
+  sha256: 937bdeabc709aaabed1a56dd30b4897f150e5c333e7c74ac3e67252bc3b7ad3c
