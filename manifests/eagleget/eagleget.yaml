@@ -1,0 +1,7 @@
+id: eagleget
+name: EagleGet
+version: 2.1.5.20
+home: http://www.eagleget.com/
+installMethod: Inno
+installers:
+- location: http://www.eagleget.com/download/setup.exe
