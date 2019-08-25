@@ -1,0 +1,7 @@
+id: quick-access-popup
+name: Quick Access Popup
+version: v9.5.3
+home: https://www.quickaccesspopup.com/
+installMethod: Inno
+installers:
+- location: https://www.quickaccesspopup.com/download/quickaccesspopup-setup.exe
