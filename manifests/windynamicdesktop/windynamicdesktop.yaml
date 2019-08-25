@@ -1,0 +1,10 @@
+id: windynamicdesktop
+name: WinDynamicDesktop
+version: 3.3.0.0
+home: https://github.com/t1m0thyj/WinDynamicDesktop
+repo: https://github.com/t1m0thyj/WinDynamicDesktop/
+license: Mozilla Public License 2.0
+installMethod: Inno
+installers:
+- location: https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v3.3.0/WinDynamicDesktop_3.3.0_Setup.exe
+  sha256: 7d502310f7f702b0109a32d3635f0ef8af6a029f6cce9aae9a77a5725578e6de
