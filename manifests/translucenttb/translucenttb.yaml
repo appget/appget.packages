@@ -1,0 +1,10 @@
+id: translucenttb
+name: TranslucentTB
+version: 7.0.0.0
+home: https://github.com/TranslucentTB/TranslucentTB
+repo: https://github.com/TranslucentTB/TranslucentTB/
+license: GNU General Public License v3.0
+installMethod: Inno
+installers:
+- location: https://github.com/TranslucentTB/TranslucentTB/releases/download/2019.2/TranslucentTB-setup.exe
+  sha256: f2e5d80dcfe941124e96866be01aae2625f40d71002429b13f84898311d4c39d
