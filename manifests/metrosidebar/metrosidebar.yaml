@@ -1,0 +1,7 @@
+id: metrosidebar
+name: MetroSidebar
+version: 1.0.5
+home: https://metrosidebar.com/
+installMethod: MSI
+installers:
+- location: https://dl.metrosidebar.com/MetroSidebar_setup.msi
