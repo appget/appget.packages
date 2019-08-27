@@ -1,0 +1,7 @@
+id: cerulean
+name: Cerebrata Cerulean
+version: 1.3.94
+home: https://www.cerebrata.com/products/cerulean/
+installMethod: NSIS
+installers:
+- location: http://installers.cerebrata.com/files/cerulean/production/1/win/CerebrataCeruleanSetup.exe
