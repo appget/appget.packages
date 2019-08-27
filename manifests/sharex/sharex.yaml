@@ -1,10 +1,10 @@
 id: sharex
 name: ShareX
-version: 12.4.1
+version: 13.0.1
 home: https://getsharex.com/
 repo: https://github.com/ShareX/ShareX/
 license: GNU General Public License v3.0
 installMethod: Inno
 installers:
-- location: https://github.com/ShareX/ShareX/releases/download/v12.4.1/ShareX-12.4.1-setup.exe
-  sha256: 276e70f3cbaeb4dde099aa78f1dfd58c26af95d4c80e96f0365c5b35377eb57b
+- location: https://github.com/ShareX/ShareX/releases/download/v13.0.1/ShareX-13.0.1-setup.exe
+  sha256: 8e37cb4c354502d9015f64f3e3fa23199295d9e293be2cb48f230d5ae65fd861
