@@ -1,6 +1,6 @@
 id: fileseek
 name: FileSeek
-version: 6.1.1.0
+version: 6.2.0.0
 home: https://www.fileseek.ca/
 installMethod: Inno
 installers:
