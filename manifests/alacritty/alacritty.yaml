@@ -1,0 +1,11 @@
+id: alacritty
+name: Alacritty
+version: 0.3.3
+home: https://github.com/jwilm/alacritty
+repo: https://github.com/jwilm/alacritty/
+license: Apache License 2.0
+installMethod: MSI
+installers:
+- location: https://github.com/jwilm/alacritty/releases/download/v0.3.3/Alacritty-v0.3.3-windows-installer.msi
+  sha256: 88b00f0107f44b7ec49e31612b35a0fafe88cb03ef88391d8b0905d514b02a46
+  architecture: x64
