@@ -1,10 +1,10 @@
 id: cozy-drive
 name: Cozy Drive
-version: 3.14.0.3431
+version: 3.15.0.3647
 home: https://cozy-labs.github.io/cozy-desktop/
 repo: https://github.com/cozy-labs/cozy-desktop/
 license: GNU Affero General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/cozy-labs/cozy-desktop/releases/download/v3.14.0/CozyDrive-Setup-3.14.0.exe
-  sha256: 51acdb098a52132115949ba76eb82556726b0f1ae16a2fcaa72d80c5fbc4a91d
+- location: https://github.com/cozy-labs/cozy-desktop/releases/download/v3.15.0/CozyDrive-Setup-3.15.0.exe
+  sha256: d3dccd2983e2c481742adfeab34d0005dca16db57411fd1b3bce402e5d90b7a3
