@@ -8,6 +8,6 @@ installMethod: NSIS
 args:
   silent: /allusers
 installers:
-- location: https://github.com/dbeaver/dbeaver/releases/download/6.1.5/dbeaver-ce-6.1.4-x86_64-setup.exe
-  sha256: dcf096d972212feb1e1d7087a34099e9f621873e5f7d9b9aae9e3da591f459bc
+- location: https://github.com/dbeaver/dbeaver/releases/download/6.1.5/dbeaver-ce-6.1.5-x86_64-setup.exe
+  sha256: 5a325d877147533b65ff8fc69c4cd5e861d2f1f31c898c172b5083aa95fe204b
   architecture: x64
