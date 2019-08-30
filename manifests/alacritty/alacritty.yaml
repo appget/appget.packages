@@ -1,7 +1,6 @@
 id: alacritty
 name: Alacritty
 version: 0.3.3
-home: https://github.com/jwilm/alacritty
 repo: https://github.com/jwilm/alacritty/
 license: Apache License 2.0
 installMethod: MSI
