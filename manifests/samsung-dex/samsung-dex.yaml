@@ -1,0 +1,7 @@
+id: samsung-dex
+name: Samsung DeX
+version: 1.0.0.62
+home: https://www.samsung.com/global/galaxy/apps/samsung-dex/
+installMethod: Wix
+installers:
+- location: https://www.samsung.com/global/download/SamsungDeXWin
