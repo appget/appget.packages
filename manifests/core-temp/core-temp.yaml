@@ -1,6 +1,6 @@
 id: core-temp
 name: Core Temp
-version: 1.15.0
+version: 1.15.1
 home: https://www.alcpu.com/CoreTemp/
 installMethod: Inno
 installers:
