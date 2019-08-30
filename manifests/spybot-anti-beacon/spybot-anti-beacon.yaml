@@ -1,0 +1,8 @@
+id: spybot-anti-beacon
+name: Spybot Anti-Beacon
+version: 3.4
+home: https://www.safer-networking.org/products/spybot-anti-beacon/
+installMethod: Inno
+installers:
+- location: https://download.spybot.info/AntiBeacon/SpybotAntiBeacon-3.4-setup.exe
+  sha256: 4374afd648ef5d31975c34ae0bafd738856982ffa0cbbf459e7082caa7072ea2
