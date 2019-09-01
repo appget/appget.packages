@@ -1,12 +1,12 @@
 id: double-commander
 name: Double Commander
-version: 0.9.5
+version: 0.9.6
 home: https://doublecmd.sourceforge.io/
 repo: https://sourceforge.net/projects/doublecmd/
 installMethod: MSI
 installers:
-- location: https://downloads.sourceforge.net/project/doublecmd/DC for Windows 32 bit/Double Commander 0.9.5 beta/doublecmd-0.9.5.i386-win32.msi
-  sha256: 517f9c0b1053ac8ed016b87b7bfcb6158fdc0fa2417d36a91962bca3bbc806f8
-- location: https://downloads.sourceforge.net/project/doublecmd/DC for Windows 64 bit/Double Commander 0.9.5 beta/doublecmd-0.9.5.x86_64-win64.msi
-  sha256: 432d92d6f4ddfb117eb3e4896c63ff9390f7fa9db3c7cdc78df2621229bf5b5f
+- location: https://downloads.sourceforge.net/project/doublecmd/DC for Windows 32 bit/Double Commander 0.9.6 beta/doublecmd-0.9.6.i386-win32.msi
+  sha256: f55c5700f83c60ea81037b3a6125f1b195d7d6f501bcc45de5475e84116c6351
+- location: https://downloads.sourceforge.net/project/doublecmd/DC for Windows 64 bit/Double Commander 0.9.6 beta/doublecmd-0.9.6.x86_64-win64.msi
+  sha256: 23f49d0bc9afbbdcfcc81543668503250457374cbce13c65abf329011c023d00
   architecture: x64
