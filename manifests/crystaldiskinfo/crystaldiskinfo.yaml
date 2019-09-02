@@ -1,8 +1,8 @@
 id: crystaldiskinfo
 name: CrystalDiskInfo
-version: 8.1.0
+version: 8.3.0
 home: https://crystalmark.info/en/software/crystaldiskinfo/
 installMethod: Inno
 installers:
-- location: https://osdn.dl.osdn.jp/crystaldiskinfo/71020/CrystalDiskInfo8_1_0.exe
-  sha256: 2dd7b8a5e5af29823db2f255a41773d0bba0bd89c31eb9e3c707cd78e82ed499
+- location: https://osdn.dl.osdn.jp/crystaldiskinfo/71535/CrystalDiskInfo8_3_0.exe
+  sha256: 06ce20cf5e598d2afefb160088908d851cb269cf2b7b5e2c73976ea94310ca8a
