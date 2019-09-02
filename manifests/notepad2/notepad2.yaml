@@ -3,6 +3,8 @@ name: Notepad2
 version: 4.2.25
 home: http://www.flos-freeware.ch/notepad2.html
 installMethod: Custom
+args:
+  silent: /SILENT
 installers:
 - location: http://www.flos-freeware.ch/zip/Notepad2_4.2.25_x86.exe
   sha256: d76c09da09df25017d76f05b1cae90b76406a34eb081a092ea16e00b9d5aef20
