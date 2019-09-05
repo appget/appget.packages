@@ -1,12 +1,12 @@
 id: blockbench
 name: Blockbench
-version: 3.1.0.139
+version: 3.1.1.141
 home: https://blockbench.net/
 repo: https://github.com/JannisX11/blockbench/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/JannisX11/blockbench/releases/download/v3.1.0/Blockbench_3.1.0.exe
-  sha256: 8b945a18a26def8b3f02077d7f631b01680dab990493969e3fc18150e1c1b13e
-- location: https://github.com/JannisX11/blockbench/releases/download/v3.1.0/Blockbench_32bit_3.1.0.exe
-  sha256: bc36322f48dda25b088186d8271491a58457c3323d9ae63243d5a0e9f6552024
+- location: https://github.com/JannisX11/blockbench/releases/download/v3.1.1/Blockbench_3.1.1.exe
+  sha256: 97611e410246bf372a5bf225270553edf276faea5b6a55b55496c92eaf23331f
+- location: https://github.com/JannisX11/blockbench/releases/download/v3.1.1/Blockbench_32bit_3.1.1.exe
+  sha256: 52df9c91cc675d1e57822fb314e249434756f8da6b8cb6601e335f53ea55936c
