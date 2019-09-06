@@ -1,8 +1,8 @@
 id: wps-office
 name: WPS Office
-version: 11.2.0.8893
+version: 11.2.0.8942
 home: https://www.wps.com/office-free
 installMethod: NSIS
 installers:
-- location: https://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/11.2.0.8893/WPSOffice_11.2.0.8893_Free.exe
-  sha256: 4d0e37aa22b04be8fe72469b3dcc1b519308a37d1bafda366ca4b0b580e92a26
+- location: https://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/11.2.0.8942/WPSOffice_11.2.0.8942.exe
+  sha256: a8938b376847e31eb30b7c01fc897e2b09a810efd375aa66cb690e10de322d3a
