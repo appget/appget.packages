@@ -1,6 +1,6 @@
 id: zerotier-one
 name: ZeroTier One
-version: 1.4.4
+version: 1.4.6
 home: https://www.zerotier.com/
 installMethod: MSI
 installers:
