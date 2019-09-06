@@ -1,9 +1,9 @@
 id: cheat-engine
 name: Cheat Engine
-version: 7.0.0.6
+version: 7.0.0.7
 home: https://cheatengine.org/
 repo: https://github.com/cheat-engine/cheat-engine/
 installMethod: Inno
 installers:
 - location: https://github.com/cheat-engine/cheat-engine/releases/download/7.0/CheatEngine70.exe
-  sha256: 813ae5846ff2ab155a0836b01d56ab175c6d4593cc26d560033c25be5bed3557
+  sha256: aa48f406d06a2bee3e3e35702fef5594d71d268c9ac3cbfd4428e4b33adf56fc
