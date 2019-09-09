@@ -1,10 +1,10 @@
 id: gitextensions
 name: Git Extensions
-version: 3.1.1.6049
+version: 3.2.0
 home: https://gitextensions.github.io/
 repo: https://github.com/gitextensions/gitextensions/
 license: GNU General Public License v3.0
 installMethod: MSI
 installers:
-- location: https://github.com/gitextensions/gitextensions/releases/download/v3.1.1/GitExtensions-3.1.1.6049.msi
-  sha256: 03c43d690974a8e9e1d2d1452e9a5843971f3488f7cd374aaf7c83543e69ed5f
+- location: https://github.com/gitextensions/gitextensions/releases/download/v3.2/GitExtensions-3.2.0.6586.msi
+  sha256: 0cf2fef8ff58cfdd0922473e7d6ecda6af50c646434dd5e95d0bba4cbdcabbfe
