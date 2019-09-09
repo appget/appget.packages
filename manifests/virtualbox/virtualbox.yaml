@@ -1,10 +1,10 @@
 id: virtualbox
 name: Oracle VM VirtualBox
-version: 6.0.10.132072
+version: 6.0.12.133076
 home: https://www.virtualbox.org/
 installMethod: Custom
 args:
   silent: --silent
 installers:
-- location: https://download.virtualbox.org/virtualbox/6.0.10/VirtualBox-6.0.10-132072-Win.exe
-  sha256: e7c8d015c9831ffa6bde56d6b4aaa3ddf11ee410ae643bae7ded96bdb5c8f78d
+- location: https://download.virtualbox.org/virtualbox/6.0.12/VirtualBox-6.0.12-133076-Win.exe
+  sha256: 2780be12c139858412e789ed01700ea9041522a7b5fad2a27923f30c850f0198
