@@ -1,0 +1,9 @@
+id: codelite
+name: CodeLite
+version: 13.0.2
+home: https://codelite.org/
+installMethod: Inno
+installers:
+- location: https://downloads.codelite.org/downloads.php?windows_weekly
+- location: https://downloads.codelite.org/downloads.php?windows_weekly_64
+  architecture: x64
