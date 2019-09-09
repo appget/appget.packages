@@ -1,0 +1,8 @@
+id: speedcrunch
+name: SpeedCrunch
+version: 0.12
+home: https://speedcrunch.org/
+installMethod: NSIS
+installers:
+- location: https://bitbucket.org/heldercorreia/speedcrunch/downloads/SpeedCrunch-0.12-win32.exe
+  sha256: 702c362c9a02c3a79d018a4d68428dc80fad311adad506cc47b69927e47dbf89
