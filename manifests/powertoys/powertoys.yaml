@@ -1,0 +1,10 @@
+id: powertoys
+name: PowerToys
+version: 0.11.0
+repo: https://github.com/microsoft/PowerToys/
+installMethod: MSI
+installers:
+- location: https://github.com/microsoft/PowerToys/releases/download/v0.11.0/PowerToysSetup.msi
+  sha256: 6ef6e1aee258e21f76ee7973330602b73c15c4dac11d0cf5fad721baa169f0b2
+  architecture: x64
+  minWindowsVersion: 10.0
