@@ -1,0 +1,9 @@
+id: unchecky
+name: Unchecky
+version: 1.2
+home: https://unchecky.com/
+installMethod: Custom
+args:
+  silent: -install
+installers:
+- location: https://unchecky.com/files/unchecky_setup.exe
