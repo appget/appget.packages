@@ -1,6 +1,6 @@
 id: iobit-uninstaller
 name: IObit Uninstaller
-version: 9.0.2.20
+version: 9.0.2.40
 home: https://www.iobit.com/en/advanceduninstaller.php
 installMethod: Inno
 installers:
