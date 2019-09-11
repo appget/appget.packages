@@ -1,9 +1,9 @@
 id: minetime
 name: MineTime
-version: 1.6.1
+version: 1.6.2
 home: https://minetime.ai/
 repo: https://github.com/marcoancona/MineTime/
 installMethod: Squirrel
 installers:
-- location: https://github.com/marcoancona/MineTime/releases/download/v1.6.1/MineTime.Setup.1.6.1.exe
-  sha256: fd9db77be58585bae8f1c81220832b657dafca74fddc01a04ae36ee7957336b4
+- location: https://github.com/marcoancona/MineTime/releases/download/v1.6.2/MineTime.Setup.1.6.2.exe
+  sha256: d2d592a4fc7376b7bf456bb108082ce2810d4c6bd744689211f42cc3e505062e
