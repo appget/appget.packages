@@ -1,0 +1,8 @@
+id: linkchecker
+name: LinkChecker
+version: 9.3
+home: https://wummel.github.io/linkchecker/
+installMethod: Inno
+installers:
+- location: https://wummel.github.io/linkchecker/dist/LinkChecker-9.3.exe
+  sha256: f3bfa7a0031a9e8d36547a257959d71b92550f6a5636ab3b8641189d82c410da
