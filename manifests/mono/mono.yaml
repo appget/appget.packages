@@ -1,9 +1,9 @@
 id: mono
 name: Mono for Windows
-version: 6.0.0.334
+version: 6.0.0.327
 home: https://www.mono-project.com/
 installMethod: MSI
 installers:
-- location: https://download.mono-project.com/archive/6.0.0/windows-installer/mono-6.0.0.334-x64-0.msi
-  sha256: adc8df0ee8087733e8a745e2b96e2eef09bf8d27be45ed75c5654c11ca898f11
+- location: https://download.mono-project.com/archive/6.0.0/windows-installer/mono-6.0.0.327-x64-0.msi
+  sha256: 0e9dc8749fed842ecb8316713159242220b78586505a610a6cb972563eb90149
   architecture: x64
