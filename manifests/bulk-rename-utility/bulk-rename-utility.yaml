@@ -1,6 +1,6 @@
 id: bulk-rename-utility
 name: Bulk Rename Utility
-version: 3.2.0
+version: 3.2.0.1
 home: https://www.bulkrenameutility.co.uk/
 installMethod: Inno
 installers:
