@@ -1,10 +1,10 @@
 id: webcatalog
 name: WebCatalog
-version: 15.0.2.108
+version: 15.1.0.116
 home: https://getwebcatalog.com/
 repo: https://github.com/quanglam2807/webcatalog/
 license: Mozilla Public License 2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/quanglam2807/webcatalog/releases/download/v15.0.2/WebCatalog-Setup-15.0.2.exe
-  sha256: e8827106da75102fef7665afb7e0b96d717aa0559d161e176a3021e793bf120a
+- location: https://github.com/quanglam2807/webcatalog/releases/download/v15.1.0/WebCatalog-Setup-15.1.0.exe
+  sha256: b761ffafa2de95bc37d70b20dd56b376beab19ae8cd7ffa349f4acdc149f31f3
