@@ -1,13 +1,11 @@
 id: webtorrent
 name: WebTorrent
-version: 0.20.0
+version: 0.21.0
 home: https://webtorrent.io/desktop
 repo: https://github.com/webtorrent/webtorrent-desktop/
 license: MIT License
 installMethod: Squirrel
 installers:
-- location: https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.20.0/WebTorrentSetup-v0.20.0-ia32.exe
-  sha256: 985d5ec6658627a3dd0a65767406677562e61722253b04956bc8bacc4776ceaf
-- location: https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.20.0/WebTorrentSetup-v0.20.0.exe
-  sha256: 0fd0deddc7ec34deedc298b831156578c0bcc5d66fa99f6fca3131be4bc3f3de
+- location: https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.21.0/WebTorrentSetup-v0.21.0.exe
+  sha256: b0c01cf67c5800979724f37b831ea20b80f2350a707f769b92f0c4bb46f15657
   architecture: x64
