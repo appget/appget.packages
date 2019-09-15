@@ -1,8 +1,8 @@
 id: gog-galaxy
 name: GOG Galaxy
-version: 1.2.57.74
+version: 1.2.58.220
 home: https://www.gog.com/
 installMethod: Inno
 installers:
-- location: https://content-system.gog.com/open_link/download?path=/open/galaxy/client/setup_galaxy_1.2.57.74.exe
-  sha256: 5340f999bd970b6ae830edd7057b2e7138a539e3d563ac108666011754981022
+- location: https://content-system.gog.com/open_link/download?path=/open/galaxy/client/setup_galaxy_1.2.58.220.exe
+  sha256: 546f4258e6e3ac18f92cd188d4e816881e5502b4fa228532b02aa7753b6a9b89
