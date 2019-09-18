@@ -1,6 +1,6 @@
 id: geogebra-geometry
 name: GeoGebra Geometry
-version: 6.0.546
+version: 6.0.559
 home: https://www.geogebra.org/
 installMethod: Squirrel
 installers:
