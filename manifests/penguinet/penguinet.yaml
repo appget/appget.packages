@@ -1,6 +1,6 @@
 id: penguinet
 name: PenguiNet
-version: 2.70
+version: v2.70
 home: http://www.siliconcircus.com/
 installMethod: Inno
 installers:
