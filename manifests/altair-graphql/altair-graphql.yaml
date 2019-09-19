@@ -1,10 +1,10 @@
 id: altair-graphql
 name: Altair GraphQL Client
-version: 2.3.0.307
+version: 2.3.3.321
 home: https://altair.sirmuel.design/
 repo: https://github.com/imolorhe/altair/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/imolorhe/altair/releases/download/v2.3.0/altair-setup-2.3.0.exe
-  sha256: 6c033242647caf0e926319a5f63ddc5895e381ef055d4ab5414d898b3d71b99a
+- location: https://github.com/imolorhe/altair/releases/download/v2.3.3/altair_2.3.3_win.exe
+  sha256: 9fc90de5f8c8fd4e12cd6bc0a0838cee28d82b9900e354a3bab4fdb516ae584f
