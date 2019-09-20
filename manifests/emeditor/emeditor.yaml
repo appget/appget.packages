@@ -1,11 +1,11 @@
 id: emeditor
 name: EmEditor
-version: 19.1.0
+version: 19.2.1
 home: https://www.emeditor.com/
 installMethod: MSI
 installers:
-- location: https://emeditor.blob.core.windows.net/emed32_19.1.0.msi
-  sha256: ef675a8aab33f7fd7b8375d748660e28cdc5f20da53ba4b4d8d85671da3c9d4f
-- location: https://emeditor.blob.core.windows.net/emed64_19.1.0.msi
-  sha256: 933113337c97fd7cd81ec27599cba5c0010af45b544367d8ae24708cca038eb7
+- location: https://emeditor.blob.core.windows.net/emed32_19.2.1.msi
+  sha256: cd65bb755c1492b8e1421fe75674b6dbeefaa0393d95e0ee993ee01d8e20527e
+- location: https://emeditor.blob.core.windows.net/emed64_19.2.1.msi
+  sha256: 671818c4cf5119900228fd15285f4978e73f1dfca717250e4c89586b3e15eb75
   architecture: x64
