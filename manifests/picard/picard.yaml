@@ -1,11 +1,11 @@
 id: picard
 name: MusicBrainz Picard
-version: 2.2.0
+version: 2.2.1
 home: https://picard.musicbrainz.org/
 repo: https://github.com/metabrainz/picard/
 license: GNU General Public License v2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/metabrainz/picard/releases/download/release-2.2.0/picard-setup-2.2.exe
-  sha256: 2d8358ee80873aa9af30316069cc6385ae5d110bbfe4ca9713215a8f388027b6
+- location: https://github.com/metabrainz/picard/releases/download/release-2.2.1/picard-setup-2.2.1.exe
+  sha256: adeaae35a39e8520c17c4159d716ce509b8f3830fa3aa0bb88011eaa648057f1
   architecture: x64
