@@ -7,7 +7,7 @@ license: GNU General Public License v2.0
 installMethod: NSIS
 installers:
 - location: https://github.com/obsproject/obs-studio/releases/download/24.0.1/OBS-Studio-24.0.1-Full-Installer-x86.exe
-  sha256: a80d5c8774839e1ec655bd5ebc2a2165038307d4770dd241eb33581b38ea170b
+  sha256: e072f2435ad1628ccb0a1178804abdf8e7cbc4d424ad99f608b6aefd2d72333c
 - location: https://github.com/obsproject/obs-studio/releases/download/24.0.1/OBS-Studio-24.0.1-Full-Installer-x64.exe
-  sha256: 4dd3dc54a99db008f49db8484324d91d783c5d8cf2ab6dbae4420a1bdc4ec46b
+  sha256: c1a8a6dcbf009e5d0abaca124ce23c122b7cfc6ddf6da13a0a7292e26ab5af05
   architecture: x64
