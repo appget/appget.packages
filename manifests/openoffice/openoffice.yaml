@@ -1,10 +1,10 @@
 id: openoffice
 name: Apache OpenOffice
-version: 4.1.6
+version: 4.1.7
 home: https://www.openoffice.org/
 repo: https://sourceforge.net/projects/openofficeorg.mirror/
 license: Apache License 2.0
 installMethod: NSIS
 installers:
-- location: https://downloads.sourceforge.net/project/openofficeorg.mirror/4.1.6/binaries/en-US/Apache_OpenOffice_4.1.6_Win_x86_install_en-US.exe
-  sha256: e1af0f097f24dac6fbfb7af2558d4d6fafa994158f1a592b485a0ddc7e6c1f47
+- location: https://downloads.sourceforge.net/project/openofficeorg.mirror/4.1.7/binaries/en-US/Apache_OpenOffice_4.1.7_Win_x86_install_en-US.exe
+  sha256: d0469863d5e6b8fbfa8ec432603f7b62899b100e65cbd94fe4251f9ce8ac1047
