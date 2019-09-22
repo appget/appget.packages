@@ -1,8 +1,8 @@
 id: displaycal
 name: DisplayCAL
-version: 3.8.6.0
+version: 3.8.7.0
 home: https://displaycal.net/
 installMethod: Inno
 installers:
-- location: https://downloads.sourceforge.net/project/dispcalgui/release/3.8.6.0/DisplayCAL-3.8.6.0-Setup.exe
-  sha256: 5f6e35919d3a4c5a99e8002f36a8ddec210b5c88b1e5c6a4c90f77ba1d333dcf
+- location: https://downloads.sourceforge.net/project/dispcalgui/release/3.8.7.0/DisplayCAL-3.8.7.0-Setup.exe
+  sha256: a2ef43145b029fa78f64f67b3e8d879ca1e75835c55e535b9b2040ae15dd5247
