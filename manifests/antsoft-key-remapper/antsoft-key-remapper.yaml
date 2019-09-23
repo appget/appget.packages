@@ -1,0 +1,7 @@
+id: antsoft-key-remapper
+name: Antsoft Key Remapper
+version: 1.11.0.440
+home: https://atnsoft.com/keyremapper/
+installMethod: Inno
+installers:
+- location: https://atnsoft.com/downloads/keyremapper_setup.exe
