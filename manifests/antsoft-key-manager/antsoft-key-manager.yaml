@@ -1,0 +1,7 @@
+id: antsoft-key-manager
+name: Antsoft Key Manager
+version: 1.13.0.416
+home: https://atnsoft.com/keymanager/
+installMethod: Inno
+installers:
+- location: https://atnsoft.com/downloads/keymanager_setup.exe
