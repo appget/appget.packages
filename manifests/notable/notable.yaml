@@ -1,6 +1,7 @@
 id: notable
 name: Notable
 version: 1.7.3
+home: https://notable.md/
 repo: https://github.com/notable/notable/
 license: GNU Affero General Public License v3.0
 installMethod: NSIS
