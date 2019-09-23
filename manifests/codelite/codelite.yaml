@@ -1,6 +1,6 @@
 id: codelite
 name: CodeLite
-version: 13.0.2
+version: 13.0.3
 home: https://codelite.org/
 installMethod: Inno
 installers:
