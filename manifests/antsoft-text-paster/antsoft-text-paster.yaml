@@ -1,0 +1,7 @@
+id: antsoft-text-paster
+name: Antsoft Text Paster
+version: 1.10.0.208
+home: https://atnsoft.com/textpaster/
+installMethod: Inno
+installers:
+- location: https://atnsoft.com/downloads/textpaster_setup.exe
