@@ -1,0 +1,9 @@
+id: shuttle
+name: Shuttle
+version: 3.0.10.163
+home: https://shuttleapp.io/
+repo: https://github.com/ShuttleBrowser/Shuttle/
+installMethod: NSIS
+installers:
+- location: https://github.com/ShuttleBrowser/Shuttle/releases/download/v3.0.10/Shuttle-Windows.exe
+  sha256: 22e3c76c31a0e922a4ecdf30fd55a0a72be98c42c20e67300a6500f21a826ea0
