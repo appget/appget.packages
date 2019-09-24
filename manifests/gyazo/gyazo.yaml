@@ -1,8 +1,8 @@
 id: gyazo
 name: Gyazo
-version: 4.0.1
+version: 4.0.2
 home: https://gyazo.com/
 installMethod: Inno
 installers:
-- location: https://files.gyazo.com/setup/Gyazo-4.0.1.exe
-  sha256: 89d106b985b4d79f3608ac183f777e9e44ed779d8cdc35f9767a65d8077bef66
+- location: https://files.gyazo.com/setup/Gyazo-4.0.2.exe
+  sha256: 8ebcb678427447980afc3bfaa445afc0d0ef26513fc6d2685871e8e0705d24ec
