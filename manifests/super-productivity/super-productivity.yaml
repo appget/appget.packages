@@ -1,10 +1,10 @@
 id: super-productivity
 name: Super Productivity
-version: 2.12.1
+version: 2.12.3
 home: https://super-productivity.com/
 repo: https://github.com/johannesjo/super-productivity/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/johannesjo/super-productivity/releases/download/v2.12.1/superProductivity-Setup-2.12.1.exe
-  sha256: d0815099713f1161d764574269b570fbdd6fe333c2f00d3372fed62130b3318d
+- location: https://github.com/johannesjo/super-productivity/releases/download/v2.12.3/superProductivity-Setup-2.12.3.exe
+  sha256: a4f94ce514c8f96b14cb9513324b805c39ce5b0d98fa0ee9f3a40a7ddb306fbb
