@@ -1,7 +1,7 @@
 id: strawberry-music-player
 name: Strawberry Music Player
 version: 0.6.3
-home: https://www.strawbs.org/
+home: https://www.strawberrymusicplayer.org/
 installMethod: NSIS
 installers:
 - location: https://files.jkvinge.net/packages/strawberry/StrawberrySetup-0.6.3-x86.exe
