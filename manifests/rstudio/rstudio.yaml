@@ -1,7 +1,7 @@
 id: rstudio
 name: RStudio
 version: 1.1.463
-home: https://www.rstudio.com/
+home: https://rstudio.com/
 installMethod: NSIS
 installers:
 - location: https://download1.rstudio.org/RStudio-1.1.463.exe
