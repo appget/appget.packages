@@ -1,0 +1,7 @@
+id: catlight
+name: Catlight build notifications
+version: 2.28.0
+home: https://catlight.io/
+installMethod: Squirrel
+installers:
+- location: https://catlight.io/downloads/win/beta
