@@ -1,8 +1,8 @@
 id: sourcetree
 name: SourceTree
-version: 3.1.3
+version: 3.2.6
 home: https://www.sourcetreeapp.com/
 installMethod: Squirrel
 installers:
-- location: https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.1.3.exe
-  sha256: abfe287f849b9b2a65096474515a7d530b01e695c163bc6f5901908a319f80fd
+- location: https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.2.6.exe
+  sha256: a9ce0ab4d84938dee2781a521f3e25eb26ad4fde43caf696aba07af168fa89d4
