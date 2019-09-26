@@ -1,7 +1,7 @@
 id: kodi
 name: Kodi
 version: 18.4.0
-home: https://kodi.tv/
+home: https://forum.kodi.tv/
 repo: https://github.com/xbmc/xbmc/
 license: GNU General Public License v2.0
 installMethod: NSIS
