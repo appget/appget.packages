@@ -1,10 +1,10 @@
 id: unfx-proxy-checker
 name: Unfx Proxy Checker
-version: 1.6.1
+version: 1.6.0
 home: https://openproxy.space/software/proxy-checker
 repo: https://github.com/assnctr/unfx-proxy-checker/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/assnctr/unfx-proxy-checker/releases/download/v1.6.1/unfx-proxy-checker-v1.6.1-win-installer.exe
-  sha256: 9e29c631452bd21454ad44bc6ade7dcc955f21cb45ff029e31571834ba0d042e
+- location: https://github.com/assnctr/unfx-proxy-checker/releases/download/v1.6.0/unfx-proxy-checker-v1.6.0-win-installer.exe
+  sha256: 3b35f6645f217e66fe0909e33529254094e9cb5fe6feb13e55156ca9671b3c86
