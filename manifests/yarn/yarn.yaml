@@ -1,9 +1,9 @@
 id: yarn
 name: Yarn
-version: 1.18.0
+version: 1.19.0
 home: https://yarnpkg.com/
 repo: https://github.com/yarnpkg/yarn/
 installMethod: MSI
 installers:
-- location: https://github.com/yarnpkg/yarn/releases/download/v1.18.0/yarn-1.18.0.msi
-  sha256: 51096d02da48535c501cb9c99f363d665dd6c1b6eeb2da1915dc63448878d211
+- location: https://github.com/yarnpkg/yarn/releases/download/v1.19.0/yarn-1.19.0.msi
+  sha256: 9347b7454f540eeaae8b5a002296eff26ecb8476d3bcea763052df548fc47acc
