@@ -1,7 +1,9 @@
 id: mp3tag
 name: Mp3tag
-version: 2.97.2
+version: 2.98.0
 home: https://www.mp3tag.de/
 installMethod: NSIS
 installers:
-- location: https://download.mp3tag.de/mp3tagv297bsetup.exe
+- location: https://download.mp3tag.de/mp3tagv298setup.exe
+  sha256: 85b17e667aeff9325e0021b0f319ac70dc0a6da29ce5ce85c2391da990b4a01b
+  architecture: x64
