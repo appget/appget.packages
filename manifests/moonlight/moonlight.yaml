@@ -6,7 +6,7 @@ license: GNU General Public License v3.0
 installMethod: Wix
 installers:
 - location: https://github.com/moonlight-stream/moonlight-qt/releases/download/v1.1.1/MoonlightSetup-x86-1.1.1.exe
-  sha256: f9c56c72aa205a3bdd3b32aa165f500ff5e8f858674d808d37d136d94da94b40
+  sha256: 02f193d07998d64dc5e332f0122e95b85baa7b7e00d6f49838a8cd295e3651c2
 - location: https://github.com/moonlight-stream/moonlight-qt/releases/download/v1.1.1/MoonlightSetup-x64-1.1.1.exe
-  sha256: a66fa382d89ee57f3926e8a600aa280ab86ac8c2194c017f7d5019de0b73e25a
+  sha256: 4f9d46236a8aaca30dd13d0bcab11dc634f5dfa7ff6dd7f535ab91120bbc36b6
   architecture: x64
