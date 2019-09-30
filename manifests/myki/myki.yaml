@@ -1,0 +1,9 @@
+id: myki
+name: Myki
+version: 1.1.2
+home: https://myki.com
+installMethod: NSIS
+installers:
+- location: https://s3-eu-west-1.amazonaws.com/myki-desktop-app/Myki+Setup+1.1.2.exe
+  sha256: 7d870626bfe86315ad06adf62a9973ffab125bac36d6f86ce230424361464ae7
+  architecture: x64
