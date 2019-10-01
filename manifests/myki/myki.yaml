@@ -1,7 +1,7 @@
 id: myki
 name: Myki
 version: 1.1.2
-home: https://myki.com
+home: https://myki.com/
 installMethod: NSIS
 installers:
 - location: https://s3-eu-west-1.amazonaws.com/myki-desktop-app/Myki+Setup+1.1.2.exe
