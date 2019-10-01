@@ -1,6 +1,6 @@
 id: google-backup-and-sync
 name: Backup and Sync from Google
-version: 3.45.5545.5747
+version: 3.46.7175.2662
 home: https://www.google.com/drive/
 installMethod: MSI
 installers:
