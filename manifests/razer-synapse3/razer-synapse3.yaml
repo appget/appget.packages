@@ -1,0 +1,9 @@
+id: razer-synapse3
+name: Razer Synapse 3
+version: 1.0.114.147
+home: https://www.razer.com/synapse-3
+installMethod: Custom
+installers:
+- location: http://rzr.to/synapse-3-pc-download
+  architecture: x64
+  minWindowsVersion: 6.1
