@@ -1,9 +1,9 @@
 id: sql-operations-studio
 name: Azure Data Studio
-version: 1.11.0
+version: 1.12.0
 home: https://docs.microsoft.com/en-us/sql/azure-data-studio/
 repo: https://github.com/microsoft/azuredatastudio/
 installMethod: Inno
 installers:
-- location: https://github.com/microsoft/azuredatastudio/releases/download/1.11.0/azuredatastudio-windows-setup-1.11.0.exe
-  sha256: e52ab6dc83fce8c1d073fac98922ad4253757b377595fa5b2aa4334ad3c3d87d
+- location: https://github.com/microsoft/azuredatastudio/releases/download/1.12.0/azuredatastudio-windows-setup-1.12.0.exe
+  sha256: ba43790b60c06d3290027140fec159279e9b919c2864e63eb1134d0818dac644
