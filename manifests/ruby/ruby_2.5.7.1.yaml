@@ -1,0 +1,13 @@
+id: ruby
+name: Ruby DevKit
+version: 2.5.7.1
+home: https://www.ruby-lang.org/
+repo: https://github.com/ruby/ruby/
+license: Ruby License
+installMethod: Inno
+installers:
+- location: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.5.7-1/rubyinstaller-devkit-2.5.7-1-x86.exe
+  sha256: 176c8d03886746eca93e5734336ecb22296ec94a232b6273602ad00623f81b7c
+- location: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.5.7-1/rubyinstaller-devkit-2.5.7-1-x64.exe
+  sha256: 27088218241b4da006d508ff1deae1020d6cb72a2dce0354a6c6402afdd59ace
+  architecture: x64
