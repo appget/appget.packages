@@ -1,0 +1,10 @@
+id: evga-precision-x1
+name: EVGA Precision X1
+version: 1.0
+home: https://www.evga.com/
+installMethod: NSIS
+installers:
+- location: https://www.evga.com/EVGA/GeneralDownloading.aspx?file=EVGA_Precision_X1_1.0.0.0.exe&survey=11.0.0.0
+  sha256: 0a752f7fd48d7b42d57f7e59ce2d186f363516ef61cfb7778b3dd8fe27043efe
+  architecture: x64
+  minWindowsVersion: 6.2
