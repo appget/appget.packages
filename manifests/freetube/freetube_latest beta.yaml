@@ -9,4 +9,3 @@ installers:
 - location: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.7.0-beta/FreeTube.Setup.0.7.0.exe
   sha256: 4003e20dbb70a1661f68ad75b448e2a897a011b5da58a850f6f23a837bbfe3b1
   architecture: x64
-  minWindowsVersion: 6.1
