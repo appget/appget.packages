@@ -1,0 +1,10 @@
+id: virustotaluploader
+name: Virustotaluploader
+version: 0.0.7
+home: https://github.com/SamuelTulach/VirusTotalUploader
+repo: https://github.com/SamuelTulach/VirusTotalUploader/
+license: GNU General Public License v3.0
+installMethod: Custom
+installers:
+- location: https://github.com/SamuelTulach/VirusTotalUploader/releases/download/0.0.7/Release.zip
+  sha256: e263e5b46fc10549c594aa5908f6981c5242ed45925e9acbec5808da0362f1c6
