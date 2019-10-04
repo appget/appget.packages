@@ -6,4 +6,3 @@ installMethod: Custom
 installers:
 - location: http://rzr.to/synapse-3-pc-download
   architecture: x64
-  minWindowsVersion: 6.1
