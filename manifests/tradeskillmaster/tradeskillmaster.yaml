@@ -1,0 +1,7 @@
+id: tradeskillmaster
+name: TradeSkillMaster
+version: 1.0
+home: https://www.tradeskillmaster.com/
+installMethod: Inno
+installers:
+- location: http://cdn.tradeskillmaster.com/setup.exe
