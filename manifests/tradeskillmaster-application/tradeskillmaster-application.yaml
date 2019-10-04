@@ -1,0 +1,8 @@
+id: tradeskillmaster-application
+name: TradeSkillMaster App
+version: 1.0
+home: https://www.tradeskillmaster.com/
+installMethod: Inno
+installers:
+- location: http://cdn.tradeskillmaster.com/setup.exe
+  minWindowsVersion: 6.1
