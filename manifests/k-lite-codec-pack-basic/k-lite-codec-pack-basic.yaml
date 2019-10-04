@@ -1,8 +1,8 @@
 id: k-lite-codec-pack-basic
 name: K-Lite Codec Pack Basic
-version: 15.1.6
+version: 15.2.0
 home: https://codecguide.com/download_k-lite_codec_pack_basic.htm
 installMethod: Inno
 installers:
-- location: https://files3.codecguide.com/K-Lite_Codec_Pack_1516_Basic.exe
-  sha256: fd4bd5cbfebc4bbacd93ec58cd413e77291d3c7b03dc5d0f358f05c725317abd
+- location: https://files3.codecguide.com/K-Lite_Codec_Pack_1520_Basic.exe
+  sha256: 6a2d3314ed9479f3d2395c5c7884011e9c2de4d2a5287ccfd938216d00601650
