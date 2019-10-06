@@ -1,8 +1,8 @@
 id: veracrypt
 name: VeraCrypt
-version: 1.23.8
+version: 1.24.6
 home: https://www.veracrypt.fr/
 installMethod: Custom
 installers:
-- location: https://downloads.sourceforge.net/project/veracrypt/VeraCrypt 1.23/VeraCrypt Setup 1.23.exe
-  sha256: 277c1bfe069a889eb752d3c630db34310102b2bb2f0c0ff11cf4246e333b3503
+- location: https://downloads.sourceforge.net/project/veracrypt/VeraCrypt 1.24/VeraCrypt Setup 1.24.exe
+  sha256: b85aaef5a6f6a8795f9954a3a45f6f190ac5ebd0c8da629c3f9ad7cb20514098
