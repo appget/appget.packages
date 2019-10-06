@@ -1,12 +1,12 @@
 id: cmake
 name: CMake
-version: 3.15.3
+version: 3.15.4
 home: https://gitlab.kitware.com/cmake/cmake
 repo: https://github.com/Kitware/CMake/
 installMethod: MSI
 installers:
-- location: https://github.com/Kitware/CMake/releases/download/v3.15.3/cmake-3.15.3-win32-x86.msi
-  sha256: 7cdca51d3c4e8613f5ecbc30a14e25adf1c88ec361f223472ccbe06c747600f2
-- location: https://github.com/Kitware/CMake/releases/download/v3.15.3/cmake-3.15.3-win64-x64.msi
-  sha256: e35c2d18ffb6959ad4b4963144d5928dba8c2479f9eefab3fb3fa770dcf09d73
+- location: https://github.com/Kitware/CMake/releases/download/v3.15.4/cmake-3.15.4-win32-x86.msi
+  sha256: b1d33994feed479d2f0ec27ef10268a382267113bade7e02a10d8faa98979d8b
+- location: https://github.com/Kitware/CMake/releases/download/v3.15.4/cmake-3.15.4-win64-x64.msi
+  sha256: 9971f2033b350e7603d4ccafe3b8e11bceb12c4add52e0fd769c13b29d2632b6
   architecture: x64
