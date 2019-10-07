@@ -6,5 +6,5 @@ repo: https://github.com/devhubapp/devhub/
 license: GNU Affero General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/devhubapp/devhub/releases/download/v0.97.0/DevHub-Setup-0.97.0.exe
-  sha256: 28d1394f327cd0d931e996bf31ec63834f2eda7af35953dfd21bdbc3b784e3e7
+- location: https://github.com/devhubapp/devhub/releases/download/v0.97.0/DevHub.Setup.0.97.0.exe
+  sha256: 36c139ddc69b0a27c87ff5133f77d6e62b74d69e985dd5c5919eb8318a7a82f4
