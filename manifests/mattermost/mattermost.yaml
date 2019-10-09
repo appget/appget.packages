@@ -1,13 +1,13 @@
 id: mattermost
 name: Mattermost
-version: 4.3.0
+version: 4.3.0.5
 home: https://mattermost.com/
 repo: https://github.com/mattermost/desktop/
 license: Apache License 2.0
 installMethod: MSI
 installers:
-- location: https://github.com/mattermost/desktop/releases/download/v4.3.0-rc-2/mattermost-desktop-v4.3.0-x86.msi
-  sha256: 85b88b8a1c66c2244c5d0359e9d1202d712c7948170edc989242cb2986db618e
-- location: https://github.com/mattermost/desktop/releases/download/v4.3.0-rc-2/mattermost-desktop-v4.3.0-x64.msi
-  sha256: 8af2c1739d7029c486f0492df2450b8b616d1cb6026d80637c249a07c54c5b7d
+- location: https://github.com/mattermost/desktop/releases/download/v4.3.0-rc5/mattermost-desktop-v4.3.0-rc5-x86.msi
+  sha256: 183d26139ccdfa6f5d5ac96facfd55b6e9ca7e7f9bdb4c33614b77fefd2626e3
+- location: https://github.com/mattermost/desktop/releases/download/v4.3.0-rc5/mattermost-desktop-v4.3.0-rc5-x64.msi
+  sha256: f5a71b8caa187b0a899de7da74c7194f661505d9972b9509ce711bc15d64cf82
   architecture: x64
