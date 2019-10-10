@@ -1,10 +1,10 @@
 id: insomnia
 name: Insomnia
-version: 7.0.1
+version: 7.0.2-beta1
 home: https://insomnia.rest/
 repo: https://github.com/getinsomnia/insomnia/
 license: MIT License
 installMethod: Squirrel
 installers:
-- location: https://github.com/getinsomnia/insomnia/releases/download/v7.0.1/Insomnia.Setup.7.0.1.exe
-  sha256: 9ff0c0f18e9f7e24e5a55a2a7b071b53744b3f2aa29b9d16cf79a27991e936f7
+- location: https://github.com/getinsomnia/insomnia/releases/download/v7.0.2-beta.1/Insomnia.Setup.7.0.2-beta.1.exe
+  sha256: f68a8f6ed5e1d04e285e537237a33f65078a85198cdd6927e9c1716bfc40b1d4
