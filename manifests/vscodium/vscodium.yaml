@@ -1,13 +1,13 @@
 id: vscodium
 name: VSCodium
-version: 1.38.1
+version: 1.39.0
 home: https://vscodium.com/
 repo: https://github.com/VSCodium/vscodium/
 license: MIT License
 installMethod: Inno
 installers:
-- location: https://github.com/VSCodium/vscodium/releases/download/1.38.1/VSCodiumSetup-ia32-1.38.1.exe
-  sha256: 44bab4c575ca9ebddb2830798067d93093b1433dbaef1bbda709ad7214eb37e9
-- location: https://github.com/VSCodium/vscodium/releases/download/1.38.1/VSCodiumSetup-x64-1.38.1.exe
-  sha256: 5589467729d3d07563bdb84956565b03b00b36219f512d1650d6247bcb3a21ed
+- location: https://github.com/VSCodium/vscodium/releases/download/1.39.0/VSCodiumSetup-ia32-1.39.0.exe
+  sha256: 46e8cae7562b2ff8d53c24fd365e0e90f454f17d3ce7018a5a77aae2a9e84ae2
+- location: https://github.com/VSCodium/vscodium/releases/download/1.39.0/VSCodiumSetup-x64-1.39.0.exe
+  sha256: ff741ab13c53edfaf613b2158de6d709e319eb9e81c6a5e7823a6e05dd24fe05
   architecture: x64
