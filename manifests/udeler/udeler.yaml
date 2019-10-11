@@ -1,12 +1,12 @@
 id: udeler
 name: Udemy Course Downloader
-version: 1.8.0
+version: 1.7.0
 repo: https://github.com/FaisalUmair/udemy-downloader-gui/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/FaisalUmair/udemy-downloader-gui/releases/download/v1.8.0/Udeler-Setup-1.8.0-windows-x86.exe
-  sha256: 5d8237b7897d598a39e5f22bec62bedc72c55b72134d86a8a1729e0ed10615f9
-- location: https://github.com/FaisalUmair/udemy-downloader-gui/releases/download/v1.8.0/Udeler-Setup-1.8.0-windows-x64.exe
-  sha256: 352828b878fc1d9d8fa479d613923f06822ed11118769a4ecce4111744ea4826
+- location: https://github.com/FaisalUmair/udemy-downloader-gui/releases/download/v1.7.0/Udeler-Setup-1.7.0-windows-x86.exe
+  sha256: 03248adab4366e6239139fb4a7e90f1d813a32e8109b8ddebf25da2aa8f148df
+- location: https://github.com/FaisalUmair/udemy-downloader-gui/releases/download/v1.7.0/Udeler-Setup-1.7.0-windows-x64.exe
+  sha256: e8247ca40204188c7501335f9e355c6db2025b12a18a09b98b167d2ac1353c8e
   architecture: x64
