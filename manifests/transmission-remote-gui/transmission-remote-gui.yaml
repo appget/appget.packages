@@ -4,5 +4,5 @@ version: 5.18.0
 repo: https://github.com/transmission-remote-gui/transgui/
 installMethod: Inno
 installers:
-- location: https://github.com/transmission-remote-gui/transgui/releases/download/v5.18.0/transgui-5.18-setup.exe
+- location: https://github.com/transmission-remote-gui/transgui/releases/download/v5.18.0/transgui-5.18.0-setup.exe
   sha256: 07cc99294c83d2ae429033abbdb99642f5271984966616fb2c319f087448c936
