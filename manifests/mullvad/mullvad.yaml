@@ -1,10 +1,10 @@
 id: mullvad
 name: Mullvad
-version: 2019.8.0
+version: 2019.9.0
 home: https://mullvad.net/
 repo: https://github.com/mullvad/mullvadvpn-app/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/mullvad/mullvadvpn-app/releases/download/2019.8/MullvadVPN-2019.8.exe
-  sha256: 832fc52e3a99af14f33f21b06eafcdf680c84c4e92575677a0a454656abf7620
+- location: https://github.com/mullvad/mullvadvpn-app/releases/download/2019.9/MullvadVPN-2019.9.exe
+  sha256: 3e23a585e46a4146abd5cf6a3809d564ef0a20753e29de8ac074b82e1516a90d
