@@ -1,0 +1,9 @@
+id: gods-unchained
+name: Gods Unchained
+version: 0.4.5
+home: https://immutable.com/
+installMethod: NSIS
+installers:
+- location: https://downloads.immutable.com/Immutable+Setup+0.4.5.exe
+  sha256: 41acd81ae4c0446fedb1274f789c88503785043116f9271431218bff293fb3e9
+  minWindowsVersion: 10.0
