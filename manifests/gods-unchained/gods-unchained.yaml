@@ -1,7 +1,7 @@
 id: gods-unchained
 name: Gods Unchained
 version: 0.4.5
-home: https://immutable.com/
+home: https://godsunchained.com/
 installMethod: NSIS
 installers:
 - location: https://downloads.immutable.com/Immutable+Setup+0.4.5.exe
