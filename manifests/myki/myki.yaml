@@ -5,5 +5,5 @@ home: https://myki.com/
 installMethod: NSIS
 installers:
 - location: https://s3-eu-west-1.amazonaws.com/myki-desktop-app/Myki+Setup+1.1.3.exe
-  sha256: 38b32beddf2243857ad8cd178768643f2f0490f23905313b5e804d184f1d5a3d
+  sha256: 7bca912d43346001f24f6a9577333ee40caf91e2fb389ba0afcad82abc59fccf
   architecture: x64
