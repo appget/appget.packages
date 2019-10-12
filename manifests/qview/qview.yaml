@@ -8,8 +8,6 @@ installMethod: Inno
 installers:
 - location: https://github.com/jurplel/qView/releases/download/2.0/qView-2.0-win32.exe
   sha256: d2a8be738c44b92bf089a074a75daec6318ae598ad9bb782f89df32ef2046cf0
-  minWindowsVersion: 6.1
 - location: https://github.com/jurplel/qView/releases/download/2.0/qView-2.0-win64.exe
   sha256: 3427d71b4b2f6b4d286c5ea78a19d911399349890cb413e14d20f0cccf4f35a2
   architecture: x64
-  minWindowsVersion: 6.1
