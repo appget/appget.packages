@@ -1,8 +1,8 @@
 id: missive
 name: Missive
-version: 9.3.0
+version: 9.4.0
 home: https://missiveapp.com/
 installMethod: NSIS
 installers:
-- location: https://d1weoh55n7oehu.cloudfront.net/9.3.0/Missive-Setup-9.3.0.exe
-  sha256: 70ed5fa65dc4aa0692a9f7c773c4c4c936cb0bd830101104da77c0b331262563
+- location: https://d1weoh55n7oehu.cloudfront.net/9.4.0/Missive-Setup-9.4.0.exe
+  sha256: b8c24afc63753320186fc35589c8c7a777556b75263c8635181360a39b6b3825
