@@ -1,0 +1,15 @@
+id: game-backup-monitor
+name: Game Backup Monitor
+version: 1.1.9
+home: https://mikemaximus.github.io/gbm-web/
+repo: https://github.com/MikeMaximus/gbm/
+license: GNU General Public License v3.0
+installMethod: NSIS
+installers:
+- location: https://github.com/MikeMaximus/gbm/releases/download/v1.1.9HF2/GBM.v1.1.9HF2.32-bit.Installer.exe
+  sha256: 25df2cc88cc1436bbf88c3d9cbef0cf3fc3e4f3aa140fcbc876be548f879dcdc
+  minWindowsVersion: 6.1
+- location: https://github.com/MikeMaximus/gbm/releases/download/v1.1.9HF2/GBM.v1.1.9HF2.64-bit.Installer.exe
+  sha256: c312e3f9730c3a36e5a1af527b75fae366a12a0170c84afe4d66fb0549430051
+  architecture: x64
+  minWindowsVersion: 6.1
