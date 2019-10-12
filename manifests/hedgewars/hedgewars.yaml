@@ -1,8 +1,8 @@
 id: hedgewars
 name: Hedgewars
-version: 0.9.25
+version: 1.0
 home: https://www.hedgewars.org/
 installMethod: NSIS
 installers:
-- location: https://www.hedgewars.org/download/releases/Hedgewars-0.9.25.exe
-  sha256: 54e77aaec1efdf8fd5b728c630913c8cdaa106b39b606304bcae49c869878956
+- location: https://www.hedgewars.org/download/releases/Hedgewars-1.0.0.exe
+  sha256: cbbdbfcc560313234d08c8d445a8e81137e958dc7b4a67802671aa6407b5ba83
