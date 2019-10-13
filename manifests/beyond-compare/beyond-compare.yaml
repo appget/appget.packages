@@ -1,8 +1,8 @@
 id: beyond-compare
 name: Beyond Compare
-version: 4.2.10.23938
+version: 4.3.0.24364
 home: https://www.scootersoftware.com/
 installMethod: Inno
 installers:
-- location: https://www.scootersoftware.com/BCompare-4.2.10.23938.exe
-  sha256: d8d67029fc4e52bc53a20836546c28eca2b4a2dced2280a91c20f4b983b30157
+- location: https://www.scootersoftware.com/BCompare-4.3.0.24364.exe
+  sha256: c0606ee14e371a106b6dc5441fc6fe1704d18f1e781333357b64017da90df47a
