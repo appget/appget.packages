@@ -1,13 +1,13 @@
 id: premid
 name: PreMiD
-version: 2.0.1.2
+version: 2.0.1
 home: https://premid.app/
 repo: https://github.com/PreMiD/PreMiD/
 license: Mozilla Public License 2.0
 installMethod: InstallBuilder
 installers:
-- location: https://github.com/PreMiD/PreMiD/releases/download/v2.0.1.2/PreMiD-2.0-win-x32.exe
+- location: https://github.com/PreMiD/PreMiD/releases/download/v2.0.1/PreMiD-2.0.1-win-x32.exe
   sha256: a0ce0a1c725b89f9064ae8763a557006a66ce96e956b6517b6ad949debcabeb8
-- location: https://github.com/PreMiD/PreMiD/releases/download/v2.0.1.2/PreMiD-2.0-Windows-x64.exe
+- location: https://github.com/PreMiD/PreMiD/releases/download/v2.0.1/PreMiD-2.0.1-Windows-x64.exe
   sha256: a0ce0a1c725b89f9064ae8763a557006a66ce96e956b6517b6ad949debcabeb8
   architecture: x64
