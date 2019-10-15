@@ -1,0 +1,16 @@
+id: python
+name: Python
+version: 3.8.150.0
+home: https://www.python.org/
+repo: https://github.com/python/cpython/
+license: Python Software Foundation License
+installMethod: Wix
+args:
+  passive: PrependPath=1
+  silent: PrependPath=1
+installers:
+- location: https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe
+  sha256: b471908de5e10d8fb5c3351a5affb1172da7790c533e0c9ffbaeec9c11611b15
+- location: https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64.exe
+  sha256: a9bbc6088a3e4c7112826e21bfee6277f7b6d93259f7c57176139231bb7071e4
+  architecture: x64
