@@ -1,0 +1,9 @@
+id: icloud
+name: iCloud
+version: 7.14.0.29
+home: http://cdn-apple.com/
+installMethod: Custom
+installers:
+- location: http://updates-http.cdn-apple.com/2019/windows/041-75336-20191002-45F92212-E56B-11E9-9B8B-CBB84BDB2D0F/iCloudSetup.exe
+  sha256: 56220c91f8e3dfe6692ed69393c532bc2bc976dc66d845ae9ac6790f61f31cc1
+  minWindowsVersion: 6.1
