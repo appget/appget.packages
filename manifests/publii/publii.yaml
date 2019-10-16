@@ -1,0 +1,9 @@
+id: publii
+name: Publii
+version: 0.35.2
+home: https://getpublii.com/
+installMethod: Inno
+installers:
+- location: https://getpublii.com/download/Publii-0.35.2.exe
+  sha256: b0326bf88f9681d1bbb704313852d2a1ca440b2c79e5f1770ce5225b252668e8
+  architecture: x64
