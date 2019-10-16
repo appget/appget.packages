@@ -6,4 +6,4 @@ license: Mozilla Public License 2.0
 installMethod: Inno
 installers:
 - location: https://github.com/t1m0thyj/WinDynamicDesktop/releases/download/v3.4.0/WinDynamicDesktop_3.4.0_Setup.exe
-  sha256: 292c76cd874b62ab893f323aeb0708b99c43f68e7b872662bc905c113c747706
+  sha256: 8b6e6674277ac23a91df399313afa75d6b01fb1f2019335ce9c544ca8273a8b9
