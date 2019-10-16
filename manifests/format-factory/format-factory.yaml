@@ -1,8 +1,8 @@
 id: format-factory
-name: Format Factory
-version: 4.9.0
+name: LenaJnas
+version: 5.8.6
 home: http://pcfreetime.com/formatfactory/index.php
-installMethod: NSIS
+installMethod: Inno
 installers:
-- location: http://www.pcfreetime.com/public/FFSetup4.9.0.0.exe
-  sha256: fc32772c251129bc44240d8c89747ce316427c9d5653e54903d414c7b9c2ef36
+- location: http://www.yaffworuyhatipa.com/e90aov6^thv58/FFSetupLite.exe
+  sha256: df3e926d38d21b42e900831afe8907de8eabbe4d7ee9f96e831426616d4fb5b3
