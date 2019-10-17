@@ -1,0 +1,9 @@
+id: tunsafe
+name: TunSafe
+version: 1.4
+home: https://tunsafe.com/
+installMethod: NSIS
+installers:
+- location: https://tunsafe.com/downloads/TunSafe-1.4.exe
+  sha256: 398d7637767bcc3f7c650256afe0cf68e6771b7d725299806f78167b84a0793b
+  minWindowsVersion: 6.1
