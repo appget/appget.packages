@@ -1,6 +1,6 @@
 id: station
 name: Station
-version: 1.52.2
+version: 1.56.0
 home: https://getstation.com/
 installMethod: Squirrel
 installers:
