@@ -1,10 +1,10 @@
 id: etcher
 name: balenaEtcher
-version: 1.5.60
+version: 1.5.59
 home: https://etcher.io/
 repo: https://github.com/balena-io/etcher/
 license: Apache License 2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/balena-io/etcher/releases/download/v1.5.60/balenaEtcher-Setup-1.5.60.exe
-  sha256: fed87029e0158cf32f91a2b3405bde6c9a1f1fe70fd4696fd04623351aa6d5e4
+- location: https://github.com/balena-io/etcher/releases/download/v1.5.59/balenaEtcher-Setup-1.5.59.exe
+  sha256: c90a93e6d15ab888ffdf553ad83e41a8b674c055ca319f2349563559b8deb4dc
