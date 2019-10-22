@@ -1,8 +1,8 @@
 id: jetbrains-toolbox
 name: JetBrains Toolbox
-version: 1.15.5796
+version: 1.16.6016
 home: https://www.jetbrains.com/toolbox/app/
 installMethod: NSIS
 installers:
-- location: https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.15.5796.exe
-  sha256: 3f4979d34aa9010d4a2d9b5b9a69ab5dad7583a196c868bd7953c41df3a7d228
+- location: https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.16.6016.exe
+  sha256: f12cb56563646c6051d62916db7a2e6a2a7b5facdaef93c59d99c5299f764a37
