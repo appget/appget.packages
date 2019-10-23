@@ -1,0 +1,10 @@
+id: caesiumph
+name: CaesiumPH
+version: 0.9.5
+home: https://saerasoft.com/caesium/ph
+repo: https://github.com/Lymphatus/CaesiumPH/
+license: GNU General Public License v3.0
+installMethod: Inno
+installers:
+- location: https://github.com/Lymphatus/CaesiumPH/releases/download/v0.9.5-beta/caesiumph-0.9.5-beta.exe
+  sha256: 71566df1793f3cc1cfd75570bc3a3b93893899a7e21312d45d9a2429bd0f512a
