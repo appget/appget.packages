@@ -1,8 +1,8 @@
 id: format-factory
-name: Format Factory
-version: 4.9.0
+name: FNaman
+version: 5.1.1.8
 home: http://pcfreetime.com/formatfactory/index.php
-installMethod: NSIS
+installMethod: Inno
 installers:
-- location: http://www.pcfreetime.com/public/FFSetup4.9.0.0.exe
-  sha256: fc32772c251129bc44240d8c89747ce316427c9d5653e54903d414c7b9c2ef36
+- location: http://www.yaffworuyhatipa.com/+y2rnt4pm4q06/FFSetupLite.exe
+  sha256: ede914948a13cb2a996029e01d3060dbc5d5e4386fa525d20e1fb749ddd2012a
