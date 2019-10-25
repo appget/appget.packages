@@ -1,8 +1,8 @@
 id: freeplane
 name: Freeplane
-version: 1.7.9
+version: 1.7.10
 home: https://www.freeplane.org/wiki
 installMethod: Inno
 installers:
-- location: https://downloads.sourceforge.net/project/freeplane/freeplane stable/Freeplane-Setup-1.7.9.exe
-  sha256: 806ed5614193da8c26bc97fe51f2bc83bd7602bb1599c877fe8fb8873fe793d1
+- location: https://downloads.sourceforge.net/project/freeplane/freeplane stable/Freeplane-Setup-1.7.10.exe
+  sha256: 44192c26308f65e19a877a4c621c5961b3d68caf99936d9ccec46f48529a4e6d
