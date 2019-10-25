@@ -7,5 +7,5 @@ args:
   passive: /sPB /rs /msi /qb /norestart EULA_ACCEPT=YES
   silent: /sAll /rs /msi /qn /norestart EULA_ACCEPT=YES
 installers:
-- location: http://ardownload.adobe.com/pub/adobe/reader/win/AcrobatDC/1902120047/AcroRdrDC1902120047_en_US.exe
-  sha256: 574ba8c67b81aa69b35ccf8560f6b48cc20cad02bacd6acf5bbe7698522800c2
+- location: http://ardownload.adobe.com/pub/adobe/reader/win/AcrobatDC/1902120049/AcroRdrDC1902120049_en_US.exe
+  sha256: b7208f2fcb4bbb8d40bef7890135ef4297c6ec4b3700b198ec7bb87214ee9218
