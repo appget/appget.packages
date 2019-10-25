@@ -1,0 +1,12 @@
+id: laragon
+name: Laragon
+version: 4.0.15.190704
+home: https://laragon.org/
+repo: https://github.com/leokhoa/laragon/
+installMethod: Inno
+installers:
+- location: https://github.com/leokhoa/laragon/releases/download/4.0.15/laragon-wamp.x86.exe
+  sha256: 7b68f1922477886acd314076acfa3019856db1921fc7e6acecc50df1c35f26dd
+- location: https://github.com/leokhoa/laragon/releases/download/4.0.15/laragon-wamp.exe
+  sha256: f8af3b1caa29b14132073e4cf5c0f5d5822c96c7a31fe55492ab7819769b92ed
+  architecture: x64
