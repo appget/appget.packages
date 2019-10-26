@@ -1,12 +1,12 @@
 id: keeweb
 name: KeeWeb
-version: 1.11.10
+version: 1.12.0
 home: https://keeweb.info/
 repo: https://github.com/keeweb/keeweb/
 installMethod: NSIS
 installers:
-- location: https://github.com/keeweb/keeweb/releases/download/v1.11.10/KeeWeb-1.11.10.win.ia32.exe
-  sha256: 9d4e797898d59f8dde3e90be273137e01683cd14843c11f8c836a50153ea69e8
-- location: https://github.com/keeweb/keeweb/releases/download/v1.11.10/KeeWeb-1.11.10.win.x64.exe
-  sha256: 912b95f9a97bd823c9d65be62e2d430c70c3b862bb4d706c014816eceba8dd3e
+- location: https://github.com/keeweb/keeweb/releases/download/v1.12.0/KeeWeb-1.12.0.win.ia32.exe
+  sha256: 10f5d2d963c36430d71f424b1e8097964d7f89d126c566fab93a23d201e047e8
+- location: https://github.com/keeweb/keeweb/releases/download/v1.12.0/KeeWeb-1.12.0.win.x64.exe
+  sha256: 7b01aae602f41bb6451a839b2ef2cc633a0f675b7842a2ed135429a82353ee2f
   architecture: x64
