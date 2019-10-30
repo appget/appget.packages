@@ -1,0 +1,9 @@
+id: cura
+name: Cura
+version: 4.3.0
+home: https://ultimaker.com/
+installMethod: NSIS
+installers:
+- location: https://software.ultimaker.com/cura/Ultimaker_Cura-4.3.0-win64.exe?download=https:%2F%2Fsoftware.ultimaker.com%2Fcura%2FUltimaker_Cura-4.3.0-win64.exe
+  sha256: bf35a3939776ccf7559e520247b8b4e1e092e876e266ba465ea55b6f63752cd7
+  architecture: x64
