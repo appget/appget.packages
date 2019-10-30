@@ -1,6 +1,6 @@
 id: itunes
 name: Apple iTunes
-version: 12.10.1.4
+version: 12.10.2.3
 home: https://www.apple.com/itunes
 installMethod: Custom
 installers:
