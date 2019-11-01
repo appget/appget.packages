@@ -4,7 +4,5 @@ version: 192.7142.39
 home: https://www.jetbrains.com/clion/
 installMethod: NSIS
 installers:
-- location: https://download.jetbrains.com/cpp/CLion-2019.2.5-jbr8.exe
-  sha256: dd7500c43ca2c5cc263ec205ac41b692ef651bfd94fe6df8bc1ad5661c1e1d68
 - location: https://download.jetbrains.com/cpp/CLion-2019.2.5.exe
   sha256: b14acbb773a57e3300fe39d5ad17a221da2988f5628c689af40abcd562886a3e
