@@ -4,7 +4,5 @@ version: 192.7142.37
 home: https://www.jetbrains.com/ruby/
 installMethod: NSIS
 installers:
-- location: https://download.jetbrains.com/ruby/RubyMine-2019.2.4-jbr8.exe
-  sha256: 5ce48bf0a49535722666930b5ec80769938813dbea9ee0e93872c15c42c94eb7
 - location: https://download.jetbrains.com/ruby/RubyMine-2019.2.4.exe
   sha256: fb10447eca6a0f2f2322e6c7277e438af40eace25fe6c7888d1b0a5115f2df47
