@@ -1,7 +1,7 @@
 id: rambox
 name: Rambox
 version: 0.6.9.9
-home: https://rambox.pro/
+home: https://rambox.app/
 repo: https://github.com/ramboxapp/community-edition/
 license: GNU General Public License v3.0
 installMethod: NSIS
