@@ -1,7 +1,7 @@
 id: chrome
-name: Google Chrome Enterprise
+name: Google Chrome
 version: 67.208.87
-home: https://cloud.google.com/chrome-enterprise/
+home: https://www.google.com/chrome/
 installMethod: MSI
 installers:
 - location: https://dl.google.com/edgedl/chrome/install/GoogleChromeStandaloneEnterprise.msi
