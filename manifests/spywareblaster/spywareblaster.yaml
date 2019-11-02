@@ -1,0 +1,8 @@
+id: spywareblaster
+name: SpywareBlaster
+version: 5.5.0
+home: https://www.brightfort.com/spywareblaster.html
+installMethod: Inno
+installers:
+- location: https://www.brightfort.net/downloads/spywareblastersetup55.exe
+  sha256: f2761e22f0b40b4422f362ac02a7a30a9d361237cd8cd29208c1ec90bde0596b
