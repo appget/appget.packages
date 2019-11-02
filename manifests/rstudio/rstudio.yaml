@@ -1,8 +1,8 @@
 id: rstudio
 name: RStudio
-version: 1.2.5001
+version: 1.2.5019
 home: https://rstudio.com/
 installMethod: NSIS
 installers:
-- location: https://download1.rstudio.org/desktop/windows/RStudio-1.2.5001.exe
-  sha256: e1ae795d0e9b6bb224247564b8113066b773a44b3db3d7ab146dd6cd3d481cb9
+- location: https://download1.rstudio.org/desktop/windows/RStudio-1.2.5019.exe
+  sha256: 7c6a943cfe9220d2c83e3444e3078c137220fa3c4318bf3c3418051a3a96301a
