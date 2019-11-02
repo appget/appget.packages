@@ -5,4 +5,4 @@ home: https://www.logitech.com/
 installMethod: NSIS
 installers:
 - location: https://download01.logi.com/web/ftp/pub/techsupport/options/Options_8.0.863.exe
-  sha256: E5736E7E306A68826354D29E9BA743DB524B65A37696409B8AADB70662653B16
+  sha256: e5736e7e306a68826354d29e9ba743db524b65a37696409b8aadb70662653b16
