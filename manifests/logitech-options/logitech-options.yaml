@@ -1,8 +1,8 @@
 id: logitech-options
 name: Logitech Options
-version: 7.12.43
+version: 8.0.863
 home: https://www.logitech.com/
 installMethod: NSIS
 installers:
-- location: https://download01.logi.com/web/ftp/pub/techsupport/options/Options_7.12.43.exe
-  sha256: cc96e05bf0731ac149e59de4f776bc0e16de02bd2169359c36abeb7427460d0f
+- location: https://download01.logi.com/web/ftp/pub/techsupport/options/Options_8.0.863.exe
+  sha256: E5736E7E306A68826354D29E9BA743DB524B65A37696409B8AADB70662653B16
