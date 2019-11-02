@@ -1,0 +1,7 @@
+id: videoredo-tvsuite-v6
+name: VideoReDo TVSuite V6
+version: 6.60.4.806
+home: https://www.videoredo.com/en/Products_TVSuite_V6.html
+installMethod: Inno
+installers:
+- location: https://www.videoredo.com/en/Download.htm?download=tvsuitev6
