@@ -1,0 +1,8 @@
+id: clonespy
+name: CloneSpy
+version: 3.4.3
+home: http://www.clonespy.com/
+installMethod: NSIS
+installers:
+- location: http://www.clonespy.com/english/download/cspy343.exe
+  sha256: 6f1c39f521d7ccdc2c0cfb8a69d456c57b6094e95afc9d9294d85f35eb116a45
