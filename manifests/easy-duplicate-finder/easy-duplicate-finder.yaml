@@ -1,0 +1,7 @@
+id: easy-duplicate-finder
+name: Easy Duplicate Finder
+version: 5.27.0.1083
+home: https://www.easyduplicatefinder.com/
+installMethod: Inno
+installers:
+- location: https://www.easyduplicatefinder.com/files/edfSetup.exe
