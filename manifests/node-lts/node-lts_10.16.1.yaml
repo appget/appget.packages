@@ -7,7 +7,7 @@ license: MIT
 installMethod: MSI
 installers:
 - location: https://nodejs.org/download/release/v10.16.1/node-v10.16.1-x86.msi
-  sha256: 63d03dff4c314f0adb08ef22f2c0efb05cd425db6a83ccf6a6a035050db9cc47
+  sha256: cb5ed4ad51b76de31004bbc793dea5d3aead4f47c157f8a49f7a4787286de81d
 - location: https://nodejs.org/download/release/v10.16.1/node-v10.16.1-x64.msi
   sha256: dc99f8c0be1e8bb1abfaa194113712ba85cc749bd32990f84cdcdd3b619f6a1c
   architecture: x64
