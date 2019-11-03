@@ -7,7 +7,7 @@ license: Mozilla Public License 2.0
 installMethod: InstallBuilder
 installers:
 - location: https://github.com/PreMiD/PreMiD/releases/download/v2.0.1.2/PreMiD-2.0-win-x32.exe
-  sha256: a0ce0a1c725b89f9064ae8763a557006a66ce96e956b6517b6ad949debcabeb8
+  sha256: cfba649958b9a223823f1da0df527b7cad4b69df5758d3111ab299e8a99a6b4c
 - location: https://github.com/PreMiD/PreMiD/releases/download/v2.0.1.2/PreMiD-2.0-Windows-x64.exe
-  sha256: a0ce0a1c725b89f9064ae8763a557006a66ce96e956b6517b6ad949debcabeb8
+  sha256: 502e14ab9b46e906d76be0b074e24a537545a4eb778d9096d39d532ff6950946
   architecture: x64
