@@ -5,4 +5,4 @@ home: https://www.ccleaner.com/
 installMethod: NSIS
 installers:
 - location: https://download.ccleaner.com/slim/ccsetup563_slim.exe
-  sha256: D932279091FEB1256CFB8D60ED29096895C8FB4F5553E1DC20C1CEBF8A49352D
+  sha256: d932279091feb1256cfb8d60ed29096895c8fb4f5553e1dc20c1cebf8a49352d
