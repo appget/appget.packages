@@ -1,7 +1,7 @@
 id: resource-hacker
 name: Resource Hacker
 version: 5.1.7
-home: http://www.angusj.com/resourcehacker/
+home: http://angusj.com/
 installMethod: Inno
 installers:
 - location: http://www.angusj.com/resourcehacker/reshacker_setup.exe
