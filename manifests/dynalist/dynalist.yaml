@@ -1,7 +1,7 @@
 id: dynalist
-name: Dynalist
-version: 1.0.5
+name: WizTree
+version: 3.30
 home: https://dynalist.io/
-installMethod: NSIS
+installMethod: Inno
 installers:
 - location: https://dynalist.io/standalone/download?file=Dynalist Setup.exe
