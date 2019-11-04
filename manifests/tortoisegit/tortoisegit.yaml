@@ -1,11 +1,11 @@
 id: tortoisegit
 name: TortoiseGit
-version: 2.8.0
+version: 2.9.0
 home: https://tortoisegit.org/
 installMethod: MSI
 installers:
-- location: https://download.tortoisegit.org/tgit/2.8.0.0/TortoiseGit-2.8.0.0-32bit.msi
-  sha256: 0a5d9e40ea760e83184461ae467559fb6d49831568a4f5eb8085f76b53b1fc88
-- location: https://download.tortoisegit.org/tgit/2.8.0.0/TortoiseGit-2.8.0.0-64bit.msi
-  sha256: d09af93152e0d22afd1dcae386bc39840136fa607398dd4529356fac46ed774f
+- location: https://download.tortoisegit.org/tgit/2.9.0.0/TortoiseGit-2.9.0.0-32bit.msi
+  sha256: 36c61942913ddc76710a1d640b9e784557b02d8ae9eef07e9d18060e3f1fe8fc
+- location: https://download.tortoisegit.org/tgit/2.9.0.0/TortoiseGit-2.9.0.0-64bit.msi
+  sha256: d866cbce19251ce7b2eea5c178f6c85c567e932ae2aeed999bffe58004645ed7
   architecture: x64
