@@ -6,5 +6,5 @@ repo: https://github.com/LiskHQ/lisk-hub/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/LiskHQ/lisk-hub/releases/download/v1.22.0/lisk-hub-win-1.22.0.exe
+- location: https://github.com/LiskHQ/lisk-desktop/releases/download/v1.22.0/lisk-hub-win-1.22.0.exe
   sha256: edcba8748595116f3310414b24b4bcf9e254c485781a33ec23c2d1ad1077a319
