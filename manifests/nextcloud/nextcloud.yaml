@@ -1,9 +1,9 @@
 id: nextcloud
 name: Nextcloud
-version: 2.6.0.5839
+version: 2.6.1.6017
 home: https://nextcloud.com/
 repo: https://github.com/nextcloud/desktop/
 installMethod: NSIS
 installers:
-- location: https://download.nextcloud.com/desktop/releases/Windows/Nextcloud-2.6.0-setup.exe
-  sha256: 703504b26f427d9fc8f4f9f010c1312f3d4c20d9c3e2c9130bda3e3e14620d0c
+- location: https://download.nextcloud.com/desktop/releases/Windows/Nextcloud-2.6.1-setup.exe
+  sha256: eabd9ae0ba7cce5992616269d5beeed630ccf0efd0c459ab0add351d1183c53a
