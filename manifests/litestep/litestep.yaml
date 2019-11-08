@@ -1,0 +1,8 @@
+id: litestep
+name: LiteStep
+version: 0.4.5
+home: http://litestep.net/
+installMethod: NSIS
+installers:
+- location: http://litestep.net/LOSI-0.4.5.exe
+  sha256: 0c98b5905190fc1a0bd38bf476a1bea023b91bf5b06bd239684c9861859075b8
