@@ -1,0 +1,11 @@
+id: expandrive
+name: ExpanDrive
+version: 7.3.0
+home: https://www.expandrive.com/
+installMethod: MSI
+installers:
+- location: https://packages.expandrive.com/msi/7.3.0/ExpanDriveInstaller32.msi
+  sha256: c7dc1f40747c5329fa750152130b1cd5e2da8b8acf768630ce296547430b889e
+- location: https://packages.expandrive.com/msi/7.3.0/ExpanDriveInstaller64.msi
+  sha256: 3987d409a1a4ece7dd044f8d88534623800a798d8c1168ec33df0d36a8c5fa77
+  architecture: x64
