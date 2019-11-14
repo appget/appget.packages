@@ -5,3 +5,4 @@ home: https://www.ocbase.com/
 installMethod: Custom
 installers:
 - location: https://www.ocbase.com/download.php
+  architecture: x64
