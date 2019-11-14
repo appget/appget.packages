@@ -1,0 +1,7 @@
+id: logitech-g-hub
+name: Logitech G HUB
+version: 2019.10.27506
+home: https://www.logitechg.com/en-ca/innovation/g-hub.html
+installMethod: Custom
+installers:
+- location: https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe
