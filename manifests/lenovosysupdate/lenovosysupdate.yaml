@@ -1,0 +1,8 @@
+id: lenovosysupdate
+name: Lenovo System Update
+version: 5.07.0088
+home: https://www.lenovo.com/think/support
+installMethod: Inno
+installers:
+- location: https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.07.0088.exe
+  sha256: fec3dd5aaf25fd8a712e29ec3fcda8b2546e4ae45f6cf5641d85ebb49b4dcbfc
