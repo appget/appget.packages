@@ -1,6 +1,6 @@
 id: criptext
 name: Criptext
-version: 0.24.1
+version: 0.25.0
 home: https://criptext.com/
 installMethod: NSIS
 installers:
