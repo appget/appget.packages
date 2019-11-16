@@ -1,9 +1,9 @@
 id: zapdesktop
 name: ZapDesktop
-version: 0.6.0
+version: 0.6.2
 repo: https://github.com/LN-Zap/zap-desktop/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/LN-Zap/zap-desktop/releases/download/v0.6.0-beta/Zap-win-v0.6.0-beta.exe
-  sha256: c805a269072e512030da598ffa1a3e9184ac410cdfcd47b95783c27f9d8b6850
+- location: https://github.com/LN-Zap/zap-desktop/releases/download/v0.6.2-beta/Zap-win-v0.6.2-beta.exe
+  sha256: 2519340c25de330d3e3bcbecee68dadee326ae84856117ebb1ce279025deaccd
