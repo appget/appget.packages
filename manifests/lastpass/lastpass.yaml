@@ -1,6 +1,6 @@
 id: lastpass
 name: LastPass
-version: 4.36.0
+version: 4.36.1
 home: https://www.lastpass.com/
 installMethod: Custom
 args:
