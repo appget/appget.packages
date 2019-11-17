@@ -1,6 +1,6 @@
 id: mirc
 name: mIRC
-version: 7.57
+version: 7.58
 home: https://www.mirc.com/
 installMethod: NSIS
 installers:
