@@ -1,8 +1,8 @@
 id: winsnap
 name: WinSnap
-version: 5.1.5
+version: 5.1.6
 home: https://www.ntwind.com/software/winsnap.html
 installMethod: NSIS
 installers:
 - location: https://www.ntwind.com/download/WinSnap_5.1.5-setup.exe
-  sha256: 5c24f048ba14e9b89140466541716e928e1cc9a7c22e978a4192796306df3a04
+  sha256: 425a17ca99c85ee4f341de500718de91ef63b2aa91599812591958cd76054967
