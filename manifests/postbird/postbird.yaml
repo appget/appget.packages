@@ -1,9 +1,9 @@
 id: postbird
 name: Postbird
-version: 0.8.3.124
+version: 0.8.4.126
 repo: https://github.com/Paxa/postbird/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/Paxa/postbird/releases/download/0.8.3/Postbird.Setup.0.8.3.exe
-  sha256: de934ea79edee58af3e26aa0925675447d9b989a9a3ca8b95d74d346faffeccc
+- location: https://github.com/Paxa/postbird/releases/download/0.8.4/Postbird-Setup-0.8.4.exe
+  sha256: d5b2653c90ce86c89c1de0b1c62fcd5674c0561dcffb822fd7e54fdee41645a3
