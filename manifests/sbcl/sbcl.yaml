@@ -1,0 +1,12 @@
+id: sbcl
+name: Steel Bank Common Lisp
+version: 1.4.14
+home: http://www.sbcl.org/
+repo: https://github.com/sbcl/sbcl/
+installMethod: MSI
+installers:
+- location: https://github.com/sbcl/sbcl/releases/download/sbcl-1.4.14/sbcl-1.4.14-x86-windows-binary.msi
+  sha256: 3eb70cf2b1e9094102e3ca6c8a9a18273c6c302539e9345b9a20667a4b46ea40
+- location: https://github.com/sbcl/sbcl/releases/download/sbcl-1.4.14/sbcl-1.4.14-x86-64-windows-binary.msi
+  sha256: 318964cb4b91feb865a56dbd4cb7ac10ccc116dd9dfb4b6997c75cb3461fcfd1
+  architecture: x64
