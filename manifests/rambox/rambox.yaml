@@ -1,10 +1,10 @@
 id: rambox
 name: Rambox
-version: 0.7.0
+version: 0.7.1.1
 home: https://rambox.app/
 repo: https://github.com/ramboxapp/community-edition/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/ramboxapp/community-edition/releases/download/0.7.0/Rambox-0.7.0-win.exe
-  sha256: 9be7f7df32696b6e107d9a3a1a31f216542acab3e98f0a497349fff3250e0644
+- location: https://github.com/ramboxapp/community-edition/releases/download/0.7.1/Rambox-0.7.1-win.exe
+  sha256: 230e949b19a084e0e989071e8d148b281a38f51e76ba41ecb7878b3604fdfea3
