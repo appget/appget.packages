@@ -1,8 +1,8 @@
 id: format-factory
-name: Format Factory
-version: 4.9.0
+name: FubIeb
+version: 5.1
 home: http://pcfreetime.com/formatfactory/index.php
-installMethod: NSIS
+installMethod: Inno
 installers:
-- location: http://www.pcfreetime.com/public/FFSetup4.9.0.0.exe
-  sha256: fc32772c251129bc44240d8c89747ce316427c9d5653e54903d414c7b9c2ef36
+- location: http://www.gasayonnledexi.com/3wi762@vahkft/FFSetupLite.exe
+  sha256: 5dd50445666cf3b948d70fce08c285e54a6128b07fa4fa3796208eb65e583626
