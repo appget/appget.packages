@@ -1,0 +1,9 @@
+id: kdeconnect
+name: KDE Connect
+version: 211
+home: https://github.com/KDE/kdeconnect-kde
+installMethod: NSIS
+installers:
+- location: https://binary-factory.kde.org/job/kdeconnect-kde_Nightly_win64/lastSuccessfulBuild/artifact/kdeconnect-kde-master-211-windows-msvc2017_64-cl.exe
+  sha256: 55844c276e5eb8b63c78194c2edd75b040b44d5adfb4e7d170a7ecd8f065c15d
+  architecture: x64
