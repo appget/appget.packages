@@ -1,0 +1,9 @@
+id: duplicati
+name: Duplicati
+version: 2.0.4.23
+home: https://duplicati.com/
+installMethod: MSI
+installers:
+- location: https://updates.duplicati.com/beta/duplicati-2.0.4.23_beta_2019-07-14-x64.msi
+  sha256: 3436c565dd9b58df96e867bd1198300c569aff75d4d9425090851c5cbb75e568
+  architecture: x64
