@@ -1,6 +1,6 @@
 id: nomacs
 name: nomacs - Image Lounge
-version: 3.8.0
+version: 3.12
 home: https://nomacs.org/
 installMethod: MSI
 installers:
