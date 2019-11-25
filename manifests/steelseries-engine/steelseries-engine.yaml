@@ -1,0 +1,7 @@
+id: steelseries-engine
+name: SteelSeries Engine
+version: 3.16.2
+home: https://steelseries.com/engine
+installMethod: NSIS
+installers:
+- location: https://steelseries.com/engine/latest/windows
