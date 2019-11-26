@@ -4,4 +4,4 @@ version: 1.12.2
 home: https://azure.microsoft.com/en-us/features/storage-explorer/
 installMethod: Inno
 installers:
-- location: https://go.microsoft.com/fwlink/?linkid=2105135
+- location: https://go.microsoft.com/fwlink/?LinkId=708343
