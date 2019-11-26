@@ -1,7 +1,6 @@
 id: cormanlisp
 name: Corman Lisp
 version: 3.1.2
-home: https://github.com/sharplispers/cormanlisp
 repo: https://github.com/sharplispers/cormanlisp/
 license: MIT License
 installMethod: MSI
