@@ -1,10 +1,10 @@
 id: terminus
 name: Terminus
-version: 1.0.94
+version: 1.0.95
 home: https://eugeny.github.io/terminus/
 repo: https://github.com/Eugeny/terminus/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/Eugeny/terminus/releases/download/v1.0.94/terminus-1.0.94-setup.exe
-  sha256: d25854bb5ddcbe766a3949c2f485af0dde6229a2c8a8f34ae4cb9ad27b0643d3
+- location: https://github.com/Eugeny/terminus/releases/download/v1.0.95/terminus-1.0.95-setup.exe
+  sha256: 066798eb5a1d0586bbd2e3b4032fc78537617926a79d351d6ac6691682a58d1b
