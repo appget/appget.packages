@@ -1,9 +1,9 @@
 id: thrive
 name: Thrive
-version: 1.1.0
+version: 1.1.1
 home: https://revolutionarygamesstudio.com/
 repo: https://github.com/Revolutionary-Games/Thrive-Launcher/
 installMethod: NSIS
 installers:
-- location: https://github.com/Revolutionary-Games/Thrive-Launcher/releases/download/1.1.0/Thrive.Launcher.Setup.1.1.0.exe
-  sha256: 37660c19210bdb113bbd23ed1876232767412b8bab79b5a3b28ee655cf72e14d
+- location: https://github.com/Revolutionary-Games/Thrive-Launcher/releases/download/1.1.1/Thrive.Launcher.Setup.1.1.1.exe
+  sha256: eaa1fdb969311ecb8562358896c53e4148ec08c0924cf34aa4d85aa546eecd4c

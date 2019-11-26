@@ -1,9 +1,9 @@
 id: imdisk
 name: ImDisk Toolkit
-version: 2019.9.24
+version: 2019.11.26
 home: https://imdisk-toolkit.sourceforge.io/
 installMethod: Custom
 installers:
-- location: https://downloads.sourceforge.net/project/imdisk-toolkit/20190924/ImDiskTk-x64.exe
-  sha256: 59487a301dabbe78f6feca39eb654ee6907b7b3a0049ec9a2f18f97be25aee59
+- location: https://downloads.sourceforge.net/project/imdisk-toolkit/20191126/ImDiskTk-x64.exe
+  sha256: 75edc1e0a789d8b05ca3afb550d5109ce1ceaa51012c772f5e7c220b703ce91f
   architecture: x64

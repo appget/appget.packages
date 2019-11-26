@@ -1,13 +1,13 @@
 id: polar-bookshelf
 name: Polar Bookshelf
-version: 1.50.10
+version: 1.60.11
 home: https://getpolarized.io/
 repo: https://github.com/burtonator/polar-bookshelf/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/burtonator/polar-bookshelf/releases/download/v1.50.10/polar-bookshelf-1.50.10-nsis-ia32.exe
-  sha256: 196a9600d6010d8b221c8ae2622a82636ea4ed429cd4db02e88a1b30ecc469ab
-- location: https://github.com/burtonator/polar-bookshelf/releases/download/v1.50.10/polar-bookshelf-1.50.10-nsis-x64.exe
-  sha256: ab8f1e3c7f303df79c1f1939f5727733bf665b6ff41100471657dcb2932bc3a0
+- location: https://github.com/burtonator/polar-bookshelf/releases/download/v1.60.11/polar-bookshelf-1.60.11-nsis-ia32.exe
+  sha256: 13f0df0e737cdad81ffbec73d05e4c5220a7142aba08a83de2cce9a0e82b55bf
+- location: https://github.com/burtonator/polar-bookshelf/releases/download/v1.60.11/polar-bookshelf-1.60.11-nsis-x64.exe
+  sha256: 2a4caa0dbdc82dff0240417f9df99f12806b57202dd2df1fd683208abee12d18
   architecture: x64
