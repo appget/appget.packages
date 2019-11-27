@@ -1,6 +1,6 @@
 id: r
 name: R for Windows
-version: 3.6.1
+version: 3.6.1.26782
 home: https://www.r-project.org/
 installMethod: Inno
 installers:
