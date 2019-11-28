@@ -1,8 +1,8 @@
 id: phpstorm
 name: PhpStorm
-version: 192.7142.51
+version: 193.5233.101
 home: https://www.jetbrains.com/phpstorm/
 installMethod: NSIS
 installers:
-- location: https://download.jetbrains.com/webide/PhpStorm-2019.2.5.exe
-  sha256: efd8256615986462b28d07e2842822da147cfdea6537fce3f5dfc25b7eef1c78
+- location: https://download.jetbrains.com/webide/PhpStorm-2019.3.exe
+  sha256: bea7a03e024ab0612e648d34e885e0470322365ce3276fe99ece2b2ff3a241a5
