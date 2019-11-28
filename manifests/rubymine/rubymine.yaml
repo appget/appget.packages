@@ -1,8 +1,8 @@
 id: rubymine
 name: RubyMine
-version: 192.7142.37
+version: 193.5233.108
 home: https://www.jetbrains.com/ruby/
 installMethod: NSIS
 installers:
-- location: https://download.jetbrains.com/ruby/RubyMine-2019.2.4.exe
-  sha256: fb10447eca6a0f2f2322e6c7277e438af40eace25fe6c7888d1b0a5115f2df47
+- location: https://download.jetbrains.com/ruby/RubyMine-2019.3.exe
+  sha256: 64c2e625e681a892d20018fd47576e8932d70081a21006de2306420f550815c1
