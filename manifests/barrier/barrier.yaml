@@ -1,0 +1,12 @@
+id: barrier
+name: Barrier
+version: 2.3.2-snapshot
+home: https://github.com/debauchee/barrier
+repo: https://github.com/debauchee/barrier/
+license: GNU General Public License v2.0
+installMethod: Inno
+installers:
+- location: https://github.com/debauchee/barrier/releases/download/v2.3.2/BarrierSetup-2.3.2.exe
+  sha256: a6a195c55c199b35c737d7494327b37da94ded4eb2592871d4ad747aa8baa39a
+  architecture: x64
+  minWindowsVersion: 6.1
