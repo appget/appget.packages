@@ -1,0 +1,11 @@
+id: equalizer-apo
+name: Equalizer APO
+version: 1.2.1
+home: https://equalizerapo.sourceforge.io/
+installMethod: NSIS
+installers:
+- location: https://downloads.sourceforge.net/project/equalizerapo/1.2.1/EqualizerAPO32-1.2.1.exe
+  sha256: f0bd8bf2d5c133989c48fd6c0d3503a98599c0955e4ef2317c099a6d4bcfdb20
+- location: https://downloads.sourceforge.net/project/equalizerapo/1.2.1/EqualizerAPO64-1.2.1.exe
+  sha256: bd0ac49633d02a387f906b5d4f47f9235d229470742d3433018245136756f583
+  architecture: x64
