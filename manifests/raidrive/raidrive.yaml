@@ -4,6 +4,5 @@ version: 2019.11.29
 home: https://www.raidrive.com/
 installMethod: AdvancedInstaller
 installers:
-- location: https://asset.raidrive.com/download/RaiDrive_2019.11.29.exe
+- location: https://asset.raidrive.com/download/RaiDrive_2019.11.29.exe?sp=r&amp;st=2019-11-29T08:51:58Z&amp;se=2019-12-02T16:51:58Z&amp;spr=https&amp;sv=2019-02-02&amp;sr=b&amp;sig=FnKDwgHSokklQSbVZI0V%2BZej1G1efK4alneP6iS1d0M%3D
   sha256: f1ed5cecaf38e8bb035d8f30e4ba4747d82a23d1efb492829238aa88f8012819
-  architecture: x64
