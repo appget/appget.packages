@@ -1,0 +1,10 @@
+id: onlykey-app
+name: Onlykey App
+version: 5.2.0
+home: https://docs.crp.to/app.html
+repo: https://github.com/trustcrypto/OnlyKey-App/
+installMethod: NSIS
+installers:
+- location: https://github.com/trustcrypto/OnlyKey-App/releases/download/v5.2.0/OnlyKey_5.2.0.exe
+  sha256: 71ae01f86995c1aadae947d447223f65540c0c5ebcd1319dd5e5f1e1907013c0
+  architecture: x64
