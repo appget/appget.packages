@@ -1,0 +1,6 @@
+id: windows-software-development-kit-windows
+name: Windows Software Development Kit - Windows
+version: 10.1.18362.1
+installMethod: Wix
+installers:
+- location: https://go.microsoft.com/fwlink/?linkid=2083338
