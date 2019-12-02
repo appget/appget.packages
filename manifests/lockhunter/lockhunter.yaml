@@ -1,7 +1,7 @@
 id: lockhunter
 name: LockHunter
-version: 3.2.3.126
+version: 3.3.4.139
 home: https://lockhunter.com/
 installMethod: Inno
 installers:
-- location: https://lockhunter.com/exe/lockhuntersetup_3-2-3.exe
+- location: https://lockhunter.com/exe/lockhuntersetup_3-3-4.exe
