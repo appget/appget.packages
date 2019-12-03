@@ -1,7 +1,7 @@
 id: kicad
 name: KiCad
 version: 5.1.5
-home: https://kicad-pcb.org/
+home: https://gitlab.com/kicad/code/kicad
 repo: https://github.com/KiCad/kicad-source-mirror/
 installMethod: NSIS
 installers:
