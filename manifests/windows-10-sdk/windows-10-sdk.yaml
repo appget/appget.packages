@@ -1,0 +1,7 @@
+id: windows-10-sdk
+name: Windows Software Development Kit - Windows 10
+version: 10.1.18362.1
+home: https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk
+installMethod: Wix
+installers:
+- location: https://go.microsoft.com/fwlink/?linkid=2083338
