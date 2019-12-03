@@ -1,0 +1,13 @@
+id: rclone-browser
+name: Rclone Browser
+version: 1.7.0
+home: https://github.com/kapitainsky/RcloneBrowser
+repo: https://github.com/kapitainsky/RcloneBrowser/
+license: MIT License
+installMethod: Inno
+installers:
+- location: https://github.com/kapitainsky/RcloneBrowser/releases/download/1.7.0/rclone-browser-1.7.0-f0dc81f-32-bit.exe
+  sha256: ceb90958d8bf4914cf99119e6268fe3467a0589c2ba734cb803a1740632f3d67
+- location: https://github.com/kapitainsky/RcloneBrowser/releases/download/1.7.0/rclone-browser-1.7.0-f0dc81f-64-bit.exe
+  sha256: c0d12d85fae623dbb5d8ea37ab50b69ab405a56e387e7a442db5ea77ed07191c
+  architecture: x64
