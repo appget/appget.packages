@@ -1,0 +1,11 @@
+id: mpv.net
+name: mpv.net
+version: 5.4.4.0
+home: https://github.com/stax76/mpv.net
+installMethod: Inno
+installers:
+- location: https://github.com/stax76/mpv.net/releases/download/5.4.4.0/mpv.net-setup-x64-5.4.4.0.exe
+  sha256: 013106590c9c63b950384621fe5d6fce2d2a7d709e8f2e192b755a18bb4acaba
+- location: https://github.com/stax76/mpv.net/releases/download/5.4.4.0/mpv.net-setup-x86-5.4.4.0.exe
+  sha256: e7ae42b7a3e2247a92445f346c217f98f105707f14d9b0839e14cf3d961a6671
+  architecture: x64
