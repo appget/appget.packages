@@ -1,5 +1,5 @@
 id: windows-10-sdk
-name: Windows Software Development Kit - Windows 10
+name: Windows Software Development Kit - Windows
 version: 10.1.18362.1
 home: https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk
 installMethod: Wix
