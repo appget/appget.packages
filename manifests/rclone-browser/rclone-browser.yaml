@@ -1,7 +1,6 @@
 id: rclone-browser
 name: Rclone Browser
 version: 1.7.0
-home: https://github.com/kapitainsky/RcloneBrowser
 repo: https://github.com/kapitainsky/RcloneBrowser/
 license: MIT License
 installMethod: Inno
