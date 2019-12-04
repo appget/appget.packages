@@ -1,6 +1,6 @@
 id: zotero
 name: Zotero
-version: 5.0.79
+version: 5.0.80
 home: https://www.zotero.org/
 installMethod: Custom
 args:
