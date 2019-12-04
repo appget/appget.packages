@@ -1,9 +1,9 @@
 id: pomodoro-logger
 name: Pomodoro Logger
-version: 0.2.1
+version: 0.2.2
 repo: https://github.com/zxch3n/PomodoroLogger/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/zxch3n/PomodoroLogger/releases/download/v0.2.1/Pomodoro-Logger-Setup-0.2.1.exe
-  sha256: 8a6f722c0862d877160d19fec7fd58cecc327d8e5712b32b293c76b8d7ef7d5d
+- location: https://github.com/zxch3n/PomodoroLogger/releases/download/v0.2.2/Pomodoro-Logger-Setup-0.2.2.exe
+  sha256: 6424e2919277cf913d067be1d054aab6dc15f7d007bc722b4547aca20924a2e7
