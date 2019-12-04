@@ -1,8 +1,9 @@
 id: playnite
 name: Playnite
-version: 6.3
+version: 6.4
 home: https://playnite.link/
 installMethod: Inno
 installers:
-- location: https://playnite.link/update/stable/6.3/Playnite63.exe
-  sha256: 04877c740cfcff084d70ac52fe258cfe7a09fa0aaadd0ab1175db7757f9912e3
+- location: https://playnite.link/update/stable/6.4/Playnite64.exe
+  sha256: 6c809f2760961a67e1fb0560ab4a75307ae66b67ea0b6651c33beaade01786f4
+  architecture: x64
