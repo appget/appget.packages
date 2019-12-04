@@ -1,10 +1,10 @@
 id: particl-desktop
 name: particl-desktop
-version: 2.3.0
+version: 2.3.1
 home: https://particl.io/
 repo: https://github.com/particl/particl-desktop/
 license: GNU General Public License v2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/particl/particl-desktop/releases/download/v2.3.0/particl-desktop-2.3.0-win.exe
-  sha256: 2d1192acbc33165c9feff2e55df09580a20b613d48c3ea8c06b49106d4d09787
+- location: https://github.com/particl/particl-desktop/releases/download/v2.3.1/particl-desktop-2.3.1-win.exe
+  sha256: 93a390347873f8cc9f6469d11d77491006dbcfe73f3434076a2310e773028881
