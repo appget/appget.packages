@@ -1,10 +1,10 @@
 id: buttercup
 name: Buttercup
-version: 1.18.0
+version: 1.18.1
 home: https://buttercup.pw/
 repo: https://github.com/buttercup/buttercup-desktop/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/buttercup/buttercup-desktop/releases/download/v1.18.0/Buttercup-Setup-1.18.0.exe
-  sha256: 8125cfbe8b0f6f603ada53d2d9842136e90b859be411812332d660b4be6ab833
+- location: https://github.com/buttercup/buttercup-desktop/releases/download/v1.18.1/Buttercup-Setup-1.18.1.exe
+  sha256: 109ebac9d93ceac7a3c336175ec72ce8cd51cbadb0582c74e88eceb8d11714eb
