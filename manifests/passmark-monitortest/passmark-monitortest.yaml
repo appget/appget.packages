@@ -1,6 +1,6 @@
 id: passmark-monitortest
 name: PassMark MonitorTest
-version: 4.0.1000
+version: 4.0.1001
 home: https://www.passmark.com/products/monitortest.htm
 installMethod: Inno
 installers:
