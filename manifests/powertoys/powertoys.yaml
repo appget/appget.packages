@@ -7,3 +7,4 @@ installers:
 - location: https://github.com/microsoft/PowerToys/releases/download/v0.14.1/PowerToysSetup-0.14.1.msi
   sha256: d2d3d646541548e15ee11642747086ca74653cf17847f9bebcae250cd9cee18d
   architecture: x64
+  minWindowsVersion: 10.0
