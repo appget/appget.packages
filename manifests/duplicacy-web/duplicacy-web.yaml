@@ -1,0 +1,9 @@
+id: duplicacy-web
+name: Duplicacy (Web Edition)
+version: 1.1.0
+home: https://acrosync.com/
+installMethod: NSIS
+installers:
+- location: https://acrosync.com/duplicacy-web/duplicacy_web_installer_win64_1.1.0.exe
+  sha256: 013a838daf448c17381d45baebcbbffa027391106eef4be5c23dcdc7de624975
+  architecture: x64
