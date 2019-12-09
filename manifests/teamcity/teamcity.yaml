@@ -1,8 +1,8 @@
 id: teamcity
 name: TeamCity
-version: 2019.1.65998
+version: 2019.2.71499
 home: https://www.jetbrains.com/teamcity/
 installMethod: NSIS
 installers:
-- location: https://download.jetbrains.com/teamcity/TeamCity-2019.1.exe
-  sha256: d39d734d4af302344dc1826c8c1506ff64be67076329a0e33c00721db4e3418f
+- location: https://download.jetbrains.com/teamcity/TeamCity-2019.2.exe
+  sha256: 1b52dec5332b75532ff84f4cfeb13b344092a57c0d02ff0a69a1d52a62c17261
