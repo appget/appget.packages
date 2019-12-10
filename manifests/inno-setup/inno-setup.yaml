@@ -1,8 +1,8 @@
 id: inno-setup
 name: Inno Setup
 version: 6.0.3
-home: http://www.jrsoftware.org/isinfo.php
+home: https://www.jrsoftware.org/isinfo.php
 repo: https://github.com/jrsoftware/issrc/
 installMethod: Inno
 installers:
-- location: http://www.jrsoftware.org/download.php/is.exe
+- location: https://www.jrsoftware.org/download.php/is.exe
