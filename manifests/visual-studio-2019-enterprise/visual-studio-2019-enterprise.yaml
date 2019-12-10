@@ -7,4 +7,4 @@ args:
   silent: --quiet --norestart
 installers:
 - location: https://aka.ms/vs/16/release/vs_enterprise.exe
-  sha256: 7b46e9643f42fb0abfba0b23e23dee33b5f713a5bc22921fadfaa0abb531a429
+  sha256: 3b32b40c55f8a0a2169592e2a106ca7cd2e7dc680bf1545d7a2252025fa491a4
