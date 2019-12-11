@@ -1,8 +1,7 @@
-id: absolute-uninstaller
-name: Glary Utilities 5
+id: glary-utilities
+name: Glary Utilities
 version: 5.132
 home: https://www.glarysoft.com/glary-utilities/
 installMethod: NSIS
 installers:
 - location: https://download.glarysoft.com/gu5setup.exe
-  minWindowsVersion: 6.1
