@@ -3,6 +3,8 @@ name: BiglyBT
 version: 2.1.0
 home: https://www.biglybt.com/
 installMethod: Custom
+args:
+  silent: -q
 installers:
 - location: https://files.biglybt.com/installer/BiglyBT_Installer32.exe
 - location: https://files.biglybt.com/installer/BiglyBT_Installer64.exe
