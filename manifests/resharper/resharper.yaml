@@ -1,11 +1,11 @@
 id: resharper
 name: ReSharper
-version: 2019.2.3
+version: 2019.3
 home: https://jetbrains.com/resharper
 installMethod: Custom
 args:
   silent: /SpecificProductNames=ReSharper /Silent=True /VsVersion=15.0;14.0;12.0;11.0;10.0
   log: /LogFile={path}
 installers:
-- location: https://download.jetbrains.com/resharper/ReSharperUltimate.2019.2.3/JetBrains.ReSharperUltimate.2019.2.3.exe
-  sha256: b1538d026ba3505c74f409ffe002dae1b7b3ffd526c91ca8d527f25bc8dacfdc
+- location: https://download.jetbrains.com/resharper/ReSharperUltimate.2019.3/JetBrains.ReSharperUltimate.2019.3.exe
+  sha256: 62d4921b855f721f07ed40a54207727b648a00fecdf3fbe78d739f1b3242e058
