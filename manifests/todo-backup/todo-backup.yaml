@@ -1,6 +1,6 @@
 id: todo-backup
 name: EaseUS Todo Backup Free
-version: 11.5
+version: 12.0
 home: https://www.easeus.com/backup-software/tb-free.html
 installMethod: Inno
 installers:
