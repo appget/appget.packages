@@ -1,0 +1,9 @@
+id: duplicacy
+name: Duplicacy
+version: 1.7
+home: https://acrosync.com/
+installMethod: NSIS
+installers:
+- location: https://acrosync.com/win32/acrosync_installer_win64_1.7_611.exe
+  sha256: 73e0d7f54fe2c5922a75f787450f8b87b57e897c3e3ec85ddfa0ccd45138db1e
+  architecture: x64
