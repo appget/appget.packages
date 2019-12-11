@@ -1,7 +1,7 @@
 id: duplicacy
 name: Duplicacy
 version: 1.7
-home: https://acrosync.com/
+home: https://acrosync.com/windows.html
 installMethod: NSIS
 installers:
 - location: https://acrosync.com/win32/acrosync_installer_win64_1.7_611.exe
