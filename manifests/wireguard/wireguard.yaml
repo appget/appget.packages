@@ -1,0 +1,11 @@
+id: wireguard
+name: WireGuard
+version: 0.0.35
+home: https://www.wireguard.com/
+installMethod: MSI
+installers:
+- location: https://download.wireguard.com/windows-client/wireguard-x86-0.0.35.msi
+  sha256: 557c3fcc16468dbe126f3b443b31a5fb55ebf027f95739e9416ec9f8af8a0109
+- location: https://download.wireguard.com/windows-client/wireguard-amd64-0.0.35.msi
+  sha256: 929e93625641e4585076fde6d11fe2f376704f6f5bb7db557d2327f6378192b0
+  architecture: x64
