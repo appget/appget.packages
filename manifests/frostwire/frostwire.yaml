@@ -1,9 +1,9 @@
 id: frostwire
 name: FrostWire
-version: 6.8.3.289
+version: 6.8.3.291
 home: https://www.frostwire.com/
 repo: https://github.com/frostwire/frostwire/
 installMethod: NSIS
 installers:
-- location: https://github.com/frostwire/frostwire/releases/download/frostwire-desktop-6.8.3-build-289/frostwire-6.8.3.windows.github.exe
-  sha256: e71c92536e8fade0d572c077e135724a55afc6f240be15451476b5892aa5ccf5
+- location: https://github.com/frostwire/frostwire/releases/download/frostwire-desktop-6.8.3-build-291/frostwire-6.8.3.windows.github.exe
+  sha256: 1b283c83da922f6e4b871110962fd37251841cfdfa861b93e34a332f71bb4ceb
