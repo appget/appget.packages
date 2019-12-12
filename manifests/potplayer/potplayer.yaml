@@ -1,6 +1,6 @@
 id: potplayer
 name: PotPlayer
-version: 1.7.21091
+version: 1.7.21093
 home: https://potplayer.daum.net/
 installMethod: NSIS
 installers:
