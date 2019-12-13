@@ -1,6 +1,6 @@
 id: myki
 name: Myki
-version: 1.2.3
+version: 1.2.4
 home: https://myki.com/
 installMethod: Squirrel
 installers:
