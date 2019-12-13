@@ -1,6 +1,6 @@
 id: tutanota-desktop
 name: Tutanota Desktop
-version: 3.64.2.698
+version: 3.66.2.729
 home: https://tutanota.com/
 installMethod: NSIS
 installers:
