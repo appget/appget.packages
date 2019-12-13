@@ -1,12 +1,12 @@
 id: unbound
 name: Unbound DNS resolver
-version: 1.9.5
+version: 1.9.6
 home: https://nlnetlabs.nl/projects/unbound/about/
 license: BSD 3-Clause "New" or "Revised" License
 installMethod: NSIS
 installers:
-- location: https://nlnetlabs.nl/downloads/unbound/unbound_setup_1.9.5-w32.exe
-  sha256: 9362fffe9c1a07c048048a6fd28b69b51f5cc05d3c4e635e89bfa24baaf93afc
-- location: https://nlnetlabs.nl/downloads/unbound/unbound_setup_1.9.5.exe
-  sha256: b1d67c92518fefefd100fed7704b53055fb710e514cb6077f9e75c41b37b99a3
+- location: https://nlnetlabs.nl/downloads/unbound/unbound_setup_1.9.6-w32.exe
+  sha256: 7c263e84679b536431e4bc828440127be1524f86a47c9cd07db982b6719e0506
+- location: https://nlnetlabs.nl/downloads/unbound/unbound_setup_1.9.6.exe
+  sha256: ebf1f526faa90f5190db5f8fd3e1249ba952778cbb7c2f641e4a8cfb6210c286
   architecture: x64
