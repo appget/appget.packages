@@ -4,5 +4,5 @@ version: 3.8.7
 home: https://clipgrab.org/
 installMethod: Inno
 installers:
-- location: https://download.clipgrab.org/clipgrab-3.8.7-cgorg.exe
-  sha256: 9b9787bcef2ef1c4c9f65faa62b6a7d091943c87e93082a54fc2419ba9d47afa
+- location: https://download.clipgrab.org/clipgrab-3.8.7-portable.exe
+  sha256: 7c5cb300aa9815402f23f53c44a47b2705542ad5fc579845c2626b6a13f6c626
