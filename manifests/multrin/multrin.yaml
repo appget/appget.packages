@@ -1,9 +1,9 @@
 id: multrin
 name: Multrin
-version: 1.1.0
+version: 1.1.1
 repo: https://github.com/sentialx/multrin/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/sentialx/multrin/releases/download/v1.1.0/Multrin-Setup-1.1.0.exe
-  sha256: 6cbb3f29af4d04a05eed92ccd2e5142e665a88da278d02191d47acaf2f061ef5
+- location: https://github.com/sentialx/multrin/releases/download/v1.1.1/Multrin-Setup-1.1.1.exe
+  sha256: 3eeddabd747aefe36defd25a01afb857efedfbacb48026660a734246800a6ebc
