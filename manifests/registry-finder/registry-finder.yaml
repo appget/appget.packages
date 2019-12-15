@@ -1,8 +1,8 @@
 id: registry-finder
 name: Registry Finder
-version: 2.39.0
+version: 2.40.0
 home: http://registry-finder.com/
 installMethod: Inno
 installers:
-- location: http://registry-finder.com/bin/2.39.0.0/RegistryFinderSetup2.39.exe
-  sha256: 3ce8501ddc8c28bb39295eb350a39d0362a5fd2313cb302b02099c4f6ad86860
+- location: http://registry-finder.com/bin/2.40.0.0/RegistryFinderSetup2.40.exe
+  sha256: 6ac13b0260d3697f566a9abd35fb8a58ba0a8dc79e1d02842b32db49e7856eeb
