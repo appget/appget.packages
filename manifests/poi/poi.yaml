@@ -1,7 +1,7 @@
 id: poi
 name: poi
 version: 10.4.0.20191201.1
-home: https://poi.moe/
+home: https://poi.io/
 repo: https://github.com/poooi/poi/
 license: MIT License
 installMethod: NSIS
