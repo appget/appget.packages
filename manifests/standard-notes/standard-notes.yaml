@@ -1,9 +1,9 @@
 id: standard-notes
 name: Standard Notes
-version: 3.0.23
+version: 3.0.24
 repo: https://github.com/standardnotes/desktop/
 license: GNU Affero General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/standardnotes/desktop/releases/download/v3.0.23/Standard-Notes-Setup-3.0.23.exe
-  sha256: b9d59d35c1de864808fb3fc912cb878ce79870651e9f70ab0f129a5392738672
+- location: https://github.com/standardnotes/desktop/releases/download/v3.0.24/Standard-Notes-Setup-3.0.24.exe
+  sha256: 2c83f2431dc73d1208ed4011af349dd10999ff91489c83f89ec1f8118e968010
