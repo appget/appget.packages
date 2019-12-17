@@ -4,4 +4,4 @@ version: 3.3.4.139
 home: https://lockhunter.com/
 installMethod: Inno
 installers:
-- location: https://lockhunter.com/exe/lockhuntersetup_3-3-4.exe
+- location: https://lockhunter.com/assets/exe/lockhuntersetup_3-3-4.exe
