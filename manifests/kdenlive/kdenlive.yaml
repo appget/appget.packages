@@ -5,4 +5,4 @@ home: https://kdenlive.org/
 installMethod: NSIS
 installers:
 - location: https://files.kde.org/kdenlive/release/kdenlive-19.08.3.exe
-  sha256: 035DCA88D565DEEF2CF5613C63A4B8A8AEDC5559AC03AB070C5CDB4CF59F8576
+  sha256: 035dca88d565deef2cf5613c63a4b8a8aedc5559ac03ab070c5cdb4cf59f8576
