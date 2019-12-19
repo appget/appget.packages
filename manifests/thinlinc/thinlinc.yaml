@@ -1,8 +1,8 @@
 id: thinlinc
 name: ThinLinc
-version: 4.10.1
+version: 4.11.0
 home: https://www.cendio.com/
 installMethod: NSIS
 installers:
-- location: https://www.cendio.com/downloads/clients/tl-4.10.1-client-windows.exe
-  sha256: 6cedf202a15ab66a9adadad1f9e2f387a037e33e6894f69c7ec92d4646f47098
+- location: https://www.cendio.com/downloads/clients/tl-4.11.0-client-windows.exe
+  sha256: 77b8ccce77dd92f6737064853e3fff84de76635fb8313af9bc4bd7b8ad61cb16
