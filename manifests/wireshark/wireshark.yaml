@@ -1,12 +1,12 @@
 id: wireshark
 name: Wireshark
-version: 3.1.1
+version: 3.2.0
 home: https://www.wireshark.org/
 repo: https://github.com/wireshark/wireshark/
 installMethod: NSIS
 installers:
-- location: https://1.na.dl.wireshark.org/win32/Wireshark-win32-3.1.1.exe
-  sha256: bd11c4bb1886d0e1cf8ff8fbeb2b92a91ccff9017aa0b99d2c1bd08ad8904d43
-- location: https://1.na.dl.wireshark.org/win64/Wireshark-win64-3.1.1.exe
-  sha256: a1cd4f38503c562a59e10787118e9783197bcac223c29fae7239545a12f25a1f
+- location: https://1.na.dl.wireshark.org/win32/Wireshark-win32-3.2.0.exe
+  sha256: a2e8a26ea751477fd3b26ddc755e27be1c91746ef115324f4c51c0b009e46740
+- location: https://1.na.dl.wireshark.org/win64/Wireshark-win64-3.2.0.exe
+  sha256: 373af8674889b446412fb4c34f9b0299c66724086343238ea2b3a99e9e8d80d7
   architecture: x64
