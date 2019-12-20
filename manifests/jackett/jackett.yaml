@@ -1,6 +1,7 @@
 id: jackett
 name: Jackett
 version: 0.12.1301.0
+home: https://github.com/Jackett/Jackett
 repo: https://github.com/Jackett/Jackett/
 license: GNU General Public License v2.0
 installMethod: Inno
