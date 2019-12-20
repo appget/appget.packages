@@ -1,10 +1,10 @@
 id: webcatalog
 name: WebCatalog
-version: 18.2.0
+version: 18.3.0
 home: https://getwebcatalog.com/
 repo: https://github.com/quanglam2807/webcatalog/
 license: Mozilla Public License 2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/quanglam2807/webcatalog/releases/download/v18.2.0/WebCatalog-Setup-18.2.0.exe
-  sha256: 81c1fba5dbc687798f880b82e056612513c0c99c1a6732023023955f85570a2a
+- location: https://github.com/quanglam2807/webcatalog/releases/download/v18.3.0/WebCatalog-Setup-18.3.0.exe
+  sha256: 28dc84e4ce8a961df7ddeca33212fa73b722c7a6a8f19ebfee14feb76bda161d
