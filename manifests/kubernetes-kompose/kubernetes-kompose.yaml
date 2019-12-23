@@ -1,11 +1,11 @@
 id: kubernetes-kompose
 name: Kubernetes Kompose
-version: 1.19.0
+version: 1.20.0
 home: https://kompose.io/
 repo: https://github.com/kubernetes/kompose/
 license: Apache License 2.0
 installMethod: Custom
 installers:
-- location: https://github.com/kubernetes/kompose/releases/download/v1.19.0/kompose-windows-amd64.exe
-  sha256: 5752161a0c5ff6fdaca31bdec80cba8f8cbd3698ed46f90e1b888b8f8774d1b1
+- location: https://github.com/kubernetes/kompose/releases/download/v1.20.0/kompose-windows-amd64.exe
+  sha256: b62c28ffb79ab2c42e0ab7da74824b1aa43dc97e775198c9e744fd89a3cd2b84
   architecture: x64
