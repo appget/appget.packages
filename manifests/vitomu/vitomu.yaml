@@ -2,7 +2,7 @@ id: vitomu
 name: Vitomu
 version: 1.2.0.1
 home: https://www.digimezzo.com/software/vitomu/
-repo: https://github.com/digimezzo/Vitomu/
+repo: https://github.com/digimezzo/vitomu/
 license: GNU General Public License v3.0
 installMethod: MSI
 installers:
