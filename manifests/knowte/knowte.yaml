@@ -1,10 +1,10 @@
 id: knowte
 name: Knowte
-version: 1.1.7
+version: 2.0.2
 home: https://www.digimezzo.com/software/knowte-2/
 repo: https://github.com/digimezzo/knowte/
 license: GNU General Public License v3.0
-installMethod: MSI
+installMethod: NSIS
 installers:
-- location: https://www.digimezzo.com/content/software/knowte/Knowte 1.1.7.0.msi
-  sha256: 8d868070604f9d31c5eccecfc2f927c945816381b4ceba796a5f3df8dd1c7b5d
+- location: https://github.com/digimezzo/knowte/releases/download/v2.0.2/Knowte.Setup.2.0.2.exe
+  sha256: 45e83c384b8882c2ae27e69c1d4a41c9a5e7aac725c5e9c431b82654456eef08
