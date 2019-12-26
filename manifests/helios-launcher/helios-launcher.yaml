@@ -1,0 +1,8 @@
+id: helios-launcher
+name: Helios Launcher
+version: 1.7.0.299
+repo: https://github.com/dscalzi/HeliosLauncher/
+installMethod: NSIS
+installers:
+- location: https://github.com/dscalzi/HeliosLauncher/releases/download/v1.7.0/Helios-Launcher.exe
+  sha256: 3f4cd5cf38bdb30e08cb36ed539aeffc3e77321dbf8ab1e94f71c5f3a7b73b62
