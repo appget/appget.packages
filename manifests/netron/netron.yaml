@@ -1,10 +1,10 @@
 id: netron
 name: Netron
-version: 3.7.0
+version: 3.7.1
 home: https://www.lutzroeder.com/ai
 repo: https://github.com/lutzroeder/netron/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/lutzroeder/netron/releases/download/v3.7.0/Netron-Setup-3.7.0.exe
-  sha256: 1c115a6117a4097778cf5f2df158d89d9977d2a7b5aa2cd1cdc604b268d15bdd
+- location: https://github.com/lutzroeder/netron/releases/download/v3.7.1/Netron-Setup-3.7.1.exe
+  sha256: 63b1a65c14190aac0d89c89d7646d4c1e8c8d0a57c95e39c9b574398c3f563bb
