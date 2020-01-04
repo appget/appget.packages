@@ -1,13 +1,9 @@
 id: winrar
 name: WinRAR
-version: 5.80.0
+version: 5.80.2
 home: https://www.rarlab.com/
 installMethod: Custom
-args:
-  silent: /S
 installers:
-- location: https://www.rarlab.com/rar/wrar580.exe
-  sha256: c6abfdbaa4958a6d3f01f92a9bd0c675ab985340b5fbf3d1e2dd0ae9dcff8491
-- location: https://www.rarlab.com/rar/winrar-x64-580.exe
-  sha256: f94e7e695398e6148da03c06ad4452b8875aab117acc80cdd373a0b75cafe488
+- location: https://www.rarlab.com/rar/winrar-x64-580br.exe
   architecture: x64
+  minWindowsVersion: 10.0
