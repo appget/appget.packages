@@ -1,12 +1,12 @@
 id: supertuxkart
 name: SuperTuxKart
-version: 1.0
+version: 1.1.0
 home: https://supertuxkart.net/
 repo: https://sourceforge.net/projects/supertuxkart/
 installMethod: NSIS
 installers:
-- location: https://downloads.sourceforge.net/project/supertuxkart/SuperTuxKart/1.0/SuperTuxKart 1.0 installer-32bit.exe
-  sha256: 9ba70c28bd024cdbb49062eef98543917272289953a7f3c17ed362f75b2dfa1d
-- location: https://downloads.sourceforge.net/project/supertuxkart/SuperTuxKart/1.0/SuperTuxKart 1.0 installer-64bit.exe
-  sha256: 194776863e2418d2ff70f4b13b16811f7d360fc9424d9e5f16bcca1a83798bda
+- location: https://downloads.sourceforge.net/project/supertuxkart/SuperTuxKart/1.1/SuperTuxKart 1.1.0 installer-32bit.exe
+  sha256: a5a6d667663ed9772ab29261983bca42c52f0b86ab09c974d3868250288f6a4a
+- location: https://downloads.sourceforge.net/project/supertuxkart/SuperTuxKart/1.1/SuperTuxKart 1.1.0 installer-64bit.exe
+  sha256: 8fc8b765d00d95de3e5c467b73e03ce55e7e20285a7b8f86f2e4edfc5fff4ac6
   architecture: x64
