@@ -1,9 +1,9 @@
 id: handbrake
 name: HandBrake
-version: 1.3.0
+version: 1.3.1
 home: https://handbrake.fr/
 installMethod: NSIS
 installers:
-- location: https://download.handbrake.fr/releases/1.3.0/HandBrake-1.3.0-x86_64-Win_GUI.exe
-  sha256: 389ea825d7f5ff63d7af68daa701c25eee8126732e176686a6c065dad1334df4
+- location: https://download.handbrake.fr/releases/1.3.1/HandBrake-1.3.1-x86_64-Win_GUI.exe
+  sha256: 2f31591fd581240b466e32e27953afa34bf8ed86ef0767e2291956955691a4c3
   architecture: x64
