@@ -1,0 +1,9 @@
+id: mimiostudio-12-3
+name: MimioStudio
+version: 12.3.0000
+home: https://mimio.boxlight.com
+installMethod: Custom
+installers:
+- location: https://mimiostudio12.s3.amazonaws.com/MimioStudioSetup_12.3_en.exe
+  sha256: ffed0d8dbb66fda7538c297a932eb04dbcc43f3fe9260e213df9f5780a1c493b
+  architecture: x64
