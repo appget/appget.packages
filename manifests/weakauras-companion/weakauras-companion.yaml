@@ -1,10 +1,10 @@
 id: weakauras-companion
 name: WeakAuras Companion
-version: 2.0
+version: 2.0.1
 home: https://weakauras.wtf/
 repo: https://github.com/WeakAuras/WeakAuras-Companion/
 license: GNU General Public License v2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/WeakAuras/WeakAuras-Companion/releases/download/v2.0.0/WeakAuras-Companion-Setup-2.0.0.exe
-  sha256: 46668e92fccb4cadeb95ca255c4874419578acb7333897a7271cd8f144032bdf
+- location: https://github.com/WeakAuras/WeakAuras-Companion/releases/download/v2.0.1/WeakAuras-Companion-Setup-2.0.1.exe
+  sha256: 6b778936a402d96af2513354b28a3a6900133d5a1e0836a7152cf9a302bf5fb7
