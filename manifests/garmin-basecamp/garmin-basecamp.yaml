@@ -1,0 +1,8 @@
+id: garmin-basecamp
+name: Garmin BaseCamp
+version: 4.7.1.0
+home: https://garmin.com/
+installMethod: Wix
+installers:
+- location: https://download.garmin.com/software/BaseCamp_471.exe
+  sha256: d7f50a48b81f9678fed236834989c6fe36d9d74549ea1879b69c9f55658d94bb
