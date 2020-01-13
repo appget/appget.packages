@@ -5,8 +5,6 @@ home: https://www.chiark.greenend.org.uk/~sgtatham/putty/
 license: MIT
 installMethod: MSI
 installers:
-- location: https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.73-installer.msi
-  sha256: 6b3200d2ff2e5cf0cf5f8056bea5f271d8ba202d4057fac6fe65704475c267a0
 - location: https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.73-installer.msi
   sha256: 31d001504b56e47d7e90b39a6fde6acf949e8c59d4717abac35eef0b932f89d7
   architecture: x64
