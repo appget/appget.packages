@@ -1,13 +1,13 @@
 id: qview
 name: qView
-version: 2.0
+version: 3.0
 home: https://interversehq.com/qview/
 repo: https://github.com/jurplel/qView/
 license: GNU General Public License v3.0
 installMethod: Inno
 installers:
-- location: https://github.com/jurplel/qView/releases/download/2.0/qView-2.0-win32.exe
-  sha256: d2a8be738c44b92bf089a074a75daec6318ae598ad9bb782f89df32ef2046cf0
-- location: https://github.com/jurplel/qView/releases/download/2.0/qView-2.0-win64.exe
-  sha256: 3427d71b4b2f6b4d286c5ea78a19d911399349890cb413e14d20f0cccf4f35a2
+- location: https://github.com/jurplel/qView/releases/download/3.0/qView-3.0-win32.exe
+  sha256: 3743492cf2703811fd27c52e70e190914570ff70f5d5a78481929df74e742da4
+- location: https://github.com/jurplel/qView/releases/download/3.0/qView-3.0-win64.exe
+  sha256: 2c181962e7ea478178e5674b2db873b7dffc05d64b68edc1aac4a18d473456b8
   architecture: x64
