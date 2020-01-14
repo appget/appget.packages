@@ -1,0 +1,10 @@
+id: colorpicker
+name: Colorpicker
+version: 2.0.3
+home: https://colorpicker.crea-th.at/
+repo: https://github.com/Toinane/colorpicker/
+license: GNU General Public License v3.0
+installMethod: NSIS
+installers:
+- location: https://github.com/Toinane/colorpicker/releases/download/2.0.3/colorpicker_setup_2.0.3.exe
+  sha256: ea138d1b98b6237cce27e20ffd9dbc82fc52a15ff519c0ff5f9addf1888ebf99
