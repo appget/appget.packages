@@ -12,5 +12,5 @@ installers:
 - location: https://download.documentfoundation.org/libreoffice/stable/6.3.4/win/x86/LibreOffice_6.3.4_Win_x86.msi
   sha256: 95b6cb71df651646629266cf1be376fe938a6ecec8d141c61e403e3053047ff5
 - location: https://download.documentfoundation.org/libreoffice/stable/6.3.4/win/x86_64/LibreOffice_6.3.4_Win_x64.msi
-  sha256: 94b2b86b5688685233479d594e5760ce24d5b9a00e33058f4b86dffd08b54574
+  sha256: 6655547ff28d77c626d47515242b42d2a847608634bd2122b336f964bcb2ca6e
   architecture: x64
