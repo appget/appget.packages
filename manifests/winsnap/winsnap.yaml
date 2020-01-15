@@ -4,5 +4,5 @@ version: 5.1.7
 home: https://www.ntwind.com/software/winsnap.html
 installMethod: NSIS
 installers:
-- location: https://www.ntwind.com/download/WinSnap_5.1.6-setup.exe
+- location: https://www.ntwind.com/download/WinSnap_5.1.7-setup.exe
   sha256: 45ed7853dab311c1fb7c9cca3186a41494c253326216c94711b13c36286b8cf8
