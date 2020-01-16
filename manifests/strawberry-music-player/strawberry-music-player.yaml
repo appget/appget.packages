@@ -1,11 +1,11 @@
 id: strawberry-music-player
 name: Strawberry Music Player
-version: 0.6.8
+version: 0.6.8.11
 home: https://www.strawberrymusicplayer.org/
 installMethod: NSIS
 installers:
-- location: https://files.jkvinge.net/packages/strawberry/StrawberrySetup-0.6.8-x86.exe
-  sha256: 4d92b486ab846a932a7551ad5bc7a8e4239cf880ceaebad61d97b2336e1e7424
-- location: https://files.jkvinge.net/packages/strawberry/StrawberrySetup-0.6.8-x64.exe
-  sha256: 857d57141bae630370907fe73a261b2e27c25be104da4d516daa39c8eb545e6a
+- location: https://files.jkvinge.net/packages/strawberry/StrawberrySetup-0.6.8.11.g3791d11-x86.exe
+  sha256: 8d9361088311fe6fde48ad6955ecefc968a731f706a94f57d04a43f9402b3e2a
+- location: https://files.jkvinge.net/packages/strawberry/StrawberrySetup-0.6.8.11.g3791d11-x64.exe
+  sha256: 8dc585f5125578291932889ac4e1b8fec8d937bc30ecdfa9cc1525a44e242d9a
   architecture: x64
