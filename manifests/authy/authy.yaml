@@ -1,9 +1,10 @@
 id: authy
 name: Authy Desktop
-version: 1.7.2
-home: https://authy.com/
-installMethod: Squirrel
+version: 3.18.0.4162
+home: https://cozy-labs.github.io/cozy-desktop/
+repo: https://github.com/cozy-labs/cozy-desktop/
+license: GNU Affero General Public License v3.0
+installMethod: NSIS
 installers:
-- location: https://electron.authy.com/download?channel=stable&arch=x32&platform=win32&version=latest&product=authy
-- location: https://electron.authy.com/download?channel=stable&arch=x64&platform=win32&version=latest&product=authy
-  architecture: x64
+- location: https://github.com/cozy-labs/cozy-desktop/releases/download/v3.18.0/Cozy-Drive-Setup-3.18.0.exe
+  sha256: a621fc4bad75e81c2725fa012f944fb9746d9606670b127aa4293428bf87370f
