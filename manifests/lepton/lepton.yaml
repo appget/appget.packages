@@ -1,9 +1,9 @@
 id: lepton
 name: Lepton
-version: 1.8.1
+version: 1.8.2
 home: https://hackjutsu.com/Lepton
 repo: https://github.com/hackjutsu/Lepton/
 installMethod: NSIS
 installers:
-- location: https://github.com/hackjutsu/Lepton/releases/download/v1.8.1/Lepton-Setup-1.8.1.exe
-  sha256: ec10596f22523f15feed3ca0ab17bab7178cac98b9d0eb462592db755c40acd9
+- location: https://github.com/hackjutsu/Lepton/releases/download/v1.8.2/Lepton-Setup-1.8.2.exe
+  sha256: d424efc682cbf402597b395ec299c3c4e2eab0189fedf63f8c38ef44f21e23e1
