@@ -1,10 +1,10 @@
 id: signal
 name: Signal
-version: 1.29.4
+version: 1.29.6
 home: https://signal.org/download
 repo: https://github.com/signalapp/Signal-Desktop/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://updates.signal.org/desktop/signal-desktop-win-1.29.4.exe
-  sha256: a40937274c81a38b6bf84db1c0037e2bf37f66fd027280d8b94916a6fc906459
+- location: https://updates.signal.org/desktop/signal-desktop-win-1.29.6.exe
+  sha256: f068d1e3cd8f25eacda1c287bb3b55bf30ccf20d11834360a00cf613a6e6134b
