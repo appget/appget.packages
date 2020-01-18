@@ -1,8 +1,8 @@
 id: mblock
 name: mBlock
-version: 5.0.0
+version: 5.2.0
 home: https://www.mblock.cc/
 installMethod: Inno
 installers:
-- location: https://dl.makeblock.com/mblock5/win32/V5.1.0.exe
-  sha256: 94a7cc7579b492d146a53369e3477b721fbc69717f6a13740fde6d5f98b6281f
+- location: https://dl.makeblock.com/mblock5/win32/V5.2.0.exe
+  sha256: 9cb0ea463e7ad8cbaf25f15a54db5e0fca54549da3df10b070941ade6c772660
