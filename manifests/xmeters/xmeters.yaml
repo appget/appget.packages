@@ -1,0 +1,10 @@
+id: xmeters
+name: XMeters
+version: 1.0
+home: https://entropy6.com/xmeters/
+license: Free for personal use
+installMethod: Custom
+args:
+  silent: /install /passive /silent
+installers:
+  - location: https://entropy6.com/xmeters/downloads/XMetersSetup.exe
