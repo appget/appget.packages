@@ -1,6 +1,6 @@
 id: dbeaver
 name: DBeaver Community
-version: 6.3.2
+version: 6.3.3
 home: https://dbeaver.io/
 repo: https://github.com/dbeaver/dbeaver/
 license: Apache License 2.0
@@ -8,6 +8,6 @@ installMethod: NSIS
 args:
   silent: /allusers
 installers:
-- location: https://github.com/dbeaver/dbeaver/releases/download/6.3.2/dbeaver-ce-6.3.2-x86_64-setup.exe
-  sha256: ea357387ed84ec43ec29f0c75c45d02458b5ff0a2b928d3ff2e65707b7c9cd26
+- location: https://github.com/dbeaver/dbeaver/releases/download/6.3.3/dbeaver-ce-6.3.3-x86_64-setup.exe
+  sha256: 6555c65640fbee5d9bafe68982ba575d30cb977e75392944cbd0b295a7f67042
   architecture: x64
