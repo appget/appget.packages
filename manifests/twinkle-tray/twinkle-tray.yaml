@@ -1,10 +1,10 @@
 id: twinkle-tray
 name: Twinkle Tray
-version: 1.7.1
+version: 1.7.2
 home: https://twinkletray.com/
 repo: https://github.com/xanderfrangos/twinkle-tray/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/xanderfrangos/twinkle-tray/releases/download/v1.7.1/Twinkle.Tray.v1.7.1.exe
-  sha256: 6073c22c95c604cc0a9a86588b057f58f25c7aa86ee42429cff3e2b448e0d2bb
+- location: https://github.com/xanderfrangos/twinkle-tray/releases/download/v1.7.2/Twinkle.Tray.v1.7.2.exe
+  sha256: abe797462ca1512f4126464f66cc2e311cfbeb227fc5632859e464c938bf9024
