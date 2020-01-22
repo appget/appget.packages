@@ -1,8 +1,9 @@
 id: wiztree
-name: WizTree
+name: Galaxy 2.0
 version: 3.30
-home: https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/
+home: https://www.gogalaxy.com/en/
 installMethod: Inno
 installers:
-- location: https://antibody-software.com/files/wiztree_3_30_setup.exe
+- location: https://webinstallers.gog.com/download/GOG_Galaxy_2.0.exe?payload=jMPYJsyPMK8KiquAxYrr-r8AqO7vwhrTosDmGKBBgjU1B_dRTngF6XD3O0BZUgXYaMDCcryR7CiVM7ThBWRQ2Ys_xc1dkeLhnZRw5gr-Ygevu29Erh6cZBxjD751XwIyzESyhnR3bToBeId10EL9XTjTBWHC5V8DFfRWfkwPi9UfB8rPnkOc77z7GpN3DkwG-McVfX2QGTcv7t1QplW4rEJ9KE5DZGJyp9Q9RAfS9_HYOsXgZGh_7oxugaquM0E4zYvvJT3NvEU5_GHLUbNnVHBNho3lhkroguaxhY_Vvc3jcaC7E4LyDpTnH__sNWwT1QDRVQ0v-3UbACXJ7MznNQm3rhbW_MMnTFcyf-yIdVq8B_wW1ckztM5ymz_Q6v2aVBZoHWaDhUCqMMmyVH8la3svMkz0r5H-rdzzbOC5rKmeIxBAgES3VAZ2PK_5Wax4m4T6Yyl4nQrP1ucI3TnXm35ojVU4PnC2mfoTPV_i5BUCjO9KS89edO19h4lRcGRs9u5GbnotCSef6axMAgOYhROCScZ4j1cM7iTQFcPEt5FxkZ0KBPpuIT8AJxCmVOiOl0VS2RAIGb7UUVeOfgx04KpjOuseQtTS2u70-IrumbkuqcCTVf0f0QA5fdpdkvxE0bsM-sGkQ3qubPhQiPabNggbYa5I2bwlDxXDkN7X87YtP88JZlZjf_26kCuECT9FDrTUWhqjptXSQ1bsSHd8
   sha256: 6655547ff28d77c626d47515242b42d2a847608634bd2122b336f964bcb2ca6e
+  minWindowsVersion: 6.2
