@@ -1,7 +1,7 @@
 id: electron-fiddle
 name: Electron Fiddle
 version: 0.12.0
-home: https://electronjs.org/fiddle
+home: https://www.electronjs.org/fiddle
 repo: https://github.com/electron/fiddle/
 license: MIT License
 installMethod: Squirrel
