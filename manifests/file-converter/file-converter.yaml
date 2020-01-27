@@ -1,0 +1,13 @@
+id: file-converter
+name: File Converter
+version: 1.2.3
+home: https://file-converter.org/
+repo: https://github.com/Tichau/FileConverter/
+license: GNU General Public License v3.0
+installMethod: MSI
+installers:
+- location: https://github.com/Tichau/FileConverter/releases/download/v1.2.3/FileConverter-1.2.3-x86-setup.msi
+  sha256: 00bc76929bc173491f2107b97836c7cb18e0bd52917442cdc743a9c4fd00bf3f
+- location: https://github.com/Tichau/FileConverter/releases/download/v1.2.3/FileConverter-1.2.3-x64-setup.msi
+  sha256: 2410944075ed4f0bfd4740e9ee2fd17eae4922980937d738c42bed07ac130c32
+  architecture: x64
