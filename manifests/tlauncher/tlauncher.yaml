@@ -1,0 +1,7 @@
+id: tlauncher
+name: TLauncher
+version: 2.68.0
+home: https://tlauncher.org/
+installMethod: SetupFactory
+installers:
+- location: https://tlauncher.org/installer
