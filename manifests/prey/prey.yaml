@@ -1,13 +1,13 @@
 id: prey
 name: Prey
-version: 1.9.2
+version: 1.9.3
 home: https://preyproject.com/
 repo: https://github.com/prey/prey-node-client/
 license: GNU General Public License v3.0
 installMethod: MSI
 installers:
-- location: https://github.com/prey/prey-node-client/releases/download/v1.9.2/prey-windows-1.9.2-x86.msi
-  sha256: 6c87d4f778236d4b8b80bd2de2170ba895c3df2ddabf89582a3851aa6479be1d
-- location: https://github.com/prey/prey-node-client/releases/download/v1.9.2/prey-windows-1.9.2-x64.msi
-  sha256: 3fad3aebd5761926c5fdde5e71cfe75bcade61f00945ce1da88054ac318f3fb0
+- location: https://github.com/prey/prey-node-client/releases/download/v1.9.3/prey-windows-1.9.3-x86.msi
+  sha256: f7eb4970253e61311c1e470cff47531e5f5997fc88f4a3c81dc9b76ad6a689f0
+- location: https://github.com/prey/prey-node-client/releases/download/v1.9.3/prey-windows-1.9.3-x64.msi
+  sha256: bee7801b55babb45df4742a48842cd3042e12546a9d1964853355d0baadef198
   architecture: x64
