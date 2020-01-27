@@ -1,12 +1,12 @@
 id: maxima
 name: Maxima
-version: 5.43.1
+version: 5.43.2
 home: http://maxima.sourceforge.net/
 repo: https://sourceforge.net/projects/maxima/
 installMethod: NSIS
 installers:
-- location: https://downloads.sourceforge.net/project/maxima/Maxima-Windows/5.43.1-Windows/maxima-clisp-sbcl-5.43.1-win32.exe
-  sha256: 502fc6f8211e483efe093bdf096d00b9e48a853b5e8a44c671840ba246a39231
-- location: https://downloads.sourceforge.net/project/maxima/Maxima-Windows/5.43.1-Windows/maxima-clisp-sbcl-5.43.1-win64.exe
-  sha256: 122b6f7e7ba663cd31e7d5697c2b79cea1969ab169e5979edba273f00b0d218a
+- location: https://downloads.sourceforge.net/project/maxima/Maxima-Windows/5.43.2-Windows/maxima-clisp-sbcl-5.43.2-win32.exe
+  sha256: b7b97f7b3cffc9ab79446dd898d22fccdbedddab38af63627ea3941342d0ca4d
+- location: https://downloads.sourceforge.net/project/maxima/Maxima-Windows/5.43.2-Windows/maxima-clisp-sbcl-5.43.2-win64.exe
+  sha256: 75e34f693f5158063e698071eca6555fb8125dfd1f4f1f271a5504a1fc48305c
   architecture: x64
