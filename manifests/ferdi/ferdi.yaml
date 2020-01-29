@@ -1,10 +1,10 @@
 id: ferdi
 name: Ferdi
-version: 5.4.0.873
+version: 5.4.3.1002
 home: https://getferdi.com/
 repo: https://github.com/getferdi/ferdi/
 license: Apache License 2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/getferdi/ferdi/releases/download/v5.4.0/Ferdi-Setup-5.4.0.exe
-  sha256: 00612742fd44f9df013fbb53c6f78cea69a39d3131c553da18a8b0584735fcc3
+- location: https://github.com/getferdi/ferdi/releases/download/v5.4.3/Ferdi-Setup-5.4.3.exe
+  sha256: 14584173fb0bbf6122c260d0a441465e162a9afdda5cb85f555db2cc11e1da6c
