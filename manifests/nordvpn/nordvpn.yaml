@@ -3,5 +3,7 @@ name: NordVPN
 version: 6.26.15
 home: https://nordvpn.com/
 installMethod: Custom
+args:
+  silent: /q
 installers:
 - location: https://downloads.nordcdn.com/apps/windows/10/NordVPN/latest/NordVPNSetup.exe
