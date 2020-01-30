@@ -1,10 +1,10 @@
 id: visual-studio-2019-enterprise
 name: Microsoft Visual Studio 2019 Enterprise Edition
-version: 16.4.29709.97
+version: 16.4.29728.190
 home: https://visualstudio.microsoft.com/vs/
 installMethod: Custom
 args:
   silent: --quiet --norestart
 installers:
 - location: https://aka.ms/vs/16/release/vs_enterprise.exe
-  sha256: 4a244b3dd7c258763614d6e4eb914d42f47917e7cc6a70b509e9d9029aceddf2
+  sha256: d786cdae82cd8579d9268454b98e68a631b1d2f9a9e62ffd956d2ec6855aa9bb
