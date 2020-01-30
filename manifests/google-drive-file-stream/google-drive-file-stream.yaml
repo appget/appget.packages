@@ -1,6 +1,6 @@
 id: google-drive-file-stream
 name: Google Drive File Stream
-version: 35.0.13
+version: 36.0.18
 home: https://support.google.com/a/answer/7491144?hl=en
 installMethod: Custom
 args:
