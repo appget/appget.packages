@@ -6,5 +6,7 @@ repo: https://github.com/getferdi/ferdi/
 license: Apache License 2.0
 installMethod: NSIS
 installers:
+- location: https://github.com/getferdi/ferdi/releases/download/v5.4.3/Ferdi-5.4.3.exe
+  sha256: d58122d95a050b15a505724632058522aeae42ff6407fd397f63415ae940276d
 - location: https://github.com/getferdi/ferdi/releases/download/v5.4.3/Ferdi-Setup-5.4.3.exe
   sha256: 14584173fb0bbf6122c260d0a441465e162a9afdda5cb85f555db2cc11e1da6c
