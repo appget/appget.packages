@@ -1,0 +1,10 @@
+id: beatdrop
+name: beatdrop
+version: 2.6.2
+home: https://bsaber.com/beatdrop/
+repo: https://github.com/StarGazer1258/BeatDrop/
+installMethod: NSIS
+installers:
+- location: https://github.com/StarGazer1258/BeatDrop/releases/download/v2.6.2/beatdrop-setup-2.6.2.exe
+  sha256: 3d1c44f458b0cf2a36373fc174bafd3391c3fa5ae82dba9bd5c753be29a08d5b
+  minWindowsVersion: 6.1
