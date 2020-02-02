@@ -1,0 +1,11 @@
+id: sigil
+name: Sigil
+version: 1.0
+home: https://sigil-ebook.com/
+repo: https://github.com/Sigil-Ebook/Sigil/
+license: GNU General Public License v3.0
+installMethod: Inno
+installers:
+- location: https://github.com/Sigil-Ebook/Sigil/releases/download/1.0.0/Sigil-1.0.0-Windows-x64-Setup.exe
+  sha256: 2210d5207c6095debcb94690c58851561daafd627c368e6fdb52351aea274c16
+  architecture: x64
