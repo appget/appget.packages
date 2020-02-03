@@ -1,0 +1,10 @@
+id: wnr
+name: wnr
+version: 1.10.1
+home: https://wnr.scris.top/
+repo: https://github.com/RoderickQiu/wnr/
+license: Mozilla Public License 2.0
+installMethod: Inno
+installers:
+- location: https://github.com/RoderickQiu/wnr/releases/download/v1.10.1/wnr-1.10.1-win.exe
+  sha256: 9577192e7fd3d4c6116eace7a73b028ee6e0a586972f3acc79faa319458e5acb

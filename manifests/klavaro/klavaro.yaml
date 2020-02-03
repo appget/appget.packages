@@ -1,0 +1,8 @@
+id: klavaro
+name: Klavaro
+version: 3.09
+home: https://klavaro.sourceforge.io/
+installMethod: Inno
+installers:
+- location: https://downloads.sourceforge.net/project/klavaro/klavaro-3.09-win-setup.exe
+  sha256: e3fa6ba91c04118e4f2aeabc647182060e9061370e664cc3943901c5862925b3

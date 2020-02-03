@@ -1,8 +1,8 @@
 id: winamp
 name: Winamp
-version: 5.6.0.3516
+version: 5.8.0.3660
 home: https://www.winamp.com/
 installMethod: NSIS
 installers:
-- location: http://meggamusic.co.uk/winamp/winamp5666_full_all_redux.exe
-  sha256: ea9a6ba81475d49876d0b8b300d93f28f7959b8e99ce4372dbde746567e14002
+- location: https://download.nullsoft.com/winamp/client/winamp58_3660_beta_full_en-us.exe
+  sha256: 115ad6a4be58320c98f992b1dae26e162976158c3cced251584a2b78f059b822
