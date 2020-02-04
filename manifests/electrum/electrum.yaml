@@ -1,0 +1,8 @@
+id: electrum
+name: Electrum
+version: 3.3.8
+home: https://electrum.org/
+installMethod: NSIS
+installers:
+- location: https://download.electrum.org/3.3.8/electrum-3.3.8-setup.exe
+  sha256: 3a387c02ec813c313a3246d69293bc018c0029e26c2bf822f4940423d572eaef
