@@ -7,5 +7,5 @@ license: GNU Lesser General Public License v3.0
 installMethod: NSIS
 installers:
 - location: https://github.com/Tribler/tribler/releases/download/v7.4.0/Tribler_7.4.0_x64.exe
-  sha256: fda3e1aaecaf58b1c410d7e92f2f75e4e42bcb10c6d52a7a6cbbb7677ab1d3dc
+  sha256: c47877f2630f554319516db64979e5fc31464aa1299c132871a75d907e36a640
   architecture: x64
