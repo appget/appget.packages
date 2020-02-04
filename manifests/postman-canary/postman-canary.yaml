@@ -1,7 +1,7 @@
 id: postman-canary
 name: PostmanCanary---canary01
 version: 7.16.0-canary01
-home: https://www.getpostman.com/
+home: https://www.postman.com/
 installMethod: Squirrel
 installers:
 - location: https://dl.pstmn.io/download/channel/canary/windows_32
