@@ -1,0 +1,8 @@
+id: i1profiler
+name: i1Profiler
+version: 3.2.0.12640
+home: https://www.xrite.com/
+installMethod: Inno
+installers:
+- location: https://my.xrite.com/downloader.aspx?FileID=2164&Type=P
+  architecture: x64
