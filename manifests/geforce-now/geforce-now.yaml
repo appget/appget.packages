@@ -1,0 +1,7 @@
+id: geforce-now
+name: NVIDIA GeForce NOW
+version: 1.0.9
+home: https://www.nvidia.com/en-us/geforce-now/
+installMethod: Custom
+installers:
+- location: https://download.nvidia.com/gfnpc/GeForceNOW-release.exe
