@@ -1,9 +1,9 @@
 id: yarn
 name: Yarn
-version: 1.21.1
+version: 1.22.0
 home: https://yarnpkg.com/
 repo: https://github.com/yarnpkg/yarn/
 installMethod: MSI
 installers:
-- location: https://github.com/yarnpkg/yarn/releases/download/v1.21.1/yarn-1.21.1.msi
-  sha256: 95eb5eb485740788fe7bae57af403f71395139802a228a88d1afe290891a1344
+- location: https://github.com/yarnpkg/yarn/releases/download/v1.22.0/yarn-1.22.0.msi
+  sha256: 591d8c2c2b7f367f17cc23742bb1a532b2405c5e307b1339b7bff083343bf7a2
