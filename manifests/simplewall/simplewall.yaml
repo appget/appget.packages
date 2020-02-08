@@ -1,10 +1,10 @@
 id: simplewall
 name: simplewall
-version: 3.0.9
+version: 3.1
 home: https://www.henrypp.org/product/simplewall
 repo: https://github.com/henrypp/simplewall/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/henrypp/simplewall/releases/download/v.3.0.9/simplewall-3.0.9-setup.exe
-  sha256: a4bf4072c1cc9720cc97ee289b838b3515cf796e487b80976beab04f6e02001a
+- location: https://github.com/henrypp/simplewall/releases/download/v.3.1/simplewall-3.1-setup.exe
+  sha256: 1c53893dee2a9e620a1897721bdd3574dc57e58675e6ccd08b5b8e8390b3adb8
