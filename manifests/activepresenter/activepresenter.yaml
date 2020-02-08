@@ -1,8 +1,8 @@
 id: activepresenter
 name: ActivePresenter
-version: 7.5.12
+version: 8.0.0
 home: https://atomisystems.com/activepresenter/
 installMethod: Inno
 installers:
-- location: https://cdn.atomisystems.com/apdownloads/ActivePresenter_v7.5.12_setup.exe
-  sha256: e1f16d7bcad84465bf286714fddc2321f76af228f2b89c26a58371808df42e40
+- location: https://cdn.atomisystems.com/apdownloads/ActivePresenter_v8.0.0_setup.exe
+  sha256: 58179eacad90924edbddf3d2d1735c1510fa623fc573d96a86cf13ae00b0eedc
