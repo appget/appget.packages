@@ -4,5 +4,5 @@ version: 1.7.12
 home: https://www.freeplane.org/wiki
 installMethod: Inno
 installers:
-- location: https://downloads.sourceforge.net/project/freeplane/freeplane stable/Freeplane-Setup-1.7.12.exe
-  sha256: e1b671e7b7bb37deb3a168ecc36758f4192fe08fc1b0313d0eead7e9bcc20654
+- location: https://downloads.sourceforge.net/project/freeplane/freeplane stable/Freeplane-Setup-1.7.12u1.exe
+  sha256: 4a6782698ac788e5dfef75fb50ba2af0b6615462646d9d7c187c2e0182e10271
