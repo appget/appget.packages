@@ -1,10 +1,10 @@
 id: netron
 name: Netron
-version: 3.8.8
+version: 3.8.9
 home: https://www.lutzroeder.com/ai
 repo: https://github.com/lutzroeder/netron/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/lutzroeder/netron/releases/download/v3.8.8/Netron-Setup-3.8.8.exe
-  sha256: 01b551c3011ec4c0fa18027f700e484de6b8ffc6847f21a789eb8053487ce135
+- location: https://github.com/lutzroeder/netron/releases/download/v3.8.9/Netron-Setup-3.8.9.exe
+  sha256: dde9d9efa4f23ced12cc1d44431594508fa3a15c7be7fa1a301338cfe0e1e94f
