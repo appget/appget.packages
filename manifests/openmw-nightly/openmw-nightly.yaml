@@ -1,0 +1,9 @@
+id: openmw-nightly
+name: OpenMW (nightly)
+version: 0.46.0
+home: https://openmw.org/
+installMethod: NSIS
+installers:
+- location: https://www.lysator.liu.se/~ace/OpenMW/OpenMW-latest-win32.exe
+- location: https://www.lysator.liu.se/~ace/OpenMW/OpenMW-latest-win64.exe
+  architecture: x64
