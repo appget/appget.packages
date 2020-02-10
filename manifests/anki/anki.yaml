@@ -1,0 +1,13 @@
+id: anki
+name: Anki
+version: 2.1.19
+home: https://ankiweb.net/
+installMethod: NSIS
+installers:
+- location: https://apps.ankiweb.net/downloads/current/anki-2.1.19-windows-alternate.exe
+  sha256: 2838f8a26037bd404a8dcdac7df5e994f025b0a7d0fbdb1675c059471e588a91
+  minWindowsVersion: 6.1
+- location: https://apps.ankiweb.net/downloads/current/anki-2.1.19-windows.exe?u=1
+  sha256: 90be6a3e5a6f4373ba3342bd3dfbe61e9013bb2a4acced2fcdd594b4c651a665
+  architecture: x64
+  minWindowsVersion: 6.1
