@@ -1,8 +1,8 @@
 id: kdenlive
 name: Kdenlive
-version: 19.12.1
+version: 19.12.2
 home: https://kdenlive.org/
 installMethod: NSIS
 installers:
-- location: https://files.kde.org/kdenlive/release/kdenlive-19.12.1.exe
-  sha256: 4d3ed315367c75bc74a74a62a4a93fb889041791bfd364c463092a5c1ee41b1d
+- location: https://files.kde.org/kdenlive/release/kdenlive-19.12.2.exe
+  sha256: 8d82050cf52799948b982c295a0dea041644b834f8765dedf9028d3508645125
