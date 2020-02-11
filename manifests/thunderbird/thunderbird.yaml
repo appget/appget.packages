@@ -1,6 +1,6 @@
 id: thunderbird
 name: Thunderbird
-version: 68.4.2
+version: 68.5.0
 home: https://www.thunderbird.net/
 installMethod: Custom
 installers:
