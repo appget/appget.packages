@@ -1,10 +1,13 @@
 id: atom-beta
 name: Atom Beta
-version: 1.43.0-beta0
+version: 1.45.0-beta0
 home: https://atom.io/
 repo: https://github.com/atom/atom/
 license: MIT License
 installMethod: Squirrel
 installers:
-- location: https://atom.io/download/windows_x64?channel=beta
+- location: https://github.com/atom/atom/releases/download/v1.45.0-beta0/AtomSetup.exe
+  sha256: 034eb95566663b336c42f8023d5675b8fa6600f344b3d12e6abe7b66a0d6a2c7
+- location: https://github.com/atom/atom/releases/download/v1.45.0-beta0/AtomSetup-x64.exe
+  sha256: fedfbd2ab96160863ed37d31160d97ed676109705ed06274ea48218c9e898467
   architecture: x64
