@@ -1,6 +1,6 @@
 id: kindle
 name: Amazon Kindle
-version: 1.27.0.56109
+version: 1.28.0.57030
 home: https://www.amazon.com/kindle-dbs/fd/kcp
 installMethod: NSIS
 installers:
