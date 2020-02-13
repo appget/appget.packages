@@ -1,9 +1,9 @@
 id: minetime
 name: MineTime
-version: 1.7.4.20191209.3
+version: 1.7.6.20200213.1
 home: https://minetime.ai/
 repo: https://github.com/marcoancona/MineTime/
 installMethod: NSIS
 installers:
-- location: https://github.com/marcoancona/MineTime/releases/download/v1.7.4/MineTime-Setup-1.7.4.exe
-  sha256: abd50fc03613ac331a910f6220c22326300a01cde97c5ac2fdd6af15036bd931
+- location: https://github.com/marcoancona/MineTime/releases/download/v1.7.6/MineTime-Setup-1.7.6.exe
+  sha256: 6958baee2b47d9767caeff0c57b7202340d22789462fe668c6ac97c38610f6b0
