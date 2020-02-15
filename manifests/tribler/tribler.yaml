@@ -1,11 +1,11 @@
 id: tribler
 name: Tribler
-version: 7.4.2
+version: 7.4.3
 home: https://www.tribler.org/
 repo: https://github.com/Tribler/tribler/
 license: GNU Lesser General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/Tribler/tribler/releases/download/v7.4.2/Tribler_7.4.2_x64.exe
-  sha256: b49f68c40cdb6dcb062e0ad0b82d3e9ed234fe8bbd6582545336921441ec01ae
+- location: https://github.com/Tribler/tribler/releases/download/v7.4.3/Tribler_7.4.3_x64.exe
+  sha256: ea629a3aaf772f802d6137da5844ae52782a8d5a1865f0ca652b70291a094d3b
   architecture: x64
