@@ -6,8 +6,8 @@ installMethod: Custom
 args:
   passive: --package-set=basic install --unattended
 installers:
-- location: https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x86/basic-miktex-2.9.7269.exe
-  sha256: 36d83e62747240a56be1562f3e25346eecc304c77f9e18d57de2289ddb57f377
-- location: https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x64/basic-miktex-2.9.7269-x64.exe
-  sha256: f71d44747d156a79631f68069ee3df1aba68360a97bbc0bb62f5ca9674b4b1c7
+- location: https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x86/basic-miktex-2.9.7351.exe
+  sha256: a56892297b56b1f4fc663da53d442a081e1b802f025440a42a5aa143c1b64fdd
+- location: https://miktex.org/download/ctan/systems/win32/miktex/setup/windows-x64/basic-miktex-2.9.7351-x64.exe
+  sha256: af4957e70d450e760dc4f0292a1c44031189624ad31f075d22433d035ba26caf
   architecture: x64
