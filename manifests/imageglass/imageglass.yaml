@@ -1,10 +1,11 @@
 id: imageglass
 name: ImageGlass
-version: 7.0.7.26
+version: 7.5.1.1
 home: https://imageglass.org/
 repo: https://github.com/d2phap/ImageGlass/
 license: GNU General Public License v3.0
-installMethod: Inno
+installMethod: MSI
 installers:
-- location: https://github.com/d2phap/ImageGlass/releases/download/7.0.7.26/ImageGlass_7.0.7.26.exe
-  sha256: d036d3a39df64ea728cd449d138f1631613910bcd74bba9c0a15a43a2e8bbeaa
+- location: https://github.com/d2phap/ImageGlass/releases/download/7.5.1.1/ImageGlass_7.5.1.1_x64.msi
+  sha256: 002c2f68ff683b2013b76db326d58627503fd7538c57a9739e7e4e75ea5feadd
+  architecture: x64
