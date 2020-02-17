@@ -4,4 +4,4 @@ version: 1.15.0
 home: https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is
 installMethod: Inno
 installers:
-- location: https://github.com/microsoft/azuredatastudio/releases/download/1.14.1/azuredatastudio-windows-user-setup-1.15.0.exe
+- location: https://github.com/microsoft/azuredatastudio/releases/download/1.15.0/azuredatastudio-windows-user-setup-1.15.0.exe
