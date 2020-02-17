@@ -1,7 +1,7 @@
 id: postman
 name: Postman
-version: 7.14.0
-home: https://www.getpostman.com/
+version: 7.18.0
+home: https://www.postman.com/
 installMethod: Squirrel
 installers:
 - location: https://dl.pstmn.io/download/latest/win32

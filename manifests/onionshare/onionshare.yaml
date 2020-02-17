@@ -1,0 +1,8 @@
+id: onionshare
+name: OnionShare
+version: 2.2
+home: https://onionshare.org/
+installMethod: NSIS
+installers:
+- location: https://onionshare.org/dist/2.2/onionshare-2.2-setup.exe
+  sha256: 0ca64f3001d9bcee3c9be7b2e9c5b2ef61e93b63cddc6f328726280d1540df35

@@ -1,7 +1,9 @@
 id: nordvpn
 name: NordVPN
-version: 6.26.8
+version: 6.26.17
 home: https://nordvpn.com/
-installMethod: AdvancedInstaller
+installMethod: Custom
+args:
+  silent: /q
 installers:
 - location: https://downloads.nordcdn.com/apps/windows/10/NordVPN/latest/NordVPNSetup.exe

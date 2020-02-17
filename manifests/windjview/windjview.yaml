@@ -5,5 +5,5 @@ home: https://windjview.sourceforge.io/
 installMethod: NSIS
 installers:
 - location: https://downloads.sourceforge.net/project/windjview/WinDjView/2.1/WinDjView-2.1-Setup.exe
-  sha256: 91cde668b1f700b64677199e9b534f8da4ae45aef014f5439cefdc8c532418bf
+  sha256: edd0016a9b528243e5eaff9677237059d3bc3ca7ea5dad28885c267728f61a98
   architecture: x64

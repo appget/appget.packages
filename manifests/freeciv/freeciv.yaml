@@ -1,10 +1,10 @@
 id: freeciv
 name: Freeciv
-version: 2.6.1
+version: 2.6.2
 home: http://www.freeciv.org/
 repo: https://github.com/freeciv/freeciv/
 license: GNU General Public License v2.0
 installMethod: NSIS
 installers:
-- location: http://files.freeciv.org/packages/windows/Freeciv-2.6.1-win32-gtk3-setup.exe
-  sha256: 0e4571054de5b0218b536c8b9fe236bec5b35d356f296dd4ae11d7acd7a566f6
+- location: http://files.freeciv.org/packages/windows/Freeciv-2.6.2-win32-gtk3-setup.exe
+  sha256: 0fd1397a616af39a2e9b095d8c7cca6f15d498bff1dcabf099cdbdf5e08df890

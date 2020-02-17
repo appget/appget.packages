@@ -1,8 +1,8 @@
 id: clion
 name: CLion
-version: 193.5662.56
+version: 193.6494.38
 home: https://www.jetbrains.com/clion/
 installMethod: NSIS
 installers:
-- location: https://download.jetbrains.com/cpp/CLion-2019.3.2.exe
-  sha256: b840cb68346e84e8320d7f456523261cf3bbb3024392816e155a8ac3d099367e
+- location: https://download.jetbrains.com/cpp/CLion-2019.3.4.exe
+  sha256: 554c5aa71f4c4f7980624c0e80cb68a87a3025288d5ce338fbf43e74bc4735d9

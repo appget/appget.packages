@@ -1,0 +1,10 @@
+id: rednotebook
+name: RedNotebook
+version: 2.16
+home: https://rednotebook.sourceforge.io/
+repo: https://github.com/jendrikseipp/rednotebook/
+license: GNU General Public License v2.0
+installMethod: Inno
+installers:
+- location: https://github.com/jendrikseipp/rednotebook/releases/download/v2.16/rednotebook-2.16.exe
+  sha256: 7b4c46f0110db5674aee2e424c33957c5c0832f731f4c24a62c5e946679b7b71

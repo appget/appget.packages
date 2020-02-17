@@ -1,0 +1,10 @@
+id: masscode
+name: massCode
+version: 0.8.2
+home: https://masscode.io/
+repo: https://github.com/antonreshetov/massCode/
+license: GNU Affero General Public License v3.0
+installMethod: NSIS
+installers:
+- location: https://github.com/antonreshetov/massCode/releases/download/v0.8.2/massCode.Setup.0.8.2.exe
+  sha256: 820c382e5ecea6bea54f2e87d3b31dc9e43e70fb3a947e4873e52633c1f2f383

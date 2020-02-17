@@ -1,13 +1,13 @@
 id: notepad-plus-plus
 name: Notepad++
-version: 7.8.2
+version: 7.8.4
 home: https://notepad-plus-plus.org/
 repo: https://github.com/notepad-plus-plus/notepad-plus-plus/
 license: GNU General Public License
 installMethod: NSIS
 installers:
-- location: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.2/npp.7.8.2.Installer.exe
-  sha256: 668e6c8a666c0cb91987985bf560bf587c4fb646523fe21d3fe85b7c7eeadd08
-- location: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.2/npp.7.8.2.Installer.x64.exe
-  sha256: 56ff0f152f5f84314cd995c65b567becb1ddf0f5a248d76b5e968e85d62e62a0
+- location: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.4/npp.7.8.4.Installer.exe
+  sha256: bda85bc0bb7beb11dbb9e9a964a2e2f0e4d35d0fc1e6b769e32b6847bfed8296
+- location: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.4/npp.7.8.4.Installer.x64.exe
+  sha256: 2b8bb339da978fdb0d939135dd5065e4890d01da96b97b8cb7b14f0a010983fc
   architecture: x64
