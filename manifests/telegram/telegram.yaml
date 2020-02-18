@@ -1,6 +1,6 @@
 id: telegram
 name: Telegram Desktop
-version: 1.9.13
+version: 1.9.14
 home: https://telegram.org/
 license: GPL v3
 installMethod: Inno
