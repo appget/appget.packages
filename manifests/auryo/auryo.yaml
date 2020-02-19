@@ -1,10 +1,10 @@
 id: auryo
 name: Auryo
-version: 2.4.0.372
+version: 2.5.0.485
 home: https://auryo.com/
 repo: https://github.com/Superjo149/auryo/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/Superjo149/auryo/releases/download/v2.4.0/auryo-setup-2.4.0.exe
-  sha256: 0d6dc7f6825ba7e66e40371e3275aac0caef8e7048db8c206abffb74d6750f3a
+- location: https://github.com/Superjo149/auryo/releases/download/v2.5.0/Auryo-Setup-2.5.0.exe
+  sha256: 92ea5e001325a1c646f5060681e999161f54a9ddfe71a1ad2a4dc00c31a283a4
