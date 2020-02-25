@@ -1,8 +1,8 @@
 id: android-studio
 name: Android Studio
-version: 3.5.3
+version: 3.6.0.21
 home: https://developer.android.com/studio/
 installMethod: NSIS
 installers:
-- location: https://dl.google.com/dl/android/studio/install/3.5.3.0/android-studio-ide-191.6010548-windows.exe
-  sha256: 58b3728fc414602e17fd9827e5ad0c969e5942aff1ee82964eedf1686450265b
+- location: https://dl.google.com/dl/android/studio/install/3.6.0.21/android-studio-ide-192.6200805-windows.exe
+  sha256: a04513b59dc8c4edfa6313eff212604fda98d2722e17bc564fd68de1bdbbbba1
