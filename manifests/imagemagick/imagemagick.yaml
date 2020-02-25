@@ -4,8 +4,8 @@ version: 7.0.9
 home: https://www.imagemagick.org/
 installMethod: Inno
 installers:
-- location: https://imagemagick.org/download/binaries/ImageMagick-7.0.9-21-Q16-x86-dll.exe
-  sha256: 05e97e4b47254fe4b28ca2632c9382d55eab223f4f676da1f0cd351045b9d10b
-- location: https://imagemagick.org/download/binaries/ImageMagick-7.0.9-21-Q16-x64-dll.exe
-  sha256: fe05189eefa2604541d8b7625842ed083a61cdf33b9fcb67246967d112dad1a1
+- location: https://imagemagick.org/download/binaries/ImageMagick-7.0.9-26-Q16-x86-dll.exe
+  sha256: 30024f935d0ac91ac5da6f32dde959e98b1cb61f8de0840624c51e8b4b63e326
+- location: https://imagemagick.org/download/binaries/ImageMagick-7.0.9-26-Q16-x64-dll.exe
+  sha256: 731927a2310b620bf5a44b2d779b04cbcea697bd5a2ac8fd9a58cd08c5c0e3c4
   architecture: x64
