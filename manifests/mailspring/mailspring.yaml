@@ -1,9 +1,9 @@
 id: mailspring
 name: Mailspring
-version: 1.7.2
+version: 1.7.3
 home: https://getmailspring.com/
 repo: https://github.com/Foundry376/Mailspring/
 installMethod: Squirrel
 installers:
-- location: https://github.com/Foundry376/Mailspring/releases/download/1.7.2/MailspringSetup.exe
-  sha256: c9d64ab23a4f368c9b9645c3ed6e4af0642b31af95e21a6f172ed84e48dad28a
+- location: https://github.com/Foundry376/Mailspring/releases/download/1.7.3/MailspringSetup.exe
+  sha256: 82ed4b3e761774504fbe1bcd4dbe30b98ac6c3429de9171c0f4dec40612d1f4f
