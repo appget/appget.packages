@@ -1,0 +1,11 @@
+id: screwdrivers-client-v6
+name: ScrewDrivers Client v6
+version: 6.6.1.17374
+home: https://www.tricerat.com/
+installMethod: MSI
+installers:
+- location: http://www.cloudwerxdata.com/update/files/ScrewDriversClient_6.6.1.17374_x86.msi
+  sha256: 8921774bd613510cfee1ca8688dc8e86626ddd40037d9e7beb32c3a804635e7e
+- location: http://www.cloudwerxdata.com/update/files/ScrewDriversClient_6.6.1.17374_x64.msi
+  sha256: 21adfd32a732e62bf4dc8af782c1b7e1620be04d257299c21648f73e94a265a2
+  architecture: x64
