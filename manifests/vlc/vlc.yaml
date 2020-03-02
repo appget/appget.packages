@@ -6,8 +6,6 @@ repo: https://github.com/videolan/vlc/
 license: GNU Lesser General Public License v2.1+
 installMethod: NSIS
 installers:
-- location: https://get.videolan.org/vlc/3.0.8/win32/vlc-3.0.8-win32.exe
-  sha256: f286e25d5c52bfe7f392fb3f4e28e711225d1773e3c43281cb901145ded34def
-- location: https://get.videolan.org/vlc/3.0.8/win64/vlc-3.0.8-win64.exe
+- location: https://mirror.kku.ac.th/videolan/vlc/3.0.8/win64/vlc-3.0.8-win64.exe
   sha256: 0cc54e69016e3d5a80e229c768ac37a02aea3a973a5447593c0132281e383942
   architecture: x64
