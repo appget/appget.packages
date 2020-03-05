@@ -1,6 +1,6 @@
 id: biglybt
 name: BiglyBT
-version: 2.2.0.2
+version: 2.3.0
 home: https://www.biglybt.com/
 installMethod: Custom
 args:
