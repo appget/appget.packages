@@ -5,4 +5,4 @@ home: https://www.mblock.cc/
 installMethod: Inno
 installers:
 - location: https://dl.makeblock.com/mblock5/win32/V5.2.0.exe
-  sha256: add28568615d091a2e5702c78e8ee88d6fca9547621ac853c42901a67026be2f
+  sha256: 0cc4977bf49e88114f57006e48012a39d297d4316464b5ce07fc8ee9f1786f31
