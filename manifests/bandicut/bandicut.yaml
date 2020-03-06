@@ -1,6 +1,6 @@
 id: bandicut
 name: Bandicut
-version: 3.5.0.596
+version: 3.5.1.597
 home: https://www.bandicam.com/bandicut-video-cutter/
 installMethod: NSIS
 installers:
