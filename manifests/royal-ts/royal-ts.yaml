@@ -1,8 +1,8 @@
 id: royal-ts
 name: Royal TS
-version: 5.02.60216
+version: 5.02.60304
 home: https://www.royalapplications.com/ts
 installMethod: MSI
 installers:
-- location: https://download.royalapplications.com/RoyalTS/RoyalTSInstaller_5.02.60216.0.msi
-  sha256: 9994bdc94132a739cb87850f5935163b4ea1354329b71fcac5e225754ab59893
+- location: https://download.royalapplications.com/RoyalTS/RoyalTSInstaller_5.02.60304.0.msi
+  sha256: 21549ca3d9ad0efbd4aaba8e3c820a9d8b95904e7478349b5e2c6374822a0e1d
