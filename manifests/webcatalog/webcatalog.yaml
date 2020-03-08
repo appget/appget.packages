@@ -1,8 +1,8 @@
 id: webcatalog
 name: WebCatalog
 version: 19.3.4
-home: https://getwebcatalog.com/
-repo: https://github.com/quanglam2807/webcatalog/
+home: https://webcatalogapp.com/
+repo: https://github.com/atomery/webcatalog/
 license: Mozilla Public License 2.0
 installMethod: NSIS
 installers:
