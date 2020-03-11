@@ -1,8 +1,8 @@
 id: nertivia
 name: Nertivia
-version: 0.1.5
+version: 0.1.6
 repo: https://github.com/supertiger1234/nertivia-desktop-app/
 installMethod: NSIS
 installers:
-- location: https://github.com/supertiger1234/nertivia-desktop-app/releases/download/v0.1.5/Nertivia-Setup-0.1.5.exe
-  sha256: db2d497d749cdcecbeab62946715346a548dc76acc98e8e69ec190af2bf9a38b
+- location: https://github.com/supertiger1234/nertivia-desktop-app/releases/download/v0.1.6/Nertivia-Setup-0.1.6.exe
+  sha256: 53b65f1c554c45cf92ee0bca1189a50d908eac7c9d04afbe367a3e02b8220bc3
