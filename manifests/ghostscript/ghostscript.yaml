@@ -1,12 +1,12 @@
 id: ghostscript
 name: Ghostscript
-version: 950
+version: 951
 home: https://www.ghostscript.com/
 repo: https://github.com/ArtifexSoftware/ghostpdl-downloads/
 installMethod: NSIS
 installers:
-- location: https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs950/gs950w32.exe
-  sha256: 36dd103cb843896bc28acef11f3dc8dbaf2868a2d9413fd6834c4f6b6af43dac
-- location: https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs950/gs950w64.exe
-  sha256: 9043c0d7aafffcc17726f2ad380cc374ddb67f7c20a08366a0ef20d64fda6e24
+- location: https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs951/gs951w32.exe
+  sha256: 3e8d811908a621923694d40683d917a7d2ed9d38e35d80bb024f00cd1d9cb775
+- location: https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs951/gs951w64.exe
+  sha256: fe5b8d92e33547e2d71ebaca1f11d6db915566aea66e55c5887eae5a23142606
   architecture: x64
