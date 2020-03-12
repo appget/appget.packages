@@ -1,10 +1,11 @@
 id: cryptomator
 name: Cryptomator
-version: 1.4.15
+version: 1.5.0-rc1
 home: https://cryptomator.org/
 repo: https://github.com/cryptomator/cryptomator/
 license: GNU General Public License v3.0
 installMethod: Inno
 installers:
-- location: https://github.com/cryptomator/cryptomator/releases/download/1.4.15/Cryptomator-1.4.15-x64.exe
-  sha256: e7618f0eba90012370d9ebc98e01496d5069728441e40d312aaab9316dc6a740
+- location: https://github.com/cryptomator/cryptomator/releases/download/1.5.0-rc1/Cryptomator-1.5.0-rc1-x64.exe
+  sha256: 04f92769524b028d503140bb89356bd0912a49a07e7a8053e76d1533d66308ff
+  architecture: x64
