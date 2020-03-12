@@ -1,6 +1,6 @@
 id: steelseries-engine
 name: SteelSeries Engine
-version: 3.17.4
+version: 3.17.6
 home: https://steelseries.com/engine
 installMethod: NSIS
 installers:
