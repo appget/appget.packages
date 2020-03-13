@@ -1,7 +1,7 @@
 id: draw-io
 name: draw.io
 version: 12.6.5.330
-home: https://www.draw.io/
+home: https://app.diagrams.net/
 repo: https://github.com/jgraph/drawio-desktop/
 license: Apache License 2.0
 installMethod: NSIS
