@@ -1,13 +1,13 @@
 id: sabaki
 name: Sabaki
-version: 0.50.0
+version: 0.50.1
 home: https://sabaki.yichuanshen.de/
 repo: https://github.com/SabakiHQ/Sabaki/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/SabakiHQ/Sabaki/releases/download/v0.50.0/sabaki-v0.50.0-win-ia32-setup.exe
-  sha256: 52e801e032544ab0536dcc8eae9388ac5ad4efd4206182c3d56b129d10999219
-- location: https://github.com/SabakiHQ/Sabaki/releases/download/v0.50.0/sabaki-v0.50.0-win-x64-setup.exe
-  sha256: d0e6b2e93fc5da57243053bac9dbcc5dde33091d85147eff807efa3bc26886fc
+- location: https://github.com/SabakiHQ/Sabaki/releases/download/v0.50.1/sabaki-v0.50.1-win-ia32-setup.exe
+  sha256: bb877e7e7163a6c901716d7e68935d692a45ab46abec4d049dc30d57a632bb92
+- location: https://github.com/SabakiHQ/Sabaki/releases/download/v0.50.1/sabaki-v0.50.1-win-x64-setup.exe
+  sha256: 0f448dd4451e3d2165b3fb94e56fff2d6f4036d86de9f35c706b8a2aa136be88
   architecture: x64
