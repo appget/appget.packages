@@ -1,13 +1,13 @@
 id: electron-fiddle
 name: Electron Fiddle
-version: 0.13.0
+version: 0.13.1
 home: https://www.electronjs.org/fiddle
 repo: https://github.com/electron/fiddle/
 license: MIT License
 installMethod: Squirrel
 installers:
-- location: https://github.com/electron/fiddle/releases/download/v0.13.0/electron-fiddle-0.13.0-ia32-setup.exe
-  sha256: 8b4914fb58754a1777d1cf582e2dbafb0922036ec9cb02e6d93c0cc8b23348a5
-- location: https://github.com/electron/fiddle/releases/download/v0.13.0/electron-fiddle-0.13.0-x64-setup.exe
-  sha256: 211be78cc3b90f5419d8ac0bdea2956ae425e1e9340298ea3df4b7364c7764f1
+- location: https://github.com/electron/fiddle/releases/download/v0.13.1/electron-fiddle-0.13.1-ia32-setup.exe
+  sha256: 661726491b970168559ea0e1fc57f64b55f33921ee3c06f5e01e955856fd414a
+- location: https://github.com/electron/fiddle/releases/download/v0.13.1/electron-fiddle-0.13.1-x64-setup.exe
+  sha256: e3add5fc5401807d0d6469d240da178063e259271921dedc516c230ee07eef8f
   architecture: x64
