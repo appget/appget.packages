@@ -1,6 +1,6 @@
 id: kmplayer
 name: KMPlayer
-version: 2020.03.16.05
+version: 2020.03.16.20
 home: http://www.kmplayer.com/
 installMethod: NSIS
 installers:
