@@ -1,8 +1,8 @@
 id: openssh
 name: OpenSSH
-version: 8.1.1.1
+version: 8.2.1.1
 home: https://www.mls-software.com/
 installMethod: NSIS
 installers:
-- location: https://www.mls-software.com/files/setupssh-8.1p1-1.exe
-  sha256: 21eb2f4600c7c5cd04c1be53d3da5df4e6322130b9cabda299a6cb99ee5d05ca
+- location: https://www.mls-software.com/files/setupssh-8.2p1-1.exe
+  sha256: 6aa9cb1de3eaf3a59721f0f40c17cda4d00cf9533570c2ed330f69c478f5aa14
