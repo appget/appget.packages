@@ -1,11 +1,11 @@
 id: everything-search
 name: Everything
-version: 1.4.1.965
+version: 1.4.1.969
 home: https://www.voidtools.com/
 installMethod: NSIS
 installers:
-- location: https://www.voidtools.com/Everything-1.4.1.965.x86-Setup.exe
-  sha256: 0a3262fa39d665f2fbbaa8176a442d68e90e251a34c7bd5461654be189a21ade
-- location: https://www.voidtools.com/Everything-1.4.1.965.x64-Setup.exe
-  sha256: 4d6091e9c570a961072b344b057175f410adc2f94f1c7d4be8359e5caeb4c9ac
+- location: https://www.voidtools.com/Everything-1.4.1.969.x86-Setup.exe
+  sha256: acc0dd7aa13dc8eea216261f7f33f5d36c73c86a52bceded1d5105580608c306
+- location: https://www.voidtools.com/Everything-1.4.1.969.x64-Setup.exe
+  sha256: 015612db20d31ed42bbcbca0d94f362360a6bb61cde0c861814f2eda6abe636b
   architecture: x64
