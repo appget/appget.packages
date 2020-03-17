@@ -1,13 +1,13 @@
 id: atom-nightly
 name: Atom Nightly
-version: 1.45.0-nightly4
+version: 1.47.0-nightly3
 home: https://atom.io/nightly
 repo: https://github.com/atom/atom-nightly-releases/
 license: MIT License
 installMethod: Squirrel
 installers:
-- location: https://github.com/atom/atom-nightly-releases/releases/download/v1.45.0-nightly4/AtomSetup.exe
-  sha256: 5a1190f9b2ba2f096bba45687086dc6486f798f4af0f0fb3cd561c4c4c27dca3
-- location: https://github.com/atom/atom-nightly-releases/releases/download/v1.45.0-nightly4/AtomSetup-x64.exe
-  sha256: 0a8b0491bdf9b7043e9735f5e3c96188ad81ce81bb08c52979f900cf894d1e05
+- location: https://github.com/atom/atom-nightly-releases/releases/download/v1.47.0-nightly3/AtomSetup.exe
+  sha256: d3abe9e4d269e43250b1a7f3b9c97a41e32282ab2f220eabe5813786d420b521
+- location: https://github.com/atom/atom-nightly-releases/releases/download/v1.47.0-nightly3/AtomSetup-x64.exe
+  sha256: 6635034c9f257caed6744453f14bb70c34b309f4c91e3d822991e27b6fe78577
   architecture: x64
