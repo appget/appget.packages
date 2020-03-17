@@ -4,5 +4,5 @@ version: 8.0.3
 home: https://atomisystems.com/activepresenter/
 installMethod: Inno
 installers:
-- location: https://cdn.atomisystems.com/apdownloads/ActivePresenter_v8.0.2_setup.exe
+- location: https://cdn.atomisystems.com/apdownloads/ActivePresenter_v8.0.3_setup.exe
   sha256: dfaad97b9a919ab65244a9a131412fe212c16002747d56639b737c10abafbde2
