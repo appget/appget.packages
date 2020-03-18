@@ -1,13 +1,10 @@
 id: mjml
 name: MJML
-version: 2.12.0
+version: 3.0.1
 home: https://mjmlio.github.io/mjml-app
 repo: https://github.com/mjmlio/mjml-app/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/mjmlio/mjml-app/releases/download/v2.12.0/mjml-app-2.12.0-win.exe
-  sha256: 3a673e4e2d033e15cc31e7961f115f742cce261984584e1e410b35e1a7f271f9
-- location: https://github.com/mjmlio/mjml-app/releases/download/v2.12.0/mjml-app-win-x64_2.12.0.exe
-  sha256: 3a673e4e2d033e15cc31e7961f115f742cce261984584e1e410b35e1a7f271f9
-  architecture: x64
+- location: https://github.com/mjmlio/mjml-app/releases/download/v3.0.1/mjml-app-3.0.1-win.exe
+  sha256: edb3acbc84cd98585acf643365cda8a009f631da140ef64168e7d8f5807f5539
