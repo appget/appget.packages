@@ -1,8 +1,8 @@
 id: freefilesync
 name: '{code:InsertHiddenChars|FreeFileSync}'
-version: 10.21
+version: 10.22
 home: https://freefilesync.org/
 installMethod: Inno
 installers:
-- location: https://freefilesync.org/download/FreeFileSync_10.21_Windows_Setup.exe
-  sha256: b6937e1146aff7a4b9676d3ab981ca2e562443ca3d009ba86f5f4d8c443cffc4
+- location: https://freefilesync.org/download/FreeFileSync_10.22_Windows_Setup.exe
+  sha256: 49137cc5b67aad24653bb272a487e6471473d9271f0783f70695acef5cf5034f
