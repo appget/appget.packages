@@ -1,11 +1,11 @@
 id: tortoisegit
 name: TortoiseGit
-version: 2.10.0
+version: 2.10.0.1
 home: https://tortoisegit.org/
 installMethod: MSI
 installers:
-- location: https://download.tortoisegit.org/tgit/2.10.0.0/TortoiseGit-2.10.0.0-32bit.msi
-  sha256: 7ab86b901451e75ab6a275c6e93463195d6c977c8c3b58b84e970b113d224b4a
-- location: https://download.tortoisegit.org/tgit/2.10.0.0/TortoiseGit-2.10.0.0-64bit.msi
-  sha256: bf7ae25b89502cef6e5f5f75b81cab88e534c3e8c5d7f502970ae8326a5db8f4
+- location: https://download.tortoisegit.org/tgit/2.10.0.0/TortoiseGit-2.10.0.1-32bit.msi
+  sha256: 73ef46552961c213ae720a2a6702c7060b6502a747ea0e1400f069b6fceddc42
+- location: https://download.tortoisegit.org/tgit/2.10.0.0/TortoiseGit-2.10.0.1-64bit.msi
+  sha256: 0d3dc18272caf09f4ec3c1623f0970e7f25a4f7635c0bbf26cf49e50b5a595a4
   architecture: x64
