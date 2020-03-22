@@ -1,8 +1,8 @@
 id: format-factory
 name: Format Factory
-version: 5.0.1
+version: 5.1.0
 home: http://pcfreetime.com/formatfactory/index.php
 installMethod: NSIS
 installers:
-- location: http://download.pcfreetime.com/FFSetup5.0.1.0.exe
-  sha256: eb94d789ff06aeaa834db0809bb5bb8b1fec718d12a48048d758148d12f1a67d
+- location: http://download.pcfreetime.com/FFSetup5.1.0.0.exe
+  sha256: f4a2677e8411fce6307cdc54a814331bb281d3dd9ea797a4f4bb9d4a496a92ce
