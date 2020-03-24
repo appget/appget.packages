@@ -1,13 +1,13 @@
 id: pandoc
 name: Pandoc
-version: 2.9.2
+version: 2.9.2.1
 home: https://pandoc.org/
 repo: https://github.com/jgm/pandoc/
 license: GPL v2
 installMethod: MSI
 installers:
-- location: https://github.com/jgm/pandoc/releases/download/2.9.2/pandoc-2.9.2-windows-i386.msi
-  sha256: 61fc9ac349f15c6a97c6c0a386f2f52262925802c92eaf09170c75cbb231a1bb
-- location: https://github.com/jgm/pandoc/releases/download/2.9.2/pandoc-2.9.2-windows-x86_64.msi
-  sha256: f92bb25f61ef39c2e6ae4fc36eec3575494609429b2690cd99eab3eb00594e19
+- location: https://github.com/jgm/pandoc/releases/download/2.9.2.1/pandoc-2.9.2.1-windows-i386.msi
+  sha256: 4750e94e51858e6f02ea3e07da5148b698d0bcf19a88eae59cea2904a61429e5
+- location: https://github.com/jgm/pandoc/releases/download/2.9.2.1/pandoc-2.9.2.1-windows-x86_64.msi
+  sha256: 9c9f5fbde483519bb4cc55df9ec54b537ce30593c45abdc7e7426a4ee5e229e4
   architecture: x64
