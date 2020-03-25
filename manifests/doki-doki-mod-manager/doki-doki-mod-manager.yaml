@@ -1,10 +1,10 @@
 id: doki-doki-mod-manager
 name: Doki Doki Mod Manager!
-version: 3.2.7.358
+version: 3.2.8.450
 home: https://doki.space/
 repo: https://github.com/DokiDokiModManager/Mod-Manager/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/DokiDokiModManager/Mod-Manager/releases/download/v3.2.7/ddmm-3.2.7-win.exe
-  sha256: 374d09cc63029553211ffa6c9bdfa2079665ae40da707bbf0357b65be616cad0
+- location: https://github.com/DokiDokiModManager/Mod-Manager/releases/download/v3.2.8/ddmm-3.2.8-win.exe
+  sha256: 12e09038a7fb57ea44625eca073c8dd2b43de2a4c988f189b2b035699559b96b
