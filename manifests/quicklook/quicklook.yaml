@@ -1,10 +1,10 @@
 id: quicklook
 name: QuickLook
-version: 3.6.5
+version: 3.6.6
 home: https://pooi.moe/QuickLook/
 repo: https://github.com/QL-Win/QuickLook/
 license: GNU General Public License v3.0
 installMethod: MSI
 installers:
-- location: https://github.com/QL-Win/QuickLook/releases/download/3.6.5/QuickLook-3.6.5.msi
-  sha256: 98252c187fd37810c1638e49b3a283fbd97b42c1f21784bd808db4831aa971f1
+- location: https://github.com/QL-Win/QuickLook/releases/download/3.6.6/QuickLook-3.6.6.msi
+  sha256: d521761fb5a2afe25c18d971c046accdaea39a5f0c7d8866618cd3a07c7e3d8f
