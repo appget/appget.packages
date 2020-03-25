@@ -1,10 +1,10 @@
 id: museeks
 name: Museeks
-version: 0.11.3
+version: 0.11.4
 home: https://museeks.io/
 repo: https://github.com/martpie/museeks/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/martpie/museeks/releases/download/0.11.3/museeks-setup.exe
-  sha256: 5acd407f53a0d75b182a1e2fb42138f16ca3497d62b0eacea58837746657e02c
+- location: https://github.com/martpie/museeks/releases/download/0.11.4/museeks-setup.exe
+  sha256: c67f6771291252df060f0e224bcc591e287d4517effbab24702d7ea81623be89
