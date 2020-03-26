@@ -1,10 +1,10 @@
 id: xmeters
-name: XMeters
-version: 1.0
+name: WizTree
+version: 3.30
 home: https://entropy6.com/xmeters/
 license: Free for personal use
-installMethod: Custom
+installMethod: Inno
 args:
   silent: /install /passive /silent
 installers:
-  - location: https://entropy6.com/xmeters/downloads/XMetersSetup.exe
+- location: https://entropy6.com/xmeters/downloads/XMetersSetup.exe
