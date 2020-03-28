@@ -1,10 +1,10 @@
 id: mark-text
 name: Mark Text
-version: 0.15.1.1354
+version: 0.16.1.2025
 home: https://marktext.app/
 repo: https://github.com/marktext/marktext/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/marktext/marktext/releases/download/v0.15.1/marktext-setup-0.15.1.exe
-  sha256: d92d685b22b594720040034bf26cb1935f8a88dff1bda122e08bc4070d4978cc
+- location: https://github.com/marktext/marktext/releases/download/v0.16.1/marktext-setup.exe
+  sha256: 2b389c0bf3e7d9348d1e69ee5ffc9485b4c18da017c955c019e92029c824b037
