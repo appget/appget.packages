@@ -1,9 +1,9 @@
 id: electorrent
 name: Electorrent
-version: 2.7.0
+version: 2.7.1
 repo: https://github.com/tympanix/Electorrent/
 license: GNU General Public License v3.0
 installMethod: Squirrel
 installers:
-- location: https://github.com/tympanix/Electorrent/releases/download/v2.7.0/electorrent-Setup-2.7.0.exe
-  sha256: 880fbd4aa8b4fa5983d5f2080f7b29279bcddcb6c37dfa1b507d57a34d294959
+- location: https://github.com/tympanix/Electorrent/releases/download/v2.7.1/electorrent-Setup-2.7.1.exe
+  sha256: 6bb00ed216d5989b56f349521b7aa089c0f810b3a10d4516b75509a87786dc23
