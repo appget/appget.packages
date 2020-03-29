@@ -1,13 +1,13 @@
 id: stellarium
 name: Stellarium
-version: 0.19.3.1
+version: 0.20.0
 home: https://stellarium.org/
 repo: https://github.com/Stellarium/stellarium/
 license: GNU General Public License v2.0
 installMethod: Inno
 installers:
-- location: https://github.com/Stellarium/stellarium/releases/download/v0.19.3/stellarium-0.19.3.1-win32.exe
-  sha256: 9692ab6498ada9986d40982c39a6fb020907b1c5e1fa4026d404eb6176d07bdf
-- location: https://github.com/Stellarium/stellarium/releases/download/v0.19.3/stellarium-0.19.3.1-win64.exe
-  sha256: 26a16b86ac0c6486327e3f932da0c5d8dd0a44d06daa370cda98f362a19fa7eb
+- location: https://github.com/Stellarium/stellarium/releases/download/v0.20.0/stellarium-0.20.0-win32.exe
+  sha256: 4ee4f96a132bd5fe2853aa8e4d430e6e27f6b1999eaae0ffe257ebcb7c5331b9
+- location: https://github.com/Stellarium/stellarium/releases/download/v0.20.0/stellarium-0.20.0-win64.exe
+  sha256: 3670bc90c0d2f62ef6bf722e407a26fcc8d5fec21542e89633d319942f394828
   architecture: x64
