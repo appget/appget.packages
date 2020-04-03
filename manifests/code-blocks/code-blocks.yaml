@@ -1,9 +1,9 @@
 id: code-blocks
 name: Code::Blocks
-version: 17.12
-home: http://www.codeblocks.org
+version: 20.03
+home: http://www.codeblocks.org/
 repo: https://sourceforge.net/projects/codeblocks/
 installMethod: NSIS
 installers:
-- location: https://downloads.sourceforge.net/project/codeblocks/Binaries/17.12/Windows/codeblocks-17.12-setup.exe
-  sha256: bdb1a109b99cabfbe45442e8a8e02e00a8b1d5c3bc8276d68d83f5e0151b3ad2
+- location: https://downloads.sourceforge.net/project/codeblocks/Binaries/20.03/Windows/codeblocks-20.03-setup.exe
+  sha256: 0e5f140c9371c39f46dc00cd75d6a7a8782814baefdf604f923e9ac647c59e09
