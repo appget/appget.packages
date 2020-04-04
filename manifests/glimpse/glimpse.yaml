@@ -1,0 +1,10 @@
+id: glimpse
+name: Glimpse Image Editor
+version: 0.1.2
+home: https://glimpse-editor.org/
+repo: https://github.com/glimpse-editor/Glimpse/
+installMethod: MSI
+installers:
+- location: https://github.com/glimpse-editor/Glimpse/releases/download/v0.1.2/glimpse-0.1.2.msi
+  sha256: 99c3df2884310cb74c39a15fb63e93fbf2112f581dc5325b37123467618d89e8
+  minWindowsVersion: 6.1
