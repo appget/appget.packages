@@ -5,5 +5,5 @@ home: https://imdisk-toolkit.sourceforge.io/
 installMethod: Custom
 installers:
 - location: https://downloads.sourceforge.net/project/imdisk-toolkit/20200404/ImDiskTk-x64.exe
-  sha256: 6891afde6a5ce6cc2cf354460c95b94cf1bca749a084031a3d659efb96a815ae
+  sha256: 7153f01875eda39c19db24bf5be5ad34cb37ba98e7c7fa0f719cbb6985fb5c56
   architecture: x64
