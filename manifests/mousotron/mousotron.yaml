@@ -1,7 +1,7 @@
 id: mousotron
 name: Mousotron
 version: 12.1
-home: http://www.blacksunsoftware.com/mousotron.html
+home: https://www.blacksunsoftware.com/mousotron.html
 installMethod: Inno
 installers:
 - location: https://www.blacksunsoftware.com/downloads/Mousotronsetup.exe
