@@ -6,5 +6,5 @@ license: GNU Public License v2
 repo: https://github.com/audacity/audacity/
 installMethod: Inno
 installers:
-- location: https://www.fosshub.com/Audacity.html?dwl=audacity-win-2.3.3.exe
+- location: https://fossies.org/windows/misc/audacity-win-2.3.3.exe
   sha256: 263cecf19ff27c7a2f0c04a4031f0e45cda5215eb0836a4e40e09605d83286e2
