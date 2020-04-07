@@ -1,6 +1,6 @@
 id: libreoffice
 name: LibreOffice
-version: 6.4.2
+version: 6.4.2.2
 home: https://www.libreoffice.org/
 repo: https://cgit.freedesktop.org/libreoffice
 license: Mozilla Public License 2.0
