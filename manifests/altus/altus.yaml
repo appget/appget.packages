@@ -1,10 +1,10 @@
 id: altus
 name: Altus
-version: 3.4.1
-home: https://shadythgod.github.io/altus/
-repo: https://github.com/ShadyThGod/altus/
+version: 3.8.0
+home: https://amanharwara.xyz/altus
+repo: https://github.com/amanharwara/altus/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/ShadyThGod/altus/releases/download/3.4.1/Altus-Setup-3.4.1.exe
-  sha256: 5937679a18c3a7eb0b3a32399f5f381d640b86b4049c05c2963bea2f6a69bea5
+- location: https://github.com/amanharwara/altus/releases/download/3.8.0/Altus-Setup-3.8.0.exe
+  sha256: b4f53795c6d5d4a0e0a043c164ba722fb4b61089a07e966b457f01bae393356d
