@@ -4,4 +4,4 @@ version: 6.1.1.212
 home: https://www.questrade.com/
 installMethod: Inno
 installers:
-- location: http://media.questrade.com/iq_downloads/QuestradeIQEdge.exe
+- location: https://media.questrade.com/iq_downloads/QuestradeIQEdge.exe
