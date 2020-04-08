@@ -1,0 +1,8 @@
+id: process-lasso
+name: Process Lasso
+version: 9.7.0.48
+home: https://bitsum.com/
+installMethod: NSIS
+installers:
+- location: https://dl.bitsum.com/files/processlassosetup64.exe
+  architecture: x64
