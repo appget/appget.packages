@@ -6,4 +6,4 @@ installMethod: Custom
 args:
   silent: /Silent
 installers:
-- location: https://download.scdn.co/SpotifyFullSetup.exe
+- location: https://download.scdn.co/SpotifySetup.exe
