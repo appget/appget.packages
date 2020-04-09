@@ -1,6 +1,11 @@
 id: openvpn
 name: OpenVPN
 home: https://openvpn.net/
+repo: https://github.com/OpenVPN/openvpn
+license: GNU General Public License
 installMethod: NSIS
 installers:
-- location: https://build.openvpn.net/downloads/releases/latest/openvpn-install-latest-stable.exe
+- location: https://build.openvpn.net/downloads/releases/latest/openvpn-install-latest-stable-win10.exe
+  minWindowsVersion: 10.0
+- location: https://build.openvpn.net/downloads/releases/latest/openvpn-install-latest-stable-win7.exe
+  minWindowsVersion: 6.1
