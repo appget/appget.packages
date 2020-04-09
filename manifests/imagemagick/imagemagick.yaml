@@ -1,11 +1,11 @@
 id: imagemagick
 name: ImageMagick Q16
-version: 7.0.9
+version: 7.0.10
 home: https://www.imagemagick.org/
 installMethod: Inno
 installers:
-- location: https://imagemagick.org/download/binaries/ImageMagick-7.0.9-27-Q16-x86-dll.exe
-  sha256: d39f747632f4353a00ddd626226bcd61681f25ee5b5ec5682384a25442ed3998
-- location: https://imagemagick.org/download/binaries/ImageMagick-7.0.9-27-Q16-x64-dll.exe
-  sha256: 121b5f5f51f020eb0b840ebde2d918e30e6e0d983fe642747542cd00641623a9
+- location: https://imagemagick.org/download/binaries/ImageMagick-7.0.10-6-Q16-x86-dll.exe
+  sha256: c21dc101561911710dd657470ab0beb26b261a633455e151f985cb41c2def23e
+- location: https://imagemagick.org/download/binaries/ImageMagick-7.0.10-6-Q16-x64-dll.exe
+  sha256: 87e5a3446bdcd13d6c4a82b250445023b1f17403bfeb6b80600afee56bc7532e
   architecture: x64
