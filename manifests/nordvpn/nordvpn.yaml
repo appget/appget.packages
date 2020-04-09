@@ -1,8 +1,8 @@
 id: nordvpn
 name: NordVPN
-version: 6.26.17
+version: 6.28.13
 home: https://nordvpn.com/
-installMethod: Custom
+installMethod: AdvancedInstaller
 args:
   silent: /q
 installers:

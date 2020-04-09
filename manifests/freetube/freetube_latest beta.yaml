@@ -1,11 +1,11 @@
 id: freetube
 name: FreeTube
-version: 0.7.1
+version: 0.7.2
 home: https://freetubeapp.io/
 repo: https://github.com/FreeTubeApp/FreeTube/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.7.1-beta/FreeTube.Setup.0.7.1.exe
-  sha256: 25e8c0c7b78f401a2f5402a0baf54aab99b7394281a78a4c6c8ee2753d6cedea
+- location: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.7.2-beta/FreeTube.Setup.0.7.2.exe
+  sha256: 106bf74fabfd40d1b6cfb4fe2d8de555b9ae1857a9595856c15b17352957ded5
   architecture: x64

@@ -1,0 +1,7 @@
+id: executor
+name: Executor
+version: 1.0
+home: http://www.executor.dk/
+installMethod: Inno
+installers:
+- location: http://www.1space.dk/executor/ExecutorSetup.exe
