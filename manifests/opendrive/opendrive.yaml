@@ -1,0 +1,10 @@
+id: opendrive
+name: OpenDrive
+version: 0.2.1
+home: https://liberodark.github.io/ODrive/
+repo: https://github.com/liberodark/ODrive/
+license: GNU General Public License v3.0
+installMethod: NSIS
+installers:
+- location: https://github.com/liberodark/ODrive/releases/download/0.2.1/OpenDrive.Setup.0.2.1.exe
+  sha256: e20671cfcef1d729818f2d2f52feee9b6dcd9b5af3b2413860c26e9bfb14c0de

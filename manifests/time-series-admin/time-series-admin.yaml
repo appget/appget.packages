@@ -1,10 +1,10 @@
 id: time-series-admin
 name: Time Series Admin
-version: 0.1.8
+version: 0.1.9
 home: https://timeseriesadmin.github.io/
 repo: https://github.com/timeseriesadmin/timeseriesadmin/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/timeseriesadmin/timeseriesadmin/releases/download/v0.1.8/TimeSeriesAdmin.exe
-  sha256: 367583bdc5f5f21b4a075b1306b21cda51d33875d3e06932c049999c89c1f094
+- location: https://github.com/timeseriesadmin/timeseriesadmin/releases/download/v0.1.9/TimeSeriesAdmin.exe
+  sha256: 41a957b25e698513d7d1ef1604f73de3d767fe6a774bf5c9a4a3d34f83687ef5
