@@ -1,6 +1,6 @@
 id: imagemagick
 name: ImageMagick Q16
-version: 7.0.10
+version: 7.0.10.6
 home: https://www.imagemagick.org/
 installMethod: Inno
 installers:
