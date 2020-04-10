@@ -2,8 +2,8 @@ id: audacity
 name: Audacity
 version: 2.3.3
 home: https://www.audacityteam.org/
-license: GNU Public License v2
 repo: https://github.com/audacity/audacity/
+license: GNU Public License v2
 installMethod: Inno
 installers:
 - location: https://fossies.org/windows/misc/audacity-win-2.3.3.exe
