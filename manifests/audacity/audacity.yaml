@@ -1,7 +1,7 @@
 id: audacity
 name: Audacity
 version: 2.3.3
-home: https://wiki.audacityteam.org/wiki/For_Developers
+home: https://www.audacityteam.org/
 repo: https://github.com/audacity/audacity/
 license: GNU Public License v2
 installMethod: Inno
