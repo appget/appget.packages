@@ -1,0 +1,14 @@
+id: rakudo-star
+name: Rakudo Star
+version: 2020.01
+home: https://rakudo.org/star/
+repo: https://github.com/rakudo/rakudo
+license: Artistic License 2.0
+installMethod: MSI
+args:
+  passive: /passive
+  silent: /quiet
+installers:
+- location: https://rakudo.org/dl/star/rakudo-star-2019.03-01-win-x86_64-(JIT).msi
+  sha256: a4a728fff7c32d98790e4e12f145bfab89cc4dab56e268b2ced3c80f08bd4a30
+  architecture: x64
