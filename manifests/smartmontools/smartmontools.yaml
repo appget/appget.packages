@@ -1,0 +1,14 @@
+id: smartmontools
+name: Smartmontools
+version: 7.1
+home: https://www.smartmontools.org/
+repo: https://sourceforge.net/projects/smartmontools/
+license: GNU General Public License 2
+installMethod: NSIS
+installers:
+- location: https://sourceforge.net/projects/smartmontools/files/smartmontools/7.1/smartmontools-7.1-1.win32-setup.exe
+  sha256: 7652f42bcd2997cbd5489435fd26e4cd708ed6ac20959418c8abf0993f37d827
+  architecture: x86
+- location: https://sourceforge.net/projects/smartmontools/files/smartmontools/7.1/smartmontools-7.1-1.win32-setup.exe
+  sha256: 7652f42bcd2997cbd5489435fd26e4cd708ed6ac20959418c8abf0993f37d827
+  architecture: x64
