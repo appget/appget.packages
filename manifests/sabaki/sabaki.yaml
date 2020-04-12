@@ -7,7 +7,7 @@ license: MIT License
 installMethod: NSIS
 installers:
 - location: https://github.com/SabakiHQ/Sabaki/releases/download/v0.51.1/sabaki-v0.51.1-win-ia32-setup.exe
-  sha256: 2f5a27be4f859438d2d5f19045cdf3434fd4369cbfba1ab90118207ad6a1f14d
+  sha256: 37db9b5ba7578e9a3140bf36a4953b814311f1c0fbdea349fc4998890f15f7db
 - location: https://github.com/SabakiHQ/Sabaki/releases/download/v0.51.1/sabaki-v0.51.1-win-x64-setup.exe
-  sha256: 463bb5adc78182a2acac36f5dd0f6c0d38fdd710d50983b74f9a9d5a3f21cdee
+  sha256: 92396614324e67831b5b525a47042d9ba9558d1fadfa11e494a386c9e5a51c0a
   architecture: x64
