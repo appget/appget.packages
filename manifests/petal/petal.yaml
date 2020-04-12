@@ -1,10 +1,10 @@
 id: petal
 name: Petal
-version: 2.24.0
+version: 2.25.0
 home: https://ilime.github.io/Petal/
 repo: https://github.com/ilime/Petal/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/ilime/Petal/releases/download/v2.24.0/petal.Setup.2.24.0.exe
-  sha256: 81ec2a6610ee4abc59e8d84c3b05146c8b41ad9ca218383e76cc2cbaf135a489
+- location: https://github.com/ilime/Petal/releases/download/v2.25.0/petal.Setup.2.25.0.exe
+  sha256: da94d46a0373c2cdaf13fefafdef0dcfdb3b9da61e7327566df517e944dc08ba
