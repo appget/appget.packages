@@ -1,12 +1,12 @@
 id: smplayer
 name: SMPlayer
-version: 19.10.0
+version: 20.4.2
 home: https://www.smplayer.info/
 repo: https://sourceforge.net/projects/smplayer/
 installMethod: NSIS
 installers:
-- location: https://downloads.sourceforge.net/project/smplayer/SMPlayer/19.10.0/smplayer-19.10.0-win32.exe
-  sha256: dec17a6253944fd3bb8288437f1b87d953dac6dacb4c8f09a8590f8cc4496510
-- location: https://downloads.sourceforge.net/project/smplayer/SMPlayer/19.10.0/smplayer-19.10.0-x64.exe
-  sha256: cc75d15d3c63137845c04d2737d9d0b90a7fe755e99bdd7415a5faf591fc47c5
+- location: https://downloads.sourceforge.net/project/smplayer/SMPlayer/20.4.2/smplayer-20.4.2-win32.exe
+  sha256: 0e4e4d23437f6e78713dac772eeb74eb0bf86c8542a43eaf34c602a0315eb6f3
+- location: https://downloads.sourceforge.net/project/smplayer/SMPlayer/20.4.2/smplayer-20.4.2-x64.exe
+  sha256: ebc293298111b7b4e0b3adbc19b8d43b1f2da506468b2bf95e4c65d5ff4f3046
   architecture: x64
