@@ -1,9 +1,9 @@
 id: jackett
 name: Jackett
-version: 0.16.7.0
+version: 0.16.18.0
 repo: https://github.com/Jackett/Jackett/
 license: GNU General Public License v2.0
 installMethod: Inno
 installers:
-- location: https://github.com/Jackett/Jackett/releases/download/v0.16.7/Jackett.Installer.Windows.exe
-  sha256: 0917467dce3ecb5d461728a65116c0571c145a0a50b5a60c5029f24eb92ac1d0
+- location: https://github.com/Jackett/Jackett/releases/download/v0.16.18/Jackett.Installer.Windows.exe
+  sha256: 65762ad4e6210b1322b7c71d63233e5781832a5da3a37c5e977882823af16927
