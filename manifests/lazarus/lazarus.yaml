@@ -1,11 +1,11 @@
 id: lazarus
 name: Lazarus IDE
-version: 2.0.6
+version: 2.0.8
 home: https://www.lazarus-ide.org/
 installMethod: Inno
 installers:
-- location: https://downloads.sourceforge.net/project/lazarus/Lazarus Windows 32 bits/Lazarus 2.0.6/lazarus-2.0.6-fpc-3.0.4-win32.exe
-  sha256: 24155786b2de69334be13a8cabaf28d52a7b72e735a098cd538dbb1aae18e0c3
-- location: https://downloads.sourceforge.net/project/lazarus/Lazarus Windows 64 bits/Lazarus 2.0.6/lazarus-2.0.6-fpc-3.0.4-win64.exe
-  sha256: acf428903551097094ba4bb31209c1d160f911ffb507ebc52aaca09aa0ae10ee
+- location: https://downloads.sourceforge.net/project/lazarus/Lazarus Windows 32 bits/Lazarus 2.0.8/lazarus-2.0.8-fpc-3.0.4-win32.exe
+  sha256: cdd50e5b0d9477bf85c2beaaef72a236cf3cda41c807acacf821543381093b82
+- location: https://downloads.sourceforge.net/project/lazarus/Lazarus Windows 64 bits/Lazarus 2.0.8/lazarus-2.0.8-fpc-3.0.4-win64.exe
+  sha256: a574f0a961770ee506764fb438bd5e3e5891428191e11fd8cd90bf7f41a1288a
   architecture: x64
