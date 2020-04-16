@@ -1,6 +1,6 @@
 id: sumo
 name: KC Softwares SUMo
-version: 5.10.14.452
+version: 5.10.15.453
 home: https://www.kcsoftwares.com/?sumo
 installMethod: Inno
 installers:
