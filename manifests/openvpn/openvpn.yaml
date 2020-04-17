@@ -1,5 +1,6 @@
 id: openvpn
 name: OpenVPN
+version: 1.0
 home: https://openvpn.net/
 repo: https://github.com/OpenVPN/openvpn/
 license: GNU General Public License
