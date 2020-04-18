@@ -1,8 +1,8 @@
 id: clips
 name: Clips
-version: 0.1.1
+version: 0.1.2
 repo: https://github.com/azure06/clips/
 installMethod: NSIS
 installers:
-- location: https://github.com/azure06/clips/releases/download/v0.1.1/Clips-Setup-0.1.1.exe
-  sha256: 9063bc393cc28ab21ee515f17618c5d3ffb45241e9a2e556d0a9bf790a612243
+- location: https://github.com/azure06/clips/releases/download/v0.1.2/Clips-Setup-0.1.2.exe
+  sha256: b34c3a37a1d68728c18138b0aa414c602c664b020e82eb78db061e41f37590c4
