@@ -1,0 +1,8 @@
+id: makemkv
+name: MakeMKV
+version: 1.15.1
+home: https://www.makemkv.com/
+installMethod: NSIS
+installers:
+- location: https://www.makemkv.com/download/Setup_MakeMKV_v1.15.1.exe
+  sha256: e219ff9fdf45a71ceb3aa55615648b43d8efa64b098459d9cec9741de11dd966
