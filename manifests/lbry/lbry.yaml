@@ -1,10 +1,10 @@
 id: lbry
 name: LBRY
-version: 0.44.0.10562
+version: 0.45.0.10890
 home: https://lbry.com/
 repo: https://github.com/lbryio/lbry-desktop/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/lbryio/lbry-desktop/releases/download/v0.44.0/LBRY_0.44.0.exe
-  sha256: 047f96e067b6735d2bde870dccd9f4d45d05fa664ce5ad45416f4887b92fea95
+- location: https://github.com/lbryio/lbry-desktop/releases/download/v0.45.0/LBRY_0.45.0.exe
+  sha256: aa3dc81ec7a61d3aec2811d7825f439875a6e9c4f7f17e0feccd56ceb166209c
