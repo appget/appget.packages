@@ -1,0 +1,9 @@
+id: vvv
+name: Virtual Volumes View
+version: 1.4
+home: https://vvvapp.sourceforge.net
+installMethod: Inno
+installers:
+- location: https://tenet.dl.sourceforge.net/project/vvvapp/VVV/1.4/VVV-1.4-Setup.exe
+  sha256: e2898dae6c91391d719488a19b888aae59141da4aa0e70d75c167a27006c8959
+  architecture: x64
