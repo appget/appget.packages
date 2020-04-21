@@ -1,0 +1,8 @@
+id: filmora
+name: Filmora
+version: 2.0.15.2
+home: https://filmora.wondershare.com/video-editor/
+installMethod: Custom
+installers:
+- location: https://ssl-download.wondershare.com/filmora_full846.exe
+  sha256: 66ac827f2b27ba3ff988d3b0c724dbee034e777d65e0e7bfc8bd5c257775b5c6
