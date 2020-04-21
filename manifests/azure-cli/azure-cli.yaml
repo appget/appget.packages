@@ -1,6 +1,6 @@
 id: azure-cli
 name: Microsoft CLI for Azure
-version: 2.3.1
+version: 2.4.0
 home: https://docs.microsoft.com/en-us/cli/azure/overview
 installMethod: MSI
 installers:
