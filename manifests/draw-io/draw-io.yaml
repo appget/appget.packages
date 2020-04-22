@@ -1,10 +1,10 @@
 id: draw-io
 name: draw.io
-version: 12.9.13.365
+version: 13.0.1.371
 home: https://www.diagrams.net/
 repo: https://github.com/jgraph/drawio-desktop/
 license: Apache License 2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/jgraph/drawio-desktop/releases/download/v12.9.13/draw.io-12.9.13.exe
-  sha256: 6b3f6175049163f2d3d94ddf0ab0a605a8cb307861491894ea6801bbbf62ebd9
+- location: https://github.com/jgraph/drawio-desktop/releases/download/v13.0.1/draw.io-13.0.1.exe
+  sha256: 5094758f085aa9efc24dbdf42f8b2f37c8da0cce8c39ef8d49e33b1dc0ebc03e
