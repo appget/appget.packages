@@ -4,4 +4,4 @@ version: 4.4.0.24
 home: http://www.alldup.info/
 installMethod: Inno
 installers:
-- location: http://www.alldup.de/download/AllDupSetup.exe
+- location: http://www.alldup.info/download/AllDupSetup.exe
