@@ -1,10 +1,10 @@
 id: webcatalog
 name: WebCatalog
-version: 20.1.1
+version: 20.7.0
 home: https://webcatalogapp.com/
 repo: https://github.com/atomery/webcatalog/
 license: Mozilla Public License 2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/atomery/webcatalog/releases/download/v20.1.1/WebCatalog-Setup-20.1.1.exe
-  sha256: 37d722f5e851ab67ef857fff70ee5f2bcde994b41f39a5888a28fc8c2ec886e2
+- location: https://github.com/atomery/webcatalog/releases/download/v20.7.0/WebCatalog-Setup-20.7.0.exe
+  sha256: 5f8b12f3b980a390fa3396b078700639b697d3c5d9d8d170f942dc73291d7ab0
