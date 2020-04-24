@@ -1,10 +1,10 @@
 id: winscp
 name: WinSCP
-version: 5.17.3
+version: 5.17.4
 home: https://winscp.net/
 repo: https://github.com/winscp/winscp/
 license: GNU General Public License v3.0
 installMethod: Inno
 installers:
-- location: https://downloads.sourceforge.net/project/winscp/WinSCP/5.17.3/WinSCP-5.17.3-Setup.exe
-  sha256: 79de2d5cba143cba220ecf6c76d9e07407243e554ba524a78365ccd881b80214
+- location: https://downloads.sourceforge.net/project/winscp/WinSCP/5.17.4/WinSCP-5.17.4-Setup.exe
+  sha256: 5b0fb0074b19b62feb0c718a8de32399c5f4c0962accd091383ebe19519902ea
