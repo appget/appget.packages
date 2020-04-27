@@ -2,7 +2,7 @@ id: abricotine
 name: Abricotine
 version: 1.0.0
 home: https://abricotine.brrd.fr/
-repo: https://github.com/brrd/Abricotine/
+repo: https://github.com/brrd/abricotine/
 license: GNU General Public License v3.0
 installMethod: Squirrel
 installers:
