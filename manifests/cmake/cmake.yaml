@@ -1,12 +1,12 @@
 id: cmake
 name: CMake
-version: 3.17.1
+version: 3.17.2
 home: https://gitlab.kitware.com/cmake/cmake
 repo: https://github.com/Kitware/CMake/
 installMethod: MSI
 installers:
-- location: https://github.com/Kitware/CMake/releases/download/v3.17.1/cmake-3.17.1-win32-x86.msi
-  sha256: 8465a17f6f6dd15c34c4db49417be7ac52084776d8ad0cf8284a7d610788a153
-- location: https://github.com/Kitware/CMake/releases/download/v3.17.1/cmake-3.17.1-win64-x64.msi
-  sha256: 1340a639c85faa32e5aeb098d21e7c0dfa95fc9c5e7f29e0976cd122e4cc2a8a
+- location: https://github.com/Kitware/CMake/releases/download/v3.17.2/cmake-3.17.2-win32-x86.msi
+  sha256: 2cc188e46b2e98a557278700290d43550bc7a91b2d4d8928c991d938867db71b
+- location: https://github.com/Kitware/CMake/releases/download/v3.17.2/cmake-3.17.2-win64-x64.msi
+  sha256: 06e999be9e50f9d33945aeae698b9b83678c3f98cedb3139a84e19636d2f6433
   architecture: x64
