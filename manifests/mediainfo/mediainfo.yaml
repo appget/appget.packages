@@ -1,0 +1,8 @@
+id: mediainfo
+name: MediaInfo
+version: 20.03.0
+home: https://mediaarea.net/en/MediaInfo
+installMethod: NSIS
+installers:
+- location: https://mediaarea.net/download/binary/mediainfo-gui/20.03/MediaInfo_GUI_20.03_Windows.exe
+  sha256: 1b3c461b84150ce000f5ba41f507115911d612a86294c11a5fec3bc03d671761
