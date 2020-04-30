@@ -1,10 +1,10 @@
 id: franz
 name: Franz
-version: 5.4.1.1737
+version: 5.5.0.1797
 home: https://meetfranz.com/
 repo: https://github.com/meetfranz/franz/
 license: Apache License 2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/meetfranz/franz/releases/download/v5.4.1/Franz-Setup-5.4.1.exe
-  sha256: 72c7a2dffa20b27796ba9fa223ce2685bf91219f8a86ccc26c5956e7e9e6175d
+- location: https://github.com/meetfranz/franz/releases/download/v5.5.0/Franz-Setup-5.5.0.exe
+  sha256: a52ebf11fa631b3634acd603ee9f51fc9a5d65ae8c85f3cbb1986b00cf5c3323
