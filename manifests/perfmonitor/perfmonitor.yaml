@@ -4,5 +4,5 @@ version: 2.04
 home: https://www.cpuid.com/softwares/perfmonitor-2.html
 installMethod: Inno
 installers:
-- location: http://download.cpuid.com/perfmonitor-2/perfmonitor-2_2.04.exe
+- location: https://download.cpuid.com/perfmonitor-2/perfmonitor-2_2.04.exe
   sha256: 31d274f150413047fc4de7ff01dbbb861f5e1d4ceb3d60439595f08bc14f82c7
