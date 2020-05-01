@@ -4,5 +4,5 @@ version: 1.39
 home: https://www.cpuid.com/softwares/hwmonitor.html
 installMethod: Inno
 installers:
-- location: http://download.cpuid.com/hwmonitor/hwmonitor_1.39.exe
+- location: https://download.cpuid.com/hwmonitor/hwmonitor_1.39.exe
   sha256: b3a0beb5ab38d8714f457a4d3623c9c6856c72010b9b1297f55f88dc183432b0
