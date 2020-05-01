@@ -1,7 +1,7 @@
 id: p3x-redis-ui
 name: P3X Redis UI
 version: 2020.4.140
-home: https://pages.corifeus.com/redis-ui
+home: https://www.corifeus.com/redis-ui
 repo: https://github.com/patrikx3/redis-ui/
 installMethod: NSIS
 installers:
