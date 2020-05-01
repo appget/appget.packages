@@ -4,5 +4,5 @@ version: 1.91
 home: https://www.cpuid.com/softwares/cpu-z.html
 installMethod: Inno
 installers:
-- location: http://download.cpuid.com/cpu-z/cpu-z_1.91-en.exe
+- location: https://download.cpuid.com/cpu-z/cpu-z_1.91-en.exe
   sha256: 80ece6ed1e249578e97aee0e9e347644eef32b269b7327cbc370ad19218f1177
