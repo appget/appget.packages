@@ -1,6 +1,6 @@
 id: alldup
 name: AllDup
-version: 4.4.0.24
+version: 4.4.0.26
 home: http://www.alldup.info/
 installMethod: Inno
 installers:
