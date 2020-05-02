@@ -1,8 +1,8 @@
 id: bulk-image-downloader
 name: Bulk Image Downloader
-version: 5.50
+version: 5.68
 home: https://bulkimagedownloader.com/
 installMethod: Inno
 installers:
 - location: https://bulkimagedownloader.com/files/bid_5_50_setup.exe
-  sha256: 6817109eade52effb6fb501d78a9196999259d13f6e5134a4b2f64b105951c93
+  sha256: d8fc6ea52fb82cdd1a2c9b3603de67aa75b86fd6efd3cdb0735a5e4f46d5a614
