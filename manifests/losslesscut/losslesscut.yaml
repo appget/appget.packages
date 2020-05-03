@@ -1,9 +1,9 @@
 id: losslesscut
 name: LosslessCut
-version: 3.21.0
+version: 3.22.0
 repo: https://github.com/mifi/lossless-cut/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/mifi/lossless-cut/releases/download/v3.21.0/LosslessCut-win.exe
-  sha256: b6f9c13e495aaa7f8137f0fbc130318210353b53b9b606e7c5cc2b519fc56087
+- location: https://github.com/mifi/lossless-cut/releases/download/v3.22.0/LosslessCut-win.exe
+  sha256: 5e601f7da0c27a9513b04026f96798ac31b3fc6b89bfb99d015b851b13b38a22
