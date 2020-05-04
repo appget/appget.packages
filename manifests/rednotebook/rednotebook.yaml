@@ -1,10 +1,10 @@
 id: rednotebook
 name: RedNotebook
-version: 2.18
+version: 2.19
 home: https://rednotebook.sourceforge.io/
 repo: https://github.com/jendrikseipp/rednotebook/
 license: GNU General Public License v2.0
 installMethod: Inno
 installers:
-- location: https://github.com/jendrikseipp/rednotebook/releases/download/v2.18/rednotebook-2.18.exe
-  sha256: 1e9c0a0d2f26a233d77c50ab7a75e646d6db53ac293a1a4da533d56c876453a8
+- location: https://github.com/jendrikseipp/rednotebook/releases/download/v2.19/rednotebook-2.19.exe
+  sha256: 1c91d7baef817543d3bb3cc699acbe5597993c3ea6e6dfd7221148310129fe2c
