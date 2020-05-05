@@ -1,6 +1,6 @@
 id: mendeley
 name: Mendeley
-version: 1.19.4
+version: 1.19.6
 home: https://www.mendeley.com/
 installMethod: NSIS
 installers:
