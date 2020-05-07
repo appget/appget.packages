@@ -1,9 +1,9 @@
 id: keepass
 name: KeePass
-version: 2.44.0
+version: 2.45.0
 home: https://keepass.info/
 repo: https://sourceforge.net/projects/keepass/
 installMethod: MSI
 installers:
-- location: https://downloads.sourceforge.net/project/keepass/KeePass 2.x/2.44/KeePass-2.44.msi
-  sha256: 67199581fd016e04fd4ced98547c72cc581186d70930b5f73a43f1be94d9fda8
+- location: https://downloads.sourceforge.net/project/keepass/KeePass 2.x/2.45/KeePass-2.45.msi
+  sha256: baf58c7bff072d684461bcf3e09d5c1de928df3fa4cbe65540802045cac8b5f4
