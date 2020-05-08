@@ -1,9 +1,9 @@
 id: tabby
 name: tabby
-version: 1.2.5
+version: 1.2.6
 repo: https://github.com/natixco/tabby/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/natixco/tabby/releases/download/v1.2.5/tabby.Setup.1.2.5.exe
-  sha256: 2b73ce5c63b26377892f6e6fc0f6a1c4d91935ae18459d5a71146b7a06aec3b1
+- location: https://github.com/natixco/tabby/releases/download/v.1.2.6/tabby.Setup.1.2.6.exe
+  sha256: a126478b9344ab2a83b0904d8861622ce6f8c9dea33aa0632c7019fa0feefc74
