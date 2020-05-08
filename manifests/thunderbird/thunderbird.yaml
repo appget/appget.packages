@@ -4,4 +4,6 @@ version: 68.8.0
 home: https://www.thunderbird.net/
 installMethod: Custom
 installers:
-- location: https://download.mozilla.org/?product=thunderbird-latest&os=win&lang=en-US
+- location: https://download.mozilla.org/?product=thunderbird-latest-SSL&os=win&lang=en-US
+- location: https://download.mozilla.org/?product=thunderbird-latest-SSL&os=win64&lang=en-US
+  architecture: x64
