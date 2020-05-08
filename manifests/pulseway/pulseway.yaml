@@ -1,6 +1,6 @@
 id: pulseway
 name: Pulseway
-version: 8.1
+version: 8.1.1
 home: https://www.pulseway.com/
 installMethod: MSI
 installers:
