@@ -1,7 +1,7 @@
 id: lbry
 name: LBRY
 version: 0.45.1.11225
-home: https://lbry.com/
+home: https://lbry.tv/
 repo: https://github.com/lbryio/lbry-desktop/
 license: MIT License
 installMethod: NSIS
