@@ -1,6 +1,6 @@
 id: cpu-z
 name: CPUID CPU-Z
-version: 1.91
+version: 1.92
 home: https://www.cpuid.com/softwares/cpu-z.html
 installMethod: Inno
 installers:
