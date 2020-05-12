@@ -1,8 +1,8 @@
 id: flash-player-activex
 name: Adobe Flash Player ActiveX
-version: 32.0.0.363
+version: 32.0.0.371
 home: https://www.adobe.com/
 installMethod: MSI
 installers:
-- location: https://download.macromedia.com/pub/flashplayer/pdc/32.0.0.363/install_flash_player_32_active_x.msi
-  sha256: 65ff345b073fbb80e3cf6d1f691b2e75c96bb551e6bb8997be7c0585f9b4c2c7
+- location: https://download.macromedia.com/pub/flashplayer/pdc/32.0.0.371/install_flash_player_32_active_x.msi
+  sha256: 06adb72a820e100c2ce2bf65605bebf835fbd0447b882a9ed6e99a340ba0f843
