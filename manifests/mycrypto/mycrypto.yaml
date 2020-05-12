@@ -1,12 +1,12 @@
 id: mycrypto
 name: MyCrypto
-version: 1.7.9
+version: 1.7.10
 home: https://mycrypto.com/
 repo: https://github.com/MyCryptoHQ/MyCrypto/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/MyCryptoHQ/MyCrypto/releases/download/1.7.9/windows_1.7.9_MyCrypto.exe
-  sha256: ec910be5866e90e30e3713ed359409281ce789273c2cc845f5d667e54f556446
+- location: https://github.com/MyCryptoHQ/MyCrypto/releases/download/1.7.10/windows_1.7.10_MyCrypto.exe
+  sha256: b03994e2862bbf5b3977abf0eca02963189dcda0c072abcfdd7bd14c7e278a09
   architecture: x64
   minWindowsVersion: 10.0
