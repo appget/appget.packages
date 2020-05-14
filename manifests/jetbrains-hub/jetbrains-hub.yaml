@@ -1,8 +1,8 @@
 id: jetbrains-hub
 name: JetBrains Hub
-version: 2020.1.12157
+version: 2020.1.12182
 home: https://www.jetbrains.com/hub/
 installMethod: MSI
 installers:
-- location: https://download.jetbrains.com/hub/hub-2020.1.12157.msi
-  sha256: ebdffd718cfbbc77cfeed231073fc0b8296fb06af158b7be3ef380580fc09373
+- location: https://download.jetbrains.com/hub/hub-2020.1.12182.msi
+  sha256: 0e73e76d7d69f8e22a45a9d716f4356f3e0230d2bed2f4d51ad05041cb6ec407
