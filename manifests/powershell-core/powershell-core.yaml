@@ -1,12 +1,12 @@
 id: powershell-core
 name: PowerShell Core
-version: 7.0
+version: 7.0.1
 home: https://microsoft.com/PowerShell
 repo: https://github.com/PowerShell/PowerShell/
 installMethod: MSI
 installers:
-- location: https://github.com/PowerShell/PowerShell/releases/download/v7.0.0/PowerShell-7.0.0-win-x86.msi
-  sha256: c0e8cbe16eda134385d499881e6e0f2784bcb4d26cbe42ed5b81e29eec37b3da
-- location: https://github.com/PowerShell/PowerShell/releases/download/v7.0.0/PowerShell-7.0.0-win-x64.msi
-  sha256: 876f4a64012a1fb024dccea696db00c5cd1a37c8dc9dfa2431c58cdf9f82950b
+- location: https://github.com/PowerShell/PowerShell/releases/download/v7.0.1/PowerShell-7.0.1-win-x86.msi
+  sha256: f38c2fd72dc54c1fec2871e4e95352ca546101be6283458d06a6f9b1a56ad60a
+- location: https://github.com/PowerShell/PowerShell/releases/download/v7.0.1/PowerShell-7.0.1-win-x64.msi
+  sha256: e652a8e0f7d088106ea018d4b9e02373d4331907efa64a60dc32e097b165d8fd
   architecture: x64
