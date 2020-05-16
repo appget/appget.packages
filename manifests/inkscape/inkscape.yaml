@@ -1,12 +1,12 @@
 id: inkscape
 name: Inkscape
-version: 0.92.4
+version: 1.0
 home: https://inkscape.org/
 repo: https://github.com/inkscape/inkscape/
 installMethod: MSI
 installers:
-- location: https://inkscape.org/gallery/item/13322/inkscape-0.92.4-x86.msi
-  sha256: 025416e64ab2faec86beeb6fad70291907b3efada40e8f6722722c09e47d0dc9
-- location: https://inkscape.org/gallery/item/13321/inkscape-0.92.4-x64.msi
-  sha256: f790e292fb6231d44fd6f6b1a6e54f95612a84ff6ee58c8aa7315c71ba7db830
+- location: https://inkscape.org/gallery/item/18475/inkscape-1.0-x86.msi
+  sha256: c0d5f7f58d42611fbcff2ac232c48aad6574d8a1d9a25b18d0a081969b1fdeac
+- location: https://inkscape.org/gallery/item/18474/inkscape-1.0-x64.msi
+  sha256: 0cd3efa6a6b61f7906152a2d7a221ee1b69598649fc8ca6482be9c3bf6db8679
   architecture: x64
