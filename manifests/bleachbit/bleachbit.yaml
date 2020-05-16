@@ -1,10 +1,10 @@
 id: bleachbit
 name: BleachBit
-version: 3.2.0.1509
+version: 4.0.0.1628
 home: https://www.bleachbit.org/
 repo: https://github.com/bleachbit/bleachbit/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://download.bleachbit.org/BleachBit-3.2.0-setup.exe
-  sha256: 5ec8a2a7be5af331ba06db051e56d80253d5ccfe4589b94e9dda40fe1c679aea
+- location: https://download.bleachbit.org/BleachBit-4.0.0-setup.exe
+  sha256: 03fb4dcede9843a22f5c488de6124d80c0427d9a80c0f6e21466bd83c39ee360
