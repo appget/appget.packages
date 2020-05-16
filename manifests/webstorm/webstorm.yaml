@@ -1,6 +1,6 @@
 id: webstorm
 name: WebStorm
-version: 201.7223.93
+version: 2020.1.1
 home: https://www.jetbrains.com/webstorm/
 installMethod: NSIS
 installers:
