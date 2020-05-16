@@ -1,11 +1,11 @@
 id: teamspeak
 name: TeamSpeak 3 Client
-version: 3.5.2
+version: 3.5.3
 home: https://www.teamspeak.com/
 installMethod: NSIS
 installers:
-- location: https://files.teamspeak-services.com/releases/client/3.5.2/TeamSpeak3-Client-win32-3.5.2.exe
-  sha256: 4ac7f746be2cac47985388ec97d6b01e50c4236457b6a07b888fd3d050cafb41
-- location: https://files.teamspeak-services.com/releases/client/3.5.2/TeamSpeak3-Client-win64-3.5.2.exe
-  sha256: 09d3b1cbc359a0a1ae9e2307d5a861682a4f8f5acb81601a908b1cb3cc75febe
+- location: https://files.teamspeak-services.com/releases/client/3.5.3/TeamSpeak3-Client-win32-3.5.3.exe
+  sha256: ae24cdbf499fddbc081adaa9becefe5da557fa6b003a2c9eea5e55f2605238f0
+- location: https://files.teamspeak-services.com/releases/client/3.5.3/TeamSpeak3-Client-win64-3.5.3.exe
+  sha256: 157d35bc729bc846d63f3314bc5ad22838e3d3b245ace029e2d8d0e50d148e23
   architecture: x64
