@@ -1,8 +1,8 @@
 id: microsip
 name: MicroSIP
-version: 3.19.29
+version: 3.19.30
 home: https://www.microsip.org/
 installMethod: NSIS
 installers:
-- location: https://www.microsip.org/download/MicroSIP-3.19.29.exe
-  sha256: e6f2af02808f5afda6a267584e10e41140ad414af217c534349645069634cc97
+- location: https://www.microsip.org/download/MicroSIP-3.19.30.exe
+  sha256: 9d80e7a14a2a394258007bcd498dd0770cbbbfe131b04f56330a84b6c43e4ab3
