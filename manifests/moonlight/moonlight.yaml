@@ -1,12 +1,12 @@
 id: moonlight
 name: Moonlight Game Streaming Client
-version: 2.0.0.0
+version: 2.1.0.0
 repo: https://github.com/moonlight-stream/moonlight-qt/
 license: GNU General Public License v3.0
 installMethod: Wix
 installers:
-- location: https://github.com/moonlight-stream/moonlight-qt/releases/download/v2.0.0/MoonlightSetup-x86-2.0.0.exe
-  sha256: c7050da002bdb991434f76652f38c88357069ce27f4e8f9f4279d669ee8bf04e
-- location: https://github.com/moonlight-stream/moonlight-qt/releases/download/v2.0.0/MoonlightSetup-x64-2.0.0.exe
-  sha256: 555694f360c1096a18071b8a23e5e9856be31a00a28c515c470176036940b102
+- location: https://github.com/moonlight-stream/moonlight-qt/releases/download/v2.1.0/MoonlightSetup-x86-2.1.0.exe
+  sha256: cb81cfce3ee753cd93d2f92e5def23f877b81be5d25009401c524793a18cd1bc
+- location: https://github.com/moonlight-stream/moonlight-qt/releases/download/v2.1.0/MoonlightSetup-x64-2.1.0.exe
+  sha256: a4e8786ab2a8ae51039126c0e086b1c6e0d1765f848d69c4703c0ca855fb0b7e
   architecture: x64
