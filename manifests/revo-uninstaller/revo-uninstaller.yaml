@@ -1,6 +1,6 @@
 id: revo-uninstaller
 name: Revo Uninstaller
-version: 2.1.1
+version: 2.1.5
 home: https://www.revouninstaller.com/
 installMethod: Inno
 installers:
