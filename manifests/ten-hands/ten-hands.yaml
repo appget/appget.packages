@@ -1,10 +1,10 @@
 id: ten-hands
 name: Ten Hands
-version: 2.6.0.20200517.1
+version: 2.6.1.20200518.1
 home: https://tenhands.app/
 repo: https://github.com/saisandeepvaddi/ten-hands/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/saisandeepvaddi/ten-hands/releases/download/v2.6.0/Ten.Hands.Setup.2.6.0.exe
-  sha256: 05ded4bb6e55aee0942a8756006db80ba893e88fd420fd1a477d2a45021fac85
+- location: https://github.com/saisandeepvaddi/ten-hands/releases/download/v2.6.1/Ten.Hands.Setup.2.6.1.exe
+  sha256: f3658f82dab2234eb4763e0c719f3c8d62b683c18a5b0b351a846f86e24c359c
