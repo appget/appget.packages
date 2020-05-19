@@ -1,6 +1,6 @@
 id: geogebra-graphing
 name: GeoGebra Graphing Calculator
-version: 6.0.581
+version: 6.0.583
 home: https://www.geogebra.org/
 installMethod: Squirrel
 installers:
