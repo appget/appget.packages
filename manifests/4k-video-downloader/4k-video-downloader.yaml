@@ -1,9 +1,9 @@
 id: 4k-video-downloader
 name: 4K Video Downloader
-version: 4.12.2.3600
+version: 4.12.3.3650
 home: https://www.4kdownload.com/products/product-videodownloader
 installMethod: MSI
 installers:
-- location: https://dl.4kdownload.com/app/4kvideodownloader_4.12.2_x64.msi?source=website
-  sha256: 33044b22cffb39e319821592769b02bbb4d8b2a0b88b24f288cd1933b353aa9e
+- location: https://dl.4kdownload.com/app/4kvideodownloader_4.12.3_x64.msi?source=website
+  sha256: dda117cfe397f3c9438b694b8082b87565f829ffea1420fdbe31b8424a79b83e
   architecture: x64
