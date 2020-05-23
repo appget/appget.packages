@@ -1,6 +1,6 @@
 id: bitvise-ssh-client
 name: Bitvise SSH Client
-version: 8.42.0
+version: 8.43.0
 home: https://bitvise.com/
 installMethod: Custom
 args:
