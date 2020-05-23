@@ -1,0 +1,8 @@
+id: intel-driver-support-assistant
+name: Intel® Driver & Support Assistant
+version: 20.5.20.3
+home: https://intel.com/
+installMethod: Wix
+installers:
+- location: https://downloadmirror.intel.com/28425/a08/Intel-Driver-and-Support-Assistant-Installer.exe
+  sha256: f2d9e1ff060b9f719907c6bf79b0cd15c9e2dadfe9412106ec16d3f74c77a893
