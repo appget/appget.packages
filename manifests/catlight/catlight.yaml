@@ -1,6 +1,6 @@
 id: catlight
 name: Catlight build notifications
-version: 2.31.0
+version: 2.31.4
 home: https://catlight.io/
 installMethod: Squirrel
 installers:
