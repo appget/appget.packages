@@ -1,9 +1,9 @@
 id: publii
 name: Publii
-version: 0.35.2
+version: 0.36.0
 home: https://getpublii.com/
-installMethod: Inno
+installMethod: NSIS
 installers:
-- location: https://getpublii.com/download/Publii-0.35.2.exe
-  sha256: b0326bf88f9681d1bbb704313852d2a1ca440b2c79e5f1770ce5225b252668e8
+- location: https://getpublii.com/download/Publii-0.36.0.exe
+  sha256: d65f06a6ea8b0f599a9942b98ad26cc4a3b821eea7580d2b0c091ba41197256b
   architecture: x64
