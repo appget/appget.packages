@@ -1,10 +1,10 @@
 id: puppetry
 name: puppetry
-version: 3.2.1
+version: 3.2.2
 home: https://puppetry.app/
 repo: https://github.com/dsheiko/puppetry/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/dsheiko/puppetry/releases/download/v3.2.1/puppetrySetup-win-v3.2.1.exe
-  sha256: a6c56c58a885384918c23a046a7a1fb37bb073956be541694c3a84c3238b3269
+- location: https://github.com/dsheiko/puppetry/releases/download/v3.2.2/puppetrySetup-win-v3.2.2.exe
+  sha256: 4f6f0d73ffc1c964df35d9eb3b3dc28f8450f2db045fc7eb39dfc70d810b7923
