@@ -1,6 +1,6 @@
 id: passmark-wirelessmon
 name: PassMark WirelessMon
-version: 5.0.0.1000
+version: 5.0.0.1001
 home: https://www.passmark.com/products/wirelessmonitor.htm
 installMethod: Inno
 installers:
