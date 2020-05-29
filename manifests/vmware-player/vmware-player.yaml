@@ -1,6 +1,6 @@
 id: vmware-player
 name: VMware Workstation Player
-version: 15.5.2
+version: 15.5.5
 home: https://www.vmware.com/ca/products/workstation-player.html
 installMethod: Custom
 args:
