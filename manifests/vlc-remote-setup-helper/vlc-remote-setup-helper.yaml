@@ -1,0 +1,8 @@
+id: vlc-remote-setup-helper
+name: VLC Remote Setup Helper
+version: 5.56
+home: https://hobbyistsoftware.com/
+installMethod: Inno
+installers:
+- location: https://hobbyistsoftware.com/Downloads//VLCRemote/Versions/VLCSetup_5.56.exe
+  sha256: 173dd7596949f45ceff419d32e51b49a54471de4b43e3c363f2d11f76e1e8569
