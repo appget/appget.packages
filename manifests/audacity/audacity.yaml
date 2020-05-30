@@ -1,10 +1,10 @@
 id: audacity
 name: Audacity
-version: 2.3.3
-home: https://www.audacityteam.org/
+version: 2.4.1
+home: https://wiki.audacityteam.org/wiki/For_Developers
 repo: https://github.com/audacity/audacity/
 license: GNU Public License v2
 installMethod: Inno
 installers:
-- location: https://fossies.org/windows/misc/audacity-win-2.3.3.exe
-  sha256: 263cecf19ff27c7a2f0c04a4031f0e45cda5215eb0836a4e40e09605d83286e2
+- location: https://fossies.org/windows/misc/audacity-win-2.4.1.exe
+  sha256: dde069264974b3bf7a0b556ea3037bb424630e3112735f99129f3d84921e547f
