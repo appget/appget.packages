@@ -1,10 +1,10 @@
 id: netron
 name: Netron
-version: 4.2.4
+version: 4.2.6
 home: https://www.lutzroeder.com/ai
 repo: https://github.com/lutzroeder/netron/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/lutzroeder/netron/releases/download/v4.2.4/Netron-Setup-4.2.4.exe
-  sha256: 644ec0cdc4d11acde09a824ddacc7d4ed2ef2594c36932f13541508c3101dbec
+- location: https://github.com/lutzroeder/netron/releases/download/v4.2.6/Netron-Setup-4.2.6.exe
+  sha256: 9c377ee462a0ea541c0d0eba09ca22d3e6f0e5905f4862f7a150cdf5ac47fda9
