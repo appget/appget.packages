@@ -1,0 +1,7 @@
+id: joytokey
+name: JoyToKey
+version: 6.4.3
+home: https://joytokey.net/en/
+installMethod: Inno
+installers:
+- location: https://joytokey.net/download/JoyToKeySetup_en.exe
