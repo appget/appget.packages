@@ -1,0 +1,10 @@
+id: depressurizer
+name: Depressurizer
+version: 4.12.1
+home: https://github.com/Depressurizer/Depressurizer
+repo: https://github.com/Depressurizer/Depressurizer/
+license: GNU General Public License v3.0
+installMethod: Custom
+installers:
+- location: https://github.com/Depressurizer/Depressurizer/releases/download/v4.12.1/Depressurizer-v4.12.1.zip
+  sha256: 2f7101c425da99467fd1b71107402bff94b187398c49f10bf8e092637e39cbae
