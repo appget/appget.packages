@@ -1,0 +1,8 @@
+id: siw
+name: System Information for Windows
+version: 10.3.0.20200602
+home: https://www.gtopala.com/
+installMethod: Inno
+installers:
+- location: https://siw64.com/download/siwtrial-setup.exe
+  sha256: 880e303e27d742e24d2db70a4754e3197abad3810abcad2eaeea6437cf2dc894
