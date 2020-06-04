@@ -1,8 +1,8 @@
 id: goland
 name: GoLand
-version: 201.7223.97
+version: 201.7846.93
 home: https://www.jetbrains.com/go/
 installMethod: NSIS
 installers:
-- location: https://download.jetbrains.com/go/goland-2020.1.2.exe
-  sha256: bb090bd078e0868644c5a1c75b5cce423dab77c46dcf4d6e395bed6f9508d4e7
+- location: https://download.jetbrains.com/go/goland-2020.1.3.exe
+  sha256: 489db4f641f1c57109e09c9bde281a87066483d4a56a3dfa08d21796be15e7f0
