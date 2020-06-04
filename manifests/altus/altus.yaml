@@ -7,4 +7,4 @@ license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
 - location: https://github.com/amanharwara/altus/releases/download/3.11.0/Altus-Setup-3.11.0.exe
-  sha256: 68599fdbfdfd054c40546621edbf42b2fe942f9673e761b77a61dbef171eea61
+  sha256: 36975bd1b6d45921101fff5336f9a1d00736601eba23450b3d26f09403c95215
