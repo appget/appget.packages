@@ -1,0 +1,10 @@
+id: browserselect
+name: Browser Select
+version: 1.4.1
+home: https://github.com/zumoshi/BrowserSelect
+repo: https://github.com/zumoshi/BrowserSelect/
+license: GNU General Public License v2.0
+installMethod: NSIS
+installers:
+- location: https://github.com/zumoshi/BrowserSelect/releases/download/1.4.1/BrowserSelect.exe
+  sha256: 42a8f7ea2f79106f24c6657891b1c940cd98961c469e280c768f6eb354d6e0bd
