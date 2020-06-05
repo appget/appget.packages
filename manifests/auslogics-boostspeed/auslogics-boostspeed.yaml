@@ -1,0 +1,9 @@
+id: auslogics-boostspeed
+name: Auslogics BoostSpeed
+version: 11.4.0.3
+home: https://www.auslogics.com/en/contact/
+installMethod: Inno
+installers:
+- location: https://downloads.auslogics.com/en/boost-speed/boost-speed-setup.exe
+- location: https://downloads.auslogics.com/en/boost-speed/boost-speed-setup.exe
+  architecture: x64
