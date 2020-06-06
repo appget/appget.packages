@@ -7,5 +7,5 @@ license: MIT License
 installMethod: Inno
 installers:
 - location: https://github.com/spikespaz/search-deflector/releases/download/1.1.6/SearchDeflector-Installer.exe
-  sha256: 735a0b10d728e0f68d5fac4a80bf1445adc9a747ee0eb9a527c14f61bd589fd7
+  sha256: 9f4d5bdc88c4ef431eb44656a1f8454cedf3104d13d35d87bc91b10a2a4dda95
   minWindowsVersion: 10.0
