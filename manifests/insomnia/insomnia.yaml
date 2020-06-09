@@ -1,10 +1,10 @@
 id: insomnia
-name: Insomnia
-version: 7.1.1
+name: Insomnia Designer
+version: 2020.2.2
 home: https://insomnia.rest/
 repo: https://github.com/Kong/insomnia/
 license: MIT License
 installMethod: Squirrel
 installers:
-- location: https://github.com/Kong/insomnia/releases/download/v7.1.1/Insomnia.Setup.7.1.1.exe
-  sha256: fbc755662e4b7e416f6d4827281e3df6510b9c66a08531b3aa10d666019dd93f
+- location: https://github.com/Kong/insomnia/releases/download/designer%402020.2.2/Insomnia.Designer-2020.2.2.exe
+  sha256: a3c8b5ecd46075472438e031206903fd1f99637998b814582c2eef41fd87b096
