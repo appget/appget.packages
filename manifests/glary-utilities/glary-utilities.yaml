@@ -1,6 +1,6 @@
 id: glary-utilities
 name: Glary Utilities
-version: 5.143
+version: 5.144
 home: https://www.glarysoft.com/glary-utilities/
 installMethod: NSIS
 installers:
