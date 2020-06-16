@@ -1,8 +1,8 @@
 id: smartedit-writer
 name: SmartEdit Writer
-version: 8.1
+version: 8.2
 home: https://www.smart-edit.com/Writer/
 installMethod: Inno
 installers:
-- location: https://smartedit.sfo2.digitaloceanspaces.com/smarteditwriter/SmartEditWriter_8.1.exe
-  sha256: 9a3d82d8a7156aa949d2491982e49fdb24c153a43dd133adf836359c75214f39
+- location: https://smartedit.sfo2.digitaloceanspaces.com/smarteditwriter/SmartEditWriter_8.2.exe
+  sha256: 1822a33cc9f44c2e020637001a76d742a6cb364832c5e1a52372273a07bc5e2e
