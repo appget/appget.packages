@@ -1,6 +1,6 @@
 id: authy
 name: Authy Desktop
-version: 1.8.1
+version: 1.8.2
 home: https://authy.com/
 installMethod: Squirrel
 installers:
