@@ -1,9 +1,9 @@
 id: gitter
 name: Gitter
-version: 4.1.0
+version: 5.0.1
 home: https://gitter.im/
 repo: https://gitlab.com/gitlab-org/gitter/desktop/
 installMethod: Inno
 installers:
-- location: https://update.gitter.im/win/GitterSetup-4.1.0.exe
-  sha256: dfe7b52c441f0b6cc407e25b520f776b6b61ede4985a0b9fe43271b42903b89e
+- location: https://update.gitter.im/win/GitterSetup-5.0.1.exe
+  sha256: f80af1656b2b365069ffc5f839db7b9995b6b6782ea6fbb810c65aed839e2814
