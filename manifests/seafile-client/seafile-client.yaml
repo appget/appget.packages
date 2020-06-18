@@ -5,4 +5,4 @@ home: https://www.seafile.com/
 installMethod: MSI
 installers:
 - location: https://s3.eu-central-1.amazonaws.com/download.seadrive.org/seafile-7.0.8-en.msi
-  sha256: b236a05d26277b9d22c0e8b1710ec48d136edf234a2ce7fefc239c4f05b8b126
+  sha256: a3b6410048446a924f9275498087cd91afd66967f29e2bf8b917cb4da50fb496
