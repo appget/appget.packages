@@ -1,8 +1,8 @@
 id: youtrack
 name: YouTrack
-version: 2020.1.1826
+version: 2020.2.8873
 home: https://www.jetbrains.com/youtrack/
 installMethod: MSI
 installers:
-- location: https://download.jetbrains.com/charisma/youtrack-2020.1.1826.msi
-  sha256: 7c27c469fc34b6be17cd9a7765ff0e33dee39432a0c8481d172d1819144a4464
+- location: https://download.jetbrains.com/charisma/youtrack-2020.2.8873.msi
+  sha256: 53ba3634df5bc27cffce44db4aa91c4bb91d431eefddaf2f32819765b8e9c4cc
