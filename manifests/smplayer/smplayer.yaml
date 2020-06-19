@@ -6,7 +6,7 @@ repo: https://sourceforge.net/projects/smplayer/
 installMethod: NSIS
 installers:
 - location: https://downloads.sourceforge.net/project/smplayer/SMPlayer/20.6.0/smplayer-20.6.0-win32.exe
-  sha256: 2df706b8208fcdcdda583bf6414c44c38cae5d59d6f9bbf9b53e9e3111143784
+  sha256: 40ca3e86f08f16b3f7326043dd20556b0bdc0e18bdd6e398f941f349c7a3d83b
 - location: https://downloads.sourceforge.net/project/smplayer/SMPlayer/20.6.0/smplayer-20.6.0-x64.exe
-  sha256: 734499372cff5ceb5a9df66574da6054a30f19013b2cde068dcda443e008769c
+  sha256: 9959ed1fd381324476c213690fbf32aff5ca544a1dd60bf1d499bf1c1e682870
   architecture: x64
