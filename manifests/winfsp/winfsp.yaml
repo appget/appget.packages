@@ -1,9 +1,9 @@
 id: winfsp
 name: WinFsp
-version: 1.6.20027
+version: 1.7.20172
 home: http://www.secfs.net/winfsp/
 repo: https://github.com/billziss-gh/winfsp/
 installMethod: MSI
 installers:
-- location: https://github.com/billziss-gh/winfsp/releases/download/v1.6/winfsp-1.6.20027.msi
-  sha256: 7e13aadac2e4d1ac28501891c792cbf657b0c408e2694dd2b4fe5e02b302c5af
+- location: https://github.com/billziss-gh/winfsp/releases/download/v1.7/winfsp-1.7.20172.msi
+  sha256: 3c7a8bf41b0276cc1acabaee502e9ecd81f52d68a92be4119d45ae4c441dad10
