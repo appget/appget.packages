@@ -1,6 +1,6 @@
 id: wiztree
 name: WizTree
-version: 3.32
+version: 3.33
 home: https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/
 installMethod: Inno
 installers:
