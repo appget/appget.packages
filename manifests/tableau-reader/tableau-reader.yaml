@@ -1,6 +1,6 @@
 id: tableau-reader
 name: Tableau Reader
-version: 20.2.25110
+version: 20.2.25203
 home: https://www.tableau.com/products/reader
 installMethod: Wix
 installers:
