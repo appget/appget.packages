@@ -1,11 +1,11 @@
 id: search-deflector
 name: Search Deflector
-version: 1.1.6
+version: 1.2.0
 home: https://birkett.dev/
 repo: https://github.com/spikespaz/search-deflector/
 license: MIT License
 installMethod: Inno
 installers:
-- location: https://github.com/spikespaz/search-deflector/releases/download/1.1.6/SearchDeflector-Installer.exe
-  sha256: c84e52e04d2361b7a659a2e9eb3e0c5557a24443ee12c741ef698a2dc5eafd49
+- location: https://github.com/spikespaz/search-deflector/releases/download/1.2.0/SearchDeflector-Installer.exe
+  sha256: f644e35de6bf8d7a0e173c66b09f752063292beb28111c7a6cd1210fce67e64c
   minWindowsVersion: 10.0
