@@ -1,9 +1,9 @@
 id: raider
 name: Raider
-version: 1.5.1
+version: 1.5.2
 home: https://www.getraider.com/
 repo: https://github.com/AssetKid/raider-release/
 installMethod: NSIS
 installers:
-- location: https://github.com/AssetKid/raider-release/releases/download/v1.5.1/Raider.Setup.1.5.1.exe
-  sha256: c829dab7560da7b7284fd113a7efc71f0980286806d0c319ccce1511a3df6d56
+- location: https://github.com/AssetKid/raider-release/releases/download/v1.5.2/Raider.Setup.1.5.2.exe
+  sha256: ff4fedfaf3b65f0e535e77650dd0619f803477373e0ce62618d47b5efdeb99cd
