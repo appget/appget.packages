@@ -1,11 +1,11 @@
 id: evernote
 name: Evernote
-version: 6.24.2.8919
+version: 6.25.1.9091
 home: https://evernote.com/
 installMethod: Custom
 args:
   passive: /qb /norestart
   silent: /qn /norestart
 installers:
-- location: https://cdn1.evernote.com/win6/public/Evernote_6.24.2.8919.exe
-  sha256: 4851dbdb36ecef1d5f2de092673b4d70223703f6211fd8a1909b2e3e44aed5f9
+- location: https://cdn1.evernote.com/win6/public/Evernote_6.25.1.9091.exe
+  sha256: 0ceddb46fc74b0322681a225404af75ec7f96c12ad112dda6a3505606531be20
