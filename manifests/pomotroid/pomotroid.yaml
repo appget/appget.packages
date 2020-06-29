@@ -1,10 +1,10 @@
 id: pomotroid
 name: Pomotroid
-version: 0.10.0.219
+version: 0.11.0.235
 home: https://splode.github.io/pomotroid/
 repo: https://github.com/Splode/pomotroid/
 license: MIT License
 installMethod: NSIS
 installers:
-- location: https://github.com/Splode/pomotroid/releases/download/v0.10.0/pomotroid-0.10.0-setup.exe
-  sha256: ac8c2ffc9d1cebb33c4201157280234e0bfdc3aa236473722da79439f737631e
+- location: https://github.com/Splode/pomotroid/releases/download/v0.11.0/pomotroid-0.11.0-setup.exe
+  sha256: 7aca2605d9c9d4cfbc0457cd1e11b9d89f14de88da26a61f415adb77b1137016
