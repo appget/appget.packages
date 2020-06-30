@@ -1,0 +1,8 @@
+id: steamgriddb-manager
+name: SteamGridDB Manager
+version: 0.4.2
+home: https://www.steamgriddb.com/
+installMethod: NSIS
+installers:
+- location: https://cdn.steamgriddb.com/manager/SteamGridDB Manager Setup 0.4.2.exe
+  sha256: c1e513d351bedaa8abdd26ac161a666608ece35022012346686dd6bbff14710d
