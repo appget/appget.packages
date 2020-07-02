@@ -1,6 +1,6 @@
 id: tlauncher
 name: TLauncher
-version: 2.69.0
+version: 2.71.0
 home: https://tlauncher.org/
 installMethod: SetupFactory
 installers:
