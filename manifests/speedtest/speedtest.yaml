@@ -1,6 +1,6 @@
 id: speedtest
 name: Speedtest
-version: 1.4.53.001
+version: 1.7.124.001
 home: https://www.speedtest.net/
 installMethod: MSI
 installers:
