@@ -1,8 +1,8 @@
 id: yumi
 name: YUMI – Multiboot USB Creator
-version: 2.0.7
+version: 2.0.7.1
 home: https://www.pendrivelinux.com/yumi-multiboot-usb-creator/
 installMethod: NSIS
 installers:
-- location: https://www.pendrivelinux.com/downloads/YUMI/YUMI-2.0.7.0.exe
-  sha256: e2c039f7efc63cfc0def9e563c0d202874f505070c6e6180c27e31b2895b71f1
+- location: https://www.pendrivelinux.com/downloads/YUMI/YUMI-2.0.7.1.exe
+  sha256: fe848c4d7ed96e69fbad78212be88ff326f33d17654635c44f6b7ecddef4e5f9
