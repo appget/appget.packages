@@ -1,10 +1,10 @@
 id: wnr
 name: wnr
-version: 1.15.3
+version: 1.16.0
 home: https://getwnr.com/
 repo: https://github.com/RoderickQiu/wnr/
 license: Mozilla Public License 2.0
 installMethod: NSIS
 installers:
-- location: https://github.com/RoderickQiu/wnr/releases/download/v1.15.3/wnr-1.15.3-Setup.exe
-  sha256: f6a99ca900248bb25e3ad59ac9da0da65b3828739b0024065a88609397adcee8
+- location: https://github.com/RoderickQiu/wnr/releases/download/v1.16.0/wnr-1.16.0-Setup.exe
+  sha256: 3cb06fe832f3b400e7b1d0e55cb7158ed86cf6c1cd7f7c21b63ab63b9aeef76b
