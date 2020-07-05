@@ -1,0 +1,7 @@
+id: warcraft-logs-uploader
+name: Warcraft Logs Uploader
+version: 4.4.4.375
+home: https://www.warcraftlogs.com/
+installMethod: NSIS
+installers:
+- location: https://ddosa82diq6o3.cloudfront.net/WarcraftLogsUploader.exe
