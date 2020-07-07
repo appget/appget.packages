@@ -1,9 +1,9 @@
 id: thor-sync
 name: Thor Sync
-version: 1.2.5.30
+version: 1.2.6.31
 repo: https://github.com/vechain/thor-sync.electron/
 license: GNU Lesser General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/vechain/thor-sync.electron/releases/download/v1.2.5/Sync-win-1.2.5.exe
-  sha256: f451187b52400b5b65f7424f15d03bfb263211e9f04691273349e0ccc20f361d
+- location: https://github.com/vechain/thor-sync.electron/releases/download/v1.2.6/Sync-win-1.2.6.exe
+  sha256: baabc633db31ac20a9931b020181d8025fb656e7c49cc22b9c9f39f1f1ded4f4
