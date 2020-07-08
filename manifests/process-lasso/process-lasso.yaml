@@ -1,6 +1,6 @@
 id: process-lasso
 name: Process Lasso
-version: 9.8.1.16
+version: 9.8.2.2
 home: https://bitsum.com/
 installMethod: NSIS
 installers:
