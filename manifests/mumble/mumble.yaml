@@ -1,9 +1,9 @@
 id: mumble
 name: Mumble
-version: 1.3.1
+version: 1.3.2
 home: https://www.mumble.info/
 repo: https://github.com/mumble-voip/mumble/
 installMethod: MSI
 installers:
-- location: https://github.com/mumble-voip/mumble/releases/download/1.3.1/mumble-1.3.1.msi
-  sha256: 231d1e7490a54dc8301999fa15b3b7b78eb8cb5037decafc478312e4383089fa
+- location: https://github.com/mumble-voip/mumble/releases/download/1.3.2/mumble-1.3.2.msi
+  sha256: a5d4814cfdb2cb3e455320e3149318466f61eaa6673f99a6644e5720e5da09e4
