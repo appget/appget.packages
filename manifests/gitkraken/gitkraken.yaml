@@ -1,6 +1,6 @@
 id: gitkraken
 name: GitKraken
-version: 7.0.1
+version: 7.1.0
 home: https://www.gitkraken.com/
 installMethod: Squirrel
 installers:
