@@ -1,8 +1,8 @@
 id: k-lite-codec-pack-full
 name: K-Lite Codec Pack Full
-version: 15.5.6
+version: 15.6.0
 home: https://codecguide.com/download_k-lite_codec_pack_full.htm
 installMethod: Inno
 installers:
-- location: https://files3.codecguide.com/K-Lite_Codec_Pack_1556_Full.exe
-  sha256: 3f53563e6c0eb408e79d8b36614c10281d40e1467e9df22e51e32e52cb308036
+- location: https://files3.codecguide.com/K-Lite_Codec_Pack_1560_Full.exe
+  sha256: 7f256fb57b2ce5472fe657d18f0af444b66e39896ff3ca7bf518ac3dd2fb7787
