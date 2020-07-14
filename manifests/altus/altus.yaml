@@ -1,10 +1,10 @@
 id: altus
 name: Altus
-version: 3.12.0
+version: 3.12.1
 home: https://amanharwara.xyz/altus
 repo: https://github.com/amanharwara/altus/
 license: GNU General Public License v3.0
 installMethod: NSIS
 installers:
-- location: https://github.com/amanharwara/altus/releases/download/3.12.0/Altus-Setup-3.12.0.exe
-  sha256: 7070a44eeab31dd1ff2ff77e30d3dc4f6b8c3f919cf6d957f611bffd5cc8665e
+- location: https://github.com/amanharwara/altus/releases/download/3.12.1/Altus-Setup-3.12.1.exe
+  sha256: 14fd1f735ce530465c9097f83f2130f500c114a5a40e25dd451661e56c6e1ccf
