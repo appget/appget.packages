@@ -1,10 +1,10 @@
 id: dopamine
 name: Dopamine
-version: 2.0.2.4000
+version: 2.0.3.4000
 home: https://www.digimezzo.com/software/dopamine/
 repo: https://github.com/digimezzo/dopamine/
 license: GNU General Public License v3.0
 installMethod: MSI
 installers:
-- location: https://www.digimezzo.com/content/software/dopamine/Dopamine 2.0.2 (Release).msi
-  sha256: b1f495b370452e1ab09f640a96e2405daf697a07e23cf5d4b710cc25df578d8e
+- location: https://www.digimezzo.com/content/software/dopamine/Dopamine 2.0.3 (Release).msi
+  sha256: 07de990c54c2db3437fbe6417efdf7e0186a08767f84ddc75ee4e9e64304d70a
