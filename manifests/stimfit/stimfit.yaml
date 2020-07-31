@@ -1,0 +1,11 @@
+id: stimfit
+name: Stimfit
+version: 0.15.8
+home: https://github.com/neurodroid/stimfit
+repo: https://github.com/neurodroid/stimfit/
+license: GNU General Public License v2.0
+installMethod: NSIS
+installers:
+- location: https://github.com/neurodroid/stimfit/releases/download/v0.15.8windows/Stimfit-x64-0.15.8BETA1-bundle.exe
+  sha256: d64da38a8c28913dfb7c6dd15a7f526c70bf253667d8a839422b3bf3a7b92ccb
+  architecture: x64
