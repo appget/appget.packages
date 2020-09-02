@@ -1,7 +1,7 @@
 id: yarn
 name: Yarn
 version: 1.22.4
-home: https://yarnpkg.com/
+home: https://classic.yarnpkg.com/
 repo: https://github.com/yarnpkg/yarn/
 installMethod: MSI
 installers:
