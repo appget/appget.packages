@@ -1,0 +1,12 @@
+id: vidcoder
+name: VidCoder
+version: 5.19
+home: https://vidcoder.net/
+repo: https://github.com/RandomEngy/VidCoder/
+license: GNU General Public License v2.0
+installMethod: Inno
+installers:
+- location: https://github.com/RandomEngy/VidCoder/releases/download/v5.19/VidCoder-5.19.exe
+  sha256: 04d57cb487cbb1677ef68aedf5506bcf6679bffbb8f5a794d3522da5d386ad9a
+  architecture: x64
+  minWindowsVersion: 10.0
