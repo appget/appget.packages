@@ -1,0 +1,11 @@
+id: sigviewer
+name: Sigviewer
+version: 0.6.4
+home: https://github.com/cbrnr/sigviewer
+repo: https://github.com/cbrnr/sigviewer/
+license: GNU General Public License v3.0
+installMethod: Custom
+installers:
+- location: https://github.com/cbrnr/sigviewer/releases/download/v0.6.4/sigviewer-0.6.4-win64.exe
+  sha256: 86e8f20f75e5ffe07851e1830775bef6555b79901486043108d20f24a5589cd4
+  architecture: x64
