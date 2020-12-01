@@ -1,0 +1,9 @@
+id: just-manager
+name: Just Manager
+version: 0.1 Aplha 54
+home: http://justmanager.ru/
+installMethod: NSIS
+installers:
+- location: http://justmanager.ru/files/JustManagerSetup.exe
+- location: http://justmanager.ru/files/JustManagerSetup-x64.exe
+  architecture: x64
