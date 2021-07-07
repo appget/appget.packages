@@ -1,0 +1,14 @@
+id: scribus-devel
+name: Scribus
+version: 1.5.5
+home: https://www.scribus.net/
+repo: https://sourceforge.net/projects/scribus/
+license: GNU General Public License 2+
+installMethod: NSIS
+installers:
+- location: https://sourceforge.net/projects/scribus/files/scribus-devel/1.5.5/scribus-1.5.5-windows.exe
+  sha256: b5f57c1a03f26c9b5a4086f051f54aed221d8d0567a33f7b1ce7248f908fd996
+  architecture: x86
+- location: https://sourceforge.net/projects/scribus/files/scribus-devel/1.5.5/scribus-1.5.5-windows-x64.exe
+  sha256: 5783f9c8497ef740101f325bfbd2206b42ccc25a1cbbb7db33bf5e7334a3f880
+  architecture: x64
