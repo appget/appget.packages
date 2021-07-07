@@ -1,0 +1,14 @@
+id: anki
+name: Anki
+version: 2.1.22
+home: https://apps.ankiweb.net/
+repo: https://github.com/ankitects/anki/
+license: GNU Affero General Public License 3+
+installMethod: NSIS
+installers:
+- location: https://github.com/ankitects/anki/releases/download/2.1.22/anki-2.1.22-windows-alternate.exe
+  sha256: 9ef21456df2e6ea1ffeef6dee27fcb33f0da064b5c425e5bebdd210677b42b99
+  architecture: x86
+- location: https://github.com/ankitects/anki/releases/download/2.1.22/anki-2.1.22-windows.exe
+  sha256: 841394109f003f04481fd5ef97ae9e8010bf4ae8d5b58e1b2b2cc753815fc7fa
+  architecture: x64
