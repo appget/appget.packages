@@ -1,0 +1,10 @@
+id: decentralized-internet
+name: Decentralized Internet
+version: 3.8.0
+home: https://starkdrones.org/home/os
+repo: https://github.com/Lonero-Team/Decentralized-Internet
+license: MIT
+installMethod: NSIS
+installers:
+- location: https://github.com/Lonero-Team/Decentralized-Internet/releases/download/win_beta_2/Decentralized-Internet.EXE
+  architecture: x64
