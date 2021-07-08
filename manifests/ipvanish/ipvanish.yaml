@@ -2,6 +2,8 @@ id: ipvanish
 name: IPVanish
 version: 3.4.4.4
 home: https://www.ipvanish.com/
-installMethod: AdvancedInstaller
+installMethod: Custom
+args:
+  silent: /exenoui /qn /norestart
 installers:
 - location: https://www.ipvanish.com/software/setup-prod-v2/ipvanish-setup.exe
