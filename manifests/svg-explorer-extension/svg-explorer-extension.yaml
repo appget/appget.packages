@@ -1,11 +1,13 @@
 id: svg-explorer-extension
 name: SVG Explorer Extension
 version: 0.1.1
-repo: https://github.com/maphew/svg-explorer-extension/
+home: http://www.dotzdev.com/
+repo: https://github.com/tibold/svg-explorer-extension/
+license: GNU Lesser General Public License v3.0
 installMethod: Inno
 installers:
-- location: https://github.com/maphew/svg-explorer-extension/releases/download/v0.1.1/dssee_setup_i386_v011_signed.exe
+- location: https://github.com/tibold/svg-explorer-extension/releases/download/v0.1.1/dssee_setup_i386_v011_signed.exe
   sha256: 7c7a40ed5530c0350adca4cb2a306c8f1cdf617823a2db4beadc5191b963e4c7
-- location: https://github.com/maphew/svg-explorer-extension/releases/download/v0.1.1/dssee_setup_x64_v011_signed.exe
+- location: https://github.com/tibold/svg-explorer-extension/releases/download/v0.1.1/dssee_setup_x64_v011_signed.exe
   sha256: 8d13cad568fcb835980147b91228bf8a5cce10c35f69954c6a83288298b2c2bf
   architecture: x64
