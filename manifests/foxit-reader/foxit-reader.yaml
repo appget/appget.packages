@@ -2,6 +2,6 @@ id: foxit-reader
 name: Foxit Reader
 version: 10.0.0.35798
 home: https://www.foxitsoftware.com/pdf-reader/
-installMethod: NSIS
+installMethod: Inno
 installers:
 - location: https://www.foxitsoftware.com/downloads/latest.php?product=Foxit-Reader
