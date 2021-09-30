@@ -1,0 +1,9 @@
+id: open-log-viewer
+name: open-log-viewer
+version: 1.4.0
+repo: https://github.com/tmoreno/open-log-viewer/
+license: GNU General Public License v3.0
+installMethod: NSIS
+installers:
+- location: https://github.com/tmoreno/open-log-viewer/releases/download/1.4.0/open-log-viewer_1.4.0.exe
+  sha256: b170d176125d5c1000c622b127234c1df325fd2c667490e95801c56d834dbf61
