@@ -1,0 +1,13 @@
+id: anki-beta
+name: Anki (beta)
+version: 2.1.20
+home: https://ankiweb.net/
+installMethod: NSIS
+installers:
+- location: https://apps.ankiweb.net/downloads/beta/anki-2.1.20beta9-1fbd925f-windows-alternate.exe
+  sha256: 5eef373c81b2150f5425229260d46e68f1f4493cf6013c7e63054610c5fa151a
+  minWindowsVersion: 6.1
+- location: https://apps.ankiweb.net/downloads/beta/anki-2.1.20beta9-1fbd925f-windows.exe
+  sha256: 1abd07109510914479d395858f7cc72d6889a2a949e97530565505959c430db3
+  architecture: x64
+  minWindowsVersion: 6.1
