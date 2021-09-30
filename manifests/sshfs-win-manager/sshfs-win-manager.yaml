@@ -1,0 +1,9 @@
+id: sshfs-win-manager
+name: SSHFS-Win Manager
+version: 1.0.1
+repo: https://github.com/evsar3/sshfs-win-manager/
+license: MIT License
+installMethod: NSIS
+installers:
+- location: https://github.com/evsar3/sshfs-win-manager/releases/download/v1.0.1/sshfs-win-manager-setup-v1.0.1.exe
+  sha256: 8a8748566c1395a380088d387acc513e419a95b617521ef9c77677076621d1fc
