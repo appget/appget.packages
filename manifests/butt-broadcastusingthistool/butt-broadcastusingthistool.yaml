@@ -1,0 +1,8 @@
+id: butt-broadcastusingthistool
+name: butt (broadcast using this tool)
+version: 0.1.21
+home: https://danielnoethen.de/
+installMethod: NSIS
+installers:
+- location: https://downloads.sourceforge.net/project/butt/butt/butt-0.1.21/butt-0.1.21-setup.exe
+  sha256: 88677bf7809a61c28a96ea181df52e29a17ca11d1aacbb68805f98bcb62e2d7d
