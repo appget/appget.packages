@@ -1,10 +1,10 @@
 id: insomnia
 name: Insomnia
-version: 7.1.1
+version: 2020.2.2
 home: https://insomnia.rest/
 repo: https://github.com/Kong/insomnia/
 license: MIT License
 installMethod: Squirrel
 installers:
-- location: https://github.com/Kong/insomnia/releases/download/v7.1.1/Insomnia.Setup.7.1.1.exe
-  sha256: fbc755662e4b7e416f6d4827281e3df6510b9c66a08531b3aa10d666019dd93f
+- location: https://github.com/Kong/insomnia/releases/download/core%402020.2.2/Insomnia.Core-2020.2.2.exe
+  sha256: f115c6e11f548c5f072521bb068f0b2c4bea42bbec41e1f81793c973dd439bd4
