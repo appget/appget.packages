@@ -1,7 +1,6 @@
 id: easeus-partition-master
 name: EaseUS Partition Master
-version: 13.5
 home: https://www.easeus.com/
-installMethod: Inno
+installMethod: NSIS
 installers:
 - location: http://down.easeus.com/product/epm_free
