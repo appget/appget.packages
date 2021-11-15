@@ -1,0 +1,8 @@
+id: aver-a-plus-suite
+name: A+ Suite
+version: 2.7.2175.176
+home: http://www.averinformationinc.com/
+installMethod: MSI
+installers:
+- location: https://www.averusa.com/education/downloads/A+ Suite for Win v2.7.2175.176.msi
+  sha256: db9d8b69f130386160f63325e8186046c0f47cabaf97d380a3ebe29e1706bacc
