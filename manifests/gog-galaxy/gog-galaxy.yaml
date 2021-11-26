@@ -1,8 +1,8 @@
 id: gog-galaxy
 name: GOG Galaxy
-version: 1.2.66.64
+version: 2.0.0.2
 home: https://www.gog.com/
-installMethod: Inno
+installMethod: Custom
 installers:
-- location: https://content-system.gog.com/open_link/download?path=/open/galaxy/client/setup_galaxy_1.2.66.64.exe
-  sha256: 1cdae5bf95666f822ecec358b1b48d8af39f0a85e7962bf417574c8814e21f77
+- location: https://webinstallers.gog.com/download/GOG_Galaxy_2.0.exe?payload=XBGNqUjHWcG2Rlaa_49hD4bMK81vEgMHbMRyxpeY2C_GQltISREuvTvxnR-sf3PjwnkEyiBGsnmgDbGanckUnLXeCfK-BkGCqBy-maxSCD1oYNP3bw..
+  sha256: c5ffa67d268d7ff6730eefcb92da17234d3b48f495285522497827866eb8bb7c
