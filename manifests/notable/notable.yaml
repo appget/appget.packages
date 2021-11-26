@@ -1,7 +1,7 @@
 id: notable
 name: Notable
 version: 1.8.4
-home: https://notable.md/
+home: https://notable.app/
 repo: https://github.com/notable/notable/
 license: GNU Affero General Public License v3.0
 installMethod: NSIS
