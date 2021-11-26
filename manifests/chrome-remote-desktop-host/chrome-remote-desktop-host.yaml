@@ -1,0 +1,7 @@
+id: chrome-remote-desktop-host
+name: Chrome Remote Desktop Host
+version: 83.0.4103.2
+home: https://remotedesktop.google.com/access
+installMethod: MSI
+installers:
+- location: https://dl.google.com/dl/edgedl/chrome-remote-desktop/chromeremotedesktophost.msi
