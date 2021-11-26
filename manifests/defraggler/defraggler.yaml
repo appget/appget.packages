@@ -1,8 +1,8 @@
 id: defraggler
-name: Defraggler
-version: 2.22.33.995
-home: https://www.ccleaner.com/defraggler/
+name: CCleaner
+version: 5.66.0.7716
+home: https://www.ccleaner.com/ccleaner
 installMethod: NSIS
 installers:
-- location: https://download.ccleaner.com/dfsetup222.exe
-  sha256: b53eb82d6a46c812171ca878b7342e1939a0afecc277b0b57c708eef8fc700de
+- location: https://download.ccleaner.com/ccsetup.exe
+  architecture: x64
