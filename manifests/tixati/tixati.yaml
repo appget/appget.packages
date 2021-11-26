@@ -1,0 +1,9 @@
+id: tixati
+name: Tixati
+version: 2.73
+home: https://tixati.com/
+installMethod: Custom
+installers:
+- location: https://download1.tixati.com/download/tixati-2.73-1.win64-install.exe
+  sha256: 4e7b1657ef28cac396606f7a05a2a19145b252452a78d9dbe7af682dbc548971
+  architecture: x64
