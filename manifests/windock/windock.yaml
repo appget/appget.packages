@@ -1,8 +1,8 @@
 id: windock
 name: WinDock
-version: 1.2.1
+version: 1.2.2
 home: https://www.ivanyu.ca/windock
 installMethod: Inno
 installers:
-- location: https://www.ivanyu.ca/s/WinDock_Setup_1_2_1.exe
-  sha256: f9518595f18be0e98f7e4cd146aaa3de381987200392226c7b2c9c7fb231163a
+- location: https://www.ivanyu.ca/s/WinDock_Setup_1_2_2.exe
+  sha256: 5a3b1e5a7114819013e9cc9ebd8d15af26541cefb67441ea61c28c0c8f16ea67
