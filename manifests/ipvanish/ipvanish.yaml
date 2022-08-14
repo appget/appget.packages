@@ -1,7 +1,7 @@
 id: ipvanish
 name: IPVanish
-version: 3.4.4.4
+version: 3.30
 home: https://www.ipvanish.com/
-installMethod: AdvancedInstaller
+installMethod: Inno
 installers:
 - location: https://www.ipvanish.com/software/setup-prod-v2/ipvanish-setup.exe
