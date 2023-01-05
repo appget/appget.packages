@@ -1,0 +1,9 @@
+id: mellowplayer
+name: MellowPlayer
+version: 3.5.4
+home: https://colinduquesnoy.gitlab.io/MellowPlayer/
+repo: https://gitlab.com/ColinDuquesnoy/MellowPlayer/tree/master
+installMethod: MSI
+installers:
+- location: https://bintray.com/colinduquesnoy/MellowPlayer/download_file?file_path=stable/3.5.4%2FMellowPlayer_Setup.exe
+  architecture: x64
