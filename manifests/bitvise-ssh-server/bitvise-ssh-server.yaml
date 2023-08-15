@@ -1,0 +1,7 @@
+id: bitvise-ssh-server
+name: Bitvise SSH Server
+version: 8.39.0
+home: https://bitvise.com/
+installMethod: Custom
+installers:
+- location: https://dl.bitvise.com/BvSshServer-Inst.exe
