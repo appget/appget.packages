@@ -1,0 +1,7 @@
+id: blue-iris
+name: Blue Iris
+version: 4.8.5
+home: https://blueirissoftware.com/
+installMethod: Custom
+installers:
+- location: https://blueirissoftware.com/blueiris.exe
