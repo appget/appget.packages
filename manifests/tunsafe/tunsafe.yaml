@@ -1,8 +1,8 @@
 id: tunsafe
 name: TunSafe
-version: 1.4
+version: 9.21.2
 home: https://tunsafe.com/
 installMethod: NSIS
 installers:
-- location: https://tunsafe.com/downloads/TunSafe-1.4.exe
-  sha256: 398d7637767bcc3f7c650256afe0cf68e6771b7d725299806f78167b84a0793b
+- location: https://tunsafe.com/downloads/TunSafe-TAP-9.21.2.exe
+  sha256: 1358d50c55de77146c676f2b7ce1fb25976ec47ab2688f9de4287fc1f9aa7cf5
